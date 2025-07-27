@@ -1,7 +1,7 @@
 [//]: # (TODO: Grundüberarbeitung)
 # [Charaktername]
 
-![Charakterbild](../../assets/bilder/charaktere/beispiel.jpg){align=right width=150}
+![Charakterbild](beispiel.jpg){align=right width=150}
 
 ---
 
@@ -38,4 +38,4 @@ Welche Rolle spielt der Charakter in der Geschichte?
 
 ## Verbindungen zu anderen Charakteren
 
-- [Beispiel](../charaktere/beispiel.md)
+- [Beispiel](beispiel.md)
