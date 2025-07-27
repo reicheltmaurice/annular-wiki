@@ -9,6 +9,9 @@
 ## Hintergrund
 Tibun wächst in einem einfachen Dorf auf. Nach dem mysteriösen Verschwinden seiner Mutter Girlin durch einen aktivierten Portalring begibt er sich auf die Suche nach ihr.
 
+Weitere prägende Eindrücke sammelt Tibun am [Hafen](../orte/hafen.md), wo er viel über Technik und Handel erfährt.
+
+
 ## Eigenschaften
 - Neugierig und wissbegierig
 - Handwerklich geschickt
