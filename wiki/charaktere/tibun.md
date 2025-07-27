@@ -1,6 +1,6 @@
 # Tibun
 
-![Tibun](../../assets/bilder/charaktere/tibun.jpg){align=right width=150}
+![Tibun](../../assets/bilder/charaktere/tibun-erwachsen.jpeg){align=right width=150}
 
 ---
 
