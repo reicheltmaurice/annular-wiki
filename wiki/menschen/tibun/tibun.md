@@ -1,6 +1,6 @@
 # Tibun
 
-![Tibun](../../assets/bilder/charaktere/tibun-erwachsen.jpeg){align=right width=150}
+![Tibun](tibun-erwachsen.jpeg){align=right width=150}
 
 ---
 
@@ -12,7 +12,7 @@
 | **Alter**      | Ca. 14–16 Jahre   |
 | **Spezies**    | Mensch            |
 | **Herkunft**   | Dorf               |
-| **Familie**    | Mutter [Girlin](girlin.md), Schwester [Tara](../nebenfiguren.md#tara) |
+| **Familie**    | Mutter [Girlin](../girlin/girlin.md), Schwester [Tara](../nebenfiguren.md#tara) |
 
 ---
 
@@ -38,6 +38,6 @@ Tibun ist die zentrale Figur der Handlung und treibt die Entdeckung der Portalri
 
 ## Verbindungen zu anderen Charakteren
 
-- Mutter: [Girlin](girlin.md)  
+- Mutter: [Girlin](../girlin/girlin.md)  
 - Schwester: [Tara](../nebenfiguren.md#tara)  
-- Verbündete: [Bellbrim](bellbrim.md)
+- Verbündete: [Bellbrim](../bellbrim/bellbrim.md)
