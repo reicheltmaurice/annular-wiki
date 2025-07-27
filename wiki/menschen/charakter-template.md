@@ -1,3 +1,4 @@
+[//]: # (TODO: Grundüberarbeitung)
 # [Charaktername]
 
 ![Charakterbild](../../assets/bilder/charaktere/beispiel.jpg){align=right width=150}

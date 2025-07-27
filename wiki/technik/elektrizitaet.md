@@ -1,3 +1,4 @@
+[//]: # (TODO: Grundüberarbeitung)
 # Elektrizität
 
 Tibun entdeckt durch Beobachtung von Bernstein und Reibungselektrizität ein natürliches Phänomen, das später zur Aktivierung der Portalringe genutzt wird.

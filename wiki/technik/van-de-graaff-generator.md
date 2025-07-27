@@ -1,3 +1,4 @@
+[//]: # (TODO: Grundüberarbeitung)
 # Van-de-Graaff-Generator
 
 Ein Gerät, das Tibun entwickelt, um Elektrizität zu erzeugen und die Portalringe zu aktivieren.
