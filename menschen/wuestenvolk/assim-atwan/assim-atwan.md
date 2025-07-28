@@ -1,6 +1,6 @@
 # Assim Atwan
 
-![Assim Atwan](assim-atwan-basar.jpeg)
+![Assim Atwan](assim-atwan-stile-1.jpeg)
 
 ---
 
@@ -68,7 +68,7 @@
 
 ## Weitere Bilder
 
+![Assim Atwan](assim-atwan-basar.jpeg)
 ![Assim Atwan Karamane](assim-atwan-karawane.jpeg)
 ![Assim Atwan Portrait](assim-atwan-portrait.jpeg)
-![Assim Atwan Stile 1](assim-atwan-stile-1.jpeg)
 ![Assim Atwan Stile 2](assim-atwan-stile-2.jpeg)
