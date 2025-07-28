@@ -3,10 +3,10 @@
 
 * [Übersicht](README.md)
 * Menschen
-  * [Tibun](menschen/tibun/tibun.md)
-  * [Girlin](menschen/girlin/girlin.md)
+  * [Tibun](menschen/nordvolk/tibun/tibun.md)
+  * [Girlin](menschen/nordvolk/girlin/girlin.md)
   * [Bellbrim](menschen/bellbrim/bellbrim.md)
-  * [Assim Atwan](menschen/assim-atwan/assim-atwan.md)
+  * [Assim Atwan](menschen/wuestenvolk/assim-atwan/assim-atwan.md)
   * [Nebenfiguren](menschen/nebenfiguren.md)
 * Orte
   * [Bellbrims Schlucht](orte/bellbrims-schlucht.md)

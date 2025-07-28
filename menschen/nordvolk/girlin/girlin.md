@@ -20,4 +20,4 @@ Ihre Spur führt Tibun letztlich zu den Geheimnissen der Portalringe.
 
 ## Familie
 
-Girlin ist die Mutter von [Tibun](../tibun/tibun.md) und [Tara](../nebenfiguren.md#tara) und war mit [Semban](../nebenfiguren.md#semban) liiert. Nach ihrem Verschwinden übernimmt Semban die Verantwortung für die Kinder. Später spielt auch [Bellbrim](../bellbrim/bellbrim.md) eine Rolle in Girlins Geschichte, da sie mit ihr eng befreundet war.
+Girlin ist die Mutter von [Tibun](../tibun/tibun.md) und [Tara](../../nebenfiguren.md#tara) und war mit [Semban](../../nebenfiguren.md#semban) liiert. Nach ihrem Verschwinden übernimmt Semban die Verantwortung für die Kinder. Später spielt auch [Bellbrim](../../bellbrim/bellbrim.md) eine Rolle in Girlins Geschichte, da sie mit ihr eng befreundet war.

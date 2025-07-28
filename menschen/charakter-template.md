@@ -1,7 +1,7 @@
 [//]: # (TODO: Grundüberarbeitung)
 # [Charaktername]
 
-![Charakterbild](beispiel.jpg){align=right width=150}
+![Charakterbild](beispiel.jpg)
 
 ---
 
@@ -11,7 +11,6 @@
 | -------------- | ------------------- |
 | **Rolle**      |                     |
 | **Alter**      |                     |
-| **Spezies**    |                     |
 | **Herkunft**   |                     |
 | **Familie**    |                     |
 

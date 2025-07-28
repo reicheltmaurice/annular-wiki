@@ -5,7 +5,7 @@ Willkommen im Wiki zur Welt von **Annular**.
 Hier werden alle Charaktere, Orte, Technologien und Ereignisse dieser Geschichte dokumentiert.
 
 ## Navigation
-- [Charaktere](menschen/tibun/tibun.md)  
+- [Charaktere](menschen/nordvolk/tibun/tibun.md)  
 - [Orte](orte/bellbrims-schlucht.md)  
 - [Technik](technik/portalringe.md)  
 - [Zeitleiste](zeitleiste.md)
