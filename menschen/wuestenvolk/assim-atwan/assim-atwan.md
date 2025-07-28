@@ -1,18 +1,74 @@
-[//]: # (TODO: Grundüberarbeitung)
 # Assim Atwan
 
-**Rolle:** Antagonist  
-**Inspiration:** Optisch angelehnt an Oded Fehr  
+![Assim Atwan](assim-atwan-basar.jpeg)
 
 ---
 
-## Hintergrund
-Assim Atwan verfolgt eigene Ziele mit den Portalringen und steht Tibun und Bellbrim im Weg. Seine genauen Beweggründe bleiben lange im Dunkeln.
+## Allgemeine Informationen
 
-## Eigenschaften
-- Charismatisch und manipulativ
-- Strategisch denkend
-- Skrupellos in seinen Methoden
+<table>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Allgemein</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Rolle</strong></td>
+      <td>Antagonist</td>
+    </tr>
+    <tr>
+      <td><strong>Alter</strong></td>
+      <td>(Alter eintragen)</td>
+    </tr>
+    <tr>
+      <td><strong>Herkunft</strong></td>
+      <td>(Herkunft eintragen)</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Familie</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">(Familieninformationen eintragen)</td>
+    </tr>
+  </tbody>
+</table>
 
-## Bedeutung
-Hauptantagonist der Geschichte, treibende Kraft hinter vielen Konflikten.
+---
+
+## Frühes Leben
+
+(Beschreibung eintragen)
+
+---
+
+## Besondere Fähigkeiten
+
+- (Fähigkeit eintragen)
+
+---
+
+## Bedeutung in der Geschichte
+
+(Bedeutung eintragen)
+
+---
+
+## Verbindungen zu anderen Charakteren
+
+- Gegenspieler von [Girlin](../../nordvolk/girlin/girlin.md) und [Tibun](../../nordvolk/tibun/tibun.md)
+
+---
+
+## Inspiration
+
+- Schauspieler [Ray Stevenson](https://www.imdb.com/name/nm0829032/mediaviewer/rm3632872960/?ref_=nmmi_mi_13)
+- Blackbeard aus "Black Sails"
+- Blackbeard aus "Assassin's Creed IV: Black Flag"
+
+---
+
+## Weitere Bilder
+
+![Assim Atwan Karamane](assim-atwan-karawane.jpeg)
+![Assim Atwan Portrait](assim-atwan-portrait.jpeg)
+![Assim Atwan Stile 1](assim-atwan-stile-1.jpeg)
+![Assim Atwan Stile 2](assim-atwan-stile-2.jpeg)

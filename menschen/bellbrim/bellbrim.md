@@ -1,19 +1,69 @@
-[//]: # (TODO: Grundüberarbeitung)
 # Bellbrim
 
-**Rolle:** Wissenschaftlerin / Erfinderin  
-**Alter:** Unbekannt (mittleres Alter)  
-**Spitzname:** Brim  
+![Bellbrim](bellbrim.jpeg)
 
 ---
 
-## Hintergrund
-Bellbrim lebt zurückgezogen in einer abgelegenen Felsschlucht. Sie ist fasziniert von den Portalringen und forscht seit Jahren daran. Sie wird zu einer wichtigen Verbündeten von Tibun.
+## Allgemeine Informationen
 
-## Eigenschaften
-- Exzentrisch und genial
-- Wissensdurstig, manchmal ungeduldig
-- Besitzt viele improvisierte Maschinen und Experimente
+<table>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Allgemein</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Rolle</strong></td>
+      <td>Wissenschaftlerin / Verbündete von Girlin</td>
+    </tr>
+    <tr>
+      <td><strong>Alter</strong></td>
+      <td>(Alter eintragen)</td>
+    </tr>
+    <tr>
+      <td><strong>Herkunft</strong></td>
+      <td>(Herkunft eintragen)</td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Familie</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">(Familieninformationen eintragen)</td>
+    </tr>
+  </tbody>
+</table>
 
-## Bedeutung
-Bellbrim unterstützt Tibun bei der Entschlüsselung der Technologie der Portalringe.
+---
+
+## Frühes Leben
+
+(Beschreibung eintragen)
+
+---
+
+## Besondere Fähigkeiten
+
+- (Fähigkeit eintragen)
+
+---
+
+## Bedeutung in der Geschichte
+
+(Bedeutung eintragen)
+
+---
+
+## Verbindungen zu anderen Charakteren
+
+- Freundin: [Girlin](../nordvolk/girlin/girlin.md)
+
+---
+
+## Inspiration
+
+- Professor Trelawney aus "Harry Potter und der Gefangene von Askaban" (Film)
+
+---
+
+## Weitere Bilder
+
+![Bellbrim](bellbrim-zusatz.jpeg)
