@@ -1,4 +1,3 @@
-[//]: # (TODO: Grundüberarbeitung)
 # Tibun
 
 ![Tibun](tibun-erwachsen.jpeg)
