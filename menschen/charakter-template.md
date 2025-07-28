@@ -1,4 +1,3 @@
-[//]: # (TODO: Grundüberarbeitung)
 # [Charaktername]
 
 ![Charakterbild](beispiel.jpg)
@@ -7,12 +6,32 @@
 
 ## Allgemeine Informationen
 
-| Attribut       | Wert                |
-| -------------- | ------------------- |
-| **Rolle**      |                     |
-| **Alter**      |                     |
-| **Herkunft**   |                     |
-| **Familie**    |                     |
+<table>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Allgemein</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Rolle</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Alter</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Herkunft</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Familie</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Mutter</strong></td>
+      <td><a href="beispiel.md">Beispiel</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -26,6 +45,7 @@ Kurzer Überblick über Kindheit, Familie und Herkunft.
 
 - Fähigkeit 1
 - Fähigkeit 2
+- ...
 
 ---
 
@@ -38,3 +58,16 @@ Welche Rolle spielt der Charakter in der Geschichte?
 ## Verbindungen zu anderen Charakteren
 
 - [Beispiel](beispiel.md)
+- ...
+
+---
+
+## Inspiration
+
+- Schauspieler: [Name](https://example.com)
+
+---
+
+## Weitere Bilder
+
+![Beispiel](beispiel.jpg)

@@ -7,13 +7,40 @@
 
 ## Allgemeine Informationen
 
-| Attribut       | Wert              |
-| -------------- | ----------------- |
-| **Rolle**      | Protagonist       |
-| **Alter**      | Ca. 14–16 Jahre   |
-| **Spezies**    | Mensch            |
-| **Herkunft**   | Dorf               |
-| **Familie**    | Mutter [Girlin](../girlin/girlin.md), Schwester [Tara](../../nebenfiguren.md#tara) |
+<table>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Allgemein</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Rolle</strong></td>
+      <td>Protagonist</td>
+    </tr>
+    <tr>
+      <td><strong>Alter</strong></td>
+      <td>15 Jahre / 25 Jahre</td>
+    </tr>
+    <tr>
+      <td><strong>Herkunft</strong></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Familie</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Mutter</strong></td>
+      <td><a href="../girlin/girlin.md">Girlin</a></td>
+    </tr>
+    <tr>
+      <td><strong>Vater</strong></td>
+      <td><a href="../../nebenfiguren.md#semban">Semban</a></td>
+    </tr>
+    <tr>
+      <td><strong>Schwester</strong></td>
+      <td><a href="../../nebenfiguren.md#tara">Tara</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -26,7 +53,6 @@ Tibun wächst in einem einfachen Dorf auf. Nach dem mysteriösen Verschwinden se
 ## Besondere Fähigkeiten
 
 - Neugierig und wissbegierig
-- Handwerklich geschickt
 - Entdeckt durch Zufall die Eigenschaften von Elektrizität
 
 ---
@@ -40,5 +66,18 @@ Tibun ist die zentrale Figur der Handlung und treibt die Entdeckung der Portalri
 ## Verbindungen zu anderen Charakteren
 
 - Mutter: [Girlin](../girlin/girlin.md)  
-- Schwester: [Tara](../../nebenfiguren.md#tara)  
+- Vater: [Semban](../../nebenfiguren.md#semban)
+- Schwester: [Tara](../../nebenfiguren.md#tara)
 - Verbündete: [Bellbrim](../../bellbrim/bellbrim.md)
+
+---
+
+## Inspiration
+
+- Schauspieler: [Name](https://example.com)
+
+---
+
+## Weitere Bilder
+
+![Tibun](tibun-jung.jpeg)
