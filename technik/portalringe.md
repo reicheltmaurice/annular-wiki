@@ -23,6 +23,8 @@ Wie eine Münze, die sehr schnell die flippt.
 
 ## Technische Details
 
+- [Volumenberechnung](https://rechneronline.de/pi/hohlzylinder.php)
+
 <table>
   <caption>Maße und Volumen - Referenzring</caption>
   <tbody>
@@ -43,17 +45,18 @@ Wie eine Münze, die sehr schnell die flippt.
       <td>0,5 cm</td>
     </tr>
     <tr>
-      <td>Volumen</td>
-      <td>???</td>
+      <td>Volumen in m³</td>
+      <td>1,083 × 10⁻⁷ m³</td>
     </tr>
     <tr>
       <td>Volumen in cm³</td>
-      <td>???</td>
+      <td>0,1083</td>
     </tr>
   </tbody>
 </table>
 
 [//]: # (TODO: Mathematische Formeln prüfen und Details neu ausrechnen)
+
 <table>
   <caption>Maße und Volumen (Beispiel)</caption>
   <tbody>
@@ -113,7 +116,7 @@ Wie eine Münze, die sehr schnell die flippt.
     </tr>
     <tr>
       <td>AZ31</td>
-      <td>???</td>
+      <td>1,77</td>
       <td>???</td>
       <td>???</td>
     </tr>
@@ -146,6 +149,99 @@ Wie eine Münze, die sehr schnell die flippt.
       <td>8,0</td>
       <td>60.800</td>
       <td>60,8 t</td>
+    </tr>
+  </tbody>
+</table>
+
+## Formeln und Berechnungen
+
+r = Kleiner Radius (Querschnitts- oder Rohradius)
+a = Ellipsenachse a (Halbachse)
+b = Ellipsenachse b (Halbachse)
+R = Großer Radius (Hauptradius / Mittelpunktsradius)  
+A = Flächeninhalt  
+V = Volumen  
+
+###### [Kreis](https://rechneronline.de/pi/kreis-rechner.php)
+
+r = Kleiner Radius (Querschnitts- oder Rohradius)
+
+Flächeninhalt: π · r²
+
+###### [Kreistorus](https://rechneronline.de/pi/torus.php)
+
+R = Großer Radius (Hauptradius / Mittelpunktsradius)  
+A = Flächeninhalt  
+
+Volumen: 2 · π · R · A
+
+###### [Ellipse](https://rechneronline.de/pi/ellipse.php)
+
+a = Ellipsenachse a (Halbachse)
+b = Ellipsenachse b (Halbachse)
+
+Flächeninhalt: π · a · b
+
+###### [Ellipsentorus](https://www.wolframalpha.com/input/?i=elliptic+torus)
+
+R = Großer Radius (Hauptradius / Mittelpunktsradius)
+A = Flächeninhalt  
+
+Volumen: 2 · π · R · A
+
+###### [Stadion](https://rechneronline.de/pi/stadion.php) 
+
+r = Radius des Kreises
+a = Länge des Rechtecks
+
+Flächeninhalt: r · (π · r + 2 · a)
+
+###### [Stadiontorus]()
+
+Volumen: 2 · π · R · A
+Volumen: 2 · π² · R · r² + 4 · π · R · a · r 
+
+
+---
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Innendurchmesser</th>
+      <th>Volumen (cm³)</th>
+      <th>Volumen (m³)</th>
+      <th>Gewicht (g)</th>
+      <th>Gewicht (kg)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0.30 m</td>
+      <td>365.512</td>
+      <td>0.000366</td>
+      <td>646.957</td>
+      <td>0.647</td>
+    </tr>
+    <tr>
+      <td>1.00 m</td>
+      <td>13537.500</td>
+      <td>0.013537</td>
+      <td>23961.375</td>
+      <td>23.961</td>
+    </tr>
+    <tr>
+      <td>2.00 m</td>
+      <td>108300.000</td>
+      <td>0.108300</td>
+      <td>191691.000</td>
+      <td>191.691</td>
+    </tr>
+    <tr>
+      <td>3.00 m</td>
+      <td>365512.500</td>
+      <td>0.365513</td>
+      <td>646957.125</td>
+      <td>646.957</td>
     </tr>
   </tbody>
 </table>
