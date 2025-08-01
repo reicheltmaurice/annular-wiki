@@ -4,5 +4,5 @@ Das Nordvolk lebt im rauen Küstenklima und bildet die kulturelle Grundlage für
 
 ## Charaktere
 
-- [Assim Atwan](assim-atwan/assim-atwan.md)
-- [Nebenfiguren des Wüstenvolks](../../menschen/nebenfiguren.md)
+- [Assim Atwan](assim-atwan.md)
+- [Nebenfiguren](nebenfiguren.md)

@@ -1,4 +1,4 @@
-# Assim Atwan
+# Bellbrim
 
 ---
 
@@ -11,7 +11,7 @@
     </tr>
     <tr>
       <td><strong>Rolle</strong></td>
-      <td>Antagonist</td>
+      <td>Wissenschaftlerin / Verbündete von Girlin</td>
     </tr>
     <tr>
       <td><strong>Alter</strong></td>
@@ -52,12 +52,10 @@
 
 ## Verbindungen zu anderen Charakteren
 
-- Gegenspieler von [Girlin](../../nordvolk/girlin/girlin.md) und [Tibun](../../nordvolk/tibun/tibun.md)
+- Freundin: [Girlin](../nordvolk/girlin.md)
 
 ---
 
 ## Inspiration
 
-- Schauspieler [Ray Stevenson](https://www.imdb.com/name/nm0829032/mediaviewer/rm3632872960/?ref_=nmmi_mi_13)
-- Blackbeard aus "Black Sails"
-- Blackbeard aus "Assassin's Creed IV: Black Flag"
+- Professor Trelawney aus "Harry Potter und der Gefangene von Askaban" (Film)

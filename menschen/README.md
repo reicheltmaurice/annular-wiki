@@ -4,13 +4,13 @@
 
 ## Völker
 
-- [Nordvolk](nordvolk/README.md)
+- [Menschen des Nordvolks](nordvolk/README.md)
 - [Sahrin (Wüstennomaden)](wuestenvolk/README.md)
+- [Andere](andere/README.md)
 
 ## Wichtige Charaktere
 
-- [Tibun](nordvolk/tibun/tibun.md)
-- [Girlin](nordvolk/girlin/girlin.md)
-- [Assim Atwan](wuestenvolk/assim-atwan/assim-atwan.md)
-- [Bellbrim](bellbrim/bellbrim.md)
-- [Nebenfiguren](nebenfiguren.md)
+- [Tibun](nordvolk/tibun.md)
+- [Girlin](nordvolk/girlin.md)
+- [Assim Atwan](wuestenvolk/assim-atwan.md)
+- [Bellbrim](andere/bellbrim.md)

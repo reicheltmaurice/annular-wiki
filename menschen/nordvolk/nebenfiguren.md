@@ -1,4 +1,3 @@
-[//]: # (TODO: Grundüberarbeitung)
 # Nebenfiguren
 
 ## Tara

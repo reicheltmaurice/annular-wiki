@@ -26,15 +26,15 @@
     </tr>
     <tr>
       <td><strong>Sohn</strong></td>
-      <td><a href="../tibun/tibun.md">Tibun</a></td>
+      <td><a href="tibun.md">Tibun</a></td>
     </tr>
     <tr>
       <td><strong>Tochter</strong></td>
-      <td><a href="../../nebenfiguren.md#tara">Tara</a></td>
+      <td><a href="../nebenfiguren.md#tara">Tara</a></td>
     </tr>
     <tr>
       <td><strong>Ehemann</strong></td>
-      <td><a href="../../nebenfiguren.md#semban">Semban</a></td>
+      <td><a href="../nebenfiguren.md#semban">Semban</a></td>
     </tr>
   </tbody>
 </table>
@@ -61,10 +61,10 @@
 
 ## Verbindungen zu anderen Charakteren
 
-- Sohn: [Tibun](../tibun/tibun.md)
-- Tochter: [Tara](../../nebenfiguren.md#tara)
-- Ehemann: [Semban](../../nebenfiguren.md#semban)
-- Freundin: [Bellbrim](../../bellbrim/bellbrim.md)
+- Sohn: [Tibun](tibun.md)
+- Tochter: [Tara](../nebenfiguren.md#tara)
+- Ehemann: [Semban](../nebenfiguren.md#semban)
+- Freundin: [Bellbrim](../andere/bellbrim.md)
 
 ---
 

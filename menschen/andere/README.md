@@ -4,5 +4,5 @@ Das Nordvolk lebt im rauen Küstenklima und bildet die kulturelle Grundlage für
 
 ## Charaktere
 
-- [Tibun](tibun.md)
+- [Bellbrim](bellbrim.md)
 - [Nebenfiguren](nebenfiguren.md)
