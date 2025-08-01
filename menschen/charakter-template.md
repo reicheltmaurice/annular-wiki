@@ -1,7 +1,5 @@
 # [Charaktername]
 
-![Charakterbild](beispiel.jpg)
-
 ---
 
 ## Allgemeine Informationen
@@ -65,9 +63,3 @@ Welche Rolle spielt der Charakter in der Geschichte?
 ## Inspiration
 
 - Schauspieler: [Name](https://example.com)
-
----
-
-## Weitere Bilder
-
-![Beispiel](beispiel.jpg)

@@ -1,7 +1,5 @@
 # Tibun
 
-![Tibun](tibun-erwachsen.jpeg)
-
 ---
 
 ## Allgemeine Informationen
@@ -74,9 +72,3 @@ Tibun ist die zentrale Figur der Handlung und treibt die Entdeckung der Portalri
 ## Inspiration
 
 - Schauspieler: [Name](https://example.com)
-
----
-
-## Weitere Bilder
-
-![Tibun](tibun-jung.jpeg)

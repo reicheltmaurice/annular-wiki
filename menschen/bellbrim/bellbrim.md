@@ -1,7 +1,5 @@
 # Bellbrim
 
-![Bellbrim](bellbrim.jpeg)
-
 ---
 
 ## Allgemeine Informationen
@@ -61,9 +59,3 @@
 ## Inspiration
 
 - Professor Trelawney aus "Harry Potter und der Gefangene von Askaban" (Film)
-
----
-
-## Weitere Bilder
-
-![Bellbrim](bellbrim-zusatz.jpeg)

@@ -1,7 +1,5 @@
 # Assim Atwan
 
-![Assim Atwan](assim-atwan-stile-1.jpeg)
-
 ---
 
 ## Allgemeine Informationen
@@ -63,12 +61,3 @@
 - Schauspieler [Ray Stevenson](https://www.imdb.com/name/nm0829032/mediaviewer/rm3632872960/?ref_=nmmi_mi_13)
 - Blackbeard aus "Black Sails"
 - Blackbeard aus "Assassin's Creed IV: Black Flag"
-
----
-
-## Weitere Bilder
-
-![Assim Atwan](assim-atwan-basar.jpeg)
-![Assim Atwan Karamane](assim-atwan-karawane.jpeg)
-![Assim Atwan Portrait](assim-atwan-portrait.jpeg)
-![Assim Atwan Stile 2](assim-atwan-stile-2.jpeg)

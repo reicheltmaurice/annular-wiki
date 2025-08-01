@@ -1,7 +1,5 @@
 # Girlin
 
-![Girlin](girlin.jpeg)
-
 ---
 
 ## Allgemeine Informationen
@@ -73,9 +71,3 @@
 ## Inspiration
 
 (Schauspieler oder Vorbild eintragen)
-
----
-
-## Weitere Bilder
-
-![Girlin](girlin-zusatz.jpeg)
