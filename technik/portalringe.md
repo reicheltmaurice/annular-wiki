@@ -1,70 +1,121 @@
-[//]: # (TODO: Grundüberarbeitung)
 # Portalringe
 
-**Material:** Magnesium-Aluminium-Legierung AZ31  
-**Gewicht (großer Ring):** ca. 6,47 Tonnen  
-**Durchmesser (großer Ring):** 3,00 m innen, 3,90 m außen  
-**Breite:** 0,75 m  
+**Material**: ..................................... Magnesium-Aluminium-Legierung (AZ31)  
+**Durchmesser (großer Ring)**: .... 3,00 m innen  
+**Gewicht (großer Ring)**: ............. ca. ???  
+**Breite**: ......................................... ???  
 
 ---
 
 ## Beschreibung
-Die Portalringe sehen aus wie riesige Fingerringe mit grün leuchtenden Runen an der Außenseite. Bei Aktivierung rotieren sie 180° um die horizontale Achse, bleiben aber ortsfest.
+Die Portalringe sehen aus wie riesige Fingerringe mit grün leuchtenden Runen an der Außenseite.
+Bei Aktivierung rotieren sie 180° um die horizontale Achse, bleiben aber ortsfest.
+Wie eine Münze, die sehr schnell die flippt.
 
 ---
 
 ## Funktionsweise
 - Verbindet immer genau zwei identische Ringe (Adresse durch Runenbeschriftung)  
-- Aktivierung durch unbekannte Energie (später Elektrizität)  
-- Runen leuchten intensiv grün während des Teleports
-
----
-
-## Relevanz
-Das Verschwinden von Girlin wird durch einen Blitzschlag ausgelöst, der einen Ring aktiviert.
+- Aktivierung durch unbekannte elektrische Energie  
+- Runen leuchten intensiv grün während des Teleports und verblassen danach recht schnell
 
 ---
 
 ## Technische Details
 
 <table>
-  <caption><strong>Maße und Volumen</strong></caption>
+  <caption>Maße und Volumen - Referenzring</caption>
+  <tbody>
+    <tr>
+      <td>Innen-Ø (ID)</td>
+      <td>2,00 cm</td>
+    </tr>
+    <tr>
+      <td>Außen-Ø (AD)</td>
+      <td>2,6 cm</td>
+    </tr>
+    <tr>
+      <td>Ringdicke ((AD – ID) / 2)</td>
+      <td>0,3 cm</td>
+    </tr>
+    <tr>
+      <td>Ringbreite (Höhe)</td>
+      <td>0,5 cm</td>
+    </tr>
+    <tr>
+      <td>Volumen</td>
+      <td>???</td>
+    </tr>
+    <tr>
+      <td>Volumen in cm³</td>
+      <td>???</td>
+    </tr>
+  </tbody>
+</table>
+
+[//]: # (TODO: Mathematische Formeln prüfen und Details neu ausrechnen)
+<table>
+  <caption>Maße und Volumen (Beispiel)</caption>
   <tbody>
     <tr>
       <td>Innen-Ø (ID)</td>
       <td>3,00 m</td>
+      <td>2,00 m</td>
+      <td>1,00 m</td>
+      <td>0,30 m</td>
     </tr>
     <tr>
       <td>Außen-Ø (AD)</td>
       <td>3,18 m</td>
+      <td>???</td>
+      <td>???</td>
+      <td>???</td>
     </tr>
     <tr>
-      <td>Ringdicke (AD – ID)</td>
-      <td>0,18 m</td>
+      <td>Ringdicke ((AD – ID) / 2)</td>
+      <td>0,09 m</td>
+      <td>???</td>
+      <td>???</td>
+      <td>???</td>
     </tr>
     <tr>
       <td>Ringbreite (Höhe)</td>
       <td>0,75 m</td>
+      <td>???</td>
+      <td>???</td>
+      <td>???</td>
     </tr>
     <tr>
       <td>Volumen</td>
       <td>7,6 m³</td>
+      <td>???</td>
+      <td>???</td>
+      <td>???</td>
     </tr>
     <tr>
       <td>Volumen in cm³</td>
       <td>7.600.000 cm³</td>
+      <td>???</td>
+      <td>???</td>
+      <td>???</td>
     </tr>
   </tbody>
 </table>
 
 <table>
-  <caption><strong>Gewichte nach Material</strong></caption>
+  <caption>Gewichte nach Material (3 Meter Ring)</caption>
   <tbody>
     <tr>
       <td>Material</td>
       <td>Dichte (g/cm³)</td>
       <td>Gewicht (kg)</td>
       <td>Gewicht (Tonnen)</td>
+    </tr>
+    <tr>
+      <td>AZ31</td>
+      <td>???</td>
+      <td>???</td>
+      <td>???</td>
     </tr>
     <tr>
       <td>Kupfer</td>

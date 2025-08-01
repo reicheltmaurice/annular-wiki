@@ -11,7 +11,6 @@
     * [Bellbrim](menschen/andere/bellbrim.md)
 * Orte
   * [Bellbrims Werkstatt](orte/bellbrims-werkstatt.md)
-  * [Portalstandorte](orte/portalstandorte.md)
   * [Dorf](orte/dorf.md)
 * Technik
   * [Portalringe](technik/portalringe.md)
