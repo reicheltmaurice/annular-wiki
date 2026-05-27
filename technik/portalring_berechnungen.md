@@ -1,93 +1,87 @@
 # Größenberechnungen für Portalringe
 
-Dies ist eine Übersicht über die skalierten Größen der Portalringe basierend auf dem Referenzring (2 cm Innendurchmesser).
+Skaliert von Referenzring. Formreferenz: Der Eine Ring, Peter Jacksons *Herr der Ringe* (Jens Hansen, 18kt Gold, US Größe 11).
+
+## Referenzring
+
+| Maß | Referenz | One Ring (Filmrequisite) |
+|---|---|---|
+| Innen-Ø | 20,0 mm | 20,6 mm (US Gr. 11) |
+| Außen-Ø | 25,4 mm | ~26,0 mm |
+| Wandstärke | 2,7 mm | 2,7 mm |
+| Breite (axial) | 7,0 mm | 7,0 mm |
+| Volumen | 1,3478 cm³ | ~1,38 cm³ |
+
+Quellen: [Jens Hansen FAQ](https://www.jenshansen.com/pages/which-one-ring-to-choose) · [HeroProp Prototype](https://heroprop.com/product/the-lord-of-the-rings-the-one-ring-wide-production-prototype/)
+
+---
+
+## Skalierte Portalringe (AZ31 als Gewichtsreferenz, ρ = 1,77 g/cm³)
 
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
-      <th>Innendurchmesser</th>
-      <th>Außendurchmesser (m)</th>
-      <th>Dicke radial (m)</th>
-      <th>Breite axial (m)</th>
+      <th>Innen-Ø</th>
+      <th>Außen-Ø</th>
+      <th>Wandstärke</th>
+      <th>Breite axial</th>
       <th>Volumen (cm³)</th>
       <th>Volumen (m³)</th>
-      <th>Gewicht (g)</th>
       <th>Gewicht (kg)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>0,30 m</td>
-      <td>0,39</td>
-      <td>0,045</td>
-      <td>0,075</td>
-      <td>365,512</td>
-      <td>0,000366</td>
-      <td>646,957</td>
-      <td>0,647</td>
+      <td>0,381 m</td>
+      <td>0,0405 m</td>
+      <td>0,105 m</td>
+      <td>4.549,0</td>
+      <td>0,004549</td>
+      <td>8,052</td>
     </tr>
     <tr>
       <td>1,00 m</td>
-      <td>1,30</td>
-      <td>0,150</td>
-      <td>0,250</td>
-      <td>13537,5</td>
-      <td>0,013537</td>
-      <td>23961,375</td>
-      <td>23,961</td>
+      <td>1,270 m</td>
+      <td>0,1350 m</td>
+      <td>0,350 m</td>
+      <td>168.479,7</td>
+      <td>0,168480</td>
+      <td>298,209</td>
     </tr>
     <tr>
       <td>2,00 m</td>
-      <td>2,60</td>
-      <td>0,300</td>
-      <td>0,500</td>
-      <td>108300,0</td>
-      <td>0,108300</td>
-      <td>191691,0</td>
-      <td>191,691</td>
+      <td>2,540 m</td>
+      <td>0,2700 m</td>
+      <td>0,700 m</td>
+      <td>1.347.837,5</td>
+      <td>1,347838</td>
+      <td>2.385,672</td>
     </tr>
     <tr>
       <td>3,00 m</td>
-      <td>3,90</td>
-      <td>0,450</td>
-      <td>0,750</td>
-      <td>365512,5</td>
-      <td>0,365513</td>
-      <td>646957,125</td>
-      <td>646,957</td>
+      <td>3,810 m</td>
+      <td>0,4050 m</td>
+      <td>1,050 m</td>
+      <td>4.548.951,5</td>
+      <td>4,548952</td>
+      <td>8.051,644</td>
     </tr>
   </tbody>
 </table>
 
+---
 
-## Rechenwege
+## Formel
 
-### 1. Skalierungsfaktor
-\[
-F = \frac{D_\text{neu}}{D_\text{ref}}
-\]
+**Hohlzylinder** (verwendete Formel):
 
-### 2. Volumen
-\[
-V_\text{neu} = V_\text{ref} \cdot F^3
-\]
+```
+V = π × h × (R_außen² − R_innen²)
+```
 
-### 3. Gewicht
-\[
-m_\text{neu} = V_\text{neu} \cdot \rho
-\]
-
-mit \(\rho = 1,77\,\text{g/cm}^3\).
-
-### 4. Stadion-Fläche
-
-Fläche eines Stadions:
-\[
-A = r \cdot (\pi \cdot r + 2 \cdot a)
-\]
-
-Volumen des Stadion-Torus:
-\[
-V = 2 \pi R \cdot A
-\]
-
+**Skalierung:**
+```
+F = D_neu / D_ref  (D_ref = 20 mm)
+Alle Dimensionen × F, Volumen × F³
+```

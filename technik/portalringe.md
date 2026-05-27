@@ -1,9 +1,12 @@
 # Portalringe
 
-**Material**: ..................................... Magnesium-Aluminium-Legierung (AZ31)  
+**Material**: ..................................... unbekannt/mystisch (AZ31 nur als Berechnungsreferenz)  
 **Durchmesser (großer Ring)**: .... 3,00 m innen  
-**Gewicht (großer Ring)**: ............. ca. ???  
-**Breite**: ......................................... ???  
+**Gewicht (großer Ring)**: ............. ca. 8.050 kg (≈ 8 Tonnen)  
+**Breite (axial)**: ............................. 1,05 m  
+**Wandstärke**: ................................ 0,405 m  
+
+**Formreferenz**: Der Eine Ring aus Peter Jacksons *Herr der Ringe* (Jens Hansen, 18kt Gold, US Größe 11)  
 
 ---
 
@@ -26,39 +29,44 @@ Wie eine Münze, die sehr schnell die flippt.
 - [Volumenberechnung](https://rechneronline.de/pi/hohlzylinder.php)
 
 <table>
-  <caption>Maße und Volumen - Referenzring</caption>
+  <caption>Maße und Volumen - Referenzring (entspricht One Ring, Jens Hansen, US Größe 11)</caption>
   <tbody>
     <tr>
       <td>Innen-Ø (ID)</td>
       <td>2,00 cm</td>
+      <td><em>One Ring: 2,06 cm (US Gr. 11)</em></td>
     </tr>
     <tr>
       <td>Außen-Ø (AD)</td>
-      <td>2,6 cm</td>
+      <td>2,54 cm</td>
+      <td><em>One Ring: ~2,60 cm</em></td>
     </tr>
     <tr>
       <td>Ringdicke ((AD – ID) / 2)</td>
-      <td>0,3 cm</td>
+      <td>0,27 cm</td>
+      <td><em>One Ring: 0,27 cm</em></td>
     </tr>
     <tr>
       <td>Ringbreite (Höhe)</td>
-      <td>0,5 cm</td>
+      <td>0,70 cm</td>
+      <td><em>One Ring: 0,70 cm</em></td>
     </tr>
     <tr>
       <td>Volumen in m³</td>
-      <td>1,083 × 10⁻⁷ m³</td>
+      <td>1,3478 × 10⁻⁶ m³</td>
+      <td></td>
     </tr>
     <tr>
       <td>Volumen in cm³</td>
-      <td>0,1083</td>
+      <td>1,3478</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
-[//]: # (TODO: Mathematische Formeln prüfen und Details neu ausrechnen)
 
 <table>
-  <caption>Maße und Volumen (Beispiel)</caption>
+  <caption>Maße und Volumen (proportional skaliert von Referenzring)</caption>
   <tbody>
     <tr>
       <td>Innen-Ø (ID)</td>
@@ -69,44 +77,44 @@ Wie eine Münze, die sehr schnell die flippt.
     </tr>
     <tr>
       <td>Außen-Ø (AD)</td>
-      <td>3,18 m</td>
-      <td>???</td>
-      <td>???</td>
-      <td>???</td>
+      <td>3,81 m</td>
+      <td>2,54 m</td>
+      <td>1,27 m</td>
+      <td>0,381 m</td>
     </tr>
     <tr>
       <td>Ringdicke ((AD – ID) / 2)</td>
-      <td>0,09 m</td>
-      <td>???</td>
-      <td>???</td>
-      <td>???</td>
+      <td>0,405 m</td>
+      <td>0,270 m</td>
+      <td>0,135 m</td>
+      <td>0,0405 m</td>
     </tr>
     <tr>
-      <td>Ringbreite (Höhe)</td>
-      <td>0,75 m</td>
-      <td>???</td>
-      <td>???</td>
-      <td>???</td>
+      <td>Ringbreite (axial)</td>
+      <td>1,050 m</td>
+      <td>0,700 m</td>
+      <td>0,350 m</td>
+      <td>0,105 m</td>
     </tr>
     <tr>
-      <td>Volumen</td>
-      <td>7,6 m³</td>
-      <td>???</td>
-      <td>???</td>
-      <td>???</td>
+      <td>Volumen (m³)</td>
+      <td>4,549 m³</td>
+      <td>1,348 m³</td>
+      <td>0,168 m³</td>
+      <td>0,00455 m³</td>
     </tr>
     <tr>
-      <td>Volumen in cm³</td>
-      <td>7.600.000 cm³</td>
-      <td>???</td>
-      <td>???</td>
-      <td>???</td>
+      <td>Volumen (cm³)</td>
+      <td>4.548.952</td>
+      <td>1.347.838</td>
+      <td>168.480</td>
+      <td>4.549</td>
     </tr>
   </tbody>
 </table>
 
 <table>
-  <caption>Gewichte nach Material (3 Meter Ring)</caption>
+  <caption>Gewichte nach Material (3 Meter Ring, V = 4.548.952 cm³)</caption>
   <tbody>
     <tr>
       <td>Material</td>
@@ -115,40 +123,40 @@ Wie eine Münze, die sehr schnell die flippt.
       <td>Gewicht (Tonnen)</td>
     </tr>
     <tr>
-      <td>AZ31</td>
+      <td>AZ31 (Berechnungsreferenz)</td>
       <td>1,77</td>
-      <td>???</td>
-      <td>???</td>
+      <td>8.051,6</td>
+      <td>8,05 t</td>
     </tr>
     <tr>
       <td>Kupfer</td>
       <td>8,9</td>
-      <td>67.640</td>
-      <td>67,6 t</td>
+      <td>40.485,7</td>
+      <td>40,5 t</td>
     </tr>
     <tr>
       <td>Aluminium</td>
       <td>2,7</td>
-      <td>20.520</td>
-      <td>20,5 t</td>
+      <td>12.282,2</td>
+      <td>12,3 t</td>
     </tr>
     <tr>
       <td>Eisen</td>
       <td>7,9</td>
-      <td>60.040</td>
-      <td>60,0 t</td>
+      <td>35.936,7</td>
+      <td>35,9 t</td>
     </tr>
     <tr>
       <td>Stahl</td>
       <td>7,8</td>
-      <td>59.280</td>
-      <td>59,3 t</td>
+      <td>35.481,8</td>
+      <td>35,5 t</td>
     </tr>
     <tr>
       <td>Edelstahl</td>
       <td>8,0</td>
-      <td>60.800</td>
-      <td>60,8 t</td>
+      <td>36.391,6</td>
+      <td>36,4 t</td>
     </tr>
   </tbody>
 </table>
@@ -217,31 +225,31 @@ Volumen: 2 · π² · R · r² + 4 · π · R · a · r
   <tbody>
     <tr>
       <td>0.30 m</td>
-      <td>365.512</td>
-      <td>0.000366</td>
-      <td>646.957</td>
-      <td>0.647</td>
+      <td>4.549,0</td>
+      <td>0,004549</td>
+      <td>8.051,7</td>
+      <td>8,052</td>
     </tr>
     <tr>
       <td>1.00 m</td>
-      <td>13537.500</td>
-      <td>0.013537</td>
-      <td>23961.375</td>
-      <td>23.961</td>
+      <td>168.479,7</td>
+      <td>0,168480</td>
+      <td>298.209,1</td>
+      <td>298,209</td>
     </tr>
     <tr>
       <td>2.00 m</td>
-      <td>108300.000</td>
-      <td>0.108300</td>
-      <td>191691.000</td>
-      <td>191.691</td>
+      <td>1.347.837,5</td>
+      <td>1,347838</td>
+      <td>2.385.672,4</td>
+      <td>2.385,672</td>
     </tr>
     <tr>
       <td>3.00 m</td>
-      <td>365512.500</td>
-      <td>0.365513</td>
-      <td>646957.125</td>
-      <td>646.957</td>
+      <td>4.548.951,5</td>
+      <td>4,548952</td>
+      <td>8.051.644,2</td>
+      <td>8.051,644</td>
     </tr>
   </tbody>
 </table>
