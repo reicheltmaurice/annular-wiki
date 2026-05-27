@@ -30,6 +30,12 @@ Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in 
 - Elektrizität: ausschließlich durch Reibung/Bernstein und was in der Epoche möglich war
 - Tibun baut seine Erfindungen als Erwachsener (~25+), nicht als Kind
 
+## Wiki-Pflege
+Bei jeder neuen Datei:
+1. In `SUMMARY.md` eintragen (GitBook-Navigation)
+2. Interne Links mit korrekten relativen Pfaden anlegen
+3. Aus bestehenden Dateien verlinken wo sinnvoll
+
 ## Verbote
 - Kein Deus ex Machina
 - Keine Erklär-Dialoge

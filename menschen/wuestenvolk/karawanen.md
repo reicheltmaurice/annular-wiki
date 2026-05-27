@@ -67,6 +67,6 @@ Diese Seite fasst Informationen zu typischen Karawanengrößen, Nomadenvölkern 
 
 ## Relevanz für die Geschichte
 
-- Selbst eine kleine Karawane könnte den Portalring (ca. 600–700 kg) transportieren.
-- In einer größeren Karawane würde der Ring kaum auffallen und könnte leicht „versteckt“ werden.
+- Ein 3m-Portalring wiegt ~8 Tonnen — selbst eine mittlere Karawane (Traglast ~15 t) könnte ihn theoretisch transportieren, aber es wäre ein enormer logistischer Aufwand.
+- In einer großen Karawane würde der Ring kaum auffallen und könnte leicht „versteckt” werden.
 - Nomadenvölker können plausibel als Retter, Händler oder Transporthelfer in der Geschichte auftreten.

@@ -2,5 +2,4 @@
 
 Kosmologie, Geographie, übergreifende Weltregeln.
 
-- [Geographie](geographie.md) — noch nicht angelegt
-- [Magie-/Portalregeln](portalregeln.md) — noch nicht angelegt
+*Noch nicht ausgearbeitet — abhängig von Epochenentscheidung (C-001).*

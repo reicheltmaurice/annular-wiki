@@ -26,7 +26,7 @@
     </tr>
     <tr>
       <td><strong>Mutter</strong></td>
-      <td><a href="beispiel.md">Beispiel</a></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -55,7 +55,7 @@ Welche Rolle spielt der Charakter in der Geschichte?
 
 ## Verbindungen zu anderen Charakteren
 
-- [Beispiel](beispiel.md)
+- [Name](pfad/zur/datei.md)
 - ...
 
 ---
