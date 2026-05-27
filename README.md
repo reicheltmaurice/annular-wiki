@@ -1,13 +1,16 @@
 # Annular – Übersicht
 
 Willkommen im Wiki zur Welt von **Annular**.  
-Hier werden alle Charaktere, Orte, Technologien und Ereignisse dieser Geschichte dokumentiert.
+Hier werden alle Charaktere, Orte, Kulturen, Technologien und Ereignisse dieser Geschichte dokumentiert.
 
 ## Navigation
 
-- [Menschen](menschen/README.md)
+- [Zeitleiste](zeitleiste.md)
+- [Charaktere](menschen/README.md)
+- [Kulturen](kulturen/nordvolk/README.md)
 - [Orte](orte/README.md)
 - [Technik](technik/README.md)
-- [Zeitleiste](zeitleiste.md)
+- [Welt](welt/README.md)
+- [Szenen](szenen/README.md)
 
-> **Hinweis:** Diese Welt spielt in einer an die Wikingerzeit angelehnten Epoche, kombiniert mit frühen Entdeckungen der Elektrizität und mysteriösen Portaltechnologien.
+> **Hinweis:** Diese Welt spielt in einer nordeuropäischen Stammesepoche (~100 oder ~900 n. Chr.), kombiniert mit frühen Entdeckungen der Elektrizität und mysteriösen Portaltechnologien — die einzige Abweichung von der historischen Realität.
