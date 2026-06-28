@@ -24,7 +24,7 @@ Tibuns Heimatdorf. Benannt nach dem Bach **Skir**, an dem es liegt.
 
 ## In der Nähe
 - Der einzige bekannte [Portalring](../technik/portalringe.md) liegt **am Bach Skir vergraben**, nahe dem Dorf — unbekannt, bis ein Erdrutsch ihn freilegt (siehe [C-008](../notizen/offene-challenges.md))
-- Regionales Zentrum (Häuptlingssitz + Thingplatz), **ein Tagesmarsch** entfernt — Name und Ausarbeitung folgen
+- Regionales Zentrum [Tingsal](tingsal.md) (Häuptlingssitz + Thingplatz), **ein Tagesmarsch** entfernt
 - Der heilige Hain [Vilund](sonstiges.md) (geparkt, derzeit ohne Funktion)
 
 ## Bewohner

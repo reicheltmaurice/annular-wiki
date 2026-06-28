@@ -30,19 +30,6 @@ Was baut Tibun als Erwachsener (~25+), um genug Spannung für den Portalring zu 
 
 **Noch offen:** Reicht ein rotierender Reibungsmechanismus allein aus — oder braucht Tibun zusätzlich eine primitive Ladungsspeicherung? Entscheidet, ob die Leidener-Flasche-Frage relevant bleibt.
 
-### C-007: Proportionen der Portalringe
-Zwei inkonsistente Maßangaben für den 3m-Ring in den Technikdateien:
-
-| | portalringe.md | berechnungen.md (proportional skaliert) |
-|---|---|---|
-| Außen-Ø | 3,18 m | 3,90 m |
-| Wandstärke | 9 cm | 45 cm |
-| Gewicht (AZ31-Ref.) | ~1,2 t | ~6,5 t |
-
-Wandstärke 9 cm = eher ein schlanker Ring, ästhetisch wie ein Fingerring.  
-Wandstärke 45 cm = massiver Block, kaum beweglich, fast wie eine Steinmauer.
-
-Entscheidung nötig: Wie sehen die Ringe aus? Das beeinflusst direkt, wie Charaktere mit ihnen interagieren (Transport, Verstecken, Ehrfurcht).
 
 ### C-008: Anzahl und Bekanntheit der Ringe
 **Festlegung (Tibun-Geschichte):** Es gibt nur *einen bekannten* Ring, am Bach Skir nahe Skiraa vergraben. Weder an der Schlei noch sonstwo kennt jemand einen Ring oder das Ringsystem. Tatsächlich existieren weltweit **viele weitere Ringe** — unbekannt. → Lesart A bestätigt und erweitert: globales, verborgenes Ringnetz.
@@ -55,13 +42,24 @@ Entscheidung nötig: Wie sehen die Ringe aus? Das beeinflusst direkt, wie Charak
 - **A) Verborgenes Paar:** Physisch zwei (Wald + Wüste), aber das *System* ist niemandem bekannt. „Ein Ring" = ein bekannter Ring pro Welt. Plot bleibt intakt.
 - **B) Nur ein Objekt:** Funktionsweise muss neu (fester Zielort / zeitversetzt / zufällig, ohne Partner). Bricht `portalringe.md`, erschwert Girlins Rückkehr und Finale.
 
-**Offen:** A oder B?
+**Entschieden: A.** Verborgenes Paar; Kopplungsmechanik vollständig in C-010 geregelt.
 
 **Fundort & -mechanismus (festgelegt):** Der Ring liegt **am Bach Skir, nahe [Skiraa](../orte/skiraa.md)**, seit Jahrtausenden **vergraben** — *nicht* in Vilund. Niemand weiß von ihm, auch die Walas nicht. Freigelegt wird er, als das ringverursachte Welt-Beben einen **Erdrutsch am Steilufer der Skir** auslöst. Damit entfällt das frühere „Bekanntheitsproblem" (sichtbares Objekt im Hain): Der Ring war schlicht unter der Erde.
 
 **Vorteil dieser Lösung:** Der Bach ist Alltagsort (Wasser holen, waschen) — erklärt mühelos, warum sowohl Tibun als auch Girlin dort sind, als der Blitz den freigelegten Ring aktiviert und Girlin verschwindet. Kein gemiedener Tabu-Ort nötig, um die beiden hinzubekommen.
 
 **Offen — Schicksal von Vilund:** Vilund war als Hain *mit* Ring konzipiert; dieser Zweck entfällt. Optionen: (a) **streichen**, schlanker; (b) **behalten** als ring-loser Kult-Hain — mögliches Motiv: das Volk verehrt den „heiligen" Hain, während das wahre Wunder unbeachtet am Bach im Boden liegt.
+
+### C-009: Häuptling von Tingsal
+[Tingsal](../orte/tingsal.md) (regionaler Häuptlingssitz + Thingplatz, ein Tagesmarsch von [Skiraa](../orte/skiraa.md)) hat noch keinen Anführer. Offene Figurenlücke: Name, Charakter und Rolle des Häuptlings — als regionale Autorität und möglicher Gegenpol zu Skiraas freien Bauern. Verhältnis zur sesshaften [Wala](../menschen/nordvolk/nebenfiguren.md) (lebt in Tingsal) noch zu klären. Bei eigener Funktion eigene Datei.
+
+### C-011: Kreis oder Spirale? (Struktur des Kreislaufs)
+Die Kosmologie ([welt/README.md](../welt/README.md)) ist ein zyklischer Loop des Ringsystems (Erwachen → Aufstieg → Zusammenbruch → Vergessen → …). Offen: Wiederholt sich jeder Zyklus **identisch** (perfekter Kreis) oder **driftet** er minimal (Spirale)?
+
+- **Kreis:** elegant, thematisch rein — aber emotional flach. Wenn ohnehin alles gleich wiederkommt, fehlt der Einsatz.
+- **Spirale:** etwas bleibt über den Zusammenbruch hinaus erhalten, etwas verändert sich, jemand *erinnert*. Aus dem Kreis wird Fortschritt/Verfall mit Richtung — es steht etwas auf dem Spiel.
+
+**Tendenz (Claude):** Spirale, wegen Leitfrage „interessiert das einen Leser in 30 Jahren?". Für Tibuns Geschichte nicht nötig — bestimmt aber den emotionalen Kern des Gesamtwerks. Noch nicht entschieden.
 
 ### C-003: Sahrin — kulturelle Tiefe
 Nomadisches Wüstenvolk. Welche reale Kultur als Vorlage für 550 n.Chr.?
@@ -72,6 +70,21 @@ Benötigt: Kultur, Religion, Sprache/Redewendungen, soziale Struktur, Verhältni
 ---
 
 ## Gelöst / Entschieden
+
+### C-010: Ringsystem — Kopplungsmechanik ✓
+Vollständige Regeln in [`portalringe.md`](../technik/portalringe.md). Kurz:
+- **Feste Paare**, hart in die Runen graviert (kein wählbares Adressieren zur Laufzeit). Verbindung braucht **identische Runenkonfiguration + gleiche Ringgröße**.
+- **Umverdrahten** durch Gravur: Rune zerstören (kappt) / passende Rune ergänzen (koppelt neu). Setzt **Kenntnis der Zielkonfiguration** voraus — kein blindes Wählen. Blind/falsch → Verbindung ins **Unbekannte**.
+- **Drei+ gleiche Konfiguration:** nur zwei aktiv; freier Platz geht an den **ältesten** wartenden Ring (Alter = **Gravurzeitpunkt**).
+- **Material (A):** Oberfläche gravierbar, Körper unzerstörbar/nicht reproduzierbar.
+- **Grünes Leuchten:** Energie *in* den Runennuten (nicht Materialeigenschaft). Kurzer Puls = erfolgreiche Kopplung; anhaltendes Glühen = Aktivierung/Teleport.
+
+**Größen:** Skir-Ring **und** Sahrin-Ring = **3,00 m** (müssen passen, sonst keine Rückkehr für Girlin), ~8 t, ortsfest. **0,30 m** = ~8 kg, tragbar, gedacht als **Postsystem** (Pakete/Briefe) — ursprünglicher Erbauerzweck, heute vergessen (Konsistenz mit C-008 gewahrt). Weitere Größen offen.
+
+**Folge für C-007:** Wandstärke-Frage (schlank vs. massiv) bleibt offen — betrifft nur Optik/Transport, nicht die Mechanik.
+
+### C-007: Proportionen der Portalringe ✓
+**Entscheidung:** Die Ringe folgen exakt den **Eine-Ring-Proportionen**, skaliert auf den Innendurchmesser (proportional schlank wie ein Fingerring, absolut ein Koloss). Damit gilt der proportional skalierte Maßsatz: 3-m-Ring = Außen-Ø 3,81 m, Wandstärke 0,405 m, ~8 t. Die alte „9-cm-Wand"-Variante entfällt. Folge: Der 3-m-Ring ist faktisch untransportierbar (erklärt, warum der Skir-Ring jahrtausendelang unbewegt im Boden lag).
 
 ### C-001: Epoche der Geschichte ✓
 **Entscheidung: Jahr 550 n.Chr. (Vendelzeit).** Nur intern als Referenzjahr für Authentizitätsprüfung. Im Erzähltext kein konkretes Jahr genannt. Fiktive Siedlung in der Region des späteren Haithabu (Schlei-Gebiet), inspiriert von Gudme/Lundeborg. Nordvolk = proto-skandinavische Germanen mit vollständiger heidnischer Religion und Runen.

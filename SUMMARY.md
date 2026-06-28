@@ -27,6 +27,7 @@
 ## Orte
 
 * [Skiraa](orte/skiraa.md)
+* [Tingsal](orte/tingsal.md)
 * [Kaupvik](orte/kaupvik.md)
 * [Sonstige Orte](orte/sonstiges.md)
 * [Bellbrims Werkstatt](orte/bellbrims-werkstatt.md)

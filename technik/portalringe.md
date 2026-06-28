@@ -18,9 +18,64 @@ Wie eine Münze, die sehr schnell die flippt.
 ---
 
 ## Funktionsweise
-- Verbindet immer genau zwei identische Ringe (Adresse durch Runenbeschriftung)  
-- Aktivierung durch unbekannte elektrische Energie  
-- Runen leuchten intensiv grün während des Teleports und verblassen danach recht schnell
+- Aktivierung durch unbekannte elektrische Energie (Auslöser, nicht Ziel — das Ziel bestimmen die Runen)
+- Ein Ring verbindet **immer genau zwei** Ringe, niemals mehr. Welche zwei, regelt die Kopplung (siehe unten)
+
+---
+
+## Kopplung & Runen
+
+Die Verbindung zweier Ringe ist nicht wählbar wie eine Adresse zur Laufzeit, sondern **physisch in die Runen graviert**. Wer die Verbindung ändern will, muss am Ring arbeiten.
+
+**Kopplungsregeln:**
+1. Ein Paar = zwei Ringe mit **identischer Runenkonfiguration** *und* **gleicher Ringgröße**. Beides muss übereinstimmen, sonst keine Verbindung. (Größen siehe Tabellen unten.)
+2. **Rune zerstören** (quer überschlagen, bis unlesbar) → Verbindung gekappt.
+3. **Passende Rune ergänzen** → neue Verbindung, sofern Konfiguration *und* Größe mit einem anderen Ring übereinstimmen.
+4. **Drei oder mehr Ringe gleicher Konfiguration:** Nur zwei sind aktiv. Die übrigen sind funktionslos, bis bei einem aktiven Ring die Verbindung bricht — dann erbt der **älteste** wartende Ring den freien Platz.
+   - „Alter" zählt ab **Gravurzeitpunkt** der aktuellen Konfiguration, nicht ab Herstellung. Ein neu verdrahteter Ring rutscht ans Ende der Warteschlange.
+
+**Wissensvoraussetzung:** Um eine passende Rune zu ergänzen, muss man die Zielkonfiguration **kennen** — den anderen Ring also gesehen oder seine Runen abgezeichnet haben. Es gibt **kein blindes Wählen**.
+
+**Gefahr der Fehlgravur:** Wer blind oder falsch graviert, riskiert eine Verbindung zu einem **unbekannten** Ring irgendwo auf der Welt — man weiß nicht, wohin man tritt.
+
+---
+
+## Größen & Zweck
+
+Es gibt nur wenige festgelegte Ringgrößen; nur Ringe gleicher Größe kuppeln (siehe Kopplung). Proportionen folgen stets dem Eine-Ring-Verhältnis, skaliert auf den jeweiligen Innendurchmesser — proportional schlank wie ein Fingerring, absolut je nach Größe ein Koloss.
+
+| Innen-Ø | Gewicht (Ref.) | Beweglichkeit | Zweck (Erbauer) |
+|---|---|---|---|
+| **3,00 m** | ~8 t | ortsfest, untransportierbar | Menschen & Waren. Skir- und Sahrin-Ring. |
+| **0,30 m** | ~8 kg | tragbar, evtl. versetzbar | Kleine Pakete & Briefe — ein Postsystem. |
+
+Weitere Größen noch offen. Der Postzweck der kleinen Ringe ist die **ursprüngliche Bestimmung der Erbauer**, heute vergessen — niemand in der Welt von 550 kennt das System ([C-008](../notizen/offene-challenges.md)).
+
+---
+
+## Material & Bearbeitung
+
+Das Material ist mystisch und nicht identifizierbar ([C-004](../notizen/offene-challenges.md)). Für die Bearbeitung gilt:
+
+> **Die Oberfläche nimmt eine Gravur an — der Körper ist unzerstörbar.**
+
+- Ein Steinmetz kann mit Meißel eine neue Rille (Rune) in die Mantelfläche schneiden oder eine bestehende quer überschlagen, bis sie unlesbar ist.
+- Den Ring spalten, verbiegen, einschmelzen, abtrennen oder **reproduzieren** ist unmöglich.
+- Nur die **Oberflächengravur** ist beeinflussbar, die **Struktur** bleibt unangreifbar.
+
+---
+
+## Das grüne Leuchten
+
+Die Runen leuchten in einem starken, dunklen Smaragdgrün. Erklärung ohne Bruch mit dem undurchsichtigen Material:
+
+> Das Leuchten ist die **Energie in den Runennuten**, keine Eigenschaft des Materials. Die gravierten Rillen wirken wie Kanäle, durch die die Energie fließt; sie glühen von innen heraus wie Lava in einer Furche. Das Grün ist die *Farbe des Vorgangs* — wie eine Flamme leuchtet, ohne dass das Holz grün ist. Licht wird erzeugt, nicht durchgelassen. Kein Glas, kein Smaragd nötig.
+
+Das erklärt zugleich die Mechanik: Nur die Runen glühen (Energie läuft in den Kanälen); eine zerstörte Rune unterbricht den „Kanal" und kappt die Verbindung; eine korrekte neue Rune schließt einen neuen Kanal.
+
+**Zwei Leuchtzustände:**
+- **Erfolgreiche Kopplung:** kurzer grüner Puls — Bestätigung, dass die Verdrahtung greift (diegetisches Feedback für den Runenschmied).
+- **Aktivierung / Teleport:** intensives, anhaltendes Glühen, verblasst danach recht schnell.
 
 ---
 
