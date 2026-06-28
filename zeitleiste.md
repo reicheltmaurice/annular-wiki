@@ -9,7 +9,8 @@
 
 ## Beginn der Geschichte
 - Tibun (12), Girlin (30), Tara (5), Semban (35), Bellbrim (40)
-- Girlin verschwindet bei Blitzschlag-Aktivierung des Portalrings
+- Weltweites Beben (Erwachen des Ringsystems) löst einen Erdrutsch am Steilufer der Skir aus und legt den seit Jahrtausenden vergrabenen Portalring frei (C-008)
+- Girlin verschwindet bei Blitzschlag-Aktivierung des freigelegten Portalrings
 - Tibun ist einziger Zeuge
 
 ## Tibuns Reise

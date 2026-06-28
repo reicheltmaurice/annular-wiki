@@ -12,14 +12,27 @@
 
 ## Beschreibung
 Die Portalringe sehen aus wie riesige Fingerringe mit grün leuchtenden Runen an der Außenseite.
-Bei Aktivierung rotieren sie 180° um die horizontale Achse, bleiben aber ortsfest.
-Wie eine Münze, die sehr schnell die flippt.
+Bei Aktivierung rotieren sie 180° um einen Durchmesser (Achse in der Ringebene) — wie eine Münze, die von Kopf auf Zahl flippt — bleiben dabei aber ortsfest und liegen danach deckungsgleich.
 
 ---
 
 ## Funktionsweise
-- Aktivierung durch unbekannte elektrische Energie (Auslöser, nicht Ziel — das Ziel bestimmen die Runen)
+- Aktivierung durch unbekannte elektrische Energie (Auslöser, nicht Ziel — das Ziel bestimmen die Runen). Der elektrische Funke ist nur der Zünder; die eigentliche Energie kommt aus dem Ringsystem selbst. Siehe [Generator](generator.md) und [Elektrizität](elektrizitaet.md).
 - Ein Ring verbindet **immer genau zwei** Ringe, niemals mehr. Welche zwei, regelt die Kopplung (siehe unten)
+
+---
+
+## Aktivierung & Tausch
+
+Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Drehung definiert eine **Kugel**, deren Inhalt mit dem des Partnerrings ausgetauscht wird. Entscheidungslog: [C-012](../notizen/offene-challenges.md).
+
+- **Tauschvolumen = Außenkugel.** Maßgeblich ist die **Außenkante** des Rings: Die Tausch-Kugel hat den Außendurchmesser (≈ 3,81 m beim 3-m-Ring). **Der Ringkörper selbst wird mitgetauscht** — er reicht beim Flip nie über seine eigene Außenkugel hinaus und berührt damit keine Materie außerhalb des Tauschvolumens. So gibt es kein „Durchpflügen" von umgebendem Erdreich.
+- **Harter Tausch.** Der gesamte Kugelinhalt wird kompromisslos 1:1 mit der Gegenseite getauscht — auch bei stark verschiedenem Inhalt (z. B. Luft gegen massiven Sand). Beide gepaarten Ringe flippen gleichzeitig.
+- **Ganze Kugel inkl. Erdreich.** Liegt der Ring flach im Boden, steckt die untere Halbkugel im Erdreich; sie wird mitgetauscht. So entsteht am Skir-Ufer eine halbkugelförmige Mulde, gefüllt mit Wüstensand (und umgekehrt).
+- **Messerscharfe Schnittkante.** Die Kugeloberfläche trennt alles, was sie kreuzt. Sie liegt am Außenrand, also weit vom Inhalt im Zentrum — wer vollständig innerhalb steht, reist heil; was halb hineinragt, wird durchtrennt.
+- **Kein Halt nötig.** Personen oder Waren stehen frei im Inneren (die ≈ 3,81-m-Kugel fasst einen stehenden Menschen mühelos). Eine feste Plattform ist unmöglich, da jede Verankerung mitgetauscht oder an der Kante geschnitten würde — die Schwerkraft genügt.
+- **Auflage des Rings.** Nach dem Tausch ruht der Ring auf dem eingetauschten Material der Gegenseite. Sind beide Ringe gleich gebettet (vom Erbauer-System: beide in Sand), ist der Vorgang sauber und beliebig wiederholbar. Liegt einer anders (Tibuns Skir-Ring in feuchter Erde gegen Wüstensand), wird der Vorgang roh — Ursache der Sandmulde und der Gefahr bei Girlins Unfall.
+- **Aus dem Ring tritt nichts aus** — kein Strahl, keine Druckwelle. Sichtbar ist allein das grüne Glühen der Runen (siehe unten).
 
 ---
 

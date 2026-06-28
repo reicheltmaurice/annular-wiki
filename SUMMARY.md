@@ -37,6 +37,7 @@
 * [Portalringe](technik/portalringe.md)
 * [Portalring-Berechnungen](technik/portalring_berechnungen.md)
 * [Elektrizität](technik/elektrizitaet.md)
+* [Tibuns Generator](technik/generator.md)
 
 ## Welt
 
