@@ -1,0 +1,41 @@
+# Regeln & Prüfliste
+
+Wird gegen Szenen, Artikel und Charakterbeschreibungen geprüft.
+Neue Regeln laufend ergänzen — keine Begründungen, nur die Regel selbst.
+
+---
+
+## Authentizität
+
+- Die einzige Abweichung von der historischen Realität sind die Portalringe — alles andere muss historisch möglich sein
+- Epoche: **550 n.Chr. (Vendelzeit)** — internes Referenzjahr, erscheint nicht im Erzähltext
+- Anachronismen sofort in `offene-challenges.md` dokumentieren
+- Keine Technologie, die für 550 n.Chr. nicht belegt oder plausibel herleitbar ist
+- Elektrizität nur durch Reibung/Bernstein und was in der Epoche möglich war
+
+## Religion
+
+- Götter erscheinen nie beim Eigennamen ("Wodan", "Donar" = nur interne Referenz — im Text verboten)
+- Ausschließlich Epitheta: *der Wanderer*, *der Donnerer*, *die Weberin* — oder neue, passend erfundene
+- Spezifisch altnordische Konzepte erscheinen nicht im Text (Valhalla → *Weltenbaum*, Asgard → *die obere Welt* o.ä.)
+- Religion ist Atmosphäre und Weltbild — keine Theologie, keine Erklärungen
+- Erlaubt: heilige Haine, Mooropfer, Seherin, Runen, Schicksalsvorstellung
+
+## Charaktere
+
+- Tibun erfindet und baut als Erwachsener (~25+) — als Kind (~12) nur Entdeckung des Bernstein-Effekts
+- Keine "Chosen One"-Momente ohne echte Kosten
+- Keine Erklär-Dialoge — Figuren erklären einander nichts, was sie beide wissen
+
+## Schreiben
+
+- Show-don't-tell — keine Gefühlsberichte, nur Handlung und Bild
+- Kein moderner Sprachgebrauch im Erzähltext oder Dialog
+- Kein Deus ex Machina
+- Rauer, knapper Dialog — keine Reden
+
+## Dramaturgie
+
+- Frage bei jeder Entscheidung: *Interessiert das einen Leser in 30 Jahren noch?*
+- Kein Deus ex Machina
+- Jede Lösung hat eine Vorgeschichte — nichts taucht ohne Vorbereitung auf

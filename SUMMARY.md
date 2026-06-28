@@ -26,7 +26,9 @@
 
 ## Orte
 
-* [Dorf](orte/dorf.md)
+* [Skiraa](orte/skiraa.md)
+* [Kaupvik](orte/kaupvik.md)
+* [Sonstige Orte](orte/sonstiges.md)
 * [Bellbrims Werkstatt](orte/bellbrims-werkstatt.md)
 
 ## Technik
@@ -42,3 +44,8 @@
 ## Szenen
 
 * [Szenen-Log](szenen/README.md)
+
+## Notizen
+
+* [Offene Challenges](notizen/offene-challenges.md)
+* [Regeln & Prüfliste](notizen/regeln.md)

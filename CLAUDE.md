@@ -23,12 +23,21 @@ Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in 
 **Szenen:** Bildhaft, Show-don't-tell, rauer Dialog, keine modernen Ausdrücke. Perspektive noch offen.
 
 ## Welt
-- Epoche: noch offen (~100 n.Chr. oder ~900 n.Chr.) — siehe Challenges
-- Nordvolk: nordeuropäische Stämme
+- Epoche: **550 n.Chr. (Vendelzeit)** — internes Referenzjahr, erscheint nicht im Erzähltext
+- Nordvolk: proto-skandinavische Germanen, fiktive Siedlung in der Schlei-Region
 - Sahrin: nomadisches Wüstenvolk
 - Portalringe: Material unbekannt/mystisch (AZ31 nur als Berechnungsreferenz)
 - Elektrizität: ausschließlich durch Reibung/Bernstein und was in der Epoche möglich war
 - Tibun baut seine Erfindungen als Erwachsener (~25+), nicht als Kind
+
+## Religion des Nordvolks — Epitheta-Prinzip
+Götter werden **nie beim Eigennamen** genannt ("Odin", "Thor" = anachronistisch und Klischee-belastet).
+Stattdessen ausschließlich über Epitheta — Beinamen, die eine Eigenschaft beschreiben:
+- *der Wanderer* (Wodan/Göttervater)
+- *der Donnerer* (Donar/Donnergott)
+- *die Weberin* (Schicksal/Nornen)
+
+Die Religion ist **Atmosphäre und Weltbild**, keine Theologie. Götter erscheinen als gefühlte Präsenz, nicht als Figuren. Lokale Ausprägungen (heiliger Hain, Mooropfer, Seherin) frei erfindbar — historische Grundstruktur bleibt.
 
 ## Wiki-Pflege
 Bei jeder neuen Datei:

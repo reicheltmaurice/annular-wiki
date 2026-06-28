@@ -2,4 +2,6 @@
 
 Kosmologie, Geographie, übergreifende Weltregeln.
 
-*Noch nicht ausgearbeitet — abhängig von Epochenentscheidung (C-001).*
+**Epoche: 550 n.Chr. (Vendelzeit)** — C-001 entschieden.
+
+*Noch nicht ausgearbeitet.*
