@@ -10,6 +10,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-009: Häuptling von Tingsal](#c-009-häuptling-von-tingsal)
 - [C-011: Kreis oder Spirale?](#c-011-kreis-oder-spirale-struktur-des-kreislaufs)
 - [C-019: Ursache von Erwachen und Zusammenbruch](#c-019-ursache-von-erwachen-und-zusammenbruch)
+- [C-020: Vorwarnung vor dem Flip?](#c-020-vorwarnung-vor-dem-flip)
 - [C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft)
 - [C-015: Verhältnis Drehung ↔ Tausch](#c-015-verhältnis-drehung--tausch)
 - [C-013: Runen — Anordnung, Anzahl, Aussehen](#c-013-runen--anordnung-anzahl-aussehen)
@@ -69,6 +70,17 @@ Die Kosmologie ([welt/README.md](../welt/README.md)) ist ein zyklischer Loop des
 
 ### C-019: Ursache von Erwachen und Zusammenbruch
 Was treibt die Phasen des Ring-Kreislaufs ([welt/README.md](../welt/README.md))? Folgt das System einer **festen Periode**, wird es **ausgelöst** (wodurch?), oder ist die Ursache **grundsätzlich unergründlich**? Verwandt mit C-011 (Kreis/Spirale). Autorenebene, nicht zwingend im Erzähltext.
+
+### C-020: Vorwarnung vor dem Flip?
+Flippt der Ring bei Aktivierung sofort, oder kündigt er sich an (z. B. mehrfach kurz aufleuchtende Runen) — und warnt die **Gegenstelle** mit?
+
+**Tendenz (Claude): Warnung hängt an der Laderampe, nicht am Flip.** Konsistent mit C-002 (Ladungsaufbau bis zur Sättigung) und C-008 (Girlins Blitz = schlagartig):
+- **Kontrollierte Ladung** (Erbauer-/Tibun-Betrieb): während die Ladung steigt, pulsen die Runen — langsam → schnell/heller, sichtbarer Countdown; an der Schwelle Dauerglühen → Flip. Beide gepaarten Ringe pulsen **synchron** (passt zu C-012 simultan + C-010 feste Kopplung).
+- **Schlagartige Überladung** (Blitz): keine Rampe → sofortiger Flip, kein Vorlauf. Erklärt, warum Girlin keine Chance hatte (physikalisch keine Warnzeit, nicht „Wissen fehlte").
+
+Vorteil: löst Normalbetrieb-Dramatik **und** Girlin-Unfall ohne Sonderregel; liefert C-014 die nächtliche Optik (bei Girlin: beide Ringe schlagartig, kein Vorlauf → plötzliches Aufleuchten + Girlin).
+**Gegenoption:** Erbauer als kalt-gleichgültig → gar keine Warnung, immer sofortiger Flip (düsterer, aber ohne Puls-Optik und ohne saubere Girlin-Erklärung).
+Erweitert die Signal-Grammatik aus C-010 (Puls=Kopplung / Dauerglühen=Aktivierung) um *beschleunigende Pulse = Ladewarnung*. Noch nicht entschieden.
 
 ### C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft
 Durch den Volltausch (C-012) wird **keine Erde/kein Sand aufgewirbelt** — der früher erwogene „Staubfontäne"-Effekt entfällt. Wie wird die Sahrin-Karawane dann auf die plötzlich erschienene Girlin aufmerksam?
