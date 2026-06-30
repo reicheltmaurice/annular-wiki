@@ -11,11 +11,12 @@ Handelssiedlung und Hafen an der Schlei. Der Name bedeutet „Handelsbucht".
 
 ## Lage und Anreise
 - An der Schlei, weit im Süden — Vorbild und Lage des späteren Haithabu
-- Von [Skirraa](skirraa.md) aus: **rund 14 Tagesmärsche** (etwa zwei Wochen) den Heerweg (Ochsenweg) hinab, von Nordjütland bis zur Schlei. Eine gewaltige, gefährliche Reise — Tibun kommt als völlig Fremder an; niemand kennt Skirraa.
+- Von [Skirraa](skirraa.md) trennen es **rund 14 Tagesmärsche** (gut zwei Wochen) auf dem **direkten Weg** über den Heerweg (Ochsenweg) — die Strecke, die Tibun beim **Rückweg** nimmt. Hin- und Reiseverlauf noch offen. Er kommt als völliger Fremder an; niemand kennt Skirraa.
 
 ## Bedeutung für die Geschichte
-- Ziel von Tibuns Reise: mehr Bernstein und bessere Mechanik lernen (siehe [Zeitleiste](../zeitleiste.md))
-- Schauplatz seines Erkenntnismoments am Hafen (Bootsziehwinde, siehe [C-002](../notizen/offene-challenges.md))
+- **Endpunkt und Wendepunkt** von Tibuns Reise (siehe [C-022](../notizen/offene-challenges.md)): der weiteste Punkt — von hier kehrt er **direkt nach Skirraa zurück**, um den Generator zu bauen. Der genaue Reiseverlauf bis hierher ist noch offen.
+- Was er auf der Reise sucht: Bernstein, bessere Mechanik **und** Wissen über den Portalring — getrieben von der Suche nach seiner verschwundenen Mutter (siehe [Zeitleiste](../zeitleiste.md))
+- Schauplatz seines Erkenntnismoments am Hafen (Bootsziehwinde, siehe [C-002](../notizen/offene-challenges.md)) — der Auslöser für den Generatorbau
 
 ## Authentizität
 - Boote kommen um 550 **ohne Segel** an — reine Ruderfahrt entlang der Küste. Das begrenzt Reichweite und Frachtmenge des Fernhandels.

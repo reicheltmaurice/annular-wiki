@@ -9,7 +9,7 @@ Tibuns Heimatdorf. Benannt nach dem Bach **Skir**, an dem es liegt — *Skir* + 
 - Liegt am Bach **Skir** (Lebensader, treibt später Tibuns Wasserrad; siehe [C-002](../notizen/offene-challenges.md))
 - **Abseits** des Heerwegs (Ochsenweg) — etwa ein Tagesmarsch bis zur Route
 - Regionales Zentrum [Tingsal](tingsal.md) **ein Tagesmarsch** entfernt
-- Zur Hafensiedlung [Kaupvik](kaupvik.md) an der Schlei: **rund 14 Tagesmärsche** den Ochsenweg hinab — eine gewaltige Reise von etwa zwei Wochen. In Kaupvik hat **niemand** je von Skirraa gehört; Tibun begegnet dort keinem aus seiner Heimat.
+- Zur Hafensiedlung [Kaupvik](kaupvik.md) an der Schlei: **rund 14 Tagesmärsche** auf dem direkten Weg über den Ochsenweg (gut zwei Wochen) — Endpunkt von Tibuns Reise (siehe [C-022](../notizen/offene-challenges.md)). In Kaupvik hat **niemand** je von Skirraa gehört; Tibun begegnet dort keinem aus seiner Heimat.
 
 ## Landschaft
 - Karg, Heide und Moor

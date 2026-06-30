@@ -17,7 +17,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-017: Weitere Ringgrößen](#c-017-weitere-ringgrößen)
 - [C-018: Widerspruch — Transport des Sahrin-Rings](#c-018-widerspruch--transport-des-sahrin-rings)
 - [C-003: Sahrin — kulturelle Tiefe](#c-003-sahrin--kulturelle-tiefe)
-- [C-022: Tibuns lange Abwesenheit von Skirraa](#c-022-tibuns-lange-abwesenheit-von-skirraa)
+- [C-023: Zeitleiste & zeitliche Anordnung](#c-023-zeitleiste--zeitliche-anordnung)
 
 **Gelöst / Entschieden**
 - [C-012: Aktivierungsverhalten des Rings ✓](#c-012-aktivierungsverhalten-des-rings-)
@@ -29,6 +29,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-005: Van-de-Graaff-Generator ✓](#c-005-van-de-graaff-generator-)
 - [C-006: Tibuns Alter bei Erfindungen ✓](#c-006-tibuns-alter-bei-erfindungen-)
 - [C-021: Reale Verortung der Orte ✓](#c-021-reale-verortung-der-orte-)
+- [C-022: Tibuns Reise — Dauer, Motiv, Hof ✓](#c-022-tibuns-reise--dauer-motiv-hof-)
 
 ---
 
@@ -112,13 +113,15 @@ Nomadisches Wüstenvolk. Welche reale Kultur als Vorlage für 550 n.Chr.?
 
 Benötigt: Kultur, Religion, Sprache/Redewendungen, soziale Struktur, Verhältnis zu Sesshaften.
 
-### C-022: Tibuns lange Abwesenheit von Skirraa
-Durch die Verlagerung von [Skirraa](../orte/skirraa.md) nach Nordjütland liegt [Kaupvik](../orte/kaupvik.md) **~14 Tagesmärsche** entfernt (C-021). Tibuns Reise dorthin bedeutet **5–6 Wochen Abwesenheit** (Hin- und Rückweg + Aufenthalt). Das wirft Fragen auf:
-- **Hofversorgung:** Ein freier Bauer fehlt eine ganze Saison. Wer hält den Hof? Welche Folgen hat das (Verlust, Schulden, Abhängigkeit)?
-- **Jahreszeit:** Die Reise ist nur im Sommerhalbjahr möglich; im Winter unpassierbar. Engt das Erzählfenster ein.
-- **Gefahr/Motivation:** Eine so weite Reise ins Unbekannte braucht einen **starken Antrieb** — der bloße Wunsch nach „mehr Bernstein/Mechanik" (siehe Kaupvik) trägt das evtl. nicht. Verschärfung oder besserer Grund nötig.
+### C-023: Zeitleiste & zeitliche Anordnung
+Die [Zeitleiste](../zeitleiste.md) und die verstreuten Zeitanker sind noch nicht konsistent geordnet. Offene Knoten:
 
-Erzählerisch eher Chance als Problem (Einsatz, Kosten, Rückkehr in eine veränderte Heimat), aber zu klären.
+- **Tibuns Spanne:** Girlin verschwindet, als Tibun **12** ist (C-008). Den Generator baut er **~25+** (C-006); C-002 nennt ~15 Jahre zwischen Bernstein-Entdeckung (~12) und Verständnis (~25+). Dazwischen ~13–15 Jahre — **wann** darin liegt die Wanderschaft (C-022: mehrere Monate bis wenige Jahre)? Aufbruchsalter offen (tibun.md: Schnappschüsse 15/25).
+- **Ordnungs-Konflikt:** Die Zeitleiste listet „Idee zum Generator" + „Beginn des Experiments" **vor** der Reise. Der zündende Erkenntnismoment ist aber laut C-002 der Unfall an der **Bootsziehwinde in Kaupvik** — also *während* der Reise. Reihenfolge korrigieren: Reise/Kaupvik-Einsicht → Idee → Bau.
+- **Parallele Zeitlinien:** Tibuns Arc (12 → ~25+) und [Girlins Wüsten-Arc](../zeitleiste.md) (Bellbrim, Assim, Ring-Reaktivierung im Finale) laufen aufeinander zu. Wenn beide Ringe im Finale gemeinsam zünden: Verbringt Girlin **~13–15 Jahre** in der Wüste? Das ist lang — Dauer und Gleichzeitigkeit zu klären.
+- **Semban/Mellia-Tempo:** Zeitleiste sagt „kommen sich näher" (allmählich), C-022 sagt **rasch** (alle halten Girlin für tot). Formulierung angleichen.
+
+Berührt: C-002, C-006, C-008, C-022. Anzugehen, wenn die Zeitleiste ausgearbeitet wird.
 
 ---
 
@@ -186,4 +189,17 @@ Vollständige Regeln in [`portalringe.md`](../technik/portalringe.md). Kurz:
 - **Distanz Skirraa ↔ Kaupvik:** ~**14 Tagesmärsche** (~2 Wochen). Erklärt, dass Tibun in Kaupvik ein völliger Fremder ist und niemand Skirraa kennt.
 - **Umbenennung:** *Skiraa* → **Skirraa** (Stamm *Skir* + *-aa* „Bach", passend zur dän. *å*-Landschaft).
 - **Nebeneffekt:** Behebt den alten Widerspruch „karge Geest nördlich der Schlei" (dort liegt das fruchtbare Angeln) — die Vendsyssel-Heide passt auf Skirraas Beschreibung besser.
-- **Folge-Challenge:** Tibuns lange Abwesenheit → C-022.
+- **Folge:** Tibuns Reise (Dauer, Motiv, Hof) → C-022.
+
+### C-022: Tibuns Reise — Dauer, Motiv, Hof ✓
+**Entscheidung:**
+- **Dauer & Form:** Tibun ist **mehrere Monate bis wenige Jahre** unterwegs — keine kurze Hin-und-Rück-Tour. **Endpunkt und Wendepunkt** ist [Kaupvik](../orte/kaupvik.md); von dort kehrt er **direkt nach Skirraa** zurück, um den Generator zu bauen. Der genaue Reiseverlauf bis Kaupvik ist **noch offen** (→ [C-023](#c-023-zeitleiste--zeitliche-anordnung)). Die Jahreszeit-Sorge entschärft sich durch die lange Dauer (Reise über mehrere Saisons).
+- **Motiv (dreifach):**
+  1. **Bernstein** — Material für seinen Reibungsgenerator (C-002).
+  2. **Wissen über den Portalring** — der eigentliche Antrieb: Durch einen solchen Ring verschwand seine Mutter [Girlin](../menschen/nordvolk/girlin.md) (C-008). Die Suche nach ihr trägt die weite Reise emotional — der frühere Zweifel am Reisegrund ist ausgeräumt.
+  3. **Mechanik allgemein** — Handwerk und Technik für seine späteren Erfindungen.
+  4. **Schmerz/Aufbruch:** Sembans **rascher** neuer Bund mit [Mellia](../menschen/nordvolk/nebenfiguren.md#mellia) (alle halten Girlin für tot) ist für Tibun ein Verrat — denn er **weiß** als einziger Zeuge des Ring-Flips, dass Girlin lebt. Zusätzlicher emotionaler Antrieb fortzugehen.
+- **Hof:** **Semban** führt den Familienhof in Skirraa **unverändert weiter**. Tibun ist nicht dessen Oberhaupt; seine Abwesenheit löst **keine Hofkrise** aus. Die frühere Versorgungs-Sorge entfällt.
+
+**Verwandtschaft & Mellia geklärt:** Semban = Tibuns **leiblicher Vater** (Ehemann der verschwundenen Girlin). Er hält Girlin für tot und bindet sich **rasch** neu an Mellia (Girlins frühere Freundin); der schnelle Ersatz schmerzt Tibun — der als einziger Zeuge des Ring-Flips **weiß**, dass Girlin lebt — und treibt ihn mit fort. Überall vereinheitlicht.
+**Zeitliche Einordnung** der Wanderschaft (wann bricht Tibun auf?) → ausgelagert nach [C-023](#c-023-zeitleiste--zeitliche-anordnung).

@@ -5,12 +5,15 @@
 - Verspielt, neugierig und hängt sehr an ihrem Bruder
 
 ## Semban
-- Stiefvater von Tibun
-- Versucht, nach Girlin Verschwinden Stabilität für die Familie zu schaffen
+- Vater von Tibun, Ehemann der verschwundenen [Girlin](girlin.md)
+- Hält Girlin für **tot** und bindet sich **rasch** neu an [Mellia](#mellia) — für Tibun ein schmerzhafter Bruch
+- Versucht, nach Girlins Verschwinden Stabilität für die Familie zu schaffen
+- Führt den Hof in Skirraa weiter, auch während Tibuns monate- bis jahrelanger Reise (siehe [C-022](../../notizen/offene-challenges.md))
 
 ## Mellia
-- Neue Partnerin von Semban
-- War einst enge Freundin von Girlin, was Tibun in einen Loyalitätskonflikt bringt
+- Neue Partnerin von Semban — der sie **rasch** nimmt, nachdem alle [Girlin](girlin.md) für tot halten
+- War einst enge Freundin Girlins; das macht den schnellen Ersatz für Tibun doppelt schmerzhaft
+- Tibun **weiß**, dass Girlin lebt — er sah als Einziger den Ring flippen und sie wegteleportieren. Sembans rascher Ersatz ist für ihn deshalb ein **Verrat** und **ein Grund für seinen Weggang** (siehe [C-022](../../notizen/offene-challenges.md))
 
 ## Hadurik
 - Häuptling von [Tingsal](../../orte/tingsal.md), regionaler Anführer mit Thinghalle

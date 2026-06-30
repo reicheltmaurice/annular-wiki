@@ -43,7 +43,7 @@
 
 ## Frühes Leben
 
-Tibun wächst in einem einfachen Dorf auf. Nach dem mysteriösen Verschwinden seiner Mutter durch einen aktivierten Portalring begibt er sich auf die Suche nach ihr.
+Tibun wächst in Skirraa auf, einem abgelegenen Weiler im hohen Norden. Nach dem mysteriösen Verschwinden seiner Mutter durch einen aktivierten Portalring begibt er sich als junger Mann auf eine **monate- bis jahrelange Reise** — auf der Suche nach ihr, nach Bernstein, nach Wissen über den Portalring und nach Mechanik. Ziel und Wendepunkt ist [Kaupvik](../../orte/kaupvik.md) an der Schlei, weit im Süden; von dort kehrt er **direkt nach Skirraa zurück**, um den Generator zu bauen. Der genaue Reiseverlauf ist noch offen. Sein Vater [Semban](../nebenfiguren.md#semban) führt den Hof in seiner Abwesenheit unverändert weiter — hat Girlin aber rasch für tot erklärt und sich neu an [Mellia](../nebenfiguren.md#mellia) gebunden. Tibun **weiß** als einziger Zeuge, dass seine Mutter nicht tot ist, sondern vom Ring wegteleportiert wurde — dass der Rest des Dorfes sie aufgibt, ist ein weiterer Grund für seinen Aufbruch.
 
 ---
 
