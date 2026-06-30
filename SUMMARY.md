@@ -26,7 +26,7 @@
 
 ## Orte
 
-* [Skiraa](orte/skiraa.md)
+* [Skirraa](orte/skirraa.md)
 * [Tingsal](orte/tingsal.md)
 * [Kaupvik](orte/kaupvik.md)
 * [Sonstige Orte](orte/sonstiges.md)

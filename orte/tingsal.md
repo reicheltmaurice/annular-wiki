@@ -5,7 +5,7 @@ Regionales Zentrum des Nordvolks. Name aus *ting* (Thing/Versammlung) + *sal* (H
 ---
 
 ## Lage
-- Im Schlei-/Geest-Hinterland, **ein Tagesmarsch** von [Skiraa](skiraa.md)
+- Im Hinterland von Vendsyssel (Nordjütland), **ein Tagesmarsch** von [Skirraa](skirraa.md)
 - Sammelpunkt der umliegenden Weiler
 
 ## Funktion
@@ -13,9 +13,16 @@ Regionales Zentrum des Nordvolks. Name aus *ting* (Thing/Versammlung) + *sal* (H
 - **Thingplatz** — regelmäßige Rechts- und Versammlungsstätte der freien Bauern
 - Kult- und Orakelort: Hier lebt die **sesshafte [Wala](../menschen/nordvolk/nebenfiguren.md)** (Veleda-Modell — abgesondert, hochgeehrt, über Mittler befragt)
 
-## Verhältnis zu Skiraa
-- Skiraa ist ein abseitiger Weiler ohne eigene Seherin; für Recht, Thing und Orakel reist man nach Tingsal
-- Die wandernde Wala (Zwillingsschwester) zieht durchs Hinterland und kommt gelegentlich nach Skiraa
+## Verhältnis zu Skirraa
+- Skirraa ist ein abseitiger Weiler ohne eigene Seherin; für Recht, Thing und Orakel reist man nach Tingsal
+- Die wandernde Wala (Zwillingsschwester) zieht durchs Hinterland und kommt gelegentlich nach Skirraa
 
 ## Offen
 - Ausarbeitung der Halle und des Thinggeschehens folgen
+
+---
+
+## Reale Verortung (Autorenebene)
+Fiktiver Ort, verankert in **Hjørring** — historisch das regionale Markt- und Versammlungszentrum Vendsyssels, was Tingsals Rolle (Häuptlingssitz + Thing) entspricht.
+- Wikipedia: [Hjørring](https://de.wikipedia.org/wiki/Hj%C3%B8rring)
+- Google Maps: <https://maps.app.goo.gl/GS6gzqjjDvv9pkQ46>

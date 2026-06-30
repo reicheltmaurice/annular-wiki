@@ -17,6 +17,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-017: Weitere Ringgrößen](#c-017-weitere-ringgrößen)
 - [C-018: Widerspruch — Transport des Sahrin-Rings](#c-018-widerspruch--transport-des-sahrin-rings)
 - [C-003: Sahrin — kulturelle Tiefe](#c-003-sahrin--kulturelle-tiefe)
+- [C-022: Tibuns lange Abwesenheit von Skirraa](#c-022-tibuns-lange-abwesenheit-von-skirraa)
 
 **Gelöst / Entschieden**
 - [C-012: Aktivierungsverhalten des Rings ✓](#c-012-aktivierungsverhalten-des-rings-)
@@ -27,6 +28,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-004: Material der Portalringe ✓](#c-004-material-der-portalringe-)
 - [C-005: Van-de-Graaff-Generator ✓](#c-005-van-de-graaff-generator-)
 - [C-006: Tibuns Alter bei Erfindungen ✓](#c-006-tibuns-alter-bei-erfindungen-)
+- [C-021: Reale Verortung der Orte ✓](#c-021-reale-verortung-der-orte-)
 
 ---
 
@@ -58,7 +60,7 @@ Vilund war als heiliger Hain *mit* Ring konzipiert; durch die Verlagerung des Ri
 Noch nicht entschieden.
 
 ### C-009: Häuptling von Tingsal
-[Tingsal](../orte/tingsal.md) (regionaler Häuptlingssitz + Thingplatz, ein Tagesmarsch von [Skiraa](../orte/skiraa.md)) hat noch keinen Anführer. Offene Figurenlücke: Name, Charakter und Rolle des Häuptlings — als regionale Autorität und möglicher Gegenpol zu Skiraas freien Bauern. Verhältnis zur sesshaften [Wala](../menschen/nordvolk/nebenfiguren.md) (lebt in Tingsal) noch zu klären. Bei eigener Funktion eigene Datei.
+[Tingsal](../orte/tingsal.md) (regionaler Häuptlingssitz + Thingplatz, ein Tagesmarsch von [Skirraa](../orte/skirraa.md)) hat noch keinen Anführer. Offene Figurenlücke: Name, Charakter und Rolle des Häuptlings — als regionale Autorität und möglicher Gegenpol zu Skirraas freien Bauern. Verhältnis zur sesshaften [Wala](../menschen/nordvolk/nebenfiguren.md) (lebt in Tingsal) noch zu klären. Bei eigener Funktion eigene Datei.
 
 ### C-011: Kreis oder Spirale? (Struktur des Kreislaufs)
 Die Kosmologie ([welt/README.md](../welt/README.md)) ist ein zyklischer Loop des Ringsystems (Erwachen → Aufstieg → Zusammenbruch → Vergessen → …). Offen: Wiederholt sich jeder Zyklus **identisch** (perfekter Kreis) oder **driftet** er minimal (Spirale)?
@@ -110,6 +112,14 @@ Nomadisches Wüstenvolk. Welche reale Kultur als Vorlage für 550 n.Chr.?
 
 Benötigt: Kultur, Religion, Sprache/Redewendungen, soziale Struktur, Verhältnis zu Sesshaften.
 
+### C-022: Tibuns lange Abwesenheit von Skirraa
+Durch die Verlagerung von [Skirraa](../orte/skirraa.md) nach Nordjütland liegt [Kaupvik](../orte/kaupvik.md) **~14 Tagesmärsche** entfernt (C-021). Tibuns Reise dorthin bedeutet **5–6 Wochen Abwesenheit** (Hin- und Rückweg + Aufenthalt). Das wirft Fragen auf:
+- **Hofversorgung:** Ein freier Bauer fehlt eine ganze Saison. Wer hält den Hof? Welche Folgen hat das (Verlust, Schulden, Abhängigkeit)?
+- **Jahreszeit:** Die Reise ist nur im Sommerhalbjahr möglich; im Winter unpassierbar. Engt das Erzählfenster ein.
+- **Gefahr/Motivation:** Eine so weite Reise ins Unbekannte braucht einen **starken Antrieb** — der bloße Wunsch nach „mehr Bernstein/Mechanik" (siehe Kaupvik) trägt das evtl. nicht. Verschärfung oder besserer Grund nötig.
+
+Erzählerisch eher Chance als Problem (Einsatz, Kosten, Rückkehr in eine veränderte Heimat), aber zu klären.
+
 ---
 
 ## Gelöst / Entschieden
@@ -131,7 +141,7 @@ Benötigt: Kultur, Religion, Sprache/Redewendungen, soziale Struktur, Verhältni
 
 ### C-008: Anzahl und Bekanntheit der Ringe ✓
 - **Verborgenes Paar (Lesart A):** Physisch existieren zwei Ringe (Skir + Sahrin), weltweit sogar **viele weitere** — aber das System ist niemandem bekannt. Kopplung in C-010 geregelt.
-- **Fundort:** Der Ring liegt **am Bach Skir nahe [Skiraa](../orte/skiraa.md)**, seit Jahrtausenden **vergraben** (nicht in Vilund). Freigelegt durch einen **Erdrutsch am Steilufer**, ausgelöst vom ringverursachten Welt-Beben. Damit entfällt das „Bekanntheitsproblem": Der Ring war schlicht unter der Erde.
+- **Fundort:** Der Ring liegt **am Bach Skir nahe [Skirraa](../orte/skirraa.md)**, seit Jahrtausenden **vergraben** (nicht in Vilund). Freigelegt durch einen **Erdrutsch am Steilufer**, ausgelöst vom ringverursachten Welt-Beben. Damit entfällt das „Bekanntheitsproblem": Der Ring war schlicht unter der Erde.
 - **Beben:** kommt vom **Ringsystem**, weltweit gleichzeitig spürbar (Netz-Reaktion, nicht tektonisch) — ringverursacht = erlaubte Abweichung.
 - **Vorteil:** Der Bach ist Alltagsort (Wasser holen) → erklärt zwanglos, warum Tibun *und* Girlin dort sind, als der Blitz den Ring aktiviert.
 - **Ausgelagert:** Schicksal von Vilund → C-016.
@@ -162,3 +172,18 @@ Vollständige Regeln in [`portalringe.md`](../technik/portalringe.md). Kurz:
 
 ### C-006: Tibuns Alter bei Erfindungen ✓
 **Entscheidung:** Tibun erfindet und baut als Erwachsener (~25+). Als Kind (~12) erlebt er nur Girlins Verschwinden und entdeckt den Bernstein-Effekt.
+
+### C-021: Reale Verortung der Orte ✓
+**Entscheidung:** Die Orte erhalten reale geografische Anker (Autorenebene; Namen im Text bleiben fiktiv).
+
+| Ort (Story) | Reale Verortung | Region |
+|---|---|---|
+| [Skirraa](../orte/skirraa.md) | Bindslev, am Bach Uggerby Å | Nordjütland / Vendsyssel |
+| [Tingsal](../orte/tingsal.md) | Hjørring | Nordjütland / Vendsyssel |
+| [Kaupvik](../orte/kaupvik.md) | Haithabu, an der Schlei | Schleswig |
+
+- **Achse:** Skirraa und Tingsal liegen weit im Norden (Vendsyssel), Kaupvik weit im Süden an der Schlei. Verbindung = der reale **Ochsenweg** (*Hærvejen*).
+- **Distanz Skirraa ↔ Kaupvik:** ~**14 Tagesmärsche** (~2 Wochen). Erklärt, dass Tibun in Kaupvik ein völliger Fremder ist und niemand Skirraa kennt.
+- **Umbenennung:** *Skiraa* → **Skirraa** (Stamm *Skir* + *-aa* „Bach", passend zur dän. *å*-Landschaft).
+- **Nebeneffekt:** Behebt den alten Widerspruch „karge Geest nördlich der Schlei" (dort liegt das fruchtbare Angeln) — die Vendsyssel-Heide passt auf Skirraas Beschreibung besser.
+- **Folge-Challenge:** Tibuns lange Abwesenheit → C-022.
