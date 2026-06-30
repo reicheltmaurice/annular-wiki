@@ -1,6 +1,6 @@
 # Das Volk der Sahrin
 
-Das Nordvolk lebt im rauen Küstenklima und bildet die kulturelle Grundlage für Tibuns Geschichte.
+Die Sahrin sind ein nomadisches Wüstenvolk. In ihre Welt verschlägt es Girlin durch den Portalring.
 
 ## Charaktere
 

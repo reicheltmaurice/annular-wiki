@@ -4,49 +4,35 @@
 
 ## Allgemeine Informationen
 
-<table>
-  <tbody>
-    <tr>
-      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Allgemein</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Rolle</strong></td>
-      <td>Antagonist</td>
-    </tr>
-    <tr>
-      <td><strong>Alter</strong></td>
-      <td>(Alter eintragen)</td>
-    </tr>
-    <tr>
-      <td><strong>Herkunft</strong></td>
-      <td>(Herkunft eintragen)</td>
-    </tr>
-    <tr>
-      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Familie</strong></td>
-    </tr>
-    <tr>
-      <td colspan="2">(Familieninformationen eintragen)</td>
-    </tr>
-  </tbody>
-</table>
+**Allgemein**
+
+| | |
+|---|---|
+| **Rolle** | Antagonist |
+| **Alter** | offen (Anfang) — siehe [C-028](../../notizen/offene-challenges.md) / offen (Ende) — siehe [C-023](../../notizen/offene-challenges.md) |
+| **Herkunft** | Offen — siehe [C-028](../../notizen/offene-challenges.md) |
+
+**Familie**
+
+Offen — siehe [C-028](../../notizen/offene-challenges.md)
 
 ---
 
 ## Frühes Leben
 
-(Beschreibung eintragen)
+Offen — siehe [C-028](../../notizen/offene-challenges.md)
 
 ---
 
 ## Besondere Fähigkeiten
 
-- (Fähigkeit eintragen)
+Offen — siehe [C-029](../../notizen/offene-challenges.md)
 
 ---
 
 ## Bedeutung in der Geschichte
 
-(Bedeutung eintragen)
+Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Schmuggel) und wird im Finale durch den Ring zu Tibun teleportiert. Siehe [Zeitleiste](../../zeitleiste.md).
 
 ---
 

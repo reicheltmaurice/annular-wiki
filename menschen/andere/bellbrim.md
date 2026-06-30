@@ -4,49 +4,35 @@
 
 ## Allgemeine Informationen
 
-<table>
-  <tbody>
-    <tr>
-      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Allgemein</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Rolle</strong></td>
-      <td>Wissenschaftlerin / Verbündete von Girlin</td>
-    </tr>
-    <tr>
-      <td><strong>Alter</strong></td>
-      <td>(Alter eintragen)</td>
-    </tr>
-    <tr>
-      <td><strong>Herkunft</strong></td>
-      <td>(Herkunft eintragen)</td>
-    </tr>
-    <tr>
-      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Familie</strong></td>
-    </tr>
-    <tr>
-      <td colspan="2">(Familieninformationen eintragen)</td>
-    </tr>
-  </tbody>
-</table>
+**Allgemein**
+
+| | |
+|---|---|
+| **Rolle** | Wissenschaftlerin / Verbündete von Girlin |
+| **Alter** | 40 (Anfang) / offen (Ende) — siehe [C-023](../../notizen/offene-challenges.md) |
+| **Herkunft** | Offen — siehe [C-026](../../notizen/offene-challenges.md) |
+
+**Familie**
+
+Offen — siehe [C-027](../../notizen/offene-challenges.md)
 
 ---
 
 ## Frühes Leben
 
-(Beschreibung eintragen)
+Offen — siehe [C-027](../../notizen/offene-challenges.md)
 
 ---
 
 ## Besondere Fähigkeiten
 
-- (Fähigkeit eintragen)
+Offen — siehe [C-027](../../notizen/offene-challenges.md)
 
 ---
 
 ## Bedeutung in der Geschichte
 
-(Bedeutung eintragen)
+Verbündete Girlins in der Wüste: Sie untersucht den Portalring und baut einen Wassergenerator. Siehe Handlungsstrang in der [Zeitleiste](../../zeitleiste.md).
 
 ---
 

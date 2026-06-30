@@ -4,32 +4,20 @@
 
 ## Allgemeine Informationen
 
-<table>
-  <tbody>
-    <tr>
-      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Allgemein</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Rolle</strong></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>Alter</strong></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>Herkunft</strong></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Familie</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Mutter</strong></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+**Allgemein**
+
+| | |
+|---|---|
+| **Rolle** | |
+| **Alter** | |
+| **Herkunft** | |
+
+**Familie**
+
+| | |
+|---|---|
+| **Mutter** | |
+| **Vater** | |
 
 ---
 

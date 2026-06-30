@@ -1,8 +1,9 @@
 # Nordvolk
 
-Das Nordvolk lebt im rauen Küstenklima und bildet die kulturelle Grundlage für Tibuns Geschichte.
+Das Nordvolk lebt in der rauen Heide- und Küstenlandschaft Nordjütlands (Vendsyssel) und bildet die kulturelle Grundlage für Tibuns Geschichte.
 
 ## Charaktere
 
 - [Tibun](tibun.md)
+- [Girlin](girlin.md)
 - [Nebenfiguren](nebenfiguren.md)

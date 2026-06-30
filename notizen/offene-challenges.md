@@ -18,6 +18,16 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-018: Widerspruch — Transport des Sahrin-Rings](#c-018-widerspruch--transport-des-sahrin-rings)
 - [C-003: Sahrin — kulturelle Tiefe](#c-003-sahrin--kulturelle-tiefe)
 - [C-023: Zeitleiste & zeitliche Anordnung](#c-023-zeitleiste--zeitliche-anordnung)
+- [C-024: Girlin — Herkunft & Vorgeschichte](#c-024-girlin--herkunft--vorgeschichte)
+- [C-025: Girlin — Charakter & Fähigkeiten](#c-025-girlin--charakter--fähigkeiten)
+- [C-026: Bellbrim — historische Plausibilität & Herkunft](#c-026-bellbrim--historische-plausibilität--herkunft)
+- [C-027: Bellbrim — Vorgeschichte, Familie & Fähigkeiten](#c-027-bellbrim--vorgeschichte-familie--fähigkeiten)
+- [C-028: Assim Atwan — Herkunft & Hintergrund](#c-028-assim-atwan--herkunft--hintergrund)
+- [C-029: Assim Atwan — Charakter, Motivation & Fähigkeiten](#c-029-assim-atwan--charakter-motivation--fähigkeiten)
+- [C-030: Taras Alter — Widerspruch](#c-030-taras-alter--widerspruch)
+- [C-031: Tibun — Inspiration/Besetzung](#c-031-tibun--inspirationbesetzung)
+- [C-032: Girlin — Inspiration/Besetzung](#c-032-girlin--inspirationbesetzung)
+- [C-033: Nebenfiguren — eigene Dateien & strukturierte Felder](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder)
 
 **Gelöst / Entschieden**
 - [C-012: Aktivierungsverhalten des Rings ✓](#c-012-aktivierungsverhalten-des-rings-)
@@ -120,8 +130,44 @@ Die [Zeitleiste](../zeitleiste.md) und die verstreuten Zeitanker sind noch nicht
 - **Ordnungs-Konflikt:** Die Zeitleiste listet „Idee zum Generator" + „Beginn des Experiments" **vor** der Reise. Der zündende Erkenntnismoment ist aber laut C-002 der Unfall an der **Bootsziehwinde in Kaupvik** — also *während* der Reise. Reihenfolge korrigieren: Reise/Kaupvik-Einsicht → Idee → Bau.
 - **Parallele Zeitlinien:** Tibuns Arc (12 → ~25+) und [Girlins Wüsten-Arc](../zeitleiste.md) (Bellbrim, Assim, Ring-Reaktivierung im Finale) laufen aufeinander zu. Wenn beide Ringe im Finale gemeinsam zünden: Verbringt Girlin **~13–15 Jahre** in der Wüste? Das ist lang — Dauer und Gleichzeitigkeit zu klären.
 - **Semban/Mellia-Tempo:** Zeitleiste sagt „kommen sich näher" (allmählich), C-022 sagt **rasch** (alle halten Girlin für tot). Formulierung angleichen.
+- **Anfangsalter Tibun:** [tibun.md](../menschen/nordvolk/tibun.md) nennt **15**, die [Zeitleiste](../zeitleiste.md) **12** (zu Beginn, als Girlin verschwindet) — Widerspruch, zu klären.
+- **Endalter aller Figuren:** Die zweite Altersangabe (Ende / nach Timeskip) jeder Figur ergibt sich erst aus der Timeskip-Länge — bis dahin in den Figuren-Tabellen als offen markiert.
 
 Berührt: C-002, C-006, C-008, C-022. Anzugehen, wenn die Zeitleiste ausgearbeitet wird.
+
+### C-024: Girlin — Herkunft & Vorgeschichte
+[Girlin](../menschen/nordvolk/girlin.md) (Tibuns Mutter) ist kaum ausgearbeitet. Offen: Woher stammt sie? In Skirraa geboren oder zugezogen — und woher? Vorgeschichte vor der Ehe mit Semban. Relevant, weil sie als verschleppte Protagonistin einen eigenen Wüsten-Arc trägt.
+
+### C-025: Girlin — Charakter & Fähigkeiten
+Welche Eigenschaften und Fähigkeiten hat Girlin? Im Wüsten-Arc überlebt sie, überzeugt Bellbrim und ist am Wassergenerator beteiligt — das verlangt Findigkeit/Willensstärke. Zu klären: Charakter, Können, evtl. Parallele zu Tibuns technischer Neugier (vererbt?).
+
+### C-026: Bellbrim — historische Plausibilität & Herkunft
+[Bellbrim](../menschen/andere/bellbrim.md) ist als „Wissenschaftlerin" geführt — für **550 n.Chr.** zu prüfen (Authentizitätsprinzip): Was heißt „Wissenschaftlerin" in dieser Epoche/Region konkret (Gelehrte, Heilerin, Handwerksmeisterin, Seherin)? Und woher stammt sie — Sahrin oder Fremde in der Wüste? Berührt C-003.
+
+### C-027: Bellbrim — Vorgeschichte, Familie & Fähigkeiten
+Frühes Leben, Familie und konkrete Fähigkeiten sind offen. Was genau kann sie (Mechanik, Naturkunde, Schrift?), wie wurde sie das, und wie passt das zu C-026?
+
+### C-028: Assim Atwan — Herkunft & Hintergrund
+[Assim Atwan](../menschen/wuestenvolk/assim-atwan.md) (Antagonist) ist in Alter, Herkunft, Familie und Vorgeschichte offen. Früherer Story-Hook: möglicherweise ein **abtrünniger Sahrin**, der die Bräuche seines Volkes verraten hat (siehe [Sahrin](../menschen/wuestenvolk/das-volk-der-sahrin.md)) — zu bestätigen oder zu verwerfen. Berührt C-003.
+
+### C-029: Assim Atwan — Charakter, Motivation & Fähigkeiten
+Was treibt Assim an (über „Sklaverei/Schmuggel" hinaus)? Charakter, Mittel und besondere Fähigkeiten als glaubwürdiger Gegenspieler — und warum er gerade Girlin/den Ring ins Visier nimmt.
+
+### C-030: Taras Alter — Widerspruch
+[Tara](../menschen/nordvolk/nebenfiguren.md) ist laut nebenfiguren.md „3 Jahre jünger" als Tibun (bei Tibun 12 → 9), laut [Zeitleiste](../zeitleiste.md) aber **5** (→ 7 Jahre jünger). Eine der beiden Angaben muss korrigiert werden.
+
+### C-031: Tibun — Inspiration/Besetzung
+Vorbild/Besetzung (Schauspieler oder Figur-Inspiration) für [Tibun](../menschen/nordvolk/tibun.md) noch offen. Autorenebene (Todo), keine Story-Frage.
+
+### C-032: Girlin — Inspiration/Besetzung
+Vorbild/Besetzung für [Girlin](../menschen/nordvolk/girlin.md) noch offen. Autorenebene (Todo), keine Story-Frage.
+
+### C-033: Nebenfiguren — eigene Dateien & strukturierte Felder
+Nebenfiguren stehen aktuell als Stichpunkt-Liste in den `nebenfiguren.md` je Volk ([Nordvolk](../menschen/nordvolk/nebenfiguren.md), [Sahrin](../menschen/wuestenvolk/nebenfiguren.md), [Andere](../menschen/andere/nebenfiguren.md)). Dadurch fehlen strukturierte Felder — u. a. die zweiwertige Altersangabe (Anfang/Ende), die für die Hauptfiguren gilt.
+
+**Tendenz (Autor):** Jede Nebenfigur bekommt eine **eigene Datei** in einem Unterordner `Nebenfiguren/` (je Volk), angelegt nach [charakter-template.md](../menschen/charakter-template.md). Vorteil: alle Felder strukturiert; wird eine Figur wichtiger, genügt das **Verschieben** der Datei.
+
+Offen: ob/wann umsetzen; Ordnerstruktur; für alle Nebenfiguren oder nur die mit genug Substanz (Tara, Semban, Mellia, Hadurik, die Walas). Bei Umsetzung SUMMARY.md + READMEs nachziehen. Berührt [C-030](#c-030-taras-alter--widerspruch) (Taras Alter).
 
 ---
 

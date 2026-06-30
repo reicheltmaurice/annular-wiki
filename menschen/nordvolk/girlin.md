@@ -4,70 +4,51 @@
 
 ## Allgemeine Informationen
 
-<table>
-  <tbody>
-    <tr>
-      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Allgemein</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Rolle</strong></td>
-      <td>Mutter von Tibun</td>
-    </tr>
-    <tr>
-      <td><strong>Alter</strong></td>
-      <td>(Alter eintragen)</td>
-    </tr>
-    <tr>
-      <td><strong>Herkunft</strong></td>
-      <td>(Herkunft eintragen)</td>
-    </tr>
-    <tr>
-      <td colspan="2" style="text-align: center; background-color: #e0e0e0;"><strong>Familie</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Sohn</strong></td>
-      <td><a href="tibun.md">Tibun</a></td>
-    </tr>
-    <tr>
-      <td><strong>Tochter</strong></td>
-      <td><a href="../nebenfiguren.md#tara">Tara</a></td>
-    </tr>
-    <tr>
-      <td><strong>Ehemann</strong></td>
-      <td><a href="../nebenfiguren.md#semban">Semban</a></td>
-    </tr>
-  </tbody>
-</table>
+**Allgemein**
+
+| | |
+|---|---|
+| **Rolle** | Mutter von Tibun |
+| **Alter** | 30 (Anfang) / offen (Ende) — siehe [C-023](../../notizen/offene-challenges.md) |
+| **Herkunft** | Offen — siehe [C-024](../../notizen/offene-challenges.md) |
+
+**Familie**
+
+| | |
+|---|---|
+| **Sohn** | [Tibun](tibun.md) |
+| **Tochter** | [Tara](nebenfiguren.md#tara) |
+| **Ehemann** | [Semban](nebenfiguren.md#semban) |
 
 ---
 
 ## Frühes Leben
 
-(Beschreibung eintragen)
+Offen — siehe [C-024](../../notizen/offene-challenges.md)
 
 ---
 
 ## Besondere Fähigkeiten
 
-- (Fähigkeit eintragen)
+Offen — siehe [C-025](../../notizen/offene-challenges.md)
 
 ---
 
 ## Bedeutung in der Geschichte
 
-(Bedeutung eintragen)
+Verschwindet durch den Portalring in die Wüste und durchlebt dort einen eigenen Handlungsstrang (Bellbrim, Assim Atwan, Reaktivierung des Rings). Siehe [Zeitleiste](../../zeitleiste.md).
 
 ---
 
 ## Verbindungen zu anderen Charakteren
 
 - Sohn: [Tibun](tibun.md)
-- Tochter: [Tara](../nebenfiguren.md#tara)
-- Ehemann: [Semban](../nebenfiguren.md#semban)
+- Tochter: [Tara](nebenfiguren.md#tara)
+- Ehemann: [Semban](nebenfiguren.md#semban)
 - Freundin: [Bellbrim](../andere/bellbrim.md)
 
 ---
 
 ## Inspiration
 
-(Schauspieler oder Vorbild eintragen)
+Offen — siehe [C-032](../../notizen/offene-challenges.md)

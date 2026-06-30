@@ -1,7 +1,9 @@
 # Nebenfiguren
 
+*Struktur offen: evtl. eigene Datei je Figur (inkl. strukturierter Felder/Altersangaben) — siehe [C-033](../../notizen/offene-challenges.md).*
+
 ## Tara
-- Jüngere Schwester von Tibun (3 Jahre jünger)
+- Jüngere Schwester von Tibun (Altersangabe widersprüchlich, siehe [C-030](../../notizen/offene-challenges.md))
 - Verspielt, neugierig und hängt sehr an ihrem Bruder
 
 ## Semban

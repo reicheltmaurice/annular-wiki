@@ -1,6 +1,6 @@
-# Nordvolk
+# Weitere Figuren
 
-Das Nordvolk lebt im rauen Küstenklima und bildet die kulturelle Grundlage für Tibuns Geschichte.
+Figuren, die keinem der beiden Völker fest zugeordnet sind.
 
 ## Charaktere
 
