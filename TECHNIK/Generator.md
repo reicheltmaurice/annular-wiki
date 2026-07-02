@@ -1,8 +1,8 @@
 # Tibuns Generator
 
-Tibuns Apparat zur **Aktivierung der [Portalringe](portalringe.md)**. Er erzeugt durch Reibung genug elektrische Ladung, um einen Ring zu zünden. Grundlagen des Phänomens siehe [Elektrizität](elektrizitaet.md); Entscheidungslog: [C-002](../NOTIZEN/offene-challenges.md).
+Tibuns Apparat zur **Aktivierung der [Portalringe](Portalringe.md)**. Er erzeugt durch Reibung genug elektrische Ladung, um einen Ring zu zünden. Grundlagen des Phänomens siehe [Elektrizität](Elektrizitaet.md); Entscheidungslog: [C-002](../NOTIZEN/Offene-Challenges.md).
 
-Gebaut von [Tibun](../MENSCHEN/NORDVOLK/tibun.md) als Erwachsenem (~25+), rein empirisch, ohne theoretisches Wissen.
+Gebaut von [Tibun](../MENSCHEN/NORDVOLK/Tibun.md) als Erwachsenem (~25+), rein empirisch, ohne theoretisches Wissen.
 
 ---
 
@@ -25,7 +25,7 @@ Ein **Rad**, dessen Lauffläche ein Reibekörper aus Bernstein ist. Kein Kondukt
   </tbody>
 </table>
 
-Verworfen: Metall-/Kugelvarianten (Konduktor-Weg = Van-de-Graaff, [C-005](../NOTIZEN/offene-challenges.md) gestrichen).
+Verworfen: Metall-/Kugelvarianten (Konduktor-Weg = Van-de-Graaff, [C-005](../NOTIZEN/Offene-Challenges.md) gestrichen).
 
 ---
 
@@ -43,7 +43,7 @@ Die erzeugte Ladung ist nur der **Auslöser**, nicht die Energiequelle. Reibungs
 1. Das Rad dreht schnell bis zur **Sättigung** — ein blaues Glimmen (Korona) zeigt an, dass es bereit ist.
 2. Das Rad wird nah an den Ring gebracht.
 3. Kontinuierliches **Funkensprühen** lädt den Ring auf.
-4. Im Zündmoment ein kräftiger **Überschlag** → der Ring aktiviert (Tauschvorgang siehe [Portalringe](portalringe.md)).
+4. Im Zündmoment ein kräftiger **Überschlag** → der Ring aktiviert (Tauschvorgang siehe [Portalringe](Portalringe.md)).
 
 ---
 
@@ -61,4 +61,4 @@ Handgekurbeltes **Tisch-Modell** (Prototyp, beweist den Funken) → große **was
 
 ## Offen
 
-**Übertragung (finaler Aufbau):** Wie kommt die Ladung vom Rad zum Ring? Direkte Annäherung des Rades, ein Metallstab oder eine an der Decke isoliert aufgehängte **Metallkette**. Die Kette ist als dramaturgisches Element zugelassen, auch wenn technisch ineffizient — Tibun darf als Erfinder Umwege machen. → [C-002](../NOTIZEN/offene-challenges.md).
+**Übertragung (finaler Aufbau):** Wie kommt die Ladung vom Rad zum Ring? Direkte Annäherung des Rades, ein Metallstab oder eine an der Decke isoliert aufgehängte **Metallkette**. Die Kette ist als dramaturgisches Element zugelassen, auch wenn technisch ineffizient — Tibun darf als Erfinder Umwege machen. → [C-002](../NOTIZEN/Offene-Challenges.md).

@@ -1,28 +1,28 @@
 # Zusammenfassung
 
 * [Übersicht](README.md)
-* [Zeitleiste](zeitleiste.md)
+* [Zeitleiste](Zeitleiste.md)
 
 ## Charaktere
 
 * Nordvolk
-  * [Tibun](MENSCHEN/NORDVOLK/tibun.md)
-  * [Girlin](MENSCHEN/NORDVOLK/girlin.md)
+  * [Tibun](MENSCHEN/NORDVOLK/Tibun.md)
+  * [Girlin](MENSCHEN/NORDVOLK/Girlin.md)
   * [Nebenfiguren](MENSCHEN/NORDVOLK/NEBENFIGUREN/README.md)
-    * [Tara](MENSCHEN/NORDVOLK/NEBENFIGUREN/tara.md)
-    * [Semban](MENSCHEN/NORDVOLK/NEBENFIGUREN/semban.md)
-    * [Mellia](MENSCHEN/NORDVOLK/NEBENFIGUREN/mellia.md)
-    * [Hadurik](MENSCHEN/NORDVOLK/NEBENFIGUREN/hadurik.md)
-    * [Wala von Tingsal](MENSCHEN/NORDVOLK/NEBENFIGUREN/wala-tingsal.md)
-    * [Wandernde Wala](MENSCHEN/NORDVOLK/NEBENFIGUREN/wala-wandernd.md)
+    * [Tara](MENSCHEN/NORDVOLK/NEBENFIGUREN/Tara.md)
+    * [Semban](MENSCHEN/NORDVOLK/NEBENFIGUREN/Semban.md)
+    * [Mellia](MENSCHEN/NORDVOLK/NEBENFIGUREN/Mellia.md)
+    * [Hadurik](MENSCHEN/NORDVOLK/NEBENFIGUREN/Hadurik.md)
+    * [Wala von Tingsal](MENSCHEN/NORDVOLK/NEBENFIGUREN/Wala-Tingsal.md)
+    * [Wandernde Wala](MENSCHEN/NORDVOLK/NEBENFIGUREN/Wala-Wandernd.md)
 * Volk der Sahrin
-  * [Das Volk der Sahrin](MENSCHEN/WUESTENVOLK/das-volk-der-sahrin.md)
+  * [Das Volk der Sahrin](MENSCHEN/WUESTENVOLK/Sahrin.md)
   * [Erscheinung & Lebensweise](MENSCHEN/WUESTENVOLK/allgemein.md)
-  * [Karawanen](MENSCHEN/WUESTENVOLK/karawanen.md)
-  * [Assim Atwan](MENSCHEN/WUESTENVOLK/assim-atwan.md)
+  * [Karawanen](MENSCHEN/WUESTENVOLK/Karawanen.md)
+  * [Assim Atwan](MENSCHEN/WUESTENVOLK/Assim-Atwan.md)
   * [Nebenfiguren](MENSCHEN/WUESTENVOLK/NEBENFIGUREN/README.md)
 * Weitere Figuren
-  * [Bellbrim](MENSCHEN/ANDERE/bellbrim.md)
+  * [Bellbrim](MENSCHEN/ANDERE/Bellbrim.md)
   * [Nebenfiguren](MENSCHEN/ANDERE/NEBENFIGUREN/README.md)
 
 ## Kulturen
@@ -32,18 +32,18 @@
 
 ## Orte
 
-* [Skirraa](ORTE/skirraa.md)
-* [Tingsal](ORTE/tingsal.md)
-* [Kaupvik](ORTE/kaupvik.md)
+* [Skirraa](ORTE/Skirraa.md)
+* [Tingsal](ORTE/Tingsal.md)
+* [Kaupvik](ORTE/Kaupvik.md)
 * [Sonstige Orte](ORTE/sonstiges.md)
-* [Bellbrims Werkstatt](ORTE/bellbrims-werkstatt.md)
+* [Bellbrims Werkstatt](ORTE/Bellbrims-Werkstatt.md)
 
 ## Technik
 
-* [Portalringe](TECHNIK/portalringe.md)
-* [Portalring-Berechnungen](TECHNIK/portalring_berechnungen.md)
-* [Elektrizität](TECHNIK/elektrizitaet.md)
-* [Tibuns Generator](TECHNIK/generator.md)
+* [Portalringe](TECHNIK/Portalringe.md)
+* [Portalring-Berechnungen](TECHNIK/Portalring_Berechnungen.md)
+* [Elektrizität](TECHNIK/Elektrizitaet.md)
+* [Tibuns Generator](TECHNIK/Generator.md)
 
 ## Welt
 
@@ -55,5 +55,5 @@
 
 ## Notizen
 
-* [Offene Challenges](NOTIZEN/offene-challenges.md)
-* [Regeln & Prüfliste](NOTIZEN/regeln.md)
+* [Offene Challenges](NOTIZEN/Offene-Challenges.md)
+* [Regeln & Prüfliste](NOTIZEN/Regeln.md)

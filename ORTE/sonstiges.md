@@ -5,6 +5,6 @@ Geparkte oder nebensächliche Orte — als Idee aufbewahrt, aktuell ohne tragend
 ---
 
 ## Vilund (geparkt)
-Heiliger Hain (*vé* „Heiligtum" + *lund* „Hain"), proto-skandinavische Kultstätte. War ursprünglich als Standort des Portalrings gedacht — verworfen: Der Ring liegt nun am Bach Skir vergraben (siehe [C-008](../NOTIZEN/offene-challenges.md)).
+Heiliger Hain (*vé* „Heiligtum" + *lund* „Hain"), proto-skandinavische Kultstätte. War ursprünglich als Standort des Portalrings gedacht — verworfen: Der Ring liegt nun am Bach Skir vergraben (siehe [C-008](../NOTIZEN/Offene-Challenges.md)).
 
 Aktuell **ohne Funktion**, aber aufbewahrt für eine mögliche spätere Szene oder Erwähnung mit einer der [Walas](../MENSCHEN/NORDVOLK/NEBENFIGUREN/README.md).

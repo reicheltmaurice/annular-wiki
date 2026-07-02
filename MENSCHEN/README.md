@@ -10,7 +10,7 @@
 
 ## Wichtige Charaktere
 
-- [Tibun](NORDVOLK/tibun.md)
-- [Girlin](NORDVOLK/girlin.md)
-- [Assim Atwan](WUESTENVOLK/assim-atwan.md)
-- [Bellbrim](ANDERE/bellbrim.md)
+- [Tibun](NORDVOLK/Tibun.md)
+- [Girlin](NORDVOLK/Girlin.md)
+- [Assim Atwan](WUESTENVOLK/Assim-Atwan.md)
+- [Bellbrim](ANDERE/Bellbrim.md)

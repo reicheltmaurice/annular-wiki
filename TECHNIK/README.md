@@ -2,6 +2,6 @@
 
 Technologische Elemente in der Welt von **Annular**.
 
-- [Portalringe](portalringe.md)
+- [Portalringe](Portalringe.md)
 - [Van-de-Graaff-Generator](van-de-graaff-generator.md)
-- [Elektrizität](elektrizitaet.md)
+- [Elektrizität](Elektrizitaet.md)

@@ -2,8 +2,8 @@
 
 Wichtige Orte in der Welt von **Annular**.
 
-- [Skirraa](skirraa.md)
-- [Tingsal](tingsal.md)
-- [Kaupvik](kaupvik.md)
+- [Skirraa](Skirraa.md)
+- [Tingsal](Tingsal.md)
+- [Kaupvik](Kaupvik.md)
 - [Sonstige Orte](sonstiges.md)
-- [Bellbrims Werkstatt](bellbrims-werkstatt.md)
+- [Bellbrims Werkstatt](Bellbrims-Werkstatt.md)

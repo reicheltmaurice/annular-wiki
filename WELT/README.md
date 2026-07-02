@@ -8,10 +8,10 @@ Kosmologie, Geographie, übergreifende Weltregeln.
 
 ## Kosmologie — Der Kreislauf (Annular)
 
-Das [Ringsystem](../TECHNIK/portalringe.md) ist nicht statisch, sondern folgt einem **zyklischen Rhythmus** über Jahrtausende. Dieser Kreislauf ist der namensgebende Kern der Welt: *Annular* = ringförmig. Die Geschichte der Menschheit dreht sich wie ein Reif, ohne Anfang und Ende.
+Das [Ringsystem](../TECHNIK/Portalringe.md) ist nicht statisch, sondern folgt einem **zyklischen Rhythmus** über Jahrtausende. Dieser Kreislauf ist der namensgebende Kern der Welt: *Annular* = ringförmig. Die Geschichte der Menschheit dreht sich wie ein Reif, ohne Anfang und Ende.
 
 **Der Zyklus:**
-1. **Erwachen** — Das System aktiviert sich weltweit gleichzeitig (spürbar als globales [Beben](../NOTIZEN/offene-challenges.md), C-008).
+1. **Erwachen** — Das System aktiviert sich weltweit gleichzeitig (spürbar als globales [Beben](../NOTIZEN/Offene-Challenges.md), C-008).
 2. **Aufstieg** — Die Menschheit entdeckt die Ringe neu, lernt ihren Gebrauch, gewöhnt sich an sie: Handelsreisen, Postsystem. Über Jahrhunderte bis Jahrtausende wächst eine Kultur, die auf dem Ringnetz beruht.
 3. **Zusammenbruch** — Das System erlischt. Die abhängige Kultur muss ohne die Ringe zurechtkommen.
 4. **Vergessen** — Über Jahrtausende der Stille geraten die Ringe in Vergessenheit.
@@ -43,5 +43,5 @@ Die Erbauer liegen vor aller überlieferbaren Zeit. Keine Kultur dringt je zu He
 
 ## Offen (Autorenebene, nicht zwingend im Text)
 
-- **Kreis oder Spirale?** → [C-011](../NOTIZEN/offene-challenges.md).
+- **Kreis oder Spirale?** → [C-011](../NOTIZEN/Offene-Challenges.md).
 - **Ursache** von Erwachen und Zusammenbruch: feste Periode, ausgelöst, oder grundsätzlich unergründlich?

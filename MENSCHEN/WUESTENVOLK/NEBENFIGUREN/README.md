@@ -1,3 +1,3 @@
 # Nebenfiguren – Sahrin
 
-Noch keine Nebenfiguren angelegt. Jede neue Figur bekommt hier eine **eigene Datei** nach dem [Charakter-Template](../../charakter-template.md); wird sie wichtiger, genügt das **Verschieben** eine Ebene höher.
+Noch keine Nebenfiguren angelegt. Jede neue Figur bekommt hier eine **eigene Datei** nach dem [Charakter-Template](../../Charakter-Template.md); wird sie wichtiger, genügt das **Verschieben** eine Ebene höher.

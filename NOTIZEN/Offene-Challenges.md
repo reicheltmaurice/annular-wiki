@@ -50,7 +50,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 Was baut Tibun als Erwachsener (~25+), um den Portalring zu zünden? (Ersatz für den gestrichenen Van-de-Graaff, C-005.)
 
 **Festgelegt:**
-- **Erkenntnismoment:** Arbeitsunfall an einer Bootsziehwinde — ein Seil rutscht unter Last, wird heiß, raucht. Tibun kennt den Bernstein-Effekt seit der Jugend (**15**, Prolog), versteht aber erst nach diesem Unfall in Kaupvik (gegen Ende der Wanderschaft, ~24): schnelle, kontinuierliche Reibung = viel Ladung. Abstand ~9 Jahre. (Siehe [Zeitleiste](../zeitleiste.md)/C-023.)
+- **Erkenntnismoment:** Arbeitsunfall an einer Bootsziehwinde — ein Seil rutscht unter Last, wird heiß, raucht. Tibun kennt den Bernstein-Effekt seit der Jugend (**15**, Prolog), versteht aber erst nach diesem Unfall in Kaupvik (gegen Ende der Wanderschaft, ~24): schnelle, kontinuierliche Reibung = viel Ladung. Abstand ~9 Jahre. (Siehe [Zeitleiste](../Zeitleiste.md)/C-023.)
 - **Generator = rotierendes Bernsteinrad** (Reibekörper, kein Konduktor — Bernstein ist Isolator; Prinzip Guericke 1663). Holzfelge + aufgesetzter **Bernsteinkranz** (Segmente, Birkenpech-verfugt, poliert; ~20 kg). Reibkissen (Fell/Wolle/Leder) am Umfang lädt den Kranz. Antrieb: Wasserrad (große Anlage) bzw. Handkurbel (Prototyp). **Kein Eisen in der Reibzone.** Rein empirisch, ohne Theorie. (Eisen-/Kugel-/VdG-Variante verworfen.)
 - **Zünder-Prinzip:** Tibuns Funke ist nur der *Auslöser*; die Teleport-Energie kommt aus dem Ring/System (mystisch). Reale Physik bleibt auf Reibung → Funke beschränkt. **Kein gebauter Speicher** (Leidener Flasche = Anachronismus, verworfen; bliebe Rückfall-Option als Bronzeblech-Wasserfass, falls je ein Apparat-Blitz nötig wird).
 - **Ring als natürlicher Speicher:** Der große Ringkörper hat genug Eigenkapazität (~200 pF → ~1 J, ~100× Türklinken-Funke) für einen sichtbaren, knallenden Zünd-Überschlag — „deutlich größer als Türklinke", kein Gewitterblitz, kein Anachronismus. (Merksatz: Kapazität ∝ *Größe* des Leiters, nicht Masse/Drahtlänge.)
@@ -72,7 +72,7 @@ Vilund war als heiliger Hain *mit* Ring konzipiert; durch die Verlagerung des Ri
 Noch nicht entschieden.
 
 ### C-009: Häuptling von Tingsal
-[Tingsal](../ORTE/tingsal.md) (regionaler Häuptlingssitz + Thingplatz, ein Tagesmarsch von [Skirraa](../ORTE/skirraa.md)) hat als Anführer [**Hadurik**](../MENSCHEN/NORDVOLK/NEBENFIGUREN/hadurik.md) (Name gesetzt, eigene Datei angelegt). **Weiterhin offen:** Charakter und Rolle des Häuptlings — als regionale Autorität und möglicher Gegenpol zu Skirraas freien Bauern; Verhältnis zu [Tibun](../MENSCHEN/NORDVOLK/tibun.md)/Skirraa sowie zur sesshaften [Wala](../MENSCHEN/NORDVOLK/NEBENFIGUREN/wala-tingsal.md) (lebt ebenfalls in Tingsal).
+[Tingsal](../ORTE/Tingsal.md) (regionaler Häuptlingssitz + Thingplatz, ein Tagesmarsch von [Skirraa](../ORTE/Skirraa.md)) hat als Anführer [**Hadurik**](../MENSCHEN/NORDVOLK/NEBENFIGUREN/Hadurik.md) (Name gesetzt, eigene Datei angelegt). **Weiterhin offen:** Charakter und Rolle des Häuptlings — als regionale Autorität und möglicher Gegenpol zu Skirraas freien Bauern; Verhältnis zu [Tibun](../MENSCHEN/NORDVOLK/Tibun.md)/Skirraa sowie zur sesshaften [Wala](../MENSCHEN/NORDVOLK/NEBENFIGUREN/Wala-Tingsal.md) (lebt ebenfalls in Tingsal).
 
 ### C-011: Kreis oder Spirale? (Struktur des Kreislaufs)
 Die Kosmologie ([welt/README.md](../WELT/README.md)) ist ein zyklischer Loop des Ringsystems (Erwachen → Aufstieg → Zusammenbruch → Vergessen → …). Offen: Wiederholt sich jeder Zyklus **identisch** (perfekter Kreis) oder **driftet** er minimal (Spirale)?
@@ -125,31 +125,31 @@ Nomadisches Wüstenvolk. Welche reale Kultur als Vorlage für 550 n.Chr.?
 Benötigt: Kultur, Religion, Sprache/Redewendungen, soziale Struktur, Verhältnis zu Sesshaften.
 
 ### C-024: Girlin — Herkunft & Vorgeschichte
-[Girlin](../MENSCHEN/NORDVOLK/girlin.md) (Tibuns Mutter) ist kaum ausgearbeitet. Offen: Woher stammt sie? In Skirraa geboren oder zugezogen — und woher? Vorgeschichte vor der Ehe mit Semban. Relevant, weil sie als verschleppte Protagonistin einen eigenen Wüsten-Arc trägt.
+[Girlin](../MENSCHEN/NORDVOLK/Girlin.md) (Tibuns Mutter) ist kaum ausgearbeitet. Offen: Woher stammt sie? In Skirraa geboren oder zugezogen — und woher? Vorgeschichte vor der Ehe mit Semban. Relevant, weil sie als verschleppte Protagonistin einen eigenen Wüsten-Arc trägt.
 
 ### C-025: Girlin — Charakter & Fähigkeiten
 Welche Eigenschaften und Fähigkeiten hat Girlin? Im Wüsten-Arc überlebt sie, überzeugt Bellbrim und ist am Wassergenerator beteiligt — das verlangt Findigkeit/Willensstärke. Zu klären: Charakter, Können, evtl. Parallele zu Tibuns technischer Neugier (vererbt?).
 
 ### C-026: Bellbrim — historische Plausibilität & Herkunft
-[Bellbrim](../MENSCHEN/ANDERE/bellbrim.md) ist als „Wissenschaftlerin" geführt — für **550 n.Chr.** zu prüfen (Authentizitätsprinzip): Was heißt „Wissenschaftlerin" in dieser Epoche/Region konkret (Gelehrte, Heilerin, Handwerksmeisterin, Seherin)? Und woher stammt sie — Sahrin oder Fremde in der Wüste? Berührt C-003.
+[Bellbrim](../MENSCHEN/ANDERE/Bellbrim.md) ist als „Wissenschaftlerin" geführt — für **550 n.Chr.** zu prüfen (Authentizitätsprinzip): Was heißt „Wissenschaftlerin" in dieser Epoche/Region konkret (Gelehrte, Heilerin, Handwerksmeisterin, Seherin)? Und woher stammt sie — Sahrin oder Fremde in der Wüste? Berührt C-003.
 
 ### C-027: Bellbrim — Vorgeschichte, Familie & Fähigkeiten
 Frühes Leben, Familie und konkrete Fähigkeiten sind offen. Was genau kann sie (Mechanik, Naturkunde, Schrift?), wie wurde sie das, und wie passt das zu C-026?
 
 ### C-028: Assim Atwan — Herkunft & Hintergrund
-[Assim Atwan](../MENSCHEN/WUESTENVOLK/assim-atwan.md) (Antagonist) ist in Alter, Herkunft, Familie und Vorgeschichte offen. Früherer Story-Hook: möglicherweise ein **abtrünniger Sahrin**, der die Bräuche seines Volkes verraten hat (siehe [Sahrin](../MENSCHEN/WUESTENVOLK/das-volk-der-sahrin.md)) — zu bestätigen oder zu verwerfen. Berührt C-003.
+[Assim Atwan](../MENSCHEN/WUESTENVOLK/Assim-Atwan.md) (Antagonist) ist in Alter, Herkunft, Familie und Vorgeschichte offen. Früherer Story-Hook: möglicherweise ein **abtrünniger Sahrin**, der die Bräuche seines Volkes verraten hat (siehe [Sahrin](../MENSCHEN/WUESTENVOLK/Sahrin.md)) — zu bestätigen oder zu verwerfen. Berührt C-003.
 
 ### C-029: Assim Atwan — Charakter, Motivation & Fähigkeiten
 Was treibt Assim an (über „Sklaverei/Schmuggel" hinaus)? Charakter, Mittel und besondere Fähigkeiten als glaubwürdiger Gegenspieler — und warum er gerade Girlin/den Ring ins Visier nimmt.
 
 ### C-031: Tibun — Inspiration/Besetzung
-Vorbild/Besetzung (Schauspieler oder Figur-Inspiration) für [Tibun](../MENSCHEN/NORDVOLK/tibun.md) noch offen. Autorenebene (Todo), keine Story-Frage.
+Vorbild/Besetzung (Schauspieler oder Figur-Inspiration) für [Tibun](../MENSCHEN/NORDVOLK/Tibun.md) noch offen. Autorenebene (Todo), keine Story-Frage.
 
 ### C-032: Girlin — Inspiration/Besetzung
-Vorbild/Besetzung für [Girlin](../MENSCHEN/NORDVOLK/girlin.md) noch offen. Autorenebene (Todo), keine Story-Frage.
+Vorbild/Besetzung für [Girlin](../MENSCHEN/NORDVOLK/Girlin.md) noch offen. Autorenebene (Todo), keine Story-Frage.
 
 ### C-034: Tibuns Lebensgrundlage während der Wanderschaft
-Tibun ist rund **8 Jahre** allein unterwegs (17 → 25, [Zeitleiste](../zeitleiste.md)). Wovon lebt er in dieser Zeit? Aktuell ist nur das *Motiv* geklärt (Bernstein, Ringwissen, Mechanik), nicht die Existenzgrundlage. Historisch plausibel für 550 n.Chr.:
+Tibun ist rund **8 Jahre** allein unterwegs (17 → 25, [Zeitleiste](../Zeitleiste.md)). Wovon lebt er in dieser Zeit? Aktuell ist nur das *Motiv* geklärt (Bernstein, Ringwissen, Mechanik), nicht die Existenzgrundlage. Historisch plausibel für 550 n.Chr.:
 - **Handwerkslehre/Wanderjahre** — er verdingt sich unterwegs, lernt Mechanik durch Mitarbeit (passt zum Motiv „Mechanik lernen").
 - **Anschluss an Handelskarawanen** auf dem Ochsenweg — Schutz, Verpflegung gegen Mitarbeit; erklärt zwanglos, wie er bis Kaupvik kommt.
 - **Gefolgschaft/Dienst** bei einem Häuptling oder Hof — sesshafter, würde die lange Reisedauer aber eher bremsen.
@@ -160,7 +160,7 @@ Nicht dringend, aber nötig, damit die 8 Jahre nicht als abstrakter Zeitraum ste
 ## Gelöst / Entschieden
 
 ### C-023: Zeitleiste & Altersgerüst ✓
-Vollständiges Altersgerüst in der [Zeitleiste](../zeitleiste.md) festgelegt (Jahre relativ zu Girlins Verschwinden = Jahr 0; Ankerfigur Tibun, Alter = 16 + Jahr):
+Vollständiges Altersgerüst in der [Zeitleiste](../Zeitleiste.md) festgelegt (Jahre relativ zu Girlins Verschwinden = Jahr 0; Ankerfigur Tibun, Alter = 16 + Jahr):
 - **Prolog (Jahr −1):** Tibun **15** entdeckt den Bernstein-Effekt, versteht ihn noch nicht.
 - **Verschwinden (Jahr 0):** Tibun **16**, Girlin **30**, Semban **35**, Tara **9**.
 - **Aufbruch (Jahr +1):** Tibun **17** verlässt Skirraa (~1 Jahr nach dem Verschwinden).
@@ -172,14 +172,14 @@ Vollständiges Altersgerüst in der [Zeitleiste](../zeitleiste.md) festgelegt (J
 Ausgelagert: Tibuns Existenzgrundlage während der 8 Reisejahre → C-034.
 
 ### C-030: Taras Alter ✓
-[Tara](../MENSCHEN/NORDVOLK/NEBENFIGUREN/tara.md) ist **7 Jahre jünger** als Tibun: 8 (Prolog) / 9 (Girlins Verschwinden) / 19 (Finale). Die alte Absolutangabe „5" (unter der überholten Tibun-12-Annahme) entfällt.
+[Tara](../MENSCHEN/NORDVOLK/NEBENFIGUREN/Tara.md) ist **7 Jahre jünger** als Tibun: 8 (Prolog) / 9 (Girlins Verschwinden) / 19 (Finale). Die alte Absolutangabe „5" (unter der überholten Tibun-12-Annahme) entfällt.
 
 ### C-033: Nebenfiguren — eigene Dateien & strukturierte Felder ✓
-Umgesetzt: Jede Nebenfigur hat eine **eigene Datei** in einem Unterordner `Nebenfiguren/` je Region (nach [charakter-template.md](../MENSCHEN/charakter-template.md)), mit README-Index. Wird eine Figur wichtiger, genügt das **Verschieben** eine Ebene höher.
-- **Nordvolk:** [Tara](../MENSCHEN/NORDVOLK/NEBENFIGUREN/tara.md), [Semban](../MENSCHEN/NORDVOLK/NEBENFIGUREN/semban.md), [Mellia](../MENSCHEN/NORDVOLK/NEBENFIGUREN/mellia.md), [Hadurik](../MENSCHEN/NORDVOLK/NEBENFIGUREN/hadurik.md), [Wala von Tingsal](../MENSCHEN/NORDVOLK/NEBENFIGUREN/wala-tingsal.md), [Wandernde Wala](../MENSCHEN/NORDVOLK/NEBENFIGUREN/wala-wandernd.md).
+Umgesetzt: Jede Nebenfigur hat eine **eigene Datei** in einem Unterordner `Nebenfiguren/` je Region (nach [charakter-template.md](../MENSCHEN/Charakter-Template.md)), mit README-Index. Wird eine Figur wichtiger, genügt das **Verschieben** eine Ebene höher.
+- **Nordvolk:** [Tara](../MENSCHEN/NORDVOLK/NEBENFIGUREN/Tara.md), [Semban](../MENSCHEN/NORDVOLK/NEBENFIGUREN/Semban.md), [Mellia](../MENSCHEN/NORDVOLK/NEBENFIGUREN/Mellia.md), [Hadurik](../MENSCHEN/NORDVOLK/NEBENFIGUREN/Hadurik.md), [Wala von Tingsal](../MENSCHEN/NORDVOLK/NEBENFIGUREN/Wala-Tingsal.md), [Wandernde Wala](../MENSCHEN/NORDVOLK/NEBENFIGUREN/Wala-Wandernd.md).
 - **Walas:** als **zwei getrennte Dateien** angelegt (sesshaft/wandernd, Zwillingsschwestern), Rollen weiter offen.
 - **Sahrin & Andere:** Ordner + README-Index angelegt, noch ohne Figuren.
-- SUMMARY.md, Region-READMEs und alle eingehenden Links (u. a. [tibun.md](../MENSCHEN/NORDVOLK/tibun.md), [girlin.md](../MENSCHEN/NORDVOLK/girlin.md), [zeitleiste.md](../zeitleiste.md), [tingsal.md](../ORTE/tingsal.md), [sonstiges.md](../ORTE/sonstiges.md)) nachgezogen; alte Sammel-`nebenfiguren.md` entfernt.
+- SUMMARY.md, Region-READMEs und alle eingehenden Links (u. a. [tibun.md](../MENSCHEN/NORDVOLK/Tibun.md), [girlin.md](../MENSCHEN/NORDVOLK/Girlin.md), [zeitleiste.md](../Zeitleiste.md), [tingsal.md](../ORTE/Tingsal.md), [sonstiges.md](../ORTE/sonstiges.md)) nachgezogen; alte Sammel-`nebenfiguren.md` entfernt.
 
 ### C-012: Aktivierungsverhalten des Rings ✓
 **Mechanismus — Flip + Volltausch:**
@@ -198,13 +198,13 @@ Umgesetzt: Jede Nebenfigur hat eine **eigene Datei** in einem Unterordner `Neben
 
 ### C-008: Anzahl und Bekanntheit der Ringe ✓
 - **Verborgenes Paar (Lesart A):** Physisch existieren zwei Ringe (Skir + Sahrin), weltweit sogar **viele weitere** — aber das System ist niemandem bekannt. Kopplung in C-010 geregelt.
-- **Fundort:** Der Ring liegt **am Bach Skir nahe [Skirraa](../ORTE/skirraa.md)**, seit Jahrtausenden **vergraben** (nicht in Vilund). Freigelegt durch einen **Erdrutsch am Steilufer**, ausgelöst vom ringverursachten Welt-Beben. Damit entfällt das „Bekanntheitsproblem": Der Ring war schlicht unter der Erde.
+- **Fundort:** Der Ring liegt **am Bach Skir nahe [Skirraa](../ORTE/Skirraa.md)**, seit Jahrtausenden **vergraben** (nicht in Vilund). Freigelegt durch einen **Erdrutsch am Steilufer**, ausgelöst vom ringverursachten Welt-Beben. Damit entfällt das „Bekanntheitsproblem": Der Ring war schlicht unter der Erde.
 - **Beben:** kommt vom **Ringsystem**, weltweit gleichzeitig spürbar (Netz-Reaktion, nicht tektonisch) — ringverursacht = erlaubte Abweichung.
 - **Vorteil:** Der Bach ist Alltagsort (Wasser holen) → erklärt zwanglos, warum Tibun *und* Girlin dort sind, als der Blitz den Ring aktiviert.
 - **Ausgelagert:** Schicksal von Vilund → C-016.
 
 ### C-010: Ringsystem — Kopplungsmechanik ✓
-Vollständige Regeln in [`portalringe.md`](../TECHNIK/portalringe.md). Kurz:
+Vollständige Regeln in [`portalringe.md`](../TECHNIK/Portalringe.md). Kurz:
 - **Feste Paare**, hart in die Runen graviert (kein wählbares Adressieren zur Laufzeit). Verbindung braucht **identische Runenkonfiguration + gleiche Ringgröße**.
 - **Umverdrahten** durch Gravur: Rune zerstören (kappt) / passende Rune ergänzen (koppelt neu). Setzt **Kenntnis der Zielkonfiguration** voraus — kein blindes Wählen. Blind/falsch → Verbindung ins **Unbekannte**.
 - **Drei+ gleiche Konfiguration:** nur zwei aktiv; freier Platz geht an den **ältesten** wartenden Ring (Alter = **Gravurzeitpunkt**).
@@ -235,9 +235,9 @@ Vollständige Regeln in [`portalringe.md`](../TECHNIK/portalringe.md). Kurz:
 
 | Ort (Story) | Reale Verortung | Region |
 |---|---|---|
-| [Skirraa](../ORTE/skirraa.md) | Bindslev, am Bach Uggerby Å | Nordjütland / Vendsyssel |
-| [Tingsal](../ORTE/tingsal.md) | Hjørring | Nordjütland / Vendsyssel |
-| [Kaupvik](../ORTE/kaupvik.md) | Haithabu, an der Schlei | Schleswig |
+| [Skirraa](../ORTE/Skirraa.md) | Bindslev, am Bach Uggerby Å | Nordjütland / Vendsyssel |
+| [Tingsal](../ORTE/Tingsal.md) | Hjørring | Nordjütland / Vendsyssel |
+| [Kaupvik](../ORTE/Kaupvik.md) | Haithabu, an der Schlei | Schleswig |
 
 - **Achse:** Skirraa und Tingsal liegen weit im Norden (Vendsyssel), Kaupvik weit im Süden an der Schlei. Verbindung = der reale **Ochsenweg** (*Hærvejen*).
 - **Distanz Skirraa ↔ Kaupvik:** ~**14 Tagesmärsche** (~2 Wochen). Erklärt, dass Tibun in Kaupvik ein völliger Fremder ist und niemand Skirraa kennt.
@@ -247,12 +247,12 @@ Vollständige Regeln in [`portalringe.md`](../TECHNIK/portalringe.md). Kurz:
 
 ### C-022: Tibuns Reise — Dauer, Motiv, Hof ✓
 **Entscheidung:**
-- **Dauer & Form:** Tibun ist rund **8 Jahre** unterwegs (17 → 25, festgelegt in der [Zeitleiste](../zeitleiste.md)/C-023) — keine kurze Hin-und-Rück-Tour. **Endpunkt und Wendepunkt** ist [Kaupvik](../ORTE/kaupvik.md); von dort kehrt er **direkt nach Skirraa** zurück, um die große Anlage zu bauen. Der genaue Reiseverlauf bis Kaupvik ist **noch offen**. Die Jahreszeit-Sorge entschärft sich durch die lange Dauer (Reise über viele Saisons). Wovon er unterwegs lebt → C-034.
+- **Dauer & Form:** Tibun ist rund **8 Jahre** unterwegs (17 → 25, festgelegt in der [Zeitleiste](../Zeitleiste.md)/C-023) — keine kurze Hin-und-Rück-Tour. **Endpunkt und Wendepunkt** ist [Kaupvik](../ORTE/Kaupvik.md); von dort kehrt er **direkt nach Skirraa** zurück, um die große Anlage zu bauen. Der genaue Reiseverlauf bis Kaupvik ist **noch offen**. Die Jahreszeit-Sorge entschärft sich durch die lange Dauer (Reise über viele Saisons). Wovon er unterwegs lebt → C-034.
 - **Motiv (dreifach):**
   1. **Bernstein** — Material für seinen Reibungsgenerator (C-002).
-  2. **Wissen über den Portalring** — der eigentliche Antrieb: Durch einen solchen Ring verschwand seine Mutter [Girlin](../MENSCHEN/NORDVOLK/girlin.md) (C-008). Die Suche nach ihr trägt die weite Reise emotional — der frühere Zweifel am Reisegrund ist ausgeräumt.
+  2. **Wissen über den Portalring** — der eigentliche Antrieb: Durch einen solchen Ring verschwand seine Mutter [Girlin](../MENSCHEN/NORDVOLK/Girlin.md) (C-008). Die Suche nach ihr trägt die weite Reise emotional — der frühere Zweifel am Reisegrund ist ausgeräumt.
   3. **Mechanik allgemein** — Handwerk und Technik für seine späteren Erfindungen.
-  4. **Schmerz/Aufbruch:** Sembans **rascher** neuer Bund mit [Mellia](../MENSCHEN/NORDVOLK/NEBENFIGUREN/mellia.md) (alle halten Girlin für tot) ist für Tibun ein Verrat — denn er **weiß** als einziger Zeuge des Ring-Flips, dass Girlin lebt. Zusätzlicher emotionaler Antrieb fortzugehen.
+  4. **Schmerz/Aufbruch:** Sembans **rascher** neuer Bund mit [Mellia](../MENSCHEN/NORDVOLK/NEBENFIGUREN/Mellia.md) (alle halten Girlin für tot) ist für Tibun ein Verrat — denn er **weiß** als einziger Zeuge des Ring-Flips, dass Girlin lebt. Zusätzlicher emotionaler Antrieb fortzugehen.
 - **Hof:** **Semban** führt den Familienhof in Skirraa **unverändert weiter**. Tibun ist nicht dessen Oberhaupt; seine Abwesenheit löst **keine Hofkrise** aus. Die frühere Versorgungs-Sorge entfällt.
 
 **Verwandtschaft & Mellia geklärt:** Semban = Tibuns **leiblicher Vater** (Ehemann der verschwundenen Girlin). Er hält Girlin für tot und bindet sich **rasch** neu an Mellia (Girlins frühere Freundin); der schnelle Ersatz schmerzt Tibun — der als einziger Zeuge des Ring-Flips **weiß**, dass Girlin lebt — und treibt ihn mit fort. Überall vereinheitlicht.

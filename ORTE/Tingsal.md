@@ -5,13 +5,13 @@ Regionales Zentrum des Nordvolks. Name aus *ting* (Thing/Versammlung) + *sal* (H
 ---
 
 ## Lage
-- Im Hinterland von Vendsyssel (Nordjütland), **ein Tagesmarsch** von [Skirraa](skirraa.md)
+- Im Hinterland von Vendsyssel (Nordjütland), **ein Tagesmarsch** von [Skirraa](Skirraa.md)
 - Sammelpunkt der umliegenden Weiler
 
 ## Funktion
-- **Häuptlingssitz** — Sitz des regionalen Anführers **[Hadurik](../MENSCHEN/NORDVOLK/NEBENFIGUREN/hadurik.md)**, große Halle als Macht- und Festzentrum (Hallenkultur der Vendelzeit)
+- **Häuptlingssitz** — Sitz des regionalen Anführers **[Hadurik](../MENSCHEN/NORDVOLK/NEBENFIGUREN/Hadurik.md)**, große Halle als Macht- und Festzentrum (Hallenkultur der Vendelzeit)
 - **Thingplatz** — regelmäßige Rechts- und Versammlungsstätte der freien Bauern
-- Kult- und Orakelort: Hier lebt die **sesshafte [Wala](../MENSCHEN/NORDVOLK/NEBENFIGUREN/wala-tingsal.md)** (Veleda-Modell — abgesondert, hochgeehrt, über Mittler befragt)
+- Kult- und Orakelort: Hier lebt die **sesshafte [Wala](../MENSCHEN/NORDVOLK/NEBENFIGUREN/Wala-Tingsal.md)** (Veleda-Modell — abgesondert, hochgeehrt, über Mittler befragt)
 
 ## Verhältnis zu Skirraa
 - Skirraa ist ein abseitiger Weiler ohne eigene Seherin; für Recht, Thing und Orakel reist man nach Tingsal

@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| **Rolle** | Häuptling von [Tingsal](../../../ORTE/tingsal.md), regionaler Anführer mit Thinghalle |
+| **Rolle** | Häuptling von [Tingsal](../../../ORTE/Tingsal.md), regionaler Anführer mit Thinghalle |
 | **Alter** | Offen |
-| **Herkunft** | [Tingsal](../../../ORTE/tingsal.md) |
+| **Herkunft** | [Tingsal](../../../ORTE/Tingsal.md) |
 
 **Familie**
 
@@ -32,7 +32,7 @@ Offen.
 
 ## Bedeutung in der Geschichte
 
-Regionaler Anführer mit Thinghalle in [Tingsal](../../../ORTE/tingsal.md). Rolle und Verhältnis zu [Tibun](../tibun.md) / [Skirraa](../../../ORTE/skirraa.md) noch offen.
+Regionaler Anführer mit Thinghalle in [Tingsal](../../../ORTE/Tingsal.md). Rolle und Verhältnis zu [Tibun](../Tibun.md) / [Skirraa](../../../ORTE/Skirraa.md) noch offen.
 
 Der Name ist germanisch-zweigliedrig (*hadu* „Kampf" + *rik* „Herrscher") — bewusst schwerer und herrschaftlicher als die Dorffiguren, markiert Rang.
 

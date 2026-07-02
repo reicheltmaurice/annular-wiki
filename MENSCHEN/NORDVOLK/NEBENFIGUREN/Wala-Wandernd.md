@@ -16,7 +16,7 @@
 
 | | |
 |---|---|
-| **Zwillingsschwester** | [Wala von Tingsal](wala-tingsal.md) |
+| **Zwillingsschwester** | [Wala von Tingsal](Wala-Tingsal.md) |
 
 ---
 
@@ -34,9 +34,9 @@ Offen.
 
 ## Bedeutung in der Geschichte
 
-Zieht durchs Hinterland von Weiler zu Weiler, kommt gelegentlich nach [Skirraa](../../../ORTE/skirraa.md). Mögliche spätere Szene / Erwähnung am geparkten Hain [Vilund](../../../ORTE/sonstiges.md).
+Zieht durchs Hinterland von Weiler zu Weiler, kommt gelegentlich nach [Skirraa](../../../ORTE/Skirraa.md). Mögliche spätere Szene / Erwähnung am geparkten Hain [Vilund](../../../ORTE/sonstiges.md).
 
-Weiß **nichts** vom vergrabenen Ring am Bach (siehe [C-008](../../../NOTIZEN/offene-challenges.md)).
+Weiß **nichts** vom vergrabenen Ring am Bach (siehe [C-008](../../../NOTIZEN/Offene-Challenges.md)).
 
 **Rolle noch offen** — bisher Möglichkeit, keine Szene.
 
@@ -44,7 +44,7 @@ Weiß **nichts** vom vergrabenen Ring am Bach (siehe [C-008](../../../NOTIZEN/of
 
 ## Verbindungen zu anderen Charakteren
 
-- Zwillingsschwester: [Wala von Tingsal](wala-tingsal.md)
+- Zwillingsschwester: [Wala von Tingsal](Wala-Tingsal.md)
 
 ---
 

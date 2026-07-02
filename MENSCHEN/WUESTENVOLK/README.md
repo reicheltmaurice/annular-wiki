@@ -4,5 +4,5 @@ Die Sahrin sind ein nomadisches Wüstenvolk. In ihre Welt verschlägt es Girlin 
 
 ## Charaktere
 
-- [Assim Atwan](assim-atwan.md)
+- [Assim Atwan](Assim-Atwan.md)
 - [Nebenfiguren](NEBENFIGUREN/README.md)

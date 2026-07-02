@@ -17,14 +17,14 @@ Bei Aktivierung rotieren sie 180° um einen Durchmesser (Achse in der Ringebene)
 ---
 
 ## Funktionsweise
-- Aktivierung durch unbekannte elektrische Energie (Auslöser, nicht Ziel — das Ziel bestimmen die Runen). Der elektrische Funke ist nur der Zünder; die eigentliche Energie kommt aus dem Ringsystem selbst. Siehe [Generator](generator.md) und [Elektrizität](elektrizitaet.md).
+- Aktivierung durch unbekannte elektrische Energie (Auslöser, nicht Ziel — das Ziel bestimmen die Runen). Der elektrische Funke ist nur der Zünder; die eigentliche Energie kommt aus dem Ringsystem selbst. Siehe [Generator](Generator.md) und [Elektrizität](Elektrizitaet.md).
 - Ein Ring verbindet **immer genau zwei** Ringe, niemals mehr. Welche zwei, regelt die Kopplung (siehe unten)
 
 ---
 
 ## Aktivierung & Tausch
 
-Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Drehung definiert eine **Kugel**, deren Inhalt mit dem des Partnerrings ausgetauscht wird. Entscheidungslog: [C-012](../NOTIZEN/offene-challenges.md).
+Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Drehung definiert eine **Kugel**, deren Inhalt mit dem des Partnerrings ausgetauscht wird. Entscheidungslog: [C-012](../NOTIZEN/Offene-Challenges.md).
 
 - **Tauschvolumen = Außenkugel.** Maßgeblich ist die **Außenkante** des Rings: Die Tausch-Kugel hat den Außendurchmesser (≈ 3,81 m beim 3-m-Ring). **Der Ringkörper selbst wird mitgetauscht** — er reicht beim Flip nie über seine eigene Außenkugel hinaus und berührt damit keine Materie außerhalb des Tauschvolumens. So gibt es kein „Durchpflügen" von umgebendem Erdreich.
 - **Harter Tausch.** Der gesamte Kugelinhalt wird kompromisslos 1:1 mit der Gegenseite getauscht — auch bei stark verschiedenem Inhalt (z. B. Luft gegen massiven Sand). Beide gepaarten Ringe flippen gleichzeitig.
@@ -62,13 +62,13 @@ Es gibt nur wenige festgelegte Ringgrößen; nur Ringe gleicher Größe kuppeln 
 | **3,00 m** | ~8 t | ortsfest, untransportierbar | Menschen & Waren. Skir- und Sahrin-Ring. |
 | **0,30 m** | ~8 kg | tragbar, evtl. versetzbar | Kleine Pakete & Briefe — ein Postsystem. |
 
-Weitere Größen noch offen. Der Postzweck der kleinen Ringe ist die **ursprüngliche Bestimmung der Erbauer**, heute vergessen — niemand in der Welt von 550 kennt das System ([C-008](../NOTIZEN/offene-challenges.md)).
+Weitere Größen noch offen. Der Postzweck der kleinen Ringe ist die **ursprüngliche Bestimmung der Erbauer**, heute vergessen — niemand in der Welt von 550 kennt das System ([C-008](../NOTIZEN/Offene-Challenges.md)).
 
 ---
 
 ## Material & Bearbeitung
 
-Das Material ist mystisch und nicht identifizierbar ([C-004](../NOTIZEN/offene-challenges.md)). Für die Bearbeitung gilt:
+Das Material ist mystisch und nicht identifizierbar ([C-004](../NOTIZEN/Offene-Challenges.md)). Für die Bearbeitung gilt:
 
 > **Die Oberfläche nimmt eine Gravur an — der Körper ist unzerstörbar.**
 

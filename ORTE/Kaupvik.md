@@ -7,16 +7,16 @@ Handelssiedlung und Hafen an der Schlei. Der Name bedeutet „Handelsbucht".
 ## Wesen des Ortes
 - Marktplatz und Hafen, Handel mit Fernreisenden
 - Vorbild: Gudme/Lundeborg-Komplex (3.–6. Jh.) — Handelsplatz mit Kultbezug
-- Größter Ort in Tibuns erreichbarer Welt; Gegenpol zur Abgeschiedenheit von [Skirraa](skirraa.md)
+- Größter Ort in Tibuns erreichbarer Welt; Gegenpol zur Abgeschiedenheit von [Skirraa](Skirraa.md)
 
 ## Lage und Anreise
 - An der Schlei, weit im Süden — Vorbild und Lage des späteren Haithabu
-- Von [Skirraa](skirraa.md) trennen es **rund 14 Tagesmärsche** (gut zwei Wochen) auf dem **direkten Weg** über den Heerweg (Ochsenweg) — die Strecke, die Tibun beim **Rückweg** nimmt. Hin- und Reiseverlauf noch offen. Er kommt als völliger Fremder an; niemand kennt Skirraa.
+- Von [Skirraa](Skirraa.md) trennen es **rund 14 Tagesmärsche** (gut zwei Wochen) auf dem **direkten Weg** über den Heerweg (Ochsenweg) — die Strecke, die Tibun beim **Rückweg** nimmt. Hin- und Reiseverlauf noch offen. Er kommt als völliger Fremder an; niemand kennt Skirraa.
 
 ## Bedeutung für die Geschichte
-- **Endpunkt und Wendepunkt** von Tibuns Reise (siehe [C-022](../NOTIZEN/offene-challenges.md)): der weiteste Punkt — von hier kehrt er **direkt nach Skirraa zurück**, um den Generator zu bauen. Der genaue Reiseverlauf bis hierher ist noch offen.
-- Was er auf der Reise sucht: Bernstein, bessere Mechanik **und** Wissen über den Portalring — getrieben von der Suche nach seiner verschwundenen Mutter (siehe [Zeitleiste](../zeitleiste.md))
-- Schauplatz seines Erkenntnismoments am Hafen (Bootsziehwinde, siehe [C-002](../NOTIZEN/offene-challenges.md)) — der Auslöser für den Generatorbau
+- **Endpunkt und Wendepunkt** von Tibuns Reise (siehe [C-022](../NOTIZEN/Offene-Challenges.md)): der weiteste Punkt — von hier kehrt er **direkt nach Skirraa zurück**, um den Generator zu bauen. Der genaue Reiseverlauf bis hierher ist noch offen.
+- Was er auf der Reise sucht: Bernstein, bessere Mechanik **und** Wissen über den Portalring — getrieben von der Suche nach seiner verschwundenen Mutter (siehe [Zeitleiste](../Zeitleiste.md))
+- Schauplatz seines Erkenntnismoments am Hafen (Bootsziehwinde, siehe [C-002](../NOTIZEN/Offene-Challenges.md)) — der Auslöser für den Generatorbau
 
 ## Authentizität
 - Boote kommen um 550 **ohne Segel** an — reine Ruderfahrt entlang der Küste. Das begrenzt Reichweite und Frachtmenge des Fernhandels.

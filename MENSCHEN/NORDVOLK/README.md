@@ -4,6 +4,6 @@ Das Nordvolk lebt in der rauen Heide- und Küstenlandschaft Nordjütlands (Vends
 
 ## Charaktere
 
-- [Tibun](tibun.md)
-- [Girlin](girlin.md)
+- [Tibun](Tibun.md)
+- [Girlin](Girlin.md)
 - [Nebenfiguren](NEBENFIGUREN/README.md)
