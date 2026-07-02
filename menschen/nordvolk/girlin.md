@@ -17,8 +17,8 @@
 | | |
 |---|---|
 | **Sohn** | [Tibun](tibun.md) |
-| **Tochter** | [Tara](nebenfiguren.md#tara) |
-| **Ehemann** | [Semban](nebenfiguren.md#semban) |
+| **Tochter** | [Tara](Nebenfiguren/tara.md) |
+| **Ehemann** | [Semban](Nebenfiguren/semban.md) |
 
 ---
 
@@ -43,8 +43,8 @@ Verschwindet durch den Portalring in die Wüste und durchlebt dort einen eigenen
 ## Verbindungen zu anderen Charakteren
 
 - Sohn: [Tibun](tibun.md)
-- Tochter: [Tara](nebenfiguren.md#tara)
-- Ehemann: [Semban](nebenfiguren.md#semban)
+- Tochter: [Tara](Nebenfiguren/tara.md)
+- Ehemann: [Semban](Nebenfiguren/semban.md)
 - Freundin: [Bellbrim](../andere/bellbrim.md)
 
 ---

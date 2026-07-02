@@ -17,14 +17,14 @@
 | | |
 |---|---|
 | **Mutter** | [Girlin](girlin.md) |
-| **Vater** | [Semban](nebenfiguren.md#semban) |
-| **Schwester** | [Tara](nebenfiguren.md#tara) |
+| **Vater** | [Semban](Nebenfiguren/semban.md) |
+| **Schwester** | [Tara](Nebenfiguren/tara.md) |
 
 ---
 
 ## Frühes Leben
 
-Tibun wächst in Skirraa auf, einem abgelegenen Weiler im hohen Norden. Mit **15** entdeckt er zufällig den Bernstein-Effekt (Prolog), versteht ihn aber noch nicht. Ein Jahr später (**16**) verschwindet seine Mutter vor seinen Augen durch den aktivierten Portalring. Wieder rund ein Jahr darauf (**17**) verlässt er das Dorf zu einer etwa **achtjährigen Wanderschaft** — auf der Suche nach ihr, nach Bernstein, nach Wissen über den Portalring und nach Mechanik. Ziel und Wendepunkt ist [Kaupvik](../../orte/kaupvik.md) an der Schlei, weit im Süden, wo er längere Zeit verbringt: Hier führt ein Unfall an einer Bootsziehwinde zum entscheidenden Erkenntnismoment, und er baut das erste Tischmodell des Generators. Mit **25** kehrt er **direkt nach Skirraa** zurück — genauer: zum Ring am Bach; das Dorf interessiert ihn kaum noch. Binnen eines Jahres vollendet er die große Wasseranlage und zündet den Ring mit **26** zum ersten Mal manuell (Finale). Sein Vater [Semban](nebenfiguren.md#semban) führt den Hof in seiner Abwesenheit unverändert weiter — hat Girlin aber rasch für tot erklärt und sich neu an [Mellia](nebenfiguren.md#mellia) gebunden. Tibun **weiß** als einziger Zeuge, dass seine Mutter nicht tot ist, sondern vom Ring wegteleportiert wurde — dass der Rest des Dorfes sie aufgibt, ist ein weiterer Grund für seinen Aufbruch.
+Tibun wächst in Skirraa auf, einem abgelegenen Weiler im hohen Norden. Mit **15** entdeckt er zufällig den Bernstein-Effekt (Prolog), versteht ihn aber noch nicht. Ein Jahr später (**16**) verschwindet seine Mutter vor seinen Augen durch den aktivierten Portalring. Wieder rund ein Jahr darauf (**17**) verlässt er das Dorf zu einer etwa **achtjährigen Wanderschaft** — auf der Suche nach ihr, nach Bernstein, nach Wissen über den Portalring und nach Mechanik. Ziel und Wendepunkt ist [Kaupvik](../../orte/kaupvik.md) an der Schlei, weit im Süden, wo er längere Zeit verbringt: Hier führt ein Unfall an einer Bootsziehwinde zum entscheidenden Erkenntnismoment, und er baut das erste Tischmodell des Generators. Mit **25** kehrt er **direkt nach Skirraa** zurück — genauer: zum Ring am Bach; das Dorf interessiert ihn kaum noch. Binnen eines Jahres vollendet er die große Wasseranlage und zündet den Ring mit **26** zum ersten Mal manuell (Finale). Sein Vater [Semban](Nebenfiguren/semban.md) führt den Hof in seiner Abwesenheit unverändert weiter — hat Girlin aber rasch für tot erklärt und sich neu an [Mellia](Nebenfiguren/mellia.md) gebunden. Tibun **weiß** als einziger Zeuge, dass seine Mutter nicht tot ist, sondern vom Ring wegteleportiert wurde — dass der Rest des Dorfes sie aufgibt, ist ein weiterer Grund für seinen Aufbruch.
 
 ---
 
@@ -44,8 +44,8 @@ Tibun ist die zentrale Figur der Handlung und treibt die Entdeckung der Portalri
 ## Verbindungen zu anderen Charakteren
 
 - Mutter: [Girlin](girlin.md)  
-- Vater: [Semban](nebenfiguren.md#semban)
-- Schwester: [Tara](nebenfiguren.md#tara)
+- Vater: [Semban](Nebenfiguren/semban.md)
+- Schwester: [Tara](Nebenfiguren/tara.md)
 - Verbündete: [Bellbrim](../andere/bellbrim.md)
 
 ---

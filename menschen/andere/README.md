@@ -5,4 +5,4 @@ Figuren, die keinem der beiden Völker fest zugeordnet sind.
 ## Charaktere
 
 - [Bellbrim](bellbrim.md)
-- [Nebenfiguren](nebenfiguren.md)
+- [Nebenfiguren](Nebenfiguren/README.md)

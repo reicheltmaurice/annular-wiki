@@ -8,16 +8,22 @@
 * Nordvolk
   * [Tibun](menschen/nordvolk/tibun.md)
   * [Girlin](menschen/nordvolk/girlin.md)
-  * [Nebenfiguren](menschen/nordvolk/nebenfiguren.md)
+  * [Nebenfiguren](menschen/nordvolk/Nebenfiguren/README.md)
+    * [Tara](menschen/nordvolk/Nebenfiguren/tara.md)
+    * [Semban](menschen/nordvolk/Nebenfiguren/semban.md)
+    * [Mellia](menschen/nordvolk/Nebenfiguren/mellia.md)
+    * [Hadurik](menschen/nordvolk/Nebenfiguren/hadurik.md)
+    * [Wala von Tingsal](menschen/nordvolk/Nebenfiguren/wala-tingsal.md)
+    * [Wandernde Wala](menschen/nordvolk/Nebenfiguren/wala-wandernd.md)
 * Volk der Sahrin
   * [Das Volk der Sahrin](menschen/wuestenvolk/das-volk-der-sahrin.md)
   * [Erscheinung & Lebensweise](menschen/wuestenvolk/allgemein.md)
   * [Karawanen](menschen/wuestenvolk/karawanen.md)
   * [Assim Atwan](menschen/wuestenvolk/assim-atwan.md)
-  * [Nebenfiguren](menschen/wuestenvolk/nebenfiguren.md)
+  * [Nebenfiguren](menschen/wuestenvolk/Nebenfiguren/README.md)
 * Weitere Figuren
   * [Bellbrim](menschen/andere/bellbrim.md)
-  * [Nebenfiguren](menschen/andere/nebenfiguren.md)
+  * [Nebenfiguren](menschen/andere/Nebenfiguren/README.md)
 
 ## Kulturen
 

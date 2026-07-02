@@ -25,12 +25,12 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-029: Assim Atwan — Charakter, Motivation & Fähigkeiten](#c-029-assim-atwan--charakter-motivation--fähigkeiten)
 - [C-031: Tibun — Inspiration/Besetzung](#c-031-tibun--inspirationbesetzung)
 - [C-032: Girlin — Inspiration/Besetzung](#c-032-girlin--inspirationbesetzung)
-- [C-033: Nebenfiguren — eigene Dateien & strukturierte Felder](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder)
 - [C-034: Tibuns Lebensgrundlage während der Wanderschaft](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft)
 
 **Gelöst / Entschieden**
 - [C-023: Zeitleiste & Altersgerüst ✓](#c-023-zeitleiste--altersgerüst-)
 - [C-030: Taras Alter ✓](#c-030-taras-alter-)
+- [C-033: Nebenfiguren — eigene Dateien & strukturierte Felder ✓](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder-)
 - [C-012: Aktivierungsverhalten des Rings ✓](#c-012-aktivierungsverhalten-des-rings-)
 - [C-008: Anzahl und Bekanntheit der Ringe ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)
 - [C-010: Ringsystem — Kopplungsmechanik ✓](#c-010-ringsystem--kopplungsmechanik-)
@@ -72,7 +72,7 @@ Vilund war als heiliger Hain *mit* Ring konzipiert; durch die Verlagerung des Ri
 Noch nicht entschieden.
 
 ### C-009: Häuptling von Tingsal
-[Tingsal](../orte/tingsal.md) (regionaler Häuptlingssitz + Thingplatz, ein Tagesmarsch von [Skirraa](../orte/skirraa.md)) hat noch keinen Anführer. Offene Figurenlücke: Name, Charakter und Rolle des Häuptlings — als regionale Autorität und möglicher Gegenpol zu Skirraas freien Bauern. Verhältnis zur sesshaften [Wala](../menschen/nordvolk/nebenfiguren.md) (lebt in Tingsal) noch zu klären. Bei eigener Funktion eigene Datei.
+[Tingsal](../orte/tingsal.md) (regionaler Häuptlingssitz + Thingplatz, ein Tagesmarsch von [Skirraa](../orte/skirraa.md)) hat als Anführer [**Hadurik**](../menschen/nordvolk/Nebenfiguren/hadurik.md) (Name gesetzt, eigene Datei angelegt). **Weiterhin offen:** Charakter und Rolle des Häuptlings — als regionale Autorität und möglicher Gegenpol zu Skirraas freien Bauern; Verhältnis zu [Tibun](../menschen/nordvolk/tibun.md)/Skirraa sowie zur sesshaften [Wala](../menschen/nordvolk/Nebenfiguren/wala-tingsal.md) (lebt ebenfalls in Tingsal).
 
 ### C-011: Kreis oder Spirale? (Struktur des Kreislaufs)
 Die Kosmologie ([welt/README.md](../welt/README.md)) ist ein zyklischer Loop des Ringsystems (Erwachen → Aufstieg → Zusammenbruch → Vergessen → …). Offen: Wiederholt sich jeder Zyklus **identisch** (perfekter Kreis) oder **driftet** er minimal (Spirale)?
@@ -148,13 +148,6 @@ Vorbild/Besetzung (Schauspieler oder Figur-Inspiration) für [Tibun](../menschen
 ### C-032: Girlin — Inspiration/Besetzung
 Vorbild/Besetzung für [Girlin](../menschen/nordvolk/girlin.md) noch offen. Autorenebene (Todo), keine Story-Frage.
 
-### C-033: Nebenfiguren — eigene Dateien & strukturierte Felder
-Nebenfiguren stehen aktuell als Stichpunkt-Liste in den `nebenfiguren.md` je Volk ([Nordvolk](../menschen/nordvolk/nebenfiguren.md), [Sahrin](../menschen/wuestenvolk/nebenfiguren.md), [Andere](../menschen/andere/nebenfiguren.md)). Dadurch fehlen strukturierte Felder — u. a. die zweiwertige Altersangabe (Anfang/Ende), die für die Hauptfiguren gilt.
-
-**Tendenz (Autor):** Jede Nebenfigur bekommt eine **eigene Datei** in einem Unterordner `Nebenfiguren/` (je Volk), angelegt nach [charakter-template.md](../menschen/charakter-template.md). Vorteil: alle Felder strukturiert; wird eine Figur wichtiger, genügt das **Verschieben** der Datei.
-
-Offen: ob/wann umsetzen; Ordnerstruktur; für alle Nebenfiguren oder nur die mit genug Substanz (Tara, Semban, Mellia, Hadurik, die Walas). Bei Umsetzung SUMMARY.md + READMEs nachziehen. Berührt [C-030](#c-030-taras-alter-) (Taras Alter).
-
 ### C-034: Tibuns Lebensgrundlage während der Wanderschaft
 Tibun ist rund **8 Jahre** allein unterwegs (17 → 25, [Zeitleiste](../zeitleiste.md)). Wovon lebt er in dieser Zeit? Aktuell ist nur das *Motiv* geklärt (Bernstein, Ringwissen, Mechanik), nicht die Existenzgrundlage. Historisch plausibel für 550 n.Chr.:
 - **Handwerkslehre/Wanderjahre** — er verdingt sich unterwegs, lernt Mechanik durch Mitarbeit (passt zum Motiv „Mechanik lernen").
@@ -179,7 +172,14 @@ Vollständiges Altersgerüst in der [Zeitleiste](../zeitleiste.md) festgelegt (J
 Ausgelagert: Tibuns Existenzgrundlage während der 8 Reisejahre → C-034.
 
 ### C-030: Taras Alter ✓
-[Tara](../menschen/nordvolk/nebenfiguren.md#tara) ist **7 Jahre jünger** als Tibun: 8 (Prolog) / 9 (Girlins Verschwinden) / 19 (Finale). Die alte Absolutangabe „5" (unter der überholten Tibun-12-Annahme) entfällt.
+[Tara](../menschen/nordvolk/Nebenfiguren/tara.md) ist **7 Jahre jünger** als Tibun: 8 (Prolog) / 9 (Girlins Verschwinden) / 19 (Finale). Die alte Absolutangabe „5" (unter der überholten Tibun-12-Annahme) entfällt.
+
+### C-033: Nebenfiguren — eigene Dateien & strukturierte Felder ✓
+Umgesetzt: Jede Nebenfigur hat eine **eigene Datei** in einem Unterordner `Nebenfiguren/` je Region (nach [charakter-template.md](../menschen/charakter-template.md)), mit README-Index. Wird eine Figur wichtiger, genügt das **Verschieben** eine Ebene höher.
+- **Nordvolk:** [Tara](../menschen/nordvolk/Nebenfiguren/tara.md), [Semban](../menschen/nordvolk/Nebenfiguren/semban.md), [Mellia](../menschen/nordvolk/Nebenfiguren/mellia.md), [Hadurik](../menschen/nordvolk/Nebenfiguren/hadurik.md), [Wala von Tingsal](../menschen/nordvolk/Nebenfiguren/wala-tingsal.md), [Wandernde Wala](../menschen/nordvolk/Nebenfiguren/wala-wandernd.md).
+- **Walas:** als **zwei getrennte Dateien** angelegt (sesshaft/wandernd, Zwillingsschwestern), Rollen weiter offen.
+- **Sahrin & Andere:** Ordner + README-Index angelegt, noch ohne Figuren.
+- SUMMARY.md, Region-READMEs und alle eingehenden Links (u. a. [tibun.md](../menschen/nordvolk/tibun.md), [girlin.md](../menschen/nordvolk/girlin.md), [zeitleiste.md](../zeitleiste.md), [tingsal.md](../orte/tingsal.md), [sonstiges.md](../orte/sonstiges.md)) nachgezogen; alte Sammel-`nebenfiguren.md` entfernt.
 
 ### C-012: Aktivierungsverhalten des Rings ✓
 **Mechanismus — Flip + Volltausch:**
@@ -252,7 +252,7 @@ Vollständige Regeln in [`portalringe.md`](../technik/portalringe.md). Kurz:
   1. **Bernstein** — Material für seinen Reibungsgenerator (C-002).
   2. **Wissen über den Portalring** — der eigentliche Antrieb: Durch einen solchen Ring verschwand seine Mutter [Girlin](../menschen/nordvolk/girlin.md) (C-008). Die Suche nach ihr trägt die weite Reise emotional — der frühere Zweifel am Reisegrund ist ausgeräumt.
   3. **Mechanik allgemein** — Handwerk und Technik für seine späteren Erfindungen.
-  4. **Schmerz/Aufbruch:** Sembans **rascher** neuer Bund mit [Mellia](../menschen/nordvolk/nebenfiguren.md#mellia) (alle halten Girlin für tot) ist für Tibun ein Verrat — denn er **weiß** als einziger Zeuge des Ring-Flips, dass Girlin lebt. Zusätzlicher emotionaler Antrieb fortzugehen.
+  4. **Schmerz/Aufbruch:** Sembans **rascher** neuer Bund mit [Mellia](../menschen/nordvolk/Nebenfiguren/mellia.md) (alle halten Girlin für tot) ist für Tibun ein Verrat — denn er **weiß** als einziger Zeuge des Ring-Flips, dass Girlin lebt. Zusätzlicher emotionaler Antrieb fortzugehen.
 - **Hof:** **Semban** führt den Familienhof in Skirraa **unverändert weiter**. Tibun ist nicht dessen Oberhaupt; seine Abwesenheit löst **keine Hofkrise** aus. Die frühere Versorgungs-Sorge entfällt.
 
 **Verwandtschaft & Mellia geklärt:** Semban = Tibuns **leiblicher Vater** (Ehemann der verschwundenen Girlin). Er hält Girlin für tot und bindet sich **rasch** neu an Mellia (Girlins frühere Freundin); der schnelle Ersatz schmerzt Tibun — der als einziger Zeuge des Ring-Flips **weiß**, dass Girlin lebt — und treibt ihn mit fort. Überall vereinheitlicht.

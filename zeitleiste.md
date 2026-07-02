@@ -42,8 +42,8 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 ## Tibuns Strang (Jahr 0 → +10)
 
 ### Nach dem Verschwinden (Jahr 0–1)
-- **Konflikt:** Allein zurückgelassen; die Dorfbewohner — vor allem [Semban](menschen/nordvolk/nebenfiguren.md#semban) — glauben Tibun nicht; Girlin gilt als weggelaufen oder tot
-- Semban bindet sich **rasch** neu an [Mellia](menschen/nordvolk/nebenfiguren.md#mellia) — für Tibun ein Verrat, denn er **weiß**, dass Girlin lebt ([C-022](notizen/offene-challenges.md))
+- **Konflikt:** Allein zurückgelassen; die Dorfbewohner — vor allem [Semban](menschen/nordvolk/Nebenfiguren/semban.md) — glauben Tibun nicht; Girlin gilt als weggelaufen oder tot
+- Semban bindet sich **rasch** neu an [Mellia](menschen/nordvolk/Nebenfiguren/mellia.md) — für Tibun ein Verrat, denn er **weiß**, dass Girlin lebt ([C-022](notizen/offene-challenges.md))
 
 ### Aufbruch & Wanderschaft (Jahr +1 → +9, Tibun 17 → 25)
 - **Konflikt/Antrieb:** Suche nach der Mutter, Bernstein, Wissen über den Ring, Mechanik
