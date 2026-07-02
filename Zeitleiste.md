@@ -1,6 +1,6 @@
 # Zeitleiste
 
-Interne Chronologie (Autorenebene). Jahre relativ zu **Girlins Verschwinden = Jahr 0** (dem auslösenden Ereignis). Konkrete Jahreszahlen erscheinen nicht im Erzähltext (Referenzjahr 550 n.Chr., siehe [C-001](NOTIZEN/Offene-Challenges.md)).
+Interne Chronologie (Autorenebene). Jahre relativ zu **Girlins Verschwinden = Jahr 0** (dem auslösenden Ereignis). Konkrete Jahreszahlen erscheinen nicht im Erzähltext (Referenzjahr 550 n.Chr., siehe [C-001](notizen/Offene-Challenges.md)).
 
 ## Altersgerüst
 
@@ -16,15 +16,15 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 <tr><td>Assim Atwan</td><td>—</td><td>offen</td><td>—</td><td>—</td><td>offen</td></tr>
 </table>
 
-- **Tara:** 7 Jahre jünger als Tibun (löst [C-030](NOTIZEN/Offene-Challenges.md)).
+- **Tara:** 7 Jahre jünger als Tibun (löst [C-030](notizen/Offene-Challenges.md)).
 - **Bellbrim:** tritt erst in Girlins Wüsten-Arc auf (nach Jahr 0); 40 als Richtwert beim Kennenlernen, 50 im Finale.
-- **Assim Atwan:** Alter offen ([C-028](NOTIZEN/Offene-Challenges.md)).
+- **Assim Atwan:** Alter offen ([C-028](notizen/Offene-Challenges.md)).
 
 ---
 
 ## Vor der Geschichte
 - Bau der ersten Portalringe durch unbekannte Zivilisation
-- Der Skir-Ring liegt seit Jahrtausenden vergraben am Bach nahe [Skirraa](ORTE/Skirraa.md) ([C-008](NOTIZEN/Offene-Challenges.md))
+- Der Skir-Ring liegt seit Jahrtausenden vergraben am Bach nahe [Skirraa](orte/Skirraa.md) ([C-008](notizen/Offene-Challenges.md))
 
 ## Prolog — Jahr −1 (Tibun 15)
 - Ein Jahr vor Girlins Verschwinden
@@ -33,8 +33,8 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - Er versteht das Prinzip noch **nicht** — die Einsicht kommt erst Jahre später in Kaupvik
 
 ## Jahr 0 — Girlins Verschwinden (Tibun 16, Girlin 30)
-- Weltweites Beben (Erwachen des Ringsystems) löst einen Erdrutsch am Steilufer der Skir aus und legt den vergrabenen Portalring frei ([C-008](NOTIZEN/Offene-Challenges.md))
-- Girlin verschwindet bei Blitzschlag-Aktivierung des freigelegten Rings ([C-012](NOTIZEN/Offene-Challenges.md))
+- Weltweites Beben (Erwachen des Ringsystems) löst einen Erdrutsch am Steilufer der Skir aus und legt den vergrabenen Portalring frei ([C-008](notizen/Offene-Challenges.md))
+- Girlin verschwindet bei Blitzschlag-Aktivierung des freigelegten Rings ([C-012](notizen/Offene-Challenges.md))
 - Tibun ist einziger Zeuge
 
 ---
@@ -42,15 +42,15 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 ## Tibuns Strang (Jahr 0 → +10)
 
 ### Nach dem Verschwinden (Jahr 0–1)
-- **Konflikt:** Allein zurückgelassen; die Dorfbewohner — vor allem [Semban](MENSCHEN/NORDVOLK/NEBENFIGUREN/Semban.md) — glauben Tibun nicht; Girlin gilt als weggelaufen oder tot
-- Semban bindet sich **rasch** neu an [Mellia](MENSCHEN/NORDVOLK/NEBENFIGUREN/Mellia.md) — für Tibun ein Verrat, denn er **weiß**, dass Girlin lebt ([C-022](NOTIZEN/Offene-Challenges.md))
+- **Konflikt:** Allein zurückgelassen; die Dorfbewohner — vor allem [Semban](menschen/nordvolk/nebenfiguren/Semban.md) — glauben Tibun nicht; Girlin gilt als weggelaufen oder tot
+- Semban bindet sich **rasch** neu an [Mellia](menschen/nordvolk/nebenfiguren/Mellia.md) — für Tibun ein Verrat, denn er **weiß**, dass Girlin lebt ([C-022](notizen/Offene-Challenges.md))
 
 ### Aufbruch & Wanderschaft (Jahr +1 → +9, Tibun 17 → 25)
 - **Konflikt/Antrieb:** Suche nach der Mutter, Bernstein, Wissen über den Ring, Mechanik
 - Rund ein Jahr nach Girlins Verschwinden verlässt Tibun Skirraa; das Dorf interessiert ihn nicht mehr, es geht ihm um den Ring
-- Rund **8 Jahre** unterwegs über den Ochsenweg gen Süden; Endpunkt und Wendepunkt ist [Kaupvik](ORTE/Kaupvik.md) an der Schlei
+- Rund **8 Jahre** unterwegs über den Ochsenweg gen Süden; Endpunkt und Wendepunkt ist [Kaupvik](orte/Kaupvik.md) an der Schlei
 - **In Kaupvik** (verbringt dort längere Zeit):
-  - Arbeitsunfall an einer Bootsziehwinde → **Erkenntnismoment**: schnelle, kontinuierliche Reibung = viel Ladung ([C-002](NOTIZEN/Offene-Challenges.md))
+  - Arbeitsunfall an einer Bootsziehwinde → **Erkenntnismoment**: schnelle, kontinuierliche Reibung = viel Ladung ([C-002](notizen/Offene-Challenges.md))
   - Erste Experimente, Bau des **Tischmodells** (Prototyp des Bernsteinrad-Generators)
 
 ### Rückkehr & Vollendung (Jahr +9 → +10, Tibun 25 → 26)
@@ -65,9 +65,9 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - Sie wacht in einer Wüste auf (Jahr 0)
 - Kämpft sich durch die Wüste bis in eine Stadt / einen Basar
 - **Konflikt:** Sprache und Kulturbarriere?
-- Begegnet [Bellbrim](MENSCHEN/ANDERE/Bellbrim.md), die ihr hilft
+- Begegnet [Bellbrim](menschen/andere/Bellbrim.md), die ihr hilft
 - Girlin überredet Bellbrim, den Portalring zu untersuchen
-- **Konflikt:** Arbeit am Ring (Fundort vs. Labor — Transport-Widerspruch, [C-018](NOTIZEN/Offene-Challenges.md))
+- **Konflikt:** Arbeit am Ring (Fundort vs. Labor — Transport-Widerspruch, [C-018](notizen/Offene-Challenges.md))
 - Beginn der Experimente mit dem Ring (Wassergenerator)
 - Vollenden des Wassergenerators
 
@@ -81,7 +81,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - Im Konflikt wird der Sahrin-Ring aktiviert
 
 ## Finale (Jahr +10)
-Beide gepaarten Ringe flippen **gleichzeitig** ([C-012](NOTIZEN/Offene-Challenges.md)) — Tibuns erste Zündung und die Aktivierung in der Wüste sind **dasselbe Ereignis**, kein Zufall.
+Beide gepaarten Ringe flippen **gleichzeitig** ([C-012](notizen/Offene-Challenges.md)) — Tibuns erste Zündung und die Aktivierung in der Wüste sind **dasselbe Ereignis**, kein Zufall.
 
 **Variante A:**
 - Assim Atwan wird zu Tibun teleportiert
