@@ -17,19 +17,20 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-017: Weitere Ringgrößen](#c-017-weitere-ringgrößen)
 - [C-018: Widerspruch — Transport des Sahrin-Rings](#c-018-widerspruch--transport-des-sahrin-rings)
 - [C-003: Sahrin — kulturelle Tiefe](#c-003-sahrin--kulturelle-tiefe)
-- [C-023: Zeitleiste & zeitliche Anordnung](#c-023-zeitleiste--zeitliche-anordnung)
 - [C-024: Girlin — Herkunft & Vorgeschichte](#c-024-girlin--herkunft--vorgeschichte)
 - [C-025: Girlin — Charakter & Fähigkeiten](#c-025-girlin--charakter--fähigkeiten)
 - [C-026: Bellbrim — historische Plausibilität & Herkunft](#c-026-bellbrim--historische-plausibilität--herkunft)
 - [C-027: Bellbrim — Vorgeschichte, Familie & Fähigkeiten](#c-027-bellbrim--vorgeschichte-familie--fähigkeiten)
 - [C-028: Assim Atwan — Herkunft & Hintergrund](#c-028-assim-atwan--herkunft--hintergrund)
 - [C-029: Assim Atwan — Charakter, Motivation & Fähigkeiten](#c-029-assim-atwan--charakter-motivation--fähigkeiten)
-- [C-030: Taras Alter — Widerspruch](#c-030-taras-alter--widerspruch)
 - [C-031: Tibun — Inspiration/Besetzung](#c-031-tibun--inspirationbesetzung)
 - [C-032: Girlin — Inspiration/Besetzung](#c-032-girlin--inspirationbesetzung)
 - [C-033: Nebenfiguren — eigene Dateien & strukturierte Felder](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder)
+- [C-034: Tibuns Lebensgrundlage während der Wanderschaft](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft)
 
 **Gelöst / Entschieden**
+- [C-023: Zeitleiste & Altersgerüst ✓](#c-023-zeitleiste--altersgerüst-)
+- [C-030: Taras Alter ✓](#c-030-taras-alter-)
 - [C-012: Aktivierungsverhalten des Rings ✓](#c-012-aktivierungsverhalten-des-rings-)
 - [C-008: Anzahl und Bekanntheit der Ringe ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)
 - [C-010: Ringsystem — Kopplungsmechanik ✓](#c-010-ringsystem--kopplungsmechanik-)
@@ -49,13 +50,13 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 Was baut Tibun als Erwachsener (~25+), um den Portalring zu zünden? (Ersatz für den gestrichenen Van-de-Graaff, C-005.)
 
 **Festgelegt:**
-- **Erkenntnismoment:** Arbeitsunfall an einer Bootsziehwinde — ein Seil rutscht unter Last, wird heiß, raucht. Tibun kennt den Bernstein-Effekt seit der Kindheit (~12), versteht aber erst nach diesem Unfall (~25+): schnelle, kontinuierliche Reibung = viel Ladung. Abstand ~15 Jahre.
+- **Erkenntnismoment:** Arbeitsunfall an einer Bootsziehwinde — ein Seil rutscht unter Last, wird heiß, raucht. Tibun kennt den Bernstein-Effekt seit der Jugend (**15**, Prolog), versteht aber erst nach diesem Unfall in Kaupvik (gegen Ende der Wanderschaft, ~24): schnelle, kontinuierliche Reibung = viel Ladung. Abstand ~9 Jahre. (Siehe [Zeitleiste](../zeitleiste.md)/C-023.)
 - **Generator = rotierendes Bernsteinrad** (Reibekörper, kein Konduktor — Bernstein ist Isolator; Prinzip Guericke 1663). Holzfelge + aufgesetzter **Bernsteinkranz** (Segmente, Birkenpech-verfugt, poliert; ~20 kg). Reibkissen (Fell/Wolle/Leder) am Umfang lädt den Kranz. Antrieb: Wasserrad (große Anlage) bzw. Handkurbel (Prototyp). **Kein Eisen in der Reibzone.** Rein empirisch, ohne Theorie. (Eisen-/Kugel-/VdG-Variante verworfen.)
 - **Zünder-Prinzip:** Tibuns Funke ist nur der *Auslöser*; die Teleport-Energie kommt aus dem Ring/System (mystisch). Reale Physik bleibt auf Reibung → Funke beschränkt. **Kein gebauter Speicher** (Leidener Flasche = Anachronismus, verworfen; bliebe Rückfall-Option als Bronzeblech-Wasserfass, falls je ein Apparat-Blitz nötig wird).
 - **Ring als natürlicher Speicher:** Der große Ringkörper hat genug Eigenkapazität (~200 pF → ~1 J, ~100× Türklinken-Funke) für einen sichtbaren, knallenden Zünd-Überschlag — „deutlich größer als Türklinke", kein Gewitterblitz, kein Anachronismus. (Merksatz: Kapazität ∝ *Größe* des Leiters, nicht Masse/Drahtlänge.)
 - **Zündablauf:** Rad dreht bis zur Sättigung (blaues Glimmen = bereit) → nah an den Ring → Funkensprühen lädt den Ring → Zünd-Überschlag.
 - **Energiegrenze (Authentizität):** statische Entladung = schmerzhafter, im Dunkeln sichtbarer Funke, aber **keine Brandwunden**. Gefahr am Generator kommt aus dem *mechanischen* Teil (heißes Seil, schnelle Rollen).
-- **Bau-Chronologie (Erzählangebot):** Tisch-Modell (Prototyp) → große Wasseranlage.
+- **Bau-Chronologie:** Tisch-Modell (Prototyp) in **Kaupvik** während der Reise → große Wasseranlage nach der Rückkehr in Skirraa (~25 → 26). (Festgelegt via C-023.)
 - **Konsistenz:** Girlins Verschwinden durch Blitzschlag (C-008) ist dasselbe Prinzip, nur zufällig.
 
 **Offen — Übertragung (finaler Aufbau):** Wie kommt die Ladung vom Rad zum Ring? Direkte Annäherung des Rades / Metallstab / an der Decke isoliert aufgehängte **Metallkette**. Die Kette ausdrücklich als *dramaturgisches Element* zugelassen, auch wenn technisch ineffizient — Tibun darf als Erfinder Umwege/Fehler machen.
@@ -123,18 +124,6 @@ Nomadisches Wüstenvolk. Welche reale Kultur als Vorlage für 550 n.Chr.?
 
 Benötigt: Kultur, Religion, Sprache/Redewendungen, soziale Struktur, Verhältnis zu Sesshaften.
 
-### C-023: Zeitleiste & zeitliche Anordnung
-Die [Zeitleiste](../zeitleiste.md) und die verstreuten Zeitanker sind noch nicht konsistent geordnet. Offene Knoten:
-
-- **Tibuns Spanne:** Girlin verschwindet, als Tibun **12** ist (C-008). Den Generator baut er **~25+** (C-006); C-002 nennt ~15 Jahre zwischen Bernstein-Entdeckung (~12) und Verständnis (~25+). Dazwischen ~13–15 Jahre — **wann** darin liegt die Wanderschaft (C-022: mehrere Monate bis wenige Jahre)? Aufbruchsalter offen (tibun.md: Schnappschüsse 15/25).
-- **Ordnungs-Konflikt:** Die Zeitleiste listet „Idee zum Generator" + „Beginn des Experiments" **vor** der Reise. Der zündende Erkenntnismoment ist aber laut C-002 der Unfall an der **Bootsziehwinde in Kaupvik** — also *während* der Reise. Reihenfolge korrigieren: Reise/Kaupvik-Einsicht → Idee → Bau.
-- **Parallele Zeitlinien:** Tibuns Arc (12 → ~25+) und [Girlins Wüsten-Arc](../zeitleiste.md) (Bellbrim, Assim, Ring-Reaktivierung im Finale) laufen aufeinander zu. Wenn beide Ringe im Finale gemeinsam zünden: Verbringt Girlin **~13–15 Jahre** in der Wüste? Das ist lang — Dauer und Gleichzeitigkeit zu klären.
-- **Semban/Mellia-Tempo:** Zeitleiste sagt „kommen sich näher" (allmählich), C-022 sagt **rasch** (alle halten Girlin für tot). Formulierung angleichen.
-- **Anfangsalter Tibun:** [tibun.md](../menschen/nordvolk/tibun.md) nennt **15**, die [Zeitleiste](../zeitleiste.md) **12** (zu Beginn, als Girlin verschwindet) — Widerspruch, zu klären.
-- **Endalter aller Figuren:** Die zweite Altersangabe (Ende / nach Timeskip) jeder Figur ergibt sich erst aus der Timeskip-Länge — bis dahin in den Figuren-Tabellen als offen markiert.
-
-Berührt: C-002, C-006, C-008, C-022. Anzugehen, wenn die Zeitleiste ausgearbeitet wird.
-
 ### C-024: Girlin — Herkunft & Vorgeschichte
 [Girlin](../menschen/nordvolk/girlin.md) (Tibuns Mutter) ist kaum ausgearbeitet. Offen: Woher stammt sie? In Skirraa geboren oder zugezogen — und woher? Vorgeschichte vor der Ehe mit Semban. Relevant, weil sie als verschleppte Protagonistin einen eigenen Wüsten-Arc trägt.
 
@@ -153,9 +142,6 @@ Frühes Leben, Familie und konkrete Fähigkeiten sind offen. Was genau kann sie 
 ### C-029: Assim Atwan — Charakter, Motivation & Fähigkeiten
 Was treibt Assim an (über „Sklaverei/Schmuggel" hinaus)? Charakter, Mittel und besondere Fähigkeiten als glaubwürdiger Gegenspieler — und warum er gerade Girlin/den Ring ins Visier nimmt.
 
-### C-030: Taras Alter — Widerspruch
-[Tara](../menschen/nordvolk/nebenfiguren.md) ist laut nebenfiguren.md „3 Jahre jünger" als Tibun (bei Tibun 12 → 9), laut [Zeitleiste](../zeitleiste.md) aber **5** (→ 7 Jahre jünger). Eine der beiden Angaben muss korrigiert werden.
-
 ### C-031: Tibun — Inspiration/Besetzung
 Vorbild/Besetzung (Schauspieler oder Figur-Inspiration) für [Tibun](../menschen/nordvolk/tibun.md) noch offen. Autorenebene (Todo), keine Story-Frage.
 
@@ -167,11 +153,33 @@ Nebenfiguren stehen aktuell als Stichpunkt-Liste in den `nebenfiguren.md` je Vol
 
 **Tendenz (Autor):** Jede Nebenfigur bekommt eine **eigene Datei** in einem Unterordner `Nebenfiguren/` (je Volk), angelegt nach [charakter-template.md](../menschen/charakter-template.md). Vorteil: alle Felder strukturiert; wird eine Figur wichtiger, genügt das **Verschieben** der Datei.
 
-Offen: ob/wann umsetzen; Ordnerstruktur; für alle Nebenfiguren oder nur die mit genug Substanz (Tara, Semban, Mellia, Hadurik, die Walas). Bei Umsetzung SUMMARY.md + READMEs nachziehen. Berührt [C-030](#c-030-taras-alter--widerspruch) (Taras Alter).
+Offen: ob/wann umsetzen; Ordnerstruktur; für alle Nebenfiguren oder nur die mit genug Substanz (Tara, Semban, Mellia, Hadurik, die Walas). Bei Umsetzung SUMMARY.md + READMEs nachziehen. Berührt [C-030](#c-030-taras-alter-) (Taras Alter).
+
+### C-034: Tibuns Lebensgrundlage während der Wanderschaft
+Tibun ist rund **8 Jahre** allein unterwegs (17 → 25, [Zeitleiste](../zeitleiste.md)). Wovon lebt er in dieser Zeit? Aktuell ist nur das *Motiv* geklärt (Bernstein, Ringwissen, Mechanik), nicht die Existenzgrundlage. Historisch plausibel für 550 n.Chr.:
+- **Handwerkslehre/Wanderjahre** — er verdingt sich unterwegs, lernt Mechanik durch Mitarbeit (passt zum Motiv „Mechanik lernen").
+- **Anschluss an Handelskarawanen** auf dem Ochsenweg — Schutz, Verpflegung gegen Mitarbeit; erklärt zwanglos, wie er bis Kaupvik kommt.
+- **Gefolgschaft/Dienst** bei einem Häuptling oder Hof — sesshafter, würde die lange Reisedauer aber eher bremsen.
+Nicht dringend, aber nötig, damit die 8 Jahre nicht als abstrakter Zeitraum stehen. Berührt [C-022](#c-022-tibuns-reise--dauer-motiv-hof-).
 
 ---
 
 ## Gelöst / Entschieden
+
+### C-023: Zeitleiste & Altersgerüst ✓
+Vollständiges Altersgerüst in der [Zeitleiste](../zeitleiste.md) festgelegt (Jahre relativ zu Girlins Verschwinden = Jahr 0; Ankerfigur Tibun, Alter = 16 + Jahr):
+- **Prolog (Jahr −1):** Tibun **15** entdeckt den Bernstein-Effekt, versteht ihn noch nicht.
+- **Verschwinden (Jahr 0):** Tibun **16**, Girlin **30**, Semban **35**, Tara **9**.
+- **Aufbruch (Jahr +1):** Tibun **17** verlässt Skirraa (~1 Jahr nach dem Verschwinden).
+- **Wanderschaft:** ~**8 Jahre**; Erkenntnismoment + Tischmodell-Prototyp in **Kaupvik** (löst den früheren Ordnungs-Konflikt: Reise/Kaupvik → Idee → Bau).
+- **Rückkehr (Jahr +9):** Tibun **25**, direkt zum Ring.
+- **Finale (Jahr +10):** Tibun **26** vollendet die große Wasseranlage und zündet den Ring; Girlin **40**, Semban **45**, Bellbrim **50**, Tara **19**.
+- **Parallelität gelöst:** Girlin ist **genau 10 Jahre** in der Wüste (Jahr 0 → +10). Tibuns erste Zündung und die Reaktivierung in der Wüste sind **dasselbe Ereignis** (beide Ringe flippen simultan, C-012) — kein Zufall.
+- **Semban/Mellia:** überall auf **rasch** vereinheitlicht (konsistent mit C-022).
+Ausgelagert: Tibuns Existenzgrundlage während der 8 Reisejahre → C-034.
+
+### C-030: Taras Alter ✓
+[Tara](../menschen/nordvolk/nebenfiguren.md#tara) ist **7 Jahre jünger** als Tibun: 8 (Prolog) / 9 (Girlins Verschwinden) / 19 (Finale). Die alte Absolutangabe „5" (unter der überholten Tibun-12-Annahme) entfällt.
 
 ### C-012: Aktivierungsverhalten des Rings ✓
 **Mechanismus — Flip + Volltausch:**
@@ -239,7 +247,7 @@ Vollständige Regeln in [`portalringe.md`](../technik/portalringe.md). Kurz:
 
 ### C-022: Tibuns Reise — Dauer, Motiv, Hof ✓
 **Entscheidung:**
-- **Dauer & Form:** Tibun ist **mehrere Monate bis wenige Jahre** unterwegs — keine kurze Hin-und-Rück-Tour. **Endpunkt und Wendepunkt** ist [Kaupvik](../orte/kaupvik.md); von dort kehrt er **direkt nach Skirraa** zurück, um den Generator zu bauen. Der genaue Reiseverlauf bis Kaupvik ist **noch offen** (→ [C-023](#c-023-zeitleiste--zeitliche-anordnung)). Die Jahreszeit-Sorge entschärft sich durch die lange Dauer (Reise über mehrere Saisons).
+- **Dauer & Form:** Tibun ist rund **8 Jahre** unterwegs (17 → 25, festgelegt in der [Zeitleiste](../zeitleiste.md)/C-023) — keine kurze Hin-und-Rück-Tour. **Endpunkt und Wendepunkt** ist [Kaupvik](../orte/kaupvik.md); von dort kehrt er **direkt nach Skirraa** zurück, um die große Anlage zu bauen. Der genaue Reiseverlauf bis Kaupvik ist **noch offen**. Die Jahreszeit-Sorge entschärft sich durch die lange Dauer (Reise über viele Saisons). Wovon er unterwegs lebt → C-034.
 - **Motiv (dreifach):**
   1. **Bernstein** — Material für seinen Reibungsgenerator (C-002).
   2. **Wissen über den Portalring** — der eigentliche Antrieb: Durch einen solchen Ring verschwand seine Mutter [Girlin](../menschen/nordvolk/girlin.md) (C-008). Die Suche nach ihr trägt die weite Reise emotional — der frühere Zweifel am Reisegrund ist ausgeräumt.
@@ -248,4 +256,4 @@ Vollständige Regeln in [`portalringe.md`](../technik/portalringe.md). Kurz:
 - **Hof:** **Semban** führt den Familienhof in Skirraa **unverändert weiter**. Tibun ist nicht dessen Oberhaupt; seine Abwesenheit löst **keine Hofkrise** aus. Die frühere Versorgungs-Sorge entfällt.
 
 **Verwandtschaft & Mellia geklärt:** Semban = Tibuns **leiblicher Vater** (Ehemann der verschwundenen Girlin). Er hält Girlin für tot und bindet sich **rasch** neu an Mellia (Girlins frühere Freundin); der schnelle Ersatz schmerzt Tibun — der als einziger Zeuge des Ring-Flips **weiß**, dass Girlin lebt — und treibt ihn mit fort. Überall vereinheitlicht.
-**Zeitliche Einordnung** der Wanderschaft (wann bricht Tibun auf?) → ausgelagert nach [C-023](#c-023-zeitleiste--zeitliche-anordnung).
+**Zeitliche Einordnung** der Wanderschaft: geklärt in [C-023 ✓](#c-023-zeitleiste--altersgerüst-) (Aufbruch Jahr +1 mit 17, Rückkehr Jahr +9 mit 25).

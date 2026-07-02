@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Rolle** | Antagonist |
-| **Alter** | offen (Anfang) — siehe [C-028](../../notizen/offene-challenges.md) / offen (Ende) — siehe [C-023](../../notizen/offene-challenges.md) |
+| **Alter** | offen — siehe [C-028](../../notizen/offene-challenges.md) (Endalter = Anfangsalter + 10, siehe [Zeitleiste](../../zeitleiste.md)) |
 | **Herkunft** | Offen — siehe [C-028](../../notizen/offene-challenges.md) |
 
 **Familie**

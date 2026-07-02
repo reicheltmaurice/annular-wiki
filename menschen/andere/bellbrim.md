@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Rolle** | Wissenschaftlerin / Verbündete von Girlin |
-| **Alter** | 40 (Anfang) / offen (Ende) — siehe [C-023](../../notizen/offene-challenges.md) |
+| **Alter** | ~40 (Kennenlernen mit Girlin) / 50 (Finale) — siehe [Zeitleiste](../../zeitleiste.md) |
 | **Herkunft** | Offen — siehe [C-026](../../notizen/offene-challenges.md) |
 
 **Familie**

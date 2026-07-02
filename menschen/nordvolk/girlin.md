@@ -9,7 +9,7 @@
 | | |
 |---|---|
 | **Rolle** | Mutter von Tibun |
-| **Alter** | 30 (Anfang) / offen (Ende) — siehe [C-023](../../notizen/offene-challenges.md) |
+| **Alter** | 30 (Verschwinden) / 40 (Finale) — 10 Jahre in der Wüste, siehe [Zeitleiste](../../zeitleiste.md) |
 | **Herkunft** | Offen — siehe [C-024](../../notizen/offene-challenges.md) |
 
 **Familie**

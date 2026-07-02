@@ -3,14 +3,14 @@
 *Struktur offen: evtl. eigene Datei je Figur (inkl. strukturierter Felder/Altersangaben) — siehe [C-033](../../notizen/offene-challenges.md).*
 
 ## Tara
-- Jüngere Schwester von Tibun (Altersangabe widersprüchlich, siehe [C-030](../../notizen/offene-challenges.md))
+- Jüngere Schwester von Tibun, **7 Jahre jünger** — 8 (Prolog) / 9 (Girlins Verschwinden) / 19 (Finale), siehe [Zeitleiste](../../zeitleiste.md)
 - Verspielt, neugierig und hängt sehr an ihrem Bruder
 
 ## Semban
-- Vater von Tibun, Ehemann der verschwundenen [Girlin](girlin.md)
+- Vater von Tibun, Ehemann der verschwundenen [Girlin](girlin.md) — 35 (Girlins Verschwinden) / 45 (Finale), siehe [Zeitleiste](../../zeitleiste.md)
 - Hält Girlin für **tot** und bindet sich **rasch** neu an [Mellia](#mellia) — für Tibun ein schmerzhafter Bruch
 - Versucht, nach Girlins Verschwinden Stabilität für die Familie zu schaffen
-- Führt den Hof in Skirraa weiter, auch während Tibuns monate- bis jahrelanger Reise (siehe [C-022](../../notizen/offene-challenges.md))
+- Führt den Hof in Skirraa weiter, auch während Tibuns rund achtjähriger Reise (siehe [Zeitleiste](../../zeitleiste.md))
 
 ## Mellia
 - Neue Partnerin von Semban — der sie **rasch** nimmt, nachdem alle [Girlin](girlin.md) für tot halten
