@@ -26,6 +26,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-031: Tibun — Inspiration/Besetzung](#c-031-tibun--inspirationbesetzung)
 - [C-032: Girlin — Inspiration/Besetzung](#c-032-girlin--inspirationbesetzung)
 - [C-034: Tibuns Lebensgrundlage während der Wanderschaft](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft)
+- [C-037: Ringoptik im Erzähltext ohne Anachronismus](#c-037-ringoptik-im-erzähltext-ohne-anachronismus)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -41,6 +42,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-023: Zeitleiste & Altersgerüst ✓](#c-023-zeitleiste--altersgerüst-)
 - [C-030: Taras Alter ✓](#c-030-taras-alter-)
 - [C-033: Nebenfiguren — eigene Dateien & strukturierte Felder ✓](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder-)
+- [C-035: Aussehen der Ringoberfläche ✓](#c-035-aussehen-der-ringoberfläche-)
+- [C-036: Altert der Ring? Patina, Moos, Ablagerungen ✓](#c-036-altert-der-ring-patina-moos-ablagerungen-)
 
 ---
 
@@ -155,6 +158,23 @@ Tibun ist rund **8 Jahre** allein unterwegs (17 → 25, [Zeitleiste](../Zeitleis
 - **Gefolgschaft/Dienst** bei einem Häuptling oder Hof — sesshafter, würde die lange Reisedauer aber eher bremsen.
 Nicht dringend, aber nötig, damit die 8 Jahre nicht als abstrakter Zeitraum stehen. Berührt [C-022](#c-022-tibuns-reise--dauer-motiv-hof-).
 
+### C-037: Ringoptik im Erzähltext ohne Anachronismus
+[C-035](#c-035-aussehen-der-ringoberfläche-) legt die Optik fest: **matt silbrig-grau, fein gerichtet, wie gebürstetes Aluminium**. Das ist Autorenebene. Offen ist, **womit eine Figur von 550 das vergleicht** — „Aluminium" ist im Erzähltext ein harter Anachronismus.
+
+**Das Problem:** Die Epoche kennt kein mattes, nicht rostendes Silbergrau. Alle verfügbaren Vergleiche scheitern:
+- **Silber, Zinn, poliertes Bronze** — glänzen und spiegeln. Der Ring nicht.
+- **Eisen/Stahl** — frisch geschliffen fast passend, rostet aber. Genau das tut der Ring nie.
+- **Blei** — matt und grau, aber stumpf, weich und dunkel; ohne die feine Richtung.
+
+**Ansätze:**
+- **Über die Abwesenheit beschreiben:** nicht *was* es ist, sondern was fehlt — kein Rost, kein Spiegelbild, kein Glanz. Das Fremde entsteht durch die Leerstelle, die Figur hat keinen Namen dafür. Passt zum mystischen Material ([C-004](#c-004-material-der-portalringe-)).
+- **Über Naturvergleiche:** Wolkenlicht, nasser Schiefer, Fischhaut, Raureif auf Stein — epochentauglich, aber trifft die technische Kühle nur ungefähr.
+- **Über Haptik statt Optik:** wie es sich anfühlt, statt wie es aussieht.
+
+Berührt [C-013](#c-013-runen--anordnung-anzahl-aussehen). Wird spätestens bei der Fundszene akut.
+
+**Klein & offen (Autorenebene):** Läuft die feine Bürstrichtung **umlaufend** (der Ringform folgend) oder **axial**? Umlaufend ist die naheliegende Lesart, festgelegt ist nichts.
+
 ---
 
 ## Gelöst / Entschieden
@@ -257,4 +277,24 @@ Umgesetzt: Jede Nebenfigur hat eine **eigene Datei** in einem Unterordner `Neben
 - **Walas:** als **zwei getrennte Dateien** angelegt (sesshaft/wandernd, Zwillingsschwestern), Rollen weiter offen.
 - **Sahrin & Andere:** Ordner + README-Index angelegt, noch ohne Figuren.
 - SUMMARY.md, Region-READMEs und alle eingehenden Links (u. a. [tibun.md](../menschen/nordvolk/Tibun.md), [girlin.md](../menschen/nordvolk/Girlin.md), [zeitleiste.md](../Zeitleiste.md), [tingsal.md](../orte/Tingsal.md), [sonstiges.md](../orte/sonstiges.md)) nachgezogen; alte Sammel-`nebenfiguren.md` entfernt.
+
+### C-035: Aussehen der Ringoberfläche ✓
+**Entscheidung:** Die Oberfläche ist **matt silbrig-grau und fein gerichtet — optisch wie gebürstetes Aluminium**. Kein Spiegelglanz, keine Naht, keine Guss- oder Werkzeugspuren.
+
+**Reine Optikreferenz.** „Gebürstetes Aluminium" sagt nur, wie es *aussieht* — das Material bleibt unbekannt/mystisch ([C-004](#c-004-material-der-portalringe-)). Damit hat der Ring drei Referenzen auf Autorenebene, die alle **nicht** diegetisch sind:
+
+| Referenz | Legt fest | Ist *nicht* |
+|---|---|---|
+| Eine Ring (Jens Hansen) | Proportionen | golden |
+| AZ31 | Gewichtsberechnung | Magnesium |
+| Gebürstetes Aluminium | Optik | Aluminium |
+
+Der Begriff darf **nie im Erzähltext** stehen → [C-037](#c-037-ringoptik-im-erzähltext-ohne-anachronismus). Dokumentiert in [Portalringe.md](../technik/Portalringe.md).
+
+### C-036: Altert der Ring? Patina, Moos, Ablagerungen ✓
+**Entscheidung: Der Ring altert nicht.** Keine Korrosion, keine Patina, keine Verfärbung, keine Kratzer — auch nach Jahrtausenden im Boden nicht.
+
+**Bewuchs ja, Angriff nein.** Moos, Flechten und Erde setzen sich wie an jedem Stein an der Oberfläche fest, liegen aber nur *auf* ihr. Zieht man den Bewuchs ab, kommt makelloses Material zum Vorschein, als wäre es gestern gefertigt.
+
+**Erzählwert:** Das Unheimliche ist nicht ein Ring *ohne* Bewuchs, sondern ein bewachsener Ring **ohne jede Spur von Alter darunter**. Die Entdeckung bleibt leise und glaubwürdig — der Schock kommt erst beim Freilegen. Löst zugleich den Konflikt zwischen „unzerstörbarer Körper" ([C-007](#c-007-proportionen-der-portalringe-)) und einem Ring, der glaubhaft in der Landschaft liegt. Dokumentiert in [Portalringe.md](../technik/Portalringe.md).
 

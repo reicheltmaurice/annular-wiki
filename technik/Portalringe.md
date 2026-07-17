@@ -1,6 +1,7 @@
 # Portalringe
 
 **Material**: ..................................... unbekannt/mystisch (AZ31 nur als Berechnungsreferenz)  
+**Optik**: ......................................... wie gebürstetes Aluminium (reine *Optik*referenz, kein Aluminium)  
 **Durchmesser (großer Ring)**: .... 3,00 m innen  
 **Gewicht (großer Ring)**: ............. ca. 8.050 kg (≈ 8 Tonnen)  
 **Breite (axial)**: ............................. 1,05 m  
@@ -11,7 +12,7 @@
 ---
 
 ## Beschreibung
-Die Portalringe sehen aus wie riesige Fingerringe mit grün leuchtenden Runen an der Außenseite.
+Die Portalringe sehen aus wie riesige Fingerringe mit grün leuchtenden Runen an der Außenseite. Die Oberfläche ist **matt silbrig-grau, fein gerichtet — optisch wie gebürstetes Aluminium** (nur Optikreferenz, das Material ist es nicht). Kein Spiegelglanz, keine Naht, keine Guss- oder Werkzeugspuren.
 Bei Aktivierung rotieren sie 180° um einen Durchmesser (Achse in der Ringebene) — wie eine Münze, die von Kopf auf Zahl flippt — bleiben dabei aber ortsfest und liegen danach deckungsgleich.
 
 ---
@@ -75,6 +76,16 @@ Das Material ist mystisch und nicht identifizierbar ([C-004](../notizen/Offene-C
 - Ein Steinmetz kann mit Meißel eine neue Rille (Rune) in die Mantelfläche schneiden oder eine bestehende quer überschlagen, bis sie unlesbar ist.
 - Den Ring spalten, verbiegen, einschmelzen, abtrennen oder **reproduzieren** ist unmöglich.
 - Nur die **Oberflächengravur** ist beeinflussbar, die **Struktur** bleibt unangreifbar.
+
+### Optik & Alterung
+
+**Der Ring altert nicht.** Keine Korrosion, keine Patina, keine Verfärbung, keine Kratzer — auch nach Jahrtausenden im Boden nicht. Die Oberfläche bleibt matt silbrig-grau und fein gerichtet, optisch wie **gebürstetes Aluminium**.
+
+> **Optikreferenz, kein Material.** „Gebürstetes Aluminium" beschreibt nur, wie die Oberfläche *aussieht* — analog zur Formreferenz (Eine Ring) und zur Berechnungsreferenz (AZ31). Das Material bleibt unbekannt ([C-004](../notizen/Offene-Challenges.md)). Der Begriff gehört auf die **Autorenebene** und darf so **nie im Erzähltext** stehen ([C-037](../notizen/Offene-Challenges.md)).
+
+**Bewuchs ja, Angriff nein.** Moos, Flechten und Erde setzen sich wie an jedem Stein an der Oberfläche fest — sie liegen aber nur *auf* ihr. Zieht man den Bewuchs ab, kommt makelloses Material zum Vorschein, als wäre es gestern gefertigt. Das ist das eigentliche Unheimlichkeitssignal beim Fund: nicht ein Ring ohne Bewuchs, sondern ein bewachsener Ring **ohne jede Spur von Alter darunter**.
+
+Visualisierung: [Bild-Prompts](../notizen/Bild-Prompts.md).
 
 ---
 

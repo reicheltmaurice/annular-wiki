@@ -57,3 +57,4 @@
 
 * [Offene Challenges](notizen/Offene-Challenges.md)
 * [Regeln & Prüfliste](notizen/Regeln.md)
+* [Bild-Prompts](notizen/Bild-Prompts.md)
