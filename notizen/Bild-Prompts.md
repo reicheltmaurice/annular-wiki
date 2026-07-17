@@ -20,8 +20,13 @@ Was jeder Ring-Prompt korrekt treffen muss:
     </tr>
     <tr>
       <td><strong>Silhouette</strong></td>
-      <td>Wie ein niedriger Brunnenrand</td>
-      <td>Kein dünner Reifen</td>
+      <td>Wie der Eine Ring (PJ / Jens Hansen): massiver Fingerring, skaliert</td>
+      <td>Keine flachen Seitenwände, kein Brunnenrand, kein Rechteckprofil, kein rundes Rohr</td>
+    </tr>
+    <tr>
+      <td><strong>Querschnitt</strong></td>
+      <td><strong>Oval</strong> (voll gerundet) — axial höher als radial dick</td>
+      <td>1,05 m hoch × 0,405 m dick; nicht kreisrund (sonst Donut-Schlauch)</td>
     </tr>
     <tr>
       <td><strong>Außen-Ø</strong></td>
@@ -34,12 +39,12 @@ Was jeder Ring-Prompt korrekt treffen muss:
       <td></td>
     </tr>
     <tr>
-      <td><strong>Wandstärke</strong></td>
+      <td><strong>Wandstärke (radial)</strong></td>
       <td>0,405 m</td>
-      <td></td>
+      <td>Dicke des Ringkörpers von innen nach außen</td>
     </tr>
     <tr>
-      <td><strong>Höhe über Grund</strong></td>
+      <td><strong>Höhe / Bandbreite (axial)</strong></td>
       <td>1,05 m</td>
       <td>Reicht einem Erwachsenen über die Hüfte</td>
     </tr>
@@ -73,11 +78,64 @@ Was jeder Ring-Prompt korrekt treffen muss:
 
 **Der Bildkern:** Der Kontrast zwischen uraltem Bewuchs und der ungealterten Oberfläche darunter. Nicht der Fund ist unheimlich, sondern der Moment, in dem das Moos weggezogen wird.
 
-**Zwei Fallstricke:** Generatoren stellen den Ring gern *aufrecht* hin (Stargate-Reflex) und ignorieren die Höhe von 1,05 m. `hip-height circular well-curb` wirkt zuverlässiger als die Zahl. `brushed aluminium` zieht Richtung Sci-Fi — nötigenfalls `no sci-fi, no industrial` verstärken.
+**Fallstricke:**
+- Generatoren stellen den Ring gern *aufrecht* hin (Stargate-Reflex) und ignorieren die Höhe von 1,05 m.
+- **`well-curb` / Rechteckprofil → flache Seiten.** Stattdessen: `One Ring`, `oval cross-section`, `fully rounded`, `NO flat faces`.
+- **`circular tube` / runder Rohr-Torus → Donut-Schlauch.** Falsch: Querschnitt ist **oval** (1,05 m hoch, 0,405 m radial) wie ein Fingerring, nicht kreisrund.
+- `brushed aluminium` zieht Richtung Sci-Fi — nötigenfalls `no sci-fi, no industrial` verstärken.
 
 **Noch offen, in den Prompts vorläufig gesetzt:** Bürstrichtung umlaufend statt axial ([C-037](../notizen/Offene-Challenges.md)); Runenform bewusst vage ([C-013](../notizen/Offene-Challenges.md)).
 
 **Nutzung:** Midjourney `--ar 3:2` anhängen, NEGATIVE-Block in `--no` umbauen. DALL·E/Imagen: Fließtext unverändert.
+
+**Render-Ordner:** [bilder/](bilder/) — Arbeitsdateien, kein Kanon.
+
+| ID | Datei | Status |
+|----|--------|--------|
+| P-001 | [bilder/P-001-ring-baeume.jpg](bilder/P-001-ring-baeume.jpg) | Stimmung ok; Form/Runen überholt |
+| P-001a | [bilder/P-001a-ring-baeume-runen.jpg](bilder/P-001a-ring-baeume-runen.jpg) | verworfen — zu kantig, Runen auch innen |
+| P-001b | [bilder/P-001b-ring-baeume-stargate-runen.jpg](bilder/P-001b-ring-baeume-stargate-runen.jpg) | Zwischenstand |
+| P-001c | [bilder/P-001c-ring-baeume-form-p003a.jpg](bilder/P-001c-ring-baeume-form-p003a.jpg) | Form+Runen P-003a, Wald |
+| P-001d | [bilder/P-001d-ring-baeume-form-p003a.jpg](bilder/P-001d-ring-baeume-form-p003a.jpg) | bisher am nächsten; Kanten noch zu eckig |
+| P-001e/f | … | verworfen — noch flache „Seiten“ |
+| P-001g–i | [bilder/P-001h-torus-wald.jpg](bilder/P-001h-torus-wald.jpg) u. a. | Torus-Versuche |
+| P-001j | [bilder/P-001j-torus-objektstudie.jpg](bilder/P-001j-torus-objektstudie.jpg) | Form-Lock: reiner Torus / One-Ring-Querschnitt |
+| P-001k/l | … | Torus-Rohr (überholt) |
+| **P-001m** | [bilder/P-001m-oval-wald.jpg](bilder/P-001m-oval-wald.jpg) | **Form/Farbe-Lock** — nicht anfassen |
+| P-001n/o | … | Alternativen |
+| **P-001p** | [bilder/P-001p-m-runen-keil.jpg](bilder/P-001p-m-runen-keil.jpg) | aus m: nur Runen (Keilrillen, 24, nordisch/SG) |
+| P-001q | [bilder/P-001q-m-runen-keil.jpg](bilder/P-001q-m-runen-keil.jpg) | Alternativ nur-Runen aus m |
+| P-001s | [bilder/P-001s-m-runen-minimal.jpg](bilder/P-001s-m-runen-minimal.jpg) | gut — Runen ok, Form nah an m |
+| P-001t | [bilder/P-001t-s-ohne-innenrunen.jpg](bilder/P-001t-s-ohne-innenrunen.jpg) | verworfen — Tool hat alle Runen weggenommen |
+| **P-001u** | [bilder/P-001u-s-aussenrunen-behalten.jpg](bilder/P-001u-s-aussenrunen-behalten.jpg) | **Form/Szene-Lock** (Referenz; 24 Runen) |
+| P-001v/w | … | **verworfen** — zu dicht bzw. wieder Innenrunen |
+| *(offen)* | — | 12 Uhr-Runen: nicht per image_edit erzwingen; u bleibt bis externes Inpaint/manuell |
+| P-002 | [bilder/P-002-fundszene-erdrutsch.jpg](bilder/P-002-fundszene-erdrutsch.jpg) | Basis Fundszene |
+| P-002a | [bilder/P-002a-fundszene-weicher.jpg](bilder/P-002a-fundszene-weicher.jpg) | **verworfen** — unförmig |
+| P-002b | [bilder/P-002b-fundszene-form-p003a.jpg](bilder/P-002b-fundszene-form-p003a.jpg) | Fundszene mit P-003a-Form |
+| P-003 | [bilder/P-003-objektstudie-massstab.jpg](bilder/P-003-objektstudie-massstab.jpg) | verworfen — Wand zu breit |
+| **P-003a** | [bilder/P-003a-objektstudie-schlank.jpg](bilder/P-003a-objektstudie-schlank.jpg) | **Referenz Form + Runenstil** |
+| P-003b | [bilder/P-003b-objektstudie-schlank.jpg](bilder/P-003b-objektstudie-schlank.jpg) | **verworfen** — zu klein, kantig, Runen falsch |
+| P-003c | [bilder/P-003c-objektstudie-aussenrunen.jpg](bilder/P-003c-objektstudie-aussenrunen.jpg) | P-003a + nur Außenrunen, weicher |
+
+**Arbeitsstand (verbindlich für nächste Renders):**
+- **Form:** Eine Ring (PJ) — gigantischer Fingerring, flach liegend
+- **Querschnitt:** **Oval**, voll gerundet (axial 1,05 m × radial 0,405 m) — nicht Rechteck, nicht kreisrundes Rohr
+- **Prompt-Fallen:** `well-curb`, `rectangular`, `circular tube` → **nicht verwenden**
+- **Lock:** **P-001u** (Form, Farbe, Szene, Runenstil). Nicht weiter per image_edit „nur Runen“ iterieren — Tool setzt Innenrunen wieder und zerstört Details.
+- **Runen-Ziel (offen):** 12 am Umfang (Uhr-Stunden), sichtbar ~5–6; nur Außenäquator; innen glatt. Umsetzung: externes Masken-Inpaint oder manuell auf u.
+- Verworfen: v/w und alles mit Innenrunen / flachen Seiten
+
+
+### Form-Prompt (ersetzen für Geometrie)
+
+```
+FORM: Giant plain wedding band like the One Ring in Peter Jackson's Lord of the Rings (Jens Hansen prop). Oval cross-section, fully rounded — taller than thick (height 1.05 m, radial thickness 0.405 m), continuous soft curves. NO circular pipe/tube doughnut, NO flat faces, NO rectangular sides, NO well-curb. Matte brushed aluminium (not gold). Lies flat, hole to sky, outer diameter 3.81 m, hip height.
+RUNES: Exactly 12 discrete glyphs, evenly spaced like clock hour marks (every 30°), outer equator only. Nordic/Stargate angular symbols — straight strokes only. Clear sharp V-cut wedge grooves (Keilrillen), not curved or soft channels. Inner curve of the hole blank. UNLIT.
+```
+
+**Runen-only-Edit (aus P-001u):** Form/Szene sperren; nur Anzahl/Position der Außenrunen anfassen.
+
 
 ---
 
@@ -89,21 +147,25 @@ Stimmungsbild. Der Bach Skir liegt außerhalb des Ausschnitts.
 Photorealistic. A colossal ring lies flat and forgotten in a stand of trees. Northern European, damp, still, ancient.
 
 THE RING — exact geometry, this is critical:
-A single seamless band ring lying FLAT and HORIZONTAL on the forest floor, its circular opening facing straight up at the sky, like a low circular well-curb. Outer diameter 3.81 m. Inner opening 3.0 m across. Wall thickness 0.405 m. It stands 1.05 m tall above the ground — hip-to-waist height on an adult. Rectangular cross-section with softly rounded edges. Proportionally slender like a plain wedding band, but absolutely enormous.
+A single seamless giant wedding band lying FLAT and HORIZONTAL on the forest floor, circular opening facing straight up at the sky. Form exactly like the One Ring in Peter Jackson's Lord of the Rings films (Jens Hansen prop): OVAL cross-section, fully rounded — taller than thick (height 1.05 m axial, radial thickness 0.405 m). Continuous soft curves only — NO circular pipe/doughnut tube, NO flat faces, NO rectangular sides, NO well-curb. Outer diameter 3.81 m. Hip-to-waist height on an adult.
 
 SURFACE — the key contrast of the image:
 The bare material looks exactly like BRUSHED ALUMINIUM: matte silver-grey, with a fine directional grain running circumferentially around the ring. No mirror shine, no reflections, no seams, no welds, no casting marks, no tool marks.
 It has NOT aged at all: no rust, no corrosion, no patina, no discolouration, no scratches, no pitting — despite being unimaginably old.
 Moss and pale lichen grow ON it, carpeting the upper face and the shaded side, gathering in the grooves — but they only sit on the surface. Where the moss has slipped away, the bare material shows through, flawless and factory-fresh, as if made yesterday. The contrast between ancient growth and untouched surface is the emotional core of the image.
 
-MARKINGS: A band of shallow chiselled angular grooves around the outer face, half-buried under moss. UNLIT — dark, dry, empty channels. Not glowing, no light. Unknown, unclassifiable script: NOT Elder Futhark, NOT Tengwar, NOT Celtic knotwork.
+MARKINGS: Exactly 12 discrete angular geometric glyphs on the outer equator only, spaced like clock hour marks (every 30°). Sharp V-cut Keilrillen, Nordic/Stargate angular. UNLIT. Inner curve of the hole blank. Not glowing.
 
 SETTING: A dense stand of alder, willow and birch — twisted, wind-shaped, hung with moss. Damp black soil, ferns, deadfall, fallen leaves gathered in the ring's opening. Soft green filtered light through the canopy, mist between the trunks, utterly silent.
 
 CAMERA: Elevated three-quarter view from roughly 3 m up, so the opening reads clearly as an ellipse and the ring's height above ground is unmistakable.
 
-NEGATIVE: no green glow, no light emission, no portal effect, no energy, no Stargate, no upright or standing ring, no gold, no mirror polish, no chevrons, no machinery, no sci-fi, no industrial setting, no stream, no river, no water, no people, no modern objects, no rust, no patina.
+NEGATIVE: no green glow, no light emission, no portal effect, no energy, no upright or standing ring, no gold, no mirror polish, no machinery, no sci-fi, no industrial setting, no stream, no river, no water, no people, no modern objects, no rust, no patina.
 ```
+
+### Varianten P-001a–l
+
+Arbeitsdateien in [bilder/](bilder/). Formverbindlich ist der Block oben (ovales One-Ring-Profil); ältere Varianten mit Brunnenrand/Rechteck/Rohrquerschnitt sind überholt.
 
 ---
 
@@ -115,40 +177,46 @@ Kanonische Szene nach [C-008](../notizen/Offene-Challenges.md): Der Erdrutsch am
 Photorealistic. Northern Jutland heathland, Vendsyssel, near the Skagerrak coast. A fresh landslide has torn open a steep stream bank, exposing a colossal ring lying flat in the slump debris.
 
 THE RING — exact geometry, this is critical:
-A single seamless band ring lying FLAT and HORIZONTAL on the ground, its circular opening facing straight up at the sky, like a low circular well-curb. Outer diameter 3.81 m. Inner opening 3.0 m across. Wall thickness 0.405 m. It stands 1.05 m tall above the ground — hip-to-waist height on an adult. Rectangular cross-section with softly rounded edges. Proportionally slender like a plain wedding band, but absolutely enormous.
+A single seamless giant wedding band lying FLAT and HORIZONTAL on the ground, circular opening facing straight up at the sky. Form like the One Ring (Peter Jackson / Jens Hansen): OVAL cross-section, fully rounded — taller than thick (1.05 m high, 0.405 m radial). NO circular pipe/doughnut tube, NO flat faces, NO rectangular sides, NO well-curb. Outer diameter 3.81 m. Hip-to-waist height.
 
 SURFACE — the key contrast of the image:
 The bare material looks exactly like BRUSHED ALUMINIUM: matte silver-grey, fine directional grain running circumferentially. No mirror shine, no seams, no welds, no casting marks.
 It has NOT aged: no rust, no corrosion, no patina, no scratches — despite millennia underground.
 The landslide has ripped away most of the covering: wet clay, torn moss mats and root threads still cling in patches, sliding off the flanks. Where the earth has fallen away, the bare surface is utterly flawless and gleams dull silver against the black wet soil — shockingly new-looking in the raw, ancient ground.
 
-MARKINGS: A band of shallow chiselled angular grooves around the outer face, clay still packed into some of them. UNLIT — dark, dry, empty channels. Not glowing, no light. Unknown, unclassifiable script: NOT Elder Futhark, NOT Tengwar, NOT Celtic knotwork.
+MARKINGS: Exactly 12 discrete angular glyphs on the outer equator only, clock-hour spacing; clay may pack some. Inner curve blank. UNLIT.
 
 SETTING: Raw torn earth, exposed roots, collapsed heather turf, sparse alder and willow scrub along the bank. Low diffuse northern light, overcast, wind-bent vegetation, damp air.
 
 CAMERA: Elevated three-quarter view from roughly 3 m up, so the opening reads clearly as an ellipse and the ring's height above ground is unmistakable.
 
-NEGATIVE: no green glow, no light emission, no portal effect, no energy, no Stargate, no upright or standing ring, no gold, no mirror polish, no chevrons, no machinery, no sci-fi, no industrial setting, no people, no modern objects, no rust, no patina.
+NEGATIVE: no green glow, no light emission, no portal effect, no energy, no upright or standing ring, no gold, no mirror polish, no machinery, no sci-fi, no industrial setting, no people, no modern objects, no rust, no patina.
 ```
 
 ---
+
 
 ## P-003: Objektstudie mit Maßstab
 
 Zum Festnageln von Größe und Material — nüchtern, ohne Stimmung.
 
+**Fallen:** Generatoren machen den Querschnitt zu einem dicken Rohr oder zu einem eckigen Bord. Oval erzwingen (1,05 m hoch, 0,405 m radial); Hüfthöhe am Körper; 24 Glyphen am Außenäquator.
+
 ```
-Photorealistic technical study, neutral presentation. A colossal band ring lying flat and horizontal on open heathland, circular opening facing straight up at the sky.
+Photorealistic technical study, neutral presentation. A colossal wedding-band ring lying flat and horizontal on open heathland, circular opening facing straight up at the sky.
 
-GEOMETRY: Outer diameter 3.81 m. Inner opening 3.0 m. Wall thickness 0.405 m. Height above ground 1.05 m. Rectangular cross-section, softly rounded edges. Proportionally slender like a plain wedding band, scaled to monstrous size.
+GEOMETRY — One Ring oval band, not a trough, curb, or doughnut tube:
+Outer diameter 3.81 m. Radial thickness ONLY 0.405 m. Height above ground 1.05 m. OVAL cross-section, fully rounded — taller than thick. NO circular pipe profile, NO flat faces, NO rectangular sides.
 
-SCALE ANCHOR: One adult human in undyed 6th-century woollen clothing stands beside it, hand resting on the rim — the rim reaches just above their waist. The human is the scale reference and must be anatomically correct.
+SCALE ANCHOR: One adult human in undyed 6th-century woollen clothing stands beside it, hand resting on the upper curve — top of band reaches just above their waist.
 
-SURFACE: Looks exactly like BRUSHED ALUMINIUM — matte silver-grey, fine directional grain running circumferentially, no mirror shine, no seams, no welds, no casting marks, completely un-aged and flawless. Shallow unlit angular grooves band the outer face.
+SURFACE: BRUSHED ALUMINIUM — matte silver-grey, circumferential grain, no mirror shine, seamless, un-aged, flawless.
+
+MARKINGS: Exactly 12 discrete angular geometric glyphs on the outer equator only, clock-hour spacing. Inner curve blank. UNLIT.
 
 SETTING: Flat open heather, overcast diffuse light, low horizon, no other objects.
 
 CAMERA: Eye-level three-quarter view, 50 mm lens, no distortion.
 
-NEGATIVE: no glow, no portal, no Stargate, no upright ring, no gold, no mirror polish, no machinery, no sci-fi, no rust, no patina, no modern objects.
+NEGATIVE: no glow, no portal, no upright ring, no gold, no mirror polish, no machinery, no sci-fi, no rust, no patina, no modern objects, no thick trough walls, no plain parallel grooves only.
 ```
