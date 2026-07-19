@@ -290,3 +290,58 @@ Photorealistic entrance to a natural cave workshop in a red sandstone desert can
 ```
 Photorealistic interior of a cave workshop in a desert rock system. Rough sandstone walls lit by oil lamps and a few high openings, workbenches with brass instruments, parchment, stone weights, wooden gears and experimental mechanisms of pre-industrial craft. A narrow underground stream runs through a carved channel across the floor. Dust motes in shafts of light, secret laboratory atmosphere of an isolated desert researcher. No computers, no plastic, no modern devices, no people in frame.
 ```
+
+---
+
+## Kulturen — Menschenbilder
+
+Ethnografische Arbeitsbilder zur allgemeinen Vorstellung (Kleidung, Haut, Haar, Alltag). **Kein Kanon für Einzelpersonen** — Charaktere haben eigene Dateien. Grundlagen: [kulturen/nordvolk](../kulturen/nordvolk/README.md), [kulturen/sahrin](../kulturen/sahrin/README.md), [Sahrin Aussehen](../menschen/wuestenvolk/Sahrin.md).
+
+| ID | Datei | Kultur | Motiv |
+|----|--------|--------|--------|
+| **K-nordvolk-01** | [bilder/K-nordvolk-01-gruppe.jpg](bilder/K-nordvolk-01-gruppe.jpg) | Nordvolk | Gruppenbild — Alter, Haar, Kleidung |
+| **K-nordvolk-02** | [bilder/K-nordvolk-02-haushalt.jpg](bilder/K-nordvolk-02-haushalt.jpg) | Nordvolk | Haushaltsinneres (Langhaus) |
+| **K-nordvolk-03** | [bilder/K-nordvolk-03-alltag.jpg](bilder/K-nordvolk-03-alltag.jpg) | Nordvolk | Hofarbeit / Alltag draußen |
+| **K-sahrin-01** | [bilder/K-sahrin-01-gruppe.jpg](bilder/K-sahrin-01-gruppe.jpg) | Sahrin | Gruppenbild — Schleier, Roben |
+| **K-sahrin-02** | [bilder/K-sahrin-02-lager.jpg](bilder/K-sahrin-02-lager.jpg) | Sahrin | Zeltlager / Haushalt |
+| **K-sahrin-03** | [bilder/K-sahrin-03-karawane.jpg](bilder/K-sahrin-03-karawane.jpg) | Sahrin | Karawane unterwegs |
+
+**Nordvolk (~550, Vendel):** helle bis wettergegerbte Haut; Haar blond / aschblond / hellbraun / rotbraun gemischt (kein Einheitsblond); ungefärbte und schwach pflanzengefärbte Wolle (grau, braun, naturweiß, gedämpftes Waidblau); Tunika, lange Kleider, Rechteckmäntel mit Bronze-Fibeln; **keine** Hörnerhelme, kein Fantasy-Schmuck.
+
+**Sahrin:** sonnengeschwärzte, sehnige Körper; dunkles Haar; weite mehrlagige Gewänder in Sand/Ocker/Schwarz; Tagelmust-ähnliche Schleier; Knochen-/Metallschnallen geometrisch; Ziegenhaarzelt, Kamele. (Kultur noch dünn — optisch an [Sahrin.md](../menschen/wuestenvolk/Sahrin.md) / [allgemein.md](../menschen/wuestenvolk/allgemein.md).)
+
+### K-nordvolk-01 — Gruppenbild
+
+```
+Photorealistic ethnographic group portrait of proto-Scandinavian Germanic people of northern Jutland, about 550 AD Vendel period. Six adults and two children standing outdoors on damp heath: fair to lightly weathered skin, freckles, wind-reddened cheeks; hair in natural blondes, ash-brown, dirty-blond, and one reddish-brown; men with full beards and shoulder-length hair, women with long braids or loose hair under simple linen headscarves. Clothing: undyed and lightly plant-dyed wool tunics and long dresses in grey, natural brown, off-white and muted woad-blue; rectangular cloaks pinned with simple bronze brooches; leather belts, soft leather shoes, wool leg wrappings. Everyday faces, not models — worn hands, practical clothing, no horns, no fantasy jewelry, no polished armor. Soft overcast northern light, documentary photography style.
+```
+
+### K-nordvolk-02 — Haushalt
+
+```
+Photorealistic interior of a 6th-century North Jutland farm longhouse household. Low timber posts, wattle walls, packed earth floor, smoke-darkened thatch overhead. Central hearth fire with iron pot, wooden bowls, clay pots, hanging herbs and dried fish. Family life: woman spinning wool on a drop spindle, man mending a wooden tool, child nearby; undyed wool clothing, fair northern European features, ash-blond and light-brown hair. Dim warm firelight mixed with grey daylight from the open door. Documentary historical realism, Migration Period / Vendel age, no glass windows, no chimneys, no fantasy interiors, no modern objects.
+```
+
+### K-nordvolk-03 — Alltag
+
+```
+Photorealistic outdoor daily-work scene of a small Vendel-period Germanic farmstead in northern Jutland heath. Two men shearing a sheep and stacking peat, a woman carrying a wooden pail of water from a stream, a girl herding geese. Natural undyed wool tunics and cloaks, leather belts, weather-beaten fair skin, hair in blond and brown tones, practical braids and beards. Bleak heather, thatched longhouse in background, overcast damp light. Ethnographic documentary feel, about 550 AD, no Viking horned helmets, no fantasy weapons display, no modern farm equipment.
+```
+
+### K-sahrin-01 — Gruppenbild
+
+```
+Photorealistic ethnographic group portrait of the Sahrin, a desert nomad people. Six adults of mixed ages standing in bright desert light before dark goat-hair tents: lean sinewy bodies, sun-darkened copper-brown to deep tanned skin, deep wind lines around eyes; dark brown and black hair; men with short beards or clean-shaven under face cloths. Clothing: wide multi-layered robes and wraps in sand, ochre, dusty white and black wool; tagelmust-style indigo and black face-and-head veils leaving only eyes visible on some figures; leather belts with geometric bone and bronze buckles; simple bone bead necklaces. Serious reserved faces, not glamorous models. Documentary photography, North African / Sahara nomad feel without modern plastics or logos.
+```
+
+### K-sahrin-02 — Lager / Haushalt
+
+```
+Photorealistic interior and courtyard of a Sahrin nomad household camp at dusk. Black and brown goat-hair tents arranged in a loose circle around a low fire. Inside a tent opening: woven rugs, goatskin water bags, clay jars, date baskets, a woman grinding grain, an older woman sorting wool. Sun-darkened skin, dark hair, multi-layer ochre and black robes, face veils half-lowered indoors. Warm firelight and cool desert evening sky. Ethnographic documentary realism of pre-Islamic Sahara nomads, no modern camping gear, no plastic, no fantasy costumes.
+```
+
+### K-sahrin-03 — Karawane
+
+```
+Photorealistic daily life of a Sahrin desert caravan on the move. Line of camels loaded with goods walking through pale sand dunes; lean men and women in wide sand-colored and black robes and tagelmust veils walking beside them; one rider; spears for protection; children on a camel. Sun-darkened skin, only eyes visible under veils for some, heat haze and dust. Documentary wide shot, harsh midday desert light, nomadic trade life, no jeeps, no modern clothing, no fantasy armor.
+```
