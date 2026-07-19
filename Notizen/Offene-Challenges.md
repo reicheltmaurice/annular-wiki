@@ -207,7 +207,9 @@ In der Szene entzündet der Bernsteinfunke Wollreste, Tibun bekommt **Brandblase
 ### C-040: Prolog — Fischerdorf vs. Heide-Weiler
 Die Szene zeichnet mit Fischer, **Bootsbauer** und dessen Sohn ein Küsten-Fischerdorf. [Skirraa](../Orte/Skirraa.md) ist karge Heide/Moor mit Tierzucht/Jagd (Küstennähe zum Skagerrak erlaubt Fischerei, aber nicht als prägendes Milieu). Charakter des Orts bewusst entscheiden und Szene angleichen.
 
-**Entschieden:** Fischer-/Bootsbauer-Milieu **gestrichen**. Skirraa bleibt Heide-/Moor-Weiler mit Tierzucht; Tibuns Hof = Schaf-/Wollhof abseits. In der Szene umgesetzt.
+**Entschieden:** Fischer-/Bootsbauer-Milieu **gestrichen**. Skirraa bleibt Heide-/Moor-Weiler mit Tierzucht; Tibuns Hof = Schaf-/Wollhof abseits (Herde, Schur, Stoffherstellung; abseits wegen Platz, Lärm, Geruch; dennoch geachtet wegen guter Wollqualität). In der Szene umgesetzt.
+
+**Hinweis:** Das Familienhandwerk stammt bereits aus der Original-Szene von 2015, war aber **nie ins Wiki übernommen** worden. Jetzt verankert in [Tibun](../Menschen/Nordvolk/Tibun.md), [Skirraa](../Orte/Skirraa.md) und [Semban](../Menschen/Nordvolk/Nebenfiguren/Semban.md).
 
 ### C-041: Prolog — Bernstein-Fundort
 Tibun findet den Bernstein laut Szene „im Flussbett" des Bachs. In Jütland ist Bernstein **Strandgut** (Skagerrak/Nordsee), kein Flussfund. Fundort auf Küste/Strand umstellen (passt zu Skirraas Lage kurz vor den Dünen).
@@ -273,7 +275,9 @@ Aus [C-041](#c-041-prolog--bernstein-fundort): Girlin schenkt Tibun den Bernstei
 **Entscheidung:** Wird aus der Geschichte gestrichen. Tibuns Erfindung muss historisch plausibel sein. Ersatz noch offen → siehe C-002.
 
 ### C-006: Tibuns Alter bei Erfindungen ✓
-**Entscheidung:** Tibun erfindet und baut als Erwachsener (~25+). Als Kind (~12) erlebt er nur Girlins Verschwinden und entdeckt den Bernstein-Effekt.
+**Entscheidung:** Tibun erfindet und baut als Erwachsener (~25+). Als Jugendlicher entdeckt er mit **15** den Bernstein-Effekt (Prolog), versteht ihn aber nicht; mit **16** erlebt er Girlins Verschwinden.
+
+**Korrektur (nachträglich):** Hier stand ursprünglich „als Kind (~12)". Das war ein Überbleibsel aus der alten Altersannahme und widersprach [C-023 ✓](#c-023-zeitleiste--altersgerüst-) und der [Zeitleiste](../Zeitleiste.md) (15 im Prolog, 16 beim Verschwinden). Auch die Reihenfolge war falsch: Die Entdeckung kommt **vor** dem Verschwinden, nicht gleichzeitig. Dieselbe Altlast wurde in [Regeln.md](Regeln.md) bereinigt. Die Kernentscheidung (Bau erst als Erwachsener) bleibt unverändert.
 
 ### C-007: Proportionen der Portalringe ✓
 **Entscheidung:** Die Ringe folgen exakt den **Eine-Ring-Proportionen**, skaliert auf den Innendurchmesser (proportional schlank wie ein Fingerring, absolut ein Koloss). Damit gilt der proportional skalierte Maßsatz: 3-m-Ring = Außen-Ø 3,81 m, Wandstärke 0,405 m, ~8 t. Die alte „9-cm-Wand"-Variante entfällt. Folge: Der 3-m-Ring ist faktisch untransportierbar (erklärt, warum der Skir-Ring jahrtausendelang unbewegt im Boden lag).

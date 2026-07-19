@@ -19,6 +19,7 @@ Tibuns Heimatdorf. Benannt nach dem Bach **Skir**, an dem es liegt — *Skir* + 
 ## Größe und Struktur
 - Kleiner Weiler: **~6 Höfe, 40–60 Menschen**
 - Mehrere **freie Bauernfamilien** — [Tibuns Familie](../Menschen/Nordvolk/Tibun.md) eine davon
+- **Tibuns Hof = Schaf- und Wollhof**, spezialisiert auf die Herstellung von Stoffen; liegt **abseits der übrigen Häuser** (Platz für die Herde, Lärm beim Scheren, Geruch der Tiere). Die Familie ist dennoch geachtet — ihre Wolle gilt als gute Ware
 - Ein **führender Hof** (Großbauer / lokaler Anführer) — Autoritätsfigur
 - **Knechte / Unfreie** (Sklaverei ist Realität der Epoche)
 - **Keine** eigene Seherin im Weiler — die *Wala* lebt regional und wird aufgesucht
