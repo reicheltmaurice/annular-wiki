@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/reicheltmaurice/annular-wiki/main/notizen/offe
 **Einstiegsformel für neue mobile Session:**
 > "Lies diese drei Dateien: [URLs]. Du bist mein Brainstorming-Partner für diese Welt. Kommuniziere auf Deutsch."
 
-**Ideen sichern:** Gute Einfälle in `notizen/unterwegs.md` eintragen (Working Copy oder GitHub App) — am Laptop dann gemeinsam mit Claude Code einarbeiten.
+**Ideen sichern:** Gute Einfälle per Working Copy oder GitHub App ins Repo schreiben (z. B. in die passende Fachdatei oder als kurzen Notiz-Commit) — am Laptop dann mit Claude Code einarbeiten.
 
 ---
 

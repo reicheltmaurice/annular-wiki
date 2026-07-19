@@ -195,3 +195,139 @@ CAMERA: Eye-level three-quarter view, 50 mm lens, no distortion.
 
 NEGATIVE: no glow, no portal, no upright ring, no gold, no mirror polish, no machinery, no sci-fi, no rust, no patina, no modern objects, no thick trough walls, no plain parallel grooves only.
 ```
+
+---
+
+## Orte — Stimmungsbilder
+
+Fotorealistische Ortsansichten (Vendelzeit / ~550 n. Chr.). **Autorenebene** — Arbeitsdateien in [bilder/](bilder/), kein Kanon. Grundlage: [orte/](../orte/).
+
+| ID | Datei | Ort | Motiv |
+|----|--------|-----|--------|
+| **O-skirraa-01** | [bilder/O-skirraa-01-weiler.jpg](bilder/O-skirraa-01-weiler.jpg) | [Skirraa](../orte/Skirraa.md) | Weiler-Übersicht (~6 Höfe, Heide, Bach) |
+| **O-skirraa-02** | [bilder/O-skirraa-02-hof.jpg](bilder/O-skirraa-02-hof.jpg) | Skirraa | Freier Bauernhof am Skir |
+| **O-skirraa-03** | [bilder/O-skirraa-03-heide.jpg](bilder/O-skirraa-03-heide.jpg) | Skirraa | Karge Heide/Moor, Küstenrand |
+| **O-tingsal-01** | [bilder/O-tingsal-01-halle.jpg](bilder/O-tingsal-01-halle.jpg) | [Tingsal](../orte/Tingsal.md) | Häuptlingshalle außen |
+| **O-tingsal-02** | [bilder/O-tingsal-02-thingplatz.jpg](bilder/O-tingsal-02-thingplatz.jpg) | Tingsal | Freiluft-Thingplatz |
+| **O-tingsal-03** | [bilder/O-tingsal-03-siedlung.jpg](bilder/O-tingsal-03-siedlung.jpg) | Tingsal | Siedlungsübersicht Halle + Höfe |
+| **O-kaupvik-01** | [bilder/O-kaupvik-01-hafen.jpg](bilder/O-kaupvik-01-hafen.jpg) | [Kaupvik](../orte/Kaupvik.md) | Hafen, Ruderboote ohne Segel |
+| **O-kaupvik-02** | [bilder/O-kaupvik-02-markt.jpg](bilder/O-kaupvik-02-markt.jpg) | Kaupvik | Ufermarkt / Handel |
+| **O-kaupvik-03** | [bilder/O-kaupvik-03-anfahrt.jpg](bilder/O-kaupvik-03-anfahrt.jpg) | Kaupvik | Anfahrt vom Wasser |
+| **O-bellbrim-01** | [bilder/O-bellbrim-01-schlucht.jpg](bilder/O-bellbrim-01-schlucht.jpg) | [Bellbrims Werkstatt](../orte/Bellbrims-Werkstatt.md) | Felsschlucht (Petra-Typ) |
+| **O-bellbrim-02** | [bilder/O-bellbrim-02-hoehlenmund.jpg](bilder/O-bellbrim-02-hoehlenmund.jpg) | Bellbrim | Höhleneingang mit Werkzeug |
+| **O-bellbrim-03** | [bilder/O-bellbrim-03-werkstatt.jpg](bilder/O-bellbrim-03-werkstatt.jpg) | Bellbrim | Höhlenwerkstatt innen, Wasserlauf |
+
+**Vorgaben:** Photorealistic / documentary. Nordvolk = Holz, Reet/Torfdach, Heide, grau-nasses Licht. Kaupvik = **keine Segel** (nur Ruder). Bellbrim = Wüste/Sandstein, keine Moderne. Kein Fantasy-Stil, keine Burgen, keine Stäbekirchen.
+
+### O-skirraa-01 — Weiler-Übersicht
+
+```
+Photorealistic documentary photograph of a tiny 6th-century AD Germanic hamlet in northern Jutland, Vendsyssel. About six low timber longhouses with turf and thatch roofs sit scattered across bleak heather moorland beside a narrow dark stream. Sparse birch and willow, peat-brown soil, wind-bent scrub, no fields of note. Overcast northern sky, damp cold light, empty and remote near the North Sea coast. No people in the foreground. Shot from a slight rise, wide establishing view, 35 mm lens, natural color, no fantasy, no modern objects.
+```
+
+### O-skirraa-02 — Hof am Bach
+
+```
+Photorealistic close view of a free farmer’s longhouse in a 6th-century North Jutland hamlet beside a quiet stream. Weathered oak posts, wattle-and-daub walls under a thick thatched roof, smoke seeping from a roof opening, wood pile and simple wattle pen for sheep nearby. Damp black soil, reeds at the stream bank, pale heather beyond. Soft overcast daylight, quiet and everyday, documentary realism of the Migration Period / Vendel age. No people, no metal roofs, no glass windows, no fantasy architecture.
+```
+
+### O-skirraa-03 — Heide und Moor
+
+```
+Photorealistic landscape of barren northern Jutland heath near the Skagerrak coast, 6th century atmosphere. Rolling purple-brown heather, peat bog patches, wind-scoured dunes in the far distance under a low grey sky. A thin silver stream cuts through the moor. Sparse twisted trees, mist and damp air, utterly remote northern Europe. Elevated wide shot, natural muted colors, no buildings, no people, no modern elements, no fantasy.
+```
+
+### O-tingsal-01 — Häuptlingshalle
+
+```
+Photorealistic exterior of a large 6th-century Vendel-period chieftain’s timber hall in inland northern Jutland. Long high-roofed hall with massive oak posts, steep thatched roof, carved wooden door posts, smoke from a ridge vent. Smaller outbuildings and pens nearby on open heath grassland. Overcast northern light, power and settlement without castles or stone walls. Documentary historical realism, no people in frame, no fantasy spires, no stone keep.
+```
+
+### O-tingsal-02 — Thingplatz
+
+```
+Photorealistic outdoor assembly place of free farmers in 6th-century northern Jutland: a flat open green with a ring of weathered standing posts and flat stone seats, a simple wooden raised platform for speakers, sparse birch trees at the edge. Distant thatched roofs of a regional center. Cold damp air, grey sky, empty after gathering. Migration-period Thing site atmosphere, documentary realism, no modern objects, no runestones covered in readable modern lettering, no people.
+```
+
+### O-tingsal-03 — Siedlungsübersicht
+
+```
+Photorealistic elevated view of a small regional center in 6th-century Vendsyssel: a dominant chieftain’s long hall, a cluster of farm longhouses, animal pens, dirt paths, and an open Thing green to one side. Rolling inland heath and low woods beyond. Soft overcast Scandinavian light, muted earth colors, quiet pre-Viking settlement scale. No fortifications, no stone buildings, no modern elements, no fantasy.
+```
+
+### O-kaupvik-01 — Hafen
+
+```
+Photorealistic view of a 6th-century trading harbor on a narrow fjord inlet like the Schlei in Schleswig. Wooden jetties and slipways, several clinker-built open rowing boats without sails moored or beached, low thatched warehouses and huts along the muddy shore. Grey water, overcast sky, seagulls, damp northern light. Documentary realism of Migration-period Baltic trade, no Viking longships with square sails, no modern ships, no cranes.
+```
+
+### O-kaupvik-02 — Markt
+
+```
+Photorealistic open-air market on the shore of a 6th-century North European trading bay. Rough wooden stalls and cloth awnings, stacked barrels, amber chunks, wool bales, iron tools, pottery. Thatched huts and a wooden jetty in the background, muddy ground, overcast daylight. Sparse figures in undyed woollen cloaks and tunics of the early medieval North, unobtrusive. Documentary historical realism, no fantasy markets, no bright medieval fair banners, no sails on boats.
+```
+
+### O-kaupvik-03 — Anfahrt vom Wasser
+
+```
+Photorealistic view from a small open rowing boat approaching a 6th-century harbor settlement on a calm fjord. Low cluster of thatched timber buildings along a muddy inlet shore, wooden piers, smoke from cookfires, reed beds, distant inland fields. Flat grey northern sky reflected in still water. Purely rowed clinker boats only, no sails. Documentary wide shot, historical realism, quiet trade port atmosphere, no modern structures.
+```
+
+### O-bellbrim-01 — Schlucht
+
+```
+Photorealistic narrow desert canyon of warm red sandstone, inspired by the Siq near Petra, Jordan. Sheer cliff walls, winding dry path of sand and stone, harsh midday sun and deep blue sky, sparse desert scrub. Hidden and remote, no modern paths, no tourists, no carved classical facades. Documentary landscape photography feel.
+```
+
+### O-bellbrim-02 — Höhleneingang
+
+```
+Photorealistic entrance to a natural cave workshop in a red sandstone desert canyon. Dark cave mouth in a cliff face, improvised wooden scaffolding, rope, clay vessels, and rough work tables near the entrance, dusty tools of bronze and iron age technology. Underground spring water glinting just inside the shadow. Harsh desert light outside, cool shade within. Remote secret research place, no electricity, no modern lab equipment, no people.
+```
+
+### O-bellbrim-03 — Werkstatt innen
+
+```
+Photorealistic interior of a cave workshop in a desert rock system. Rough sandstone walls lit by oil lamps and a few high openings, workbenches with brass instruments, parchment, stone weights, wooden gears and experimental mechanisms of pre-industrial craft. A narrow underground stream runs through a carved channel across the floor. Dust motes in shafts of light, secret laboratory atmosphere of an isolated desert researcher. No computers, no plastic, no modern devices, no people in frame.
+```
+
+---
+
+## Tibuns Generator
+
+Reibungs-Elektrisiermaschine (rotierendes Bernsteinrad). Kanon: [Tibuns Generator](../technik/Tibuns-Generator.md), [Elektrizität](../technik/Elektrizitaet.md), [C-002](Offene-Challenges.md). Bau-Chronologie: Tisch-Prototyp → Wasseranlage → Zündung.
+
+| ID | Datei | Motiv |
+|----|--------|--------|
+| **G-001** | [bilder/G-001-tisch-prototyp.jpg](bilder/G-001-tisch-prototyp.jpg) | Handgekurbeltes Tisch-Modell (Prototyp, Funkenbeweis) |
+| **G-002** | [bilder/G-002-wasseranlage.jpg](bilder/G-002-wasseranlage.jpg) | Große wassergetriebene Anlage am Bach |
+| **G-003** | [bilder/G-003-zuendung-ring.jpg](bilder/G-003-zuendung-ring.jpg) | Zündmoment am Ring (aus [P-001u](bilder/P-001u-s-aussenrunen-behalten.jpg)) |
+
+**Vorgaben:**
+- Reibekörper = **Bernsteinkranz** auf Holzfelge (Segmente, Birkenpech, poliert) — kein Metall-Konduktor, kein Van-de-Graaff
+- Reibkissen Fell/Wolle/Leder am Umfang (wie Bremse)
+- **Kein Eisen in der Reibzone**
+- Antrieb: Handkurbel (Prototyp) bzw. Wasserrad (große Anlage, ~2 m Rad-Ø)
+- Kein Leidener-Flaschen-Speicher
+- Sättigung: schwaches **blaues Korona-Glimmen**; Zündung: knisternde Funken / kurzer Überschlag — **kein** Gewitterblitz, kein Portalstrahl
+- Übertragung (offen, dramaturgisch ok): Kette / Stab / Rad-Nähe
+
+### G-001 — Tisch-Prototyp
+
+```
+Photorealistic close study of a handmade 6th-century electrostatic friction machine on a rough oak workbench: a wooden wheel about 40 cm diameter with a rim of polished amber segments joined by dark birch pitch, continuous smooth amber tread. A leather-and-wool pad presses the rim like a brake. Hand crank of wood and antler, rope belt, wooden axle and bearings — no iron near the amber. Warm amber honey-gold color, craft tool marks, wood shavings, a few raw amber chunks nearby. Dim workshop light, a tiny blue-white static spark just visible between a bronze tip and the amber rim. Documentary realism, early medieval craft, no glass Leyden jars, no metal domes, no Van de Graaff, no electricity cables, no modern tools.
+```
+
+### G-002 — Wasseranlage
+
+```
+Photorealistic outdoor scene in northern Jutland heath by a dark stream: a large improvised 6th-century water-powered machine. A wooden undershot waterwheel turns in the current, linked by wooden shafts and rope belts to a tall vertical wheel nearly two metres across. The big wheel’s rim is a continuous band of polished amber segments set in a timber felloe with birch-pitch joints; a heavy fur-and-leather friction pad presses the amber tread. Rough wooden frame, no iron in the rubbing zone, peat-dark water, damp air, overcast northern light, sparse alder and willow. Documentary historical realism of a peasant inventor’s engine, no fantasy machines, no metal generators, no modern power plant, no people in frame.
+```
+
+### G-003 — Zündung am Ring
+
+Edit aus **P-001u** (Ring-Lock behalten).
+
+```
+Same forest scene and the exact same colossal flat metal ring lying on the ground — keep the ring’s shape, size, brushed silver surface, oval band profile, moss, and position completely unchanged. Beside the ring, add Tibun’s large wooden amber-rimmed friction wheel (about 2 m diameter) on a rough timber frame, amber tread honey-gold, fur friction pad pressed to the rim, wooden drive shafts. The amber wheel spins fast with a faint blue corona glow along the amber rim. Thin blue-white static sparks spray from a hanging metal chain toward the ring’s outer surface — small crackling sparks only, not a lightning bolt, not a portal beam. Dim dusk or shaded forest light so the corona and sparks read clearly. No green portal glow yet on the ring, no sci-fi machinery, no modern objects, photorealistic.
+```
