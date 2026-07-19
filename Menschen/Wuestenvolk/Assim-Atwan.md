@@ -1,5 +1,7 @@
 # Assim Atwan
 
+> **Status:** ???
+
 ---
 
 ## Allgemeine Informationen
@@ -14,19 +16,19 @@
 
 **Familie**
 
-Offen — siehe [C-028](../../Notizen/Offene-Challenges.md)
+??? — siehe [C-028](../../Notizen/Offene-Challenges.md)
 
 ---
 
 ## Frühes Leben
 
-Offen — siehe [C-028](../../Notizen/Offene-Challenges.md)
+??? — siehe [C-028](../../Notizen/Offene-Challenges.md)
 
 ---
 
 ## Besondere Fähigkeiten
 
-Offen — siehe [C-029](../../Notizen/Offene-Challenges.md)
+??? — siehe [C-029](../../Notizen/Offene-Challenges.md)
 
 ---
 

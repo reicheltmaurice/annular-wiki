@@ -1,5 +1,7 @@
 # Bellbrim
 
+> **Status:** ???
+
 ---
 
 ## Allgemeine Informationen
@@ -14,19 +16,19 @@
 
 **Familie**
 
-Offen — siehe [C-027](../../Notizen/Offene-Challenges.md)
+??? — siehe [C-027](../../Notizen/Offene-Challenges.md)
 
 ---
 
 ## Frühes Leben
 
-Offen — siehe [C-027](../../Notizen/Offene-Challenges.md)
+??? — siehe [C-027](../../Notizen/Offene-Challenges.md)
 
 ---
 
 ## Besondere Fähigkeiten
 
-Offen — siehe [C-027](../../Notizen/Offene-Challenges.md)
+??? — siehe [C-027](../../Notizen/Offene-Challenges.md)
 
 ---
 

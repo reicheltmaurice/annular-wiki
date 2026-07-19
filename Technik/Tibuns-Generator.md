@@ -61,4 +61,4 @@ Handgekurbeltes **Tisch-Modell** (Prototyp, beweist den Funken) → große **was
 
 ## Offen
 
-**Übertragung (finaler Aufbau):** Wie kommt die Ladung vom Rad zum Ring? Direkte Annäherung des Rades, ein Metallstab oder eine an der Decke isoliert aufgehängte **Metallkette**. Die Kette ist als dramaturgisches Element zugelassen, auch wenn technisch ineffizient — Tibun darf als Erfinder Umwege machen. → [C-002](../Notizen/Offene-Challenges.md).
+**Übertragung (finaler Aufbau): ???** Wie kommt die Ladung vom Rad zum Ring? Direkte Annäherung des Rades, ein Metallstab oder eine an der Decke isoliert aufgehängte **Metallkette**. Die Kette ist als dramaturgisches Element zugelassen, auch wenn technisch ineffizient — Tibun darf als Erfinder Umwege machen. → [C-002](../Notizen/Offene-Challenges.md).

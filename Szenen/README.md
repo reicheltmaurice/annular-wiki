@@ -4,4 +4,4 @@ Alle geschriebenen Szenen. Status: Entwurf / Überarbeitung / Final.
 
 | Datei | Akt | Inhalt | Status |
 |---|---|---|---|
-| — | — | Noch keine Szenen geschrieben | — |
+| [Die Entdeckung](Prolog/Die-Entdeckung.md) | Prolog | Tibun (15) entdeckt am Verlobungstag Jolyls den Bernstein-Effekt | Entwurf |

@@ -1,5 +1,7 @@
 # Wandernde Wala
 
+> **Status:** ???
+
 ---
 
 ## Allgemeine Informationen
@@ -9,8 +11,8 @@
 | | |
 |---|---|
 | **Rolle** | Heilige Frau / Seherin (*Wala/Völva*) des Nordvolks, **wandernd** |
-| **Alter** | Offen |
-| **Herkunft** | Offen |
+| **Alter** | ??? |
+| **Herkunft** | ??? |
 
 **Familie**
 
@@ -22,7 +24,7 @@
 
 ## Frühes Leben
 
-Offen.
+???
 
 ---
 
@@ -38,7 +40,7 @@ Zieht durchs Hinterland von Weiler zu Weiler, kommt gelegentlich nach [Skirraa](
 
 Weiß **nichts** vom vergrabenen Ring am Bach (siehe [C-008](../../../Notizen/Offene-Challenges.md)).
 
-**Rolle noch offen** — bisher Möglichkeit, keine Szene.
+**Rolle: ???** — bisher Möglichkeit, keine Szene.
 
 ---
 
@@ -50,4 +52,4 @@ Weiß **nichts** vom vergrabenen Ring am Bach (siehe [C-008](../../../Notizen/Of
 
 ## Inspiration
 
-Offen.
+???

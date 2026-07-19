@@ -21,6 +21,18 @@ Neue Regeln laufend ergänzen — keine Begründungen, nur die Regel selbst.
 - Religion ist Atmosphäre und Weltbild — keine Theologie, keine Erklärungen
 - Erlaubt: heilige Haine, Mooropfer, Seherin, Runen, Schicksalsvorstellung
 
+## Status-Marker
+
+> Verbindlich, ebenfalls in `CLAUDE.md` verankert (nur die wird pro Session automatisch geladen).
+
+- `???` = noch zu entscheiden — **Standardzustand** für alles Unbekannte
+- `bewusst offen` = bewusst offen gelassen und abgesegnet — **setzt nur der Autor**
+- konkreter Inhalt = entschieden — **setzt nur der Autor**
+- Charakterdateien tragen `> **Status:** ???` — Werte `???` · `in Arbeit` · `final`; `final` setzt nur der Autor
+- Claude schreibt bei Unklarheit immer `???`, nie `bewusst offen`, nie `final`
+- Keine plausiblen Annahmen als Feldinhalt — lieber `???`
+- Vollständige Liste offener Punkte: `grep -rn "???" --include="*.md" .`
+
 ## Charaktere
 
 - Tibun erfindet und baut als Erwachsener (~25+) — als Kind (~12) nur Entdeckung des Bernstein-Effekts

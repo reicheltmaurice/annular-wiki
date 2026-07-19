@@ -1,5 +1,7 @@
 # Tibun
 
+> **Status:** ???
+
 ---
 
 ## Allgemeine Informationen
@@ -52,4 +54,4 @@ Tibun ist die zentrale Figur der Handlung und treibt die Entdeckung der Portalri
 
 ## Inspiration
 
-- Offen — siehe [C-031](../../Notizen/Offene-Challenges.md)
+- ??? — siehe [C-031](../../Notizen/Offene-Challenges.md)

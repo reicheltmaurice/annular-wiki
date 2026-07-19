@@ -1,5 +1,7 @@
 # Wala von Tingsal (sesshaft)
 
+> **Status:** ???
+
 ---
 
 ## Allgemeine Informationen
@@ -9,7 +11,7 @@
 | | |
 |---|---|
 | **Rolle** | Heilige Frau / Seherin (*Wala/Völva*) des Nordvolks, **sesshaft** in [Tingsal](../../../Orte/Tingsal.md) |
-| **Alter** | Offen |
+| **Alter** | ??? |
 | **Herkunft** | [Tingsal](../../../Orte/Tingsal.md) |
 
 **Familie**
@@ -22,7 +24,7 @@
 
 ## Frühes Leben
 
-Offen.
+???
 
 ---
 
@@ -38,7 +40,7 @@ Sitzt im regionalen Zentrum [Tingsal](../../../Orte/Tingsal.md) (Häuptlingssitz
 
 Weiß **nichts** vom vergrabenen Ring am Bach (siehe [C-008](../../../Notizen/Offene-Challenges.md)).
 
-**Rolle noch offen** — bisher Möglichkeit, keine Szene.
+**Rolle: ???** — bisher Möglichkeit, keine Szene.
 
 ---
 
@@ -50,4 +52,4 @@ Weiß **nichts** vom vergrabenen Ring am Bach (siehe [C-008](../../../Notizen/Of
 
 ## Inspiration
 
-Offen.
+???

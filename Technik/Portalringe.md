@@ -63,7 +63,7 @@ Es gibt nur wenige festgelegte Ringgrößen; nur Ringe gleicher Größe kuppeln 
 | **3,00 m** | ~8 t | ortsfest, untransportierbar | Menschen & Waren. Skir- und Sahrin-Ring. |
 | **0,30 m** | ~8 kg | tragbar, evtl. versetzbar | Kleine Pakete & Briefe — ein Postsystem. |
 
-Weitere Größen noch offen. Der Postzweck der kleinen Ringe ist die **ursprüngliche Bestimmung der Erbauer**, heute vergessen — niemand in der Welt von 550 kennt das System ([C-008](../Notizen/Offene-Challenges.md)).
+Weitere Größen: **???** ([C-017](../Notizen/Offene-Challenges.md)). Der Postzweck der kleinen Ringe ist die **ursprüngliche Bestimmung der Erbauer**, heute vergessen — niemand in der Welt von 550 kennt das System ([C-008](../Notizen/Offene-Challenges.md)).
 
 ---
 

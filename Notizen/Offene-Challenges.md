@@ -2,6 +2,8 @@
 
 Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 
+**Status-Marker in den Wiki-Dateien** (Details: [Regeln.md](Regeln.md)): `???` = noch zu entscheiden · `bewusst offen` = abgesegnet, bleibt offen · konkreter Inhalt = entschieden. `bewusst offen` und Status `final` setzt ausschließlich der Autor.
+
 ## Übersicht
 
 **Offen**
@@ -27,6 +29,23 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-032: Girlin — Inspiration/Besetzung](#c-032-girlin--inspirationbesetzung)
 - [C-034: Tibuns Lebensgrundlage während der Wanderschaft](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft)
 - [C-037: Ringoptik im Erzähltext ohne Anachronismus](#c-037-ringoptik-im-erzähltext-ohne-anachronismus)
+- [C-038: Prolog — Ortsmaßstab in Skirraa](#c-038-prolog--ortsmaßstab-in-skirraa)
+- [C-039: Prolog — Funke entzündet Wolle](#c-039-prolog--funke-entzündet-wolle)
+- [C-040: Prolog — Fischerdorf vs. Heide-Weiler](#c-040-prolog--fischerdorf-vs-heide-weiler)
+- [C-041: Prolog — Bernstein-Fundort](#c-041-prolog--bernstein-fundort)
+- [C-042: Prolog — Nebenfiguren Jolyl, Herik, Lanke](#c-042-prolog--nebenfiguren-jolyl-herik-lanke)
+- [C-043: Prolog — Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk](#c-043-prolog--herzschmerz-rahmen-nutzen-fürs-gesamtwerk)
+- [C-044: Herkunft von Girlins Bernstein](#c-044-herkunft-von-girlins-bernstein)
+- [C-045: Semban — offene Felder](#c-045-semban--offene-felder)
+- [C-046: Mellia — offene Felder](#c-046-mellia--offene-felder)
+- [C-047: Tara — offene Felder](#c-047-tara--offene-felder)
+- [C-048: Hadurik — offene Felder](#c-048-hadurik--offene-felder)
+- [C-049: Wala von Tingsal — offene Felder](#c-049-wala-von-tingsal--offene-felder)
+- [C-050: Wandernde Wala — offene Felder](#c-050-wandernde-wala--offene-felder)
+- [C-051: Jolyl — offene Felder](#c-051-jolyl--offene-felder)
+- [C-052: Herik — offene Felder](#c-052-herik--offene-felder)
+- [C-053: Lanke — offene Felder](#c-053-lanke--offene-felder)
+- [C-054: Tingsal — Halle & Thinggeschehen](#c-054-tingsal--halle--thinggeschehen)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -174,6 +193,71 @@ Nicht dringend, aber nötig, damit die 8 Jahre nicht als abstrakter Zeitraum ste
 Berührt [C-013](#c-013-runen--anordnung-anzahl-aussehen). Wird spätestens bei der Fundszene akut.
 
 **Klein & offen (Autorenebene):** Läuft die feine Bürstrichtung **umlaufend** (der Ringform folgend) oder **axial**? Umlaufend ist die naheliegende Lesart, festgelegt ist nichts.
+
+### C-038: Prolog — Ortsmaßstab in Skirraa
+Die Prolog-Szene ([Die-Entdeckung.md](../Szenen/Prolog/Die-Entdeckung.md)) spielt auf einem „Dorfplatz/Marktplatz" mit festem **Rednerpodest** und einer einberufenen **Versammlung**. [Skirraa](../Orte/Skirraa.md) ist aber ein **Weiler mit ~6 Höfen, 40–60 Menschen**. Maßstab zu groß — Verlobung müsste im kleinen Rahmen (führender Hof / Nachbarschaft) stattfinden, kein Marktplatz. Szene anpassen.
+
+**Entschieden:** Verlobung wird **beim Großbauern** (führender Hof von [Skirraa](../Orte/Skirraa.md)) im kleinen Rahmen besiegelt — kein Marktplatz, kein Rednerpodest, keine Volksversammlung. Verlagerung nach Tingsal verworfen (bräche die Geografie: Stall-Entdeckung am selben Abend nicht mehr möglich). In der Szene umgesetzt.
+
+### C-039: Prolog — Funke entzündet Wolle
+In der Szene entzündet der Bernsteinfunke Wollreste, Tibun bekommt **Brandblasen**. Widerspricht [C-002](#c-002-tibuns-elektrizitätsquelle) und [Elektrizität](../Technik/Elektrizitaet.md): statische Entladung = sichtbarer Funke, **keine Brandwunden**; physikalisch kann ein handgeriebener Bernsteinfunke keine Wolle entzünden. Blockierend für die Entdeckungs-Inszenierung. Neu lösen: Entdeckung über Funke im Dunkeln / angezogene Fasern / Schreck statt Feuer.
+
+**Entschieden:** Im dunklen Stall springt der Funke an die eiserne **Schafschere**; **kurzes Ansengen loser Flusen**, kein Brand, keine Brandblasen. Tibun **erschrickt heftig** und fürchtet ein Feuer — er weiß, wie brennbar Wolle ist — und „löscht" sofort alles, obwohl real nichts passiert wäre. Die Gefahr wird bewusst leicht überzeichnet, aber **aus Tibuns Angst heraus**, nicht auktorial. Kanon-konform mit [C-002](#c-002-tibuns-elektrizitätsquelle) (Funke bleibt harmlos). Umsetzung in der Szene offen.
+
+### C-040: Prolog — Fischerdorf vs. Heide-Weiler
+Die Szene zeichnet mit Fischer, **Bootsbauer** und dessen Sohn ein Küsten-Fischerdorf. [Skirraa](../Orte/Skirraa.md) ist karge Heide/Moor mit Tierzucht/Jagd (Küstennähe zum Skagerrak erlaubt Fischerei, aber nicht als prägendes Milieu). Charakter des Orts bewusst entscheiden und Szene angleichen.
+
+**Entschieden:** Fischer-/Bootsbauer-Milieu **gestrichen**. Skirraa bleibt Heide-/Moor-Weiler mit Tierzucht; Tibuns Hof = Schaf-/Wollhof abseits. In der Szene umgesetzt.
+
+### C-041: Prolog — Bernstein-Fundort
+Tibun findet den Bernstein laut Szene „im Flussbett" des Bachs. In Jütland ist Bernstein **Strandgut** (Skagerrak/Nordsee), kein Flussfund. Fundort auf Küste/Strand umstellen (passt zu Skirraas Lage kurz vor den Dünen).
+
+**Entschieden:** Der Bernstein ist ein **Geschenk seiner Mutter [Girlin](../Menschen/Nordvolk/Girlin.md)**. Sie kennt die Herkunft, verrät sie aber nie — **Tibun** weiß nicht, woher der Stein stammt (offener Faden → [C-044](#c-044-herkunft-von-girlins-bernstein)). Ersetzt den Bachbett-Fund und koppelt an [C-043](#c-043-prolog--herzschmerz-rahmen-nutzen-fürs-gesamtwerk).
+
+### C-042: Prolog — Nebenfiguren Jolyl, Herik, Lanke
+Die Szene führt **Jolyl** (Liebe Tibuns), **Herik** (Sohn des Bootsbauers, Tibuns Freund) und **Lanke** (Bootsbauer) ein — keine davon im Wiki. Entscheiden: bleiben sie? Wenn ja, eigene Dateien unter `Nebenfiguren/` + Verlinkung ([C-033](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder-)). Jolyl taucht im späteren Kanon nicht wieder auf — Rolle klären.
+
+**Entschieden:** **Jolyl** = Mädchen aus Skirraa (lokal). **Herik** = Hofsohn von auswärts (Gegend um Tingsal), die „bessere Partie" — schärft Tibuns Stich. **Lanke** = Heriks Vater, ortsfremder Hofbesitzer. Bleiben als Nebenfiguren. Eigene Wiki-Dateien nach [C-033](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder-) **angelegt** ([Jolyl](../Menschen/Nordvolk/Nebenfiguren/Jolyl.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Lanke](../Menschen/Nordvolk/Nebenfiguren/Lanke.md)), in README-Index und SUMMARY eingetragen. In der Szene umgesetzt.
+
+**Restliche offene Felder** je Figur ausgelagert: [C-051 Jolyl](#c-051-jolyl--offene-felder), [C-052 Herik](#c-052-herik--offene-felder), [C-053 Lanke](#c-053-lanke--offene-felder).
+
+### C-043: Prolog — Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk
+Die Entdeckung des Bernstein-Effekts ist an Tibuns **Liebeskummer** (Jolyls Verlobung mit Herik) gekoppelt: er wirft die Kette aus Wut → Funke. Dramaturgisch tragfähig, aber die Leitfrage („interessiert das einen Leser in 30 Jahren?") stellt sich: Trägt der Herzschmerz-Rahmen, oder sollte die Entdeckung an ein Motiv mit späterem Payoff gebunden werden? Entscheiden.
+
+**Entschieden:** Herzschmerz-Rahmen (Jolyl) **bleibt**. Zusätzlicher Payoff über [C-041](#c-041-prolog--bernstein-fundort): Der Bernstein stammt von **Girlin** — Tibun verschenkt das Muttergeschenk an Jolyl; **ein Jahr später** verschwindet Girlin durch dasselbe elektrische Prinzip ([C-008](#c-008-anzahl-und-bekanntheit-der-ringe-)). Der kleine Prolog-Funke wird zur stillen Vorahnung der Katastrophe; der Bernstein verknüpft Liebe (Mutter), Verlust und Technik — genau das Material, mit dem Tibun später den Ring zünden will.
+
+### C-044: Herkunft von Girlins Bernstein
+Aus [C-041](#c-041-prolog--bernstein-fundort): Girlin schenkt Tibun den Bernstein und **kennt** dessen Herkunft, verrät sie ihm aber nie. Offen: Woher stammt der Stein wirklich? Bewusst als **offener Faden** gehalten — möglicher späterer Payoff (Anknüpfung an Girlins Vorgeschichte [C-024](#c-024-girlin--herkunft--vorgeschichte) oder den Ring). Noch nichts festlegen. Klein.
+
+### C-045: Semban — offene Felder
+[Semban](../Menschen/Nordvolk/Nebenfiguren/Semban.md) (Tibuns Vater): Frühes Leben, Fähigkeiten und Inspiration stehen auf `???`. Seine Story-Funktion (führt den Hof weiter, bindet sich rasch an Mellia) ist über [C-022](#c-022-tibuns-reise--dauer-motiv-hof-) geklärt — die Person dahinter nicht.
+
+### C-046: Mellia — offene Felder
+[Mellia](../Menschen/Nordvolk/Nebenfiguren/Mellia.md): Alter, Herkunft, Fähigkeiten, Inspiration auf `???`. Ihre Funktion (Girlins frühere Freundin, Sembans schneller Ersatz) ist geklärt; Vorgeschichte und Charakter nicht.
+
+### C-047: Tara — offene Felder
+[Tara](../Menschen/Nordvolk/Nebenfiguren/Tara.md) (Tibuns Schwester): Frühes Leben, Fähigkeiten, Inspiration auf `???`. Alter ist über [C-030](#c-030-taras-alter-) geklärt. Offen ist vor allem, **ob sie eine eigene Rolle** bekommt — sie ist beim Verschwinden der Mutter 9 und beim Finale 19.
+
+### C-048: Hadurik — offene Felder
+[Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) (Häuptling von [Tingsal](../Orte/Tingsal.md)): Alter, Familie, Frühes Leben, Fähigkeiten, Inspiration auf `???`. Charakter und Rolle als regionale Autorität laufen bereits unter [C-009](#c-009-häuptling-von-tingsal) — diese Challenge deckt die **Personendaten**, C-009 die Story-Funktion.
+
+### C-049: Wala von Tingsal — offene Felder
+[Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md) (sesshafte Seherin): Alter, Herkunft, Fähigkeiten, Inspiration auf `???`; vor allem ist ihre **Rolle** noch reine Möglichkeit ohne Szene. Zu klären: Wird sie gebraucht, oder entfällt sie?
+
+### C-050: Wandernde Wala — offene Felder
+[Wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) (Zwillingsschwester der sesshaften Wala): Alter, Herkunft, Fähigkeiten, Inspiration auf `???`; Rolle ebenfalls ohne Szene. Zu klären zusammen mit [C-049](#c-049-wala-von-tingsal--offene-felder) — brauchen wir **zwei** Seherinnen?
+
+### C-051: Jolyl — offene Felder
+[Jolyl](../Menschen/Nordvolk/Nebenfiguren/Jolyl.md): Alter, Fähigkeiten, Inspiration und der Name ihres Vaters auf `???`. Wichtigste Frage bleibt (aus [C-042](#c-042-prolog--nebenfiguren-jolyl-herik-lanke)): Tritt sie nach dem Prolog noch einmal auf?
+
+### C-052: Herik — offene Felder
+[Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md): Alter, Fähigkeiten, Inspiration auf `???`. Ebenso offen, ob er nach dem Prolog noch eine Rolle spielt ([C-042](#c-042-prolog--nebenfiguren-jolyl-herik-lanke)).
+
+### C-053: Lanke — offene Felder
+[Lanke](../Menschen/Nordvolk/Nebenfiguren/Lanke.md): Alter, Frühes Leben, Fähigkeiten, Inspiration auf `???`. Derzeit reine Funktionsfigur des Prologs — gut möglich, dass hier alles **bewusst offen** bleibt; das entscheidet der Autor.
+
+### C-054: Tingsal — Halle & Thinggeschehen
+[Tingsal](../Orte/Tingsal.md) ist als Häuptlingssitz und Thingplatz gesetzt, aber die **Halle** (Aufbau, Größe, Nutzung) und der **Ablauf eines Things** sind nicht ausgearbeitet. Relevant, sobald eine Szene dort spielt. Historisch verankerbar an der Hallenkultur der Vendelzeit. Berührt [C-009](#c-009-häuptling-von-tingsal) (Hadurik als Hausherr).
 
 ---
 

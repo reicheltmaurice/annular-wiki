@@ -15,6 +15,9 @@
     * [Hadurik](Menschen/Nordvolk/Nebenfiguren/Hadurik.md)
     * [Wala von Tingsal](Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md)
     * [Wandernde Wala](Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md)
+    * [Jolyl](Menschen/Nordvolk/Nebenfiguren/Jolyl.md)
+    * [Herik](Menschen/Nordvolk/Nebenfiguren/Herik.md)
+    * [Lanke](Menschen/Nordvolk/Nebenfiguren/Lanke.md)
 * Volk der Sahrin
   * [Das Volk der Sahrin](Menschen/Wuestenvolk/Sahrin.md)
   * [Erscheinung & Lebensweise](Menschen/Wuestenvolk/allgemein.md)
@@ -52,6 +55,7 @@
 ## Szenen
 
 * [Szenen-Log](Szenen/README.md)
+* [Prolog: Die Entdeckung](Szenen/Prolog/Die-Entdeckung.md)
 
 ## Notizen
 

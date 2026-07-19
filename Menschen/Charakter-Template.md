@@ -1,5 +1,10 @@
 # [Charaktername]
 
+> **Status:** ???
+
+<!-- Marker: ??? = noch zu entscheiden · "bewusst offen" = vom Autor abgesegnet, bleibt offen.
+     "bewusst offen" und Status "final" setzt ausschließlich der Autor. Siehe Notizen/Regeln.md -->
+
 ---
 
 ## Allgemeine Informationen
@@ -8,16 +13,16 @@
 
 | | |
 |---|---|
-| **Rolle** | |
-| **Alter** | |
-| **Herkunft** | |
+| **Rolle** | ??? |
+| **Alter** | ??? |
+| **Herkunft** | ??? |
 
 **Familie**
 
 | | |
 |---|---|
-| **Mutter** | |
-| **Vater** | |
+| **Mutter** | ??? |
+| **Vater** | ??? |
 
 ---
 
@@ -29,9 +34,7 @@ Kurzer Überblick über Kindheit, Familie und Herkunft.
 
 ## Besondere Fähigkeiten
 
-- Fähigkeit 1
-- Fähigkeit 2
-- ...
+???
 
 ---
 
@@ -50,4 +53,4 @@ Welche Rolle spielt der Charakter in der Geschichte?
 
 ## Inspiration
 
-- Schauspieler: [Name](https://example.com)
+???

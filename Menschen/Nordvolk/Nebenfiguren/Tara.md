@@ -1,5 +1,7 @@
 # Tara
 
+> **Status:** ???
+
 ---
 
 ## Allgemeine Informationen
@@ -24,13 +26,13 @@
 
 ## Frühes Leben
 
-Offen.
+???
 
 ---
 
 ## Besondere Fähigkeiten
 
-Offen.
+???
 
 ---
 
@@ -50,4 +52,4 @@ Verspielt, neugierig und hängt sehr an ihrem Bruder [Tibun](../Tibun.md).
 
 ## Inspiration
 
-Offen.
+???

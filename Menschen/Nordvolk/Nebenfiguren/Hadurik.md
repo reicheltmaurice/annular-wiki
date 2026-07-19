@@ -1,5 +1,7 @@
 # Hadurik
 
+> **Status:** ???
+
 ---
 
 ## Allgemeine Informationen
@@ -9,30 +11,30 @@
 | | |
 |---|---|
 | **Rolle** | Häuptling von [Tingsal](../../../Orte/Tingsal.md), regionaler Anführer mit Thinghalle |
-| **Alter** | Offen |
+| **Alter** | ??? |
 | **Herkunft** | [Tingsal](../../../Orte/Tingsal.md) |
 
 **Familie**
 
-Offen.
+???
 
 ---
 
 ## Frühes Leben
 
-Offen.
+???
 
 ---
 
 ## Besondere Fähigkeiten
 
-Offen.
+???
 
 ---
 
 ## Bedeutung in der Geschichte
 
-Regionaler Anführer mit Thinghalle in [Tingsal](../../../Orte/Tingsal.md). Rolle und Verhältnis zu [Tibun](../Tibun.md) / [Skirraa](../../../Orte/Skirraa.md) noch offen.
+Regionaler Anführer mit Thinghalle in [Tingsal](../../../Orte/Tingsal.md). Rolle und Verhältnis zu [Tibun](../Tibun.md) / [Skirraa](../../../Orte/Skirraa.md): ???
 
 Der Name ist germanisch-zweigliedrig (*hadu* „Kampf" + *rik* „Herrscher") — bewusst schwerer und herrschaftlicher als die Dorffiguren, markiert Rang.
 
@@ -40,10 +42,10 @@ Der Name ist germanisch-zweigliedrig (*hadu* „Kampf" + *rik* „Herrscher") �
 
 ## Verbindungen zu anderen Charakteren
 
-Offen.
+???
 
 ---
 
 ## Inspiration
 
-Offen.
+???

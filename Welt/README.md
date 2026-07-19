@@ -43,5 +43,5 @@ Die Erbauer liegen vor aller überlieferbaren Zeit. Keine Kultur dringt je zu He
 
 ## Offen (Autorenebene, nicht zwingend im Text)
 
-- **Kreis oder Spirale?** → [C-011](../Notizen/Offene-Challenges.md).
-- **Ursache** von Erwachen und Zusammenbruch: feste Periode, ausgelöst, oder grundsätzlich unergründlich?
+- **Kreis oder Spirale?** → **???** ([C-011](../Notizen/Offene-Challenges.md))
+- **Ursache** von Erwachen und Zusammenbruch → **???** — feste Periode, ausgelöst, oder grundsätzlich unergründlich? ([C-019](../Notizen/Offene-Challenges.md))

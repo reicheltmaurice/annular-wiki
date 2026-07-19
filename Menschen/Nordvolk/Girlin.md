@@ -1,5 +1,7 @@
 # Girlin
 
+> **Status:** ???
+
 ---
 
 ## Allgemeine Informationen
@@ -24,13 +26,13 @@
 
 ## Frühes Leben
 
-Offen — siehe [C-024](../../Notizen/Offene-Challenges.md)
+??? — siehe [C-024](../../Notizen/Offene-Challenges.md)
 
 ---
 
 ## Besondere Fähigkeiten
 
-Offen — siehe [C-025](../../Notizen/Offene-Challenges.md)
+??? — siehe [C-025](../../Notizen/Offene-Challenges.md)
 
 ---
 
@@ -51,4 +53,4 @@ Verschwindet durch den Portalring in die Wüste und durchlebt dort einen eigenen
 
 ## Inspiration
 
-Offen — siehe [C-032](../../Notizen/Offene-Challenges.md)
+??? — siehe [C-032](../../Notizen/Offene-Challenges.md)

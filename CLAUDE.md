@@ -39,11 +39,27 @@ Stattdessen ausschließlich über Epitheta — Beinamen, die eine Eigenschaft be
 
 Die Religion ist **Atmosphäre und Weltbild**, keine Theologie. Götter erscheinen als gefühlte Präsenz, nicht als Figuren. Lokale Ausprägungen (heiliger Hain, Mooropfer, Seherin) frei erfindbar — historische Grundstruktur bleibt.
 
+## Status-Marker (verbindlich)
+Offene Punkte im Wiki werden **ausschließlich** mit diesen Markern gekennzeichnet:
+
+| Marker | Bedeutung | Wer darf ihn setzen |
+|---|---|---|
+| `???` | Noch zu entscheiden — **Standard** | Claude und Autor |
+| `bewusst offen` | Bewusst offen gelassen, abgesegnet | **nur der Autor** |
+| konkreter Inhalt | Entschieden | nur der Autor |
+
+Zusätzlich trägt jede Charakterdatei eine Statuszeile `> **Status:** ???` — Werte: `???` · `in Arbeit` · `final`.
+
+**Harte Regel:** Claude setzt **niemals** `bewusst offen` und **niemals** Status `final`. Unklares wird immer `???`. Was als erledigt gilt, entscheidet ausschließlich der Autor — auch dann, wenn eine Frage trivial wirkt.
+
+Übersicht aller offenen Punkte: `grep -rn "???" --include="*.md" .`
+
 ## Wiki-Pflege
 Bei jeder neuen Datei:
 1. In `SUMMARY.md` eintragen (GitBook-Navigation)
 2. Interne Links mit korrekten relativen Pfaden anlegen
 3. Aus bestehenden Dateien verlinken wo sinnvoll
+4. Unbekannte Felder mit `???` füllen — nie mit plausiblen Annahmen
 
 ## Verbote
 - Kein Deus ex Machina

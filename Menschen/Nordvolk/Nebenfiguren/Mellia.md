@@ -1,5 +1,7 @@
 # Mellia
 
+> **Status:** ???
+
 ---
 
 ## Allgemeine Informationen
@@ -9,8 +11,8 @@
 | | |
 |---|---|
 | **Rolle** | Neue Partnerin von [Semban](Semban.md) |
-| **Alter** | Offen |
-| **Herkunft** | Offen |
+| **Alter** | ??? |
+| **Herkunft** | ??? |
 
 **Familie**
 
@@ -28,7 +30,7 @@ War einst enge Freundin [Girlins](../Girlin.md).
 
 ## Besondere Fähigkeiten
 
-Offen.
+???
 
 ---
 
@@ -49,4 +51,4 @@ Tibun **weiß**, dass Girlin lebt — er sah als Einziger den Ring flippen und s
 
 ## Inspiration
 
-Offen.
+???

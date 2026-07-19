@@ -8,3 +8,6 @@ Figuren mit Nebenrolle. Jede hat eine **eigene Datei** (nach [Charakter-Template
 - [Hadurik](Hadurik.md) — Häuptling von [Tingsal](../../../Orte/Tingsal.md)
 - [Wala von Tingsal](Wala-Tingsal.md) — sesshafte Seherin
 - [Wandernde Wala](Wala-Wandernd.md) — wandernde Seherin, ihre Zwillingsschwester
+- [Jolyl](Jolyl.md) — Tibuns Jugendliebe aus [Skirraa](../../../Orte/Skirraa.md), verlobt mit Herik
+- [Herik](Herik.md) — Hofsohn von auswärts, Jolyls Verlobter
+- [Lanke](Lanke.md) — Heriks Vater, arrangiert die Verlobung

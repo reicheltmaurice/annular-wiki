@@ -1,5 +1,7 @@
 # Semban
 
+> **Status:** ???
+
 ---
 
 ## Allgemeine Informationen
@@ -25,13 +27,13 @@
 
 ## Frühes Leben
 
-Offen.
+???
 
 ---
 
 ## Besondere Fähigkeiten
 
-Offen.
+???
 
 ---
 
@@ -54,4 +56,4 @@ Tibun **weiß** als einziger Zeuge, dass Girlin lebt — er sah den Ring flippen
 
 ## Inspiration
 
-Offen.
+???
