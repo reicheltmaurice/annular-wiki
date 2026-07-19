@@ -92,31 +92,8 @@ Was jeder Ring-Prompt korrekt treffen muss:
 
 | ID | Datei | Status |
 |----|--------|--------|
-| P-001 | [bilder/P-001-ring-baeume.jpg](bilder/P-001-ring-baeume.jpg) | Stimmung ok; Form/Runen überholt |
-| P-001a | [bilder/P-001a-ring-baeume-runen.jpg](bilder/P-001a-ring-baeume-runen.jpg) | verworfen — zu kantig, Runen auch innen |
-| P-001b | [bilder/P-001b-ring-baeume-stargate-runen.jpg](bilder/P-001b-ring-baeume-stargate-runen.jpg) | Zwischenstand |
-| P-001c | [bilder/P-001c-ring-baeume-form-p003a.jpg](bilder/P-001c-ring-baeume-form-p003a.jpg) | Form+Runen P-003a, Wald |
-| P-001d | [bilder/P-001d-ring-baeume-form-p003a.jpg](bilder/P-001d-ring-baeume-form-p003a.jpg) | bisher am nächsten; Kanten noch zu eckig |
-| P-001e/f | … | verworfen — noch flache „Seiten“ |
-| P-001g–i | [bilder/P-001h-torus-wald.jpg](bilder/P-001h-torus-wald.jpg) u. a. | Torus-Versuche |
-| P-001j | [bilder/P-001j-torus-objektstudie.jpg](bilder/P-001j-torus-objektstudie.jpg) | Form-Lock: reiner Torus / One-Ring-Querschnitt |
-| P-001k/l | … | Torus-Rohr (überholt) |
-| **P-001m** | [bilder/P-001m-oval-wald.jpg](bilder/P-001m-oval-wald.jpg) | **Form/Farbe-Lock** — nicht anfassen |
-| P-001n/o | … | Alternativen |
-| **P-001p** | [bilder/P-001p-m-runen-keil.jpg](bilder/P-001p-m-runen-keil.jpg) | aus m: nur Runen (Keilrillen, 24, nordisch/SG) |
-| P-001q | [bilder/P-001q-m-runen-keil.jpg](bilder/P-001q-m-runen-keil.jpg) | Alternativ nur-Runen aus m |
-| P-001s | [bilder/P-001s-m-runen-minimal.jpg](bilder/P-001s-m-runen-minimal.jpg) | gut — Runen ok, Form nah an m |
-| P-001t | [bilder/P-001t-s-ohne-innenrunen.jpg](bilder/P-001t-s-ohne-innenrunen.jpg) | verworfen — Tool hat alle Runen weggenommen |
+| **P-001o** | [bilder/P-001o-oval-objektstudie.jpg](bilder/P-001o-oval-objektstudie.jpg) | Objektstudie, ovales Profil |
 | **P-001u** | [bilder/P-001u-s-aussenrunen-behalten.jpg](bilder/P-001u-s-aussenrunen-behalten.jpg) | **Form/Szene-Lock** (Referenz; 24 Runen) |
-| P-001v/w | … | **verworfen** — zu dicht bzw. wieder Innenrunen |
-| *(offen)* | — | 12 Uhr-Runen: nicht per image_edit erzwingen; u bleibt bis externes Inpaint/manuell |
-| P-002 | [bilder/P-002-fundszene-erdrutsch.jpg](bilder/P-002-fundszene-erdrutsch.jpg) | Basis Fundszene |
-| P-002a | [bilder/P-002a-fundszene-weicher.jpg](bilder/P-002a-fundszene-weicher.jpg) | **verworfen** — unförmig |
-| P-002b | [bilder/P-002b-fundszene-form-p003a.jpg](bilder/P-002b-fundszene-form-p003a.jpg) | Fundszene mit P-003a-Form |
-| P-003 | [bilder/P-003-objektstudie-massstab.jpg](bilder/P-003-objektstudie-massstab.jpg) | verworfen — Wand zu breit |
-| **P-003a** | [bilder/P-003a-objektstudie-schlank.jpg](bilder/P-003a-objektstudie-schlank.jpg) | **Referenz Form + Runenstil** |
-| P-003b | [bilder/P-003b-objektstudie-schlank.jpg](bilder/P-003b-objektstudie-schlank.jpg) | **verworfen** — zu klein, kantig, Runen falsch |
-| P-003c | [bilder/P-003c-objektstudie-aussenrunen.jpg](bilder/P-003c-objektstudie-aussenrunen.jpg) | P-003a + nur Außenrunen, weicher |
 
 **Arbeitsstand (verbindlich für nächste Renders):**
 - **Form:** Eine Ring (PJ) — gigantischer Fingerring, flach liegend
@@ -124,7 +101,7 @@ Was jeder Ring-Prompt korrekt treffen muss:
 - **Prompt-Fallen:** `well-curb`, `rectangular`, `circular tube` → **nicht verwenden**
 - **Lock:** **P-001u** (Form, Farbe, Szene, Runenstil). Nicht weiter per image_edit „nur Runen“ iterieren — Tool setzt Innenrunen wieder und zerstört Details.
 - **Runen-Ziel (offen):** 12 am Umfang (Uhr-Stunden), sichtbar ~5–6; nur Außenäquator; innen glatt. Umsetzung: externes Masken-Inpaint oder manuell auf u.
-- Verworfen: v/w und alles mit Innenrunen / flachen Seiten
+- Ältere Zwischenstände (P-001–n, p–t, v/w, P-002*, P-003*) gelöscht.
 
 
 ### Form-Prompt (ersetzen für Geometrie)
@@ -163,9 +140,7 @@ CAMERA: Elevated three-quarter view from roughly 3 m up, so the opening reads cl
 NEGATIVE: no green glow, no light emission, no portal effect, no energy, no upright or standing ring, no gold, no mirror polish, no machinery, no sci-fi, no industrial setting, no stream, no river, no water, no people, no modern objects, no rust, no patina.
 ```
 
-### Varianten P-001a–l
-
-Arbeitsdateien in [bilder/](bilder/). Formverbindlich ist der Block oben (ovales One-Ring-Profil); ältere Varianten mit Brunnenrand/Rechteck/Rohrquerschnitt sind überholt.
+Arbeitsdateien in [bilder/](bilder/). Formverbindlich ist der Block oben (ovales One-Ring-Profil).
 
 ---
 
