@@ -6,55 +6,55 @@
 ## Charaktere
 
 * Nordvolk
-  * [Tibun](menschen/nordvolk/Tibun.md)
-  * [Girlin](menschen/nordvolk/Girlin.md)
-  * [Nebenfiguren](menschen/nordvolk/nebenfiguren/README.md)
-    * [Tara](menschen/nordvolk/nebenfiguren/Tara.md)
-    * [Semban](menschen/nordvolk/nebenfiguren/Semban.md)
-    * [Mellia](menschen/nordvolk/nebenfiguren/Mellia.md)
-    * [Hadurik](menschen/nordvolk/nebenfiguren/Hadurik.md)
-    * [Wala von Tingsal](menschen/nordvolk/nebenfiguren/Wala-Tingsal.md)
-    * [Wandernde Wala](menschen/nordvolk/nebenfiguren/Wala-Wandernd.md)
+  * [Tibun](Menschen/Nordvolk/Tibun.md)
+  * [Girlin](Menschen/Nordvolk/Girlin.md)
+  * [Nebenfiguren](Menschen/Nordvolk/Nebenfiguren/README.md)
+    * [Tara](Menschen/Nordvolk/Nebenfiguren/Tara.md)
+    * [Semban](Menschen/Nordvolk/Nebenfiguren/Semban.md)
+    * [Mellia](Menschen/Nordvolk/Nebenfiguren/Mellia.md)
+    * [Hadurik](Menschen/Nordvolk/Nebenfiguren/Hadurik.md)
+    * [Wala von Tingsal](Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md)
+    * [Wandernde Wala](Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md)
 * Volk der Sahrin
-  * [Das Volk der Sahrin](menschen/wuestenvolk/Sahrin.md)
-  * [Erscheinung & Lebensweise](menschen/wuestenvolk/allgemein.md)
-  * [Karawanen](menschen/wuestenvolk/Karawanen.md)
-  * [Assim Atwan](menschen/wuestenvolk/Assim-Atwan.md)
-  * [Nebenfiguren](menschen/wuestenvolk/nebenfiguren/README.md)
+  * [Das Volk der Sahrin](Menschen/Wuestenvolk/Sahrin.md)
+  * [Erscheinung & Lebensweise](Menschen/Wuestenvolk/allgemein.md)
+  * [Karawanen](Menschen/Wuestenvolk/Karawanen.md)
+  * [Assim Atwan](Menschen/Wuestenvolk/Assim-Atwan.md)
+  * [Nebenfiguren](Menschen/Wuestenvolk/Nebenfiguren/README.md)
 * Weitere Figuren
-  * [Bellbrim](menschen/andere/Bellbrim.md)
-  * [Nebenfiguren](menschen/andere/nebenfiguren/README.md)
+  * [Bellbrim](Menschen/Andere/Bellbrim.md)
+  * [Nebenfiguren](Menschen/Andere/Nebenfiguren/README.md)
 
 ## Kulturen
 
-* [Nordvolk](kulturen/nordvolk/README.md)
-* [Sahrin](kulturen/sahrin/README.md)
+* [Nordvolk](Kulturen/Nordvolk/README.md)
+* [Sahrin](Kulturen/Sahrin/README.md)
 
 ## Orte
 
-* [Skirraa](orte/Skirraa.md)
-* [Tingsal](orte/Tingsal.md)
-* [Kaupvik](orte/Kaupvik.md)
-* [Sonstige Orte](orte/sonstiges.md)
-* [Bellbrims Werkstatt](orte/Bellbrims-Werkstatt.md)
+* [Skirraa](Orte/Skirraa.md)
+* [Tingsal](Orte/Tingsal.md)
+* [Kaupvik](Orte/Kaupvik.md)
+* [Sonstige Orte](Orte/sonstiges.md)
+* [Bellbrims Werkstatt](Orte/Bellbrims-Werkstatt.md)
 
 ## Technik
 
-* [Portalringe](technik/Portalringe.md)
-* [Portalring-Berechnungen](technik/Portalring_Berechnungen.md)
-* [Elektrizität](technik/Elektrizitaet.md)
-* [Tibuns Generator](technik/Tibuns-Generator.md)
+* [Portalringe](Technik/Portalringe.md)
+* [Portalring-Berechnungen](Technik/Portalring_Berechnungen.md)
+* [Elektrizität](Technik/Elektrizitaet.md)
+* [Tibuns Generator](Technik/Tibuns-Generator.md)
 
 ## Welt
 
-* [Übersicht](welt/README.md)
+* [Übersicht](Welt/README.md)
 
 ## Szenen
 
-* [Szenen-Log](szenen/README.md)
+* [Szenen-Log](Szenen/README.md)
 
 ## Notizen
 
-* [Offene Challenges](notizen/Offene-Challenges.md)
-* [Regeln & Prüfliste](notizen/Regeln.md)
-* [Bild-Prompts](notizen/Bild-Prompts.md)
+* [Offene Challenges](Notizen/Offene-Challenges.md)
+* [Regeln & Prüfliste](Notizen/Regeln.md)
+* [Bild-Prompts](Notizen/Bild-Prompts.md)

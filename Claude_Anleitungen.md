@@ -56,8 +56,8 @@ Repo ist öffentlich → Claude.ai kann Dateien direkt laden. Einfach die URL in
 
 ```
 https://raw.githubusercontent.com/reicheltmaurice/annular-wiki/main/CLAUDE.md
-https://raw.githubusercontent.com/reicheltmaurice/annular-wiki/main/zeitleiste.md
-https://raw.githubusercontent.com/reicheltmaurice/annular-wiki/main/notizen/offene-challenges.md
+https://raw.githubusercontent.com/reicheltmaurice/annular-wiki/main/Zeitleiste.md
+https://raw.githubusercontent.com/reicheltmaurice/annular-wiki/main/Notizen/Offene-Challenges.md
 ```
 
 **Einstiegsformel für neue mobile Session:**

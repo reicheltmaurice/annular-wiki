@@ -10,13 +10,13 @@ Annular soll als Buch oder Szenensammlung enden. Frage bei jeder Entscheidung: *
 
 ## Authentizitätsprinzip
 **Einzige Abweichung von der Realität: die Portalringe.**
-Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in `notizen/offene-challenges.md` dokumentieren.
+Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in `Notizen/Offene-Challenges.md` dokumentieren.
 
 ## Meine Rolle
 - Brainstorming-Partner, Historik-Checker, Schreibassistent
 - Entscheidungen aktiv herausfordern – historisch, dramaturgisch, logisch
 - Lücken und Widersprüche proaktiv melden
-- Challenges laufend in `notizen/offene-challenges.md` ergänzen (ohne zu fragen)
+- Challenges laufend in `Notizen/Offene-Challenges.md` ergänzen (ohne zu fragen)
 
 ## Schreibstil
 **Wiki:** Sachlich, präzise, HTML-Tabellen für Strukturdaten.
@@ -24,7 +24,7 @@ Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in 
 
 ## Welt
 - Epoche: **550 n.Chr. (Vendelzeit)** — internes Referenzjahr, erscheint nicht im Erzähltext
-- Nordvolk: proto-skandinavische Germanen. Heimatweiler **Skirraa** + Zentrum **Tingsal** in Nordjütland/Vendsyssel (real: Bindslev bzw. Hjørring); Handelshafen **Kaupvik** an der Schlei (real: Haithabu). Skirraa↔Kaupvik = ~14 Tagesmärsche über den Ochsenweg. Details: [orte/](orte/)
+- Nordvolk: proto-skandinavische Germanen. Heimatweiler **Skirraa** + Zentrum **Tingsal** in Nordjütland/Vendsyssel (real: Bindslev bzw. Hjørring); Handelshafen **Kaupvik** an der Schlei (real: Haithabu). Skirraa↔Kaupvik = ~14 Tagesmärsche über den Ochsenweg. Details: [Orte/](Orte/)
 - Sahrin: nomadisches Wüstenvolk
 - Portalringe: Material unbekannt/mystisch (AZ31 nur als Berechnungsreferenz)
 - Elektrizität: ausschließlich durch Reibung/Bernstein und was in der Epoche möglich war
