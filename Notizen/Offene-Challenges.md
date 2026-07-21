@@ -14,7 +14,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-013: Runen — Anordnung, Anzahl, Aussehen](#c-013-runen--anordnung-anzahl-aussehen)
 - [C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft)
 - [C-015: Verhältnis Drehung ↔ Tausch](#c-015-verhältnis-drehung--tausch)
-- [C-016: Schicksal von Vilund](#c-016-schicksal-von-vilund)
 - [C-017: Weitere Ringgrößen](#c-017-weitere-ringgrößen)
 - [C-018: Widerspruch — Transport des Sahrin-Rings](#c-018-widerspruch--transport-des-sahrin-rings)
 - [C-019: Ursache von Erwachen und Zusammenbruch](#c-019-ursache-von-erwachen-und-zusammenbruch)
@@ -46,6 +45,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-052: Herik — offene Felder](#c-052-herik--offene-felder)
 - [C-053: Lanke — offene Felder](#c-053-lanke--offene-felder)
 - [C-054: Tingsal — Halle & Thinggeschehen](#c-054-tingsal--halle--thinggeschehen)
+- [C-055: Der Skir — Gewässer, See und Fundort des Rings](#c-055-der-skir--gewässer-see-und-fundort-des-rings)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -56,6 +56,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-008: Anzahl und Bekanntheit der Ringe ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)
 - [C-010: Ringsystem — Kopplungsmechanik ✓](#c-010-ringsystem--kopplungsmechanik-)
 - [C-012: Aktivierungsverhalten des Rings ✓](#c-012-aktivierungsverhalten-des-rings-)
+- [C-016: Schicksal von Vilund ✓](#c-016-schicksal-von-vilund-)
 - [C-021: Reale Verortung der Orte ✓](#c-021-reale-verortung-der-orte-)
 - [C-022: Tibuns Reise — Dauer, Motiv, Hof ✓](#c-022-tibuns-reise--dauer-motiv-hof-)
 - [C-023: Zeitleiste & Altersgerüst ✓](#c-023-zeitleiste--altersgerüst-)
@@ -117,13 +118,6 @@ Durch den Volltausch (C-012) wird **keine Erde/kein Sand aufgewirbelt** — der 
 
 ### C-015: Verhältnis Drehung ↔ Tausch
 Ist die 180°-Drehung ein **simultaner Vorgang** mit dem Tausch (das Außenkugel-Volumen wird in einem transformiert) — oder dreht der Ring erst physisch und tauscht **danach**? Praktisch durch den Volltausch (C-012) entschärft (es gibt keine durchfurchende Materie), konzeptuell aber offen. Klein.
-
-### C-016: Schicksal von Vilund
-Vilund war als heiliger Hain *mit* Ring konzipiert; durch die Verlagerung des Rings an den Bach Skir (C-008) entfällt dieser Zweck. Optionen:
-- (a) **streichen** — schlanker.
-- (b) **behalten** als ring-loser Kult-Hain — Motiv: das Volk verehrt den „heiligen" Hain, während das wahre Wunder unbeachtet am Bach im Boden liegt.
-
-Noch nicht entschieden.
 
 ### C-017: Weitere Ringgrößen
 Festgelegt (C-010): **3,00 m** (ortsfeste Tor-Ringe) und **0,30 m** (tragbarer Post-Ring). Gibt es im Erbauer-System weitere Größen — und wofür? Offen.
@@ -261,6 +255,21 @@ Aus [C-041](#c-041-prolog--bernstein-fundort): Girlin schenkt Tibun den Bernstei
 ### C-054: Tingsal — Halle & Thinggeschehen
 [Tingsal](../Orte/Tingsal.md) ist als Häuptlingssitz und Thingplatz gesetzt, aber die **Halle** (Aufbau, Größe, Nutzung) und der **Ablauf eines Things** sind nicht ausgearbeitet. Relevant, sobald eine Szene dort spielt. Historisch verankerbar an der Hallenkultur der Vendelzeit. Berührt [C-009](#c-009-häuptling-von-tingsal) (Hadurik als Hausherr).
 
+### C-055: Der Skir — Gewässer, See und Fundort des Rings
+Der [Skir](../Orte/Skirraa.md) ist bisher nur als „Bach" geführt, ohne Größe, Tiefe oder Verlauf. Auszuarbeiten: **Größe des Gewässers** (Bach vs. kleiner Fluss, durchwatbar?), ein **See/Tümpel stromaufwärts** als Badeplatz der Jugend, ein **kleiner Wald** nur an dieser Stelle (Rest bleibt Heide) und der genaue **Fundort des Rings** — der laut Autorenwunsch zwischen Bäumen liegen soll, nicht auf offenem Feld.
+
+**Drei Befunde sprechen gegen „Bach":**
+1. Der Name **Skirraa** enthält *-aa* (dän. *å*) — das bezeichnet ein richtiges Fließgewässer, keinen Rinnsal.
+2. Der Skir soll später **Tibuns Wasserrad** antreiben ([C-002](#c-002-tibuns-elektrizitätsquelle)) — ein Mühlrad braucht echten Durchfluss.
+3. Der Ring wird durch einen Erdrutsch am **Steilufer** freigelegt ([C-008](#c-008-anzahl-und-bekanntheit-der-ringe-)) — ein Steilufer, das einen 3,81-m-Ring verbergen kann, gräbt kein Bach.
+4. Das reale Gegenstück **Uggerby Å** ist im Wiki selbst als „Hauptfluss Vendsyssels" geführt.
+
+**Dramaturgischer Nebeneffekt:** Bäume am Fundort lösen ein Physikproblem — ein Blitz braucht ein hohes Ziel. Ein flach im Boden liegender Ring auf offener Heide ist ein schlechter Einschlagpunkt; ein Baum daneben plus nasser Boden macht [Girlins](../Menschen/Nordvolk/Girlin.md) Unfall plausibel (Erdstrom statt Direkttreffer).
+
+**Offene Kernfrage:** Ist der Wald am See identisch mit dem heiligen Hain **Vilund** ([C-016 ✓](#c-016-schicksal-von-vilund-)) oder ein getrennter Ort? Das entscheidet, ob der Ring direkt neben der Kultstätte liegt.
+
+Status: **???** — in Klärung.
+
 ---
 
 ## Gelöst / Entschieden
@@ -315,6 +324,13 @@ Vollständige Regeln in [`portalringe.md`](../Technik/Portalringe.md). Kurz:
 - **Optik:** Aus dem Ring tritt **nichts aus** (vgl. C-002); grünes Glühen der Runennuten begleitet die Aktivierung (C-010).
 - **Konsistenz:** deckt Girlins Verschwinden (C-008), Paar-Mechanik & Ringgrößen (C-010).
 - **Ausgelagerte Restpunkte:** C-013 (Runen), C-014 (Karawanen-Aufmerksamkeit), C-015 (Drehung↔Tausch).
+
+### C-016: Schicksal von Vilund ✓
+**Entscheidung: behalten — mit Auflage.** Vilund bleibt als **ring-loser Kult-Hain** bestehen (die ursprüngliche Konzeption „Hain *mit* Ring" ist durch [C-008](#c-008-anzahl-und-bekanntheit-der-ringe-) hinfällig).
+
+**Erzählwert:** Das Volk verehrt den „heiligen" Hain und bringt dort Opfer, während **das wahre Wunder unbeachtet im Boden am Bach liegt** — an dem Ort, wo sie täglich Wasser holen. Zugleich gibt der Hain der Religion einen konkreten Ort im Alltag, was wichtig ist, weil Skirraa **keine eigene Seherin** hat ([Skirraa](../Orte/Skirraa.md)).
+
+**Auflage:** Vilund muss **mindestens einmal im Erzähltext vorkommen**, und zwar im Kontrast zum Ring — der Leser muss beides sehen, sonst trägt die Ironie nicht. Wird das beim Schreiben nicht eingelöst, wird Vilund **gestrichen**. Bis dahin bleibt er ohne weitere Ausarbeitung geparkt.
 
 ### C-021: Reale Verortung der Orte ✓
 **Entscheidung:** Die Orte erhalten reale geografische Anker (Autorenebene; Namen im Text bleiben fiktiv).
