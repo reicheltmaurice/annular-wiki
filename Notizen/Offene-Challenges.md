@@ -46,6 +46,13 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-053: Lanke — offene Felder](#c-053-lanke--offene-felder)
 - [C-054: Tingsal — Halle & Thinggeschehen](#c-054-tingsal--halle--thinggeschehen)
 - [C-055: Der Skir — Gewässer, See und Fundort des Rings](#c-055-der-skir--gewässer-see-und-fundort-des-rings)
+- [C-056: Prolog — Folgen des Bebens im Dorf](#c-056-prolog--folgen-des-bebens-im-dorf)
+- [C-057: Prolog — warum sind Tibun und Girlin allein draußen?](#c-057-prolog--warum-sind-tibun-und-girlin-allein-draußen)
+- [C-058: Wasserrad-Unfall und Tibuns Schuld](#c-058-wasserrad-unfall-und-tibuns-schuld)
+- [C-059: Tibuns Zieheltern in Kaupvik](#c-059-tibuns-zieheltern-in-kaupvik)
+- [C-060: Girlin und der Neffe](#c-060-girlin-und-der-neffe)
+- [C-061: Navigationswissen des Häuptlings](#c-061-navigationswissen-des-häuptlings)
+- [C-062: Assims Ankunft vor Tibuns Zündung](#c-062-assims-ankunft-vor-tibuns-zündung)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -147,7 +154,16 @@ Erweitert die Signal-Grammatik aus C-010 (Puls=Kopplung / Dauerglühen=Aktivieru
 Welche Eigenschaften und Fähigkeiten hat Girlin? Im Wüsten-Arc überlebt sie, überzeugt Bellbrim und ist am Wassergenerator beteiligt — das verlangt Findigkeit/Willensstärke. Zu klären: Charakter, Können, evtl. Parallele zu Tibuns technischer Neugier (vererbt?).
 
 ### C-026: Bellbrim — historische Plausibilität & Herkunft
-[Bellbrim](../Menschen/Andere/Bellbrim.md) ist als „Wissenschaftlerin" geführt — für **550 n.Chr.** zu prüfen (Authentizitätsprinzip): Was heißt „Wissenschaftlerin" in dieser Epoche/Region konkret (Gelehrte, Heilerin, Handwerksmeisterin, Seherin)? Und woher stammt sie — Sahrin oder Fremde in der Wüste? Berührt C-003.
+[Bellbrim](../Menschen/Andere/Bellbrim.md) ist als „Wissenschaftlerin" geführt — für **550 n.Chr.** zu prüfen (Authentizitätsprinzip): Was heißt „Wissenschaftlerin" in dieser Epoche/Region konkret (Gelehrte, Heilerin, Handwerksmeisterin, Seherin)? Berührt C-003.
+
+**Neuer Befund aus der [Kapitelskizze](Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Girlin 6):** Bellbrim **spricht mehrere Sprachen und hat ebenfalls blasse Haut**. Damit ist die Teilfrage „Sahrin oder Fremde" faktisch beantwortet — sie ist **keine Sahrin**, sondern wie [Girlin](../Menschen/Nordvolk/Girlin.md) eine Zugewanderte. Das trägt zugleich Girlin 8 („Bellbrim kann endlich übersetzen"): Die Karawane wandert gezielt zu ihr, weil sie die einzige ist, die vermitteln kann.
+
+Was dadurch **neu** offen wird:
+- **Woher** kommt sie, und wie ist sie in die Wüste gelangt? Ein blasshäutiger Mensch mit Mehrsprachigkeit im Wüstenraum um 550 n.Chr. braucht einen Weg dorthin (Handel, Verschleppung, Flucht, Gelehrtenmigration).
+- **Wie viele Jahre** lebt sie schon dort? Sie ist beim Kennenlernen ~40 ([Zeitleiste](../Zeitleiste.md)).
+- **Spricht sie ausgerechnet Girlins Sprache?** Mehrsprachigkeit allein genügt nicht — Girlins proto-skandinavische Mundart ist selten. Entweder stammt Bellbrim aus dem nordischen Raum, oder es braucht eine Brückensprache. Wenn Ersteres: Warum? Ein zweiter Mensch aus dem Norden in derselben Wüste ist ein starker Zufall.
+
+Der letzte Punkt ist der kritische — er entscheidet, ob die Übersetzung glaubwürdig ist oder nach Bequemlichkeit riecht.
 
 ### C-027: Bellbrim — Vorgeschichte, Familie & Fähigkeiten
 Frühes Leben, Familie und konkrete Fähigkeiten sind offen. Was genau kann sie (Mechanik, Naturkunde, Schrift?), wie wurde sie das, und wie passt das zu C-026?
@@ -269,6 +285,34 @@ Der [Skir](../Orte/Skirraa.md) ist bisher nur als „Bach" geführt, ohne Größ
 **Offene Kernfrage:** Ist der Wald am See identisch mit dem heiligen Hain **Vilund** ([C-016 ✓](#c-016-schicksal-von-vilund-)) oder ein getrennter Ort? Das entscheidet, ob der Ring direkt neben der Kultstätte liegt.
 
 Status: **???** — in Klärung.
+
+### C-056: Prolog — Folgen des Bebens im Dorf
+Die [Kapitelskizze](Kapitelstruktur.md#prolog) notiert zum Beben: „die Menschen haben Angst / vielleicht ist jemand vermisst oder Tiere brechen aus". Die [Zeitleiste](../Zeitleiste.md) führt das Beben bisher nur als Auslöser des Erdrutschs. Offen: Welche **sichtbaren Folgen** hat das Beben in [Skirraa](../Orte/Skirraa.md) — Schäden, ausgebrochenes Vieh, weitere Vermisste? Erzählwert: Girlins Verschwinden geht im allgemeinen Chaos unter, das erklärt, warum niemand Tibun glaubt. Risiko: zu viele Vermisste entwerten Girlins Fall.
+
+### C-057: Prolog — warum sind Tibun und Girlin allein draußen?
+Randnotiz des Autors in der [Kapitelskizze](Kapitelstruktur.md#prolog). Damit Tibun **einziger Zeuge** sein kann, braucht es einen Grund, warum Mutter und Sohn bei aufziehendem Gewitter außerhalb des Weilers sind. Bisher unbeantwortet. Muss ein Alltagsgrund sein (Vieh holen, Torf, Bernstein am Ufer), kein Zufall — sonst wirkt die Szene konstruiert.
+
+### C-058: Wasserrad-Unfall und Tibuns Schuld
+Neuer Beat aus der [Kapitelskizze](Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Tibun 4): Tibun experimentiert, **dabei wird jemand verletzt**, er hat starke Gewissensbisse. Steht bisher nicht in der [Zeitleiste](../Zeitleiste.md).
+
+Offene Punkte:
+- **Womit experimentiert er?** Die Skizze notiert „(Wasserrad / **Turm ???**)" — Wasserrad ist gesetzt, ein Turm als zweite Bauform ist die offene Frage des Autors. Ein Turm wäre eine deutlich größere, sichtbarere Konstruktion im Weiler und bräuchte einen Zweck (Fallhöhe? Aussicht?).
+- **Wer** wird verletzt (Nebenfigur oder [Tara](../Menschen/Nordvolk/Nebenfiguren/Tara.md)?) und **wie schwer**?
+- Ist der Unfall **Mitauslöser** für Tibuns Aufbruch? Die Skizze setzt ihn direkt davor — das legt eine Kausalkette (Schuld → Flucht) nahe, die die Zeitleiste noch nicht kennt.
+
+### C-059: Tibuns Zieheltern in Kaupvik
+[Kapitelskizze](Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Tibun 8–9): Tibun kommt in [Kaupvik](Orte/Kaupvik.md) bei einem **Paar** unter, arbeitet mit dem Mann am Hafen, die beiden werden Freunde, der Mann wird Tibuns **neue Bezugsperson**. Beide Figuren existieren im Wiki noch nicht — keine Namen, kein Gewerbe, keine Herkunft. Dramaturgisch wichtig: Das ist der Gegenentwurf zu [Semban](../Menschen/Nordvolk/Nebenfiguren/Semban.md) und damit die emotionale Achse der Wanderjahre. Berührt [C-034](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft) (Lebensgrundlage).
+
+### C-060: Girlin und der Neffe
+[Kapitelskizze](Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Girlin 7) bietet zwei Varianten an: Girlin und der Neffe kommen sich näher — **oder** die Frau des Neffen brennt erst durch und sie kommen sich danach näher. Offen ist zudem: **wessen** Neffe (Häuptling der Nomaden? [Bellbrim](../Menschen/Andere/Bellbrim.md)?), ob die Figur einen Namen bekommt und ob die Linie überhaupt bleibt. Anmerkung: Variante 2 („Frau brennt durch") entlastet Girlin moralisch, kostet aber Konfliktpotenzial. Girlin ist zu diesem Zeitpunkt Mitte 30 und weiß nicht, ob [Semban](../Menschen/Nordvolk/Nebenfiguren/Semban.md) noch lebt — das ist der eigentliche Konflikt und sollte nicht wegvereinfacht werden.
+
+### C-061: Navigationswissen des Häuptlings
+[Kapitelskizze](Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Girlin 10–11): Nach großer Verzweiflung über den unbekannten Ring-Standort **offenbart der Häuptling sein Wissen zur Navigation**, die Nomaden finden den Ring und transportieren ihn zu Bellbrim. Offen: **Welches** Wissen (Sternnavigation, Wegmarken, mündliche Routenüberlieferung)? Warum hat er es **zurückgehalten**? Historisch tragfähig ist Sternnavigation plus tradierte Landmarken — ohne Karte, ohne Instrument. **Achtung Deus ex Machina:** Ein Häuptling, der im Moment der Verzweiflung genau die fehlende Information hat, kippt schnell ins Verbotene. Es braucht einen Grund für das Schweigen (Tabu, Preis, Misstrauen gegenüber der Fremden). Der Transport-Beat ist zugleich ein Lösungsvorschlag zu [C-018](#c-018-widerspruch--transport-des-sahrin-rings).
+
+### C-062: Assims Ankunft vor Tibuns Zündung
+Widerspruch zwischen [Kapitelskizze](Kapitelstruktur.md#zusammenführung-unter-dem-trennstrich) und [Zeitleiste](../Zeitleiste.md). Die Skizze setzt Tibun beim Zusammentreffen „**kurz vor der Vollendung**" — Assim taucht also auf, **bevor** Tibun gezündet hat. Die Zeitleiste führt dagegen „Tibuns erste Zündung" und die Aktivierung in der Wüste als **dasselbe Ereignis** ([C-012](#c-012-aktivierungsverhalten-des-rings-)).
+
+Beides ist vereinbar, wenn die Auslösung **von der Wüstenseite** kommt (Kampf bei Bellbrim aktiviert den Sahrin-Ring, der Skir-Ring flippt simultan mit) — dann ist Tibuns Anlage aber gar nicht die Ursache, und seine zehn Jahre Arbeit verlieren ihre dramaturgische Zahlung. Zu entscheiden: **Wer zündet zuerst** — und wenn die Wüste zuerst zündet, wofür ist Tibuns Anlage dann noch nötig?
 
 ---
 

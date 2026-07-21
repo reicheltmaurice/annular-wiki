@@ -1,6 +1,6 @@
 # Zeitleiste
 
-Interne Chronologie (Autorenebene). Jahre relativ zu **Girlins Verschwinden = Jahr 0** (dem auslösenden Ereignis). Konkrete Jahreszahlen erscheinen nicht im Erzähltext (Referenzjahr 550 n.Chr., siehe [C-001](Notizen/Offene-Challenges.md)).
+Interne Chronologie (Autorenebene). Erzählreihenfolge der Kapitel: [Kapitelstruktur](Notizen/Kapitelstruktur.md). Jahre relativ zu **Girlins Verschwinden = Jahr 0** (dem auslösenden Ereignis). Konkrete Jahreszahlen erscheinen nicht im Erzähltext (Referenzjahr 550 n.Chr., siehe [C-001](Notizen/Offene-Challenges.md)).
 
 ## Altersgerüst
 

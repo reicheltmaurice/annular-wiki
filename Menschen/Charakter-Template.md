@@ -53,4 +53,6 @@ Welche Rolle spielt der Charakter in der Geschichte?
 
 ## Inspiration
 
+> Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) — sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../Notizen/Regeln.md#charaktere).
+
 ???

@@ -12,7 +12,9 @@
 |---|---|
 | **Rolle** | Wissenschaftlerin / Verbündete von Girlin |
 | **Alter** | ~40 (Kennenlernen mit Girlin) / 50 (Finale) — siehe [Zeitleiste](../../Zeitleiste.md) |
-| **Herkunft** | Offen — siehe [C-026](../../Notizen/Offene-Challenges.md) |
+| **Herkunft** | **Keine Sahrin** — Zugewanderte, wie Girlin eine Fremde in der Wüste. Genaue Herkunft und Weg dorthin: ??? — siehe [C-026](../../Notizen/Offene-Challenges.md) |
+| **Erscheinung** | **Blasse Haut** — fällt unter den Sahrin auf. Übrige Merkmale: ??? |
+| **Sprachen** | **Mehrsprachig** — deshalb wandert die Karawane gezielt zu ihr. Ob sie Girlins Sprache direkt beherrscht oder über eine Brückensprache vermittelt: ??? — siehe [C-026](../../Notizen/Offene-Challenges.md) |
 
 **Familie**
 
@@ -28,7 +30,8 @@
 
 ## Besondere Fähigkeiten
 
-??? — siehe [C-027](../../Notizen/Offene-Challenges.md)
+- **Mehrsprachigkeit** — sie ist die Einzige, die zwischen [Girlin](../Nordvolk/Girlin.md) und den Nomaden vermitteln kann. Erzählerisch der Grund ihrer Einführung ([Kapitelstruktur](../../Notizen/Kapitelstruktur.md), Girlin 6+8).
+- Übrige Fähigkeiten (Mechanik, Naturkunde, Schrift?): ??? — siehe [C-027](../../Notizen/Offene-Challenges.md)
 
 ---
 
@@ -46,4 +49,6 @@ Verbündete Girlins in der Wüste: Sie untersucht den Portalring und baut einen 
 
 ## Inspiration
 
-- Professor Trelawney aus "Harry Potter und der Gefangene von Askaban" (Film)
+> Nur **äußerliche** Referenz — sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../../Notizen/Regeln.md#charaktere).
+
+- Professor Trelawney aus "Harry Potter und der Gefangene von Askaban" (Film) — **rein optisch**. Bellbrim ist keine Seherin, sondern Gelehrte.

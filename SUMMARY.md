@@ -59,6 +59,7 @@
 
 ## Notizen
 
+* [Kapitelstruktur](Notizen/Kapitelstruktur.md)
 * [Offene Challenges](Notizen/Offene-Challenges.md)
 * [Regeln & Prüfliste](Notizen/Regeln.md)
 * [Bild-Prompts](Notizen/Bild-Prompts.md)
