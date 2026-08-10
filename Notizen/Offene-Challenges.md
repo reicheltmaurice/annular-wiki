@@ -63,6 +63,10 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-070: Prolog — Dateikopf und Versionszeile](#c-070-prolog--dateikopf-und-versionszeile)
 - [C-071: Prolog — Tibuns Alter und Heiratsantrag](#c-071-prolog--tibuns-alter-und-heiratsantrag)
 - [C-072: Prolog — Textfassung 2.2 oder 2.3](#c-072-prolog--textfassung-22-oder-23)
+- [C-073: Querschnitt der Ringe — abgerundete Kanten?](#c-073-querschnitt-der-ringe--abgerundete-kanten)
+- [C-074: Haptik der Ringoberfläche](#c-074-haptik-der-ringoberfläche)
+- [C-075: Ist das Ringmaterial ein Metall?](#c-075-ist-das-ringmaterial-ein-metall)
+- [C-076: Abklingdauer des grünen Leuchtens](#c-076-abklingdauer-des-grünen-leuchtens)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -368,6 +372,31 @@ Die Unterschiede (2.2 → 2.3):
 5. „ein winziger, **heller** Blitz" → „**greller**" — stärker, passt zum dunklen Stall.
 
 Übernommen wurden 1, 4 und 5; 2 und 3 blieben bei 2.2. Punkt 4 trägt ohne Punkt 3 keinen Zeitbruch mehr, weil der Anker „Doch nun …" im Satz davor wieder steht.
+
+### C-073: Querschnitt der Ringe — abgerundete Kanten?
+Aus einer alten Autorennotiz: Die Ringe sollen **abgerundete Kanten** haben (weicher, eleganter — wie ein echter Ehering), für Volumenberechnungen wird aber ein **Hohlzylinder** angenommen. Beides steht bisher nirgends im Wiki; [Portalringe.md](../Technik/Portalringe.md) und [Portalring_Berechnungen.md](../Technik/Portalring_Berechnungen.md) rechnen kommentarlos mit scharfkantigem Hohlzylinder.
+
+Zu entscheiden:
+- **Ist der Querschnitt gerundet?** Passt zur Formreferenz (der Eine Ring hat einen gewölbten Mantel) und zu „keine Naht, keine Werkzeugspuren" ([C-035](#c-035-aussehen-der-ringoberfläche-)). Betrifft die Beschreibung im Erzähltext.
+- **Berechnungsvorbehalt dokumentieren:** Wenn gerundet, ist der Zylinder eine **Obergrenze** — reales Volumen und Gewicht liegen einige Prozent darunter. Die ~8 t bleiben als Hausnummer gültig, sollten aber als „Zylinderannahme" gekennzeichnet werden.
+- **Berührt [C-012](#c-012-aktivierungsverhalten-des-rings-):** Die Tausch-Kugel ist über die **Außenkante** definiert. Bei gerundetem Mantel wird der Außen-Ø nur auf der Mittellinie erreicht — der Ring bleibt also erst recht innerhalb seiner Außenkugel, das Argument wird sogar stärker.
+
+### C-074: Haptik der Ringoberfläche
+Eine alte Autorennotiz beschreibt die Oberfläche als „silbern und **leicht rau**". Das Wiki legt nur die **Optik** fest (matt silbrig-grau, fein gerichtet — [C-035](#c-035-aussehen-der-ringoberfläche-)), nicht das Anfassen. Offen: Fühlt sich der Ring rau, seidig, kalt, warm, glatt an?
+
+Direkt relevant für [C-037](#c-037-ringoptik-im-erzähltext-ohne-anachronismus): Dort ist „über Haptik statt Optik beschreiben" einer von drei Lösungsansätzen für das Anachronismus-Problem. Eine festgelegte Haptik würde diesen Ansatz überhaupt erst benutzbar machen — eine Figur von 550 hat kein Wort für die Optik, aber jedes für das, was ihre Hand spürt.
+
+Nebenfrage: Ein Material, das **nicht altert** ([C-036](#c-036-altert-der-ring-patina-moos-ablagerungen-)), aber sich **rau** anfühlt, ist ein interessanter Widerspruch — rau heißt normalerweise verwittert.
+
+### C-075: Ist das Ringmaterial ein Metall?
+Die alte Autorennotiz nennt es „ein unbekanntes **Metall**". [C-004 ✓](#c-004-material-der-portalringe-) sagt nur „unbekannt und mystisch, nicht identifizierbar". Das ist kein harter Widerspruch, aber eine Leerstelle: **Wirkt** es für die Figuren wie Metall — klingt es beim Anschlagen, leitet es Kälte, ist es schwer wie Erz?
+
+Erzählerisch entscheidend, weil daran hängt, **wie eine Figur von 550 es einordnet**: „ein Metall, das ich nicht kenne" ist eine ganz andere Reaktion als „das ist kein Metall, das ist gar nichts, was ich kenne". Berührt [C-037](#c-037-ringoptik-im-erzähltext-ohne-anachronismus) und [C-074](#c-074-haptik-der-ringoberfläche). Klein, aber sollte vor der Fundszene stehen.
+
+### C-076: Abklingdauer des grünen Leuchtens
+[Portalringe.md](../Technik/Portalringe.md) sagt zum Aktivierungsglühen nur „verblasst danach **recht schnell**". Die alte Autorennotiz war konkreter: **einige Sekunden**. Offen, ob diese Zahl gelten soll.
+
+Nicht bloß Kosmetik — die Dauer entscheidet mit über [C-014](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft): Wenn die Sahrin-Karawane das Leuchten nachts über die Wüste sehen soll, braucht es lang genug, dass jemand hinschaut. Wenige Sekunden reichen dafür knapp; ein Nachglühen von einer Minute wäre großzügiger, aber weniger unheimlich. Klein.
 
 ---
 
