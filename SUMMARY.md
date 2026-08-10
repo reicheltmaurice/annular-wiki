@@ -38,6 +38,7 @@
 * [Skirraa](Orte/Skirraa.md)
 * [Tingsal](Orte/Tingsal.md)
 * [Kaupvik](Orte/Kaupvik.md)
+* [Gratsiedlung](Orte/Gratsiedlung.md)
 * [Sonstige Orte](Orte/sonstiges.md)
 * [Bellbrims Werkstatt](Orte/Bellbrims-Werkstatt.md)
 
