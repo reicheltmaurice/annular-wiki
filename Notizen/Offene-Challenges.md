@@ -74,6 +74,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-081: Girlins zweites Kind in der Wüste](#c-081-girlins-zweites-kind-in-der-wüste)
 - [C-082: Girlins Entscheidung zur Rückreise](#c-082-girlins-entscheidung-zur-rückreise)
 - [C-083: Zitate als Kapitel-Motti](#c-083-zitate-als-kapitel-motti)
+- [C-084: Mulde, Standfläche und die rohen Ringe](#c-084-mulde-standfläche-und-die-rohen-ringe)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -135,17 +136,17 @@ Die Kosmologie ([Welt/README.md](../Welt/README.md)) ist ein zyklischer Loop des
 ### C-013: Runen — Anordnung, Anzahl, Aussehen
 Wie sind die Runen auf den Ringen gestaltet (Anzahl, Anordnung, Form, Position auf dem Ringkörper)?
 
-**Autor-Tendenz:** Die gepaarten Ringe müssen **nicht** identisch angeordnete Runen tragen — man könnte also erkennen, dass nach einem Volltausch (C-012) plötzlich ein *anderer* Ring dasteht. Erzählerisch wertvoll: sichtbarer Beweis, dass ein Tausch stattfand.
+**Überholt:** Hier stand die Autor-Tendenz, die gepaarten Ringe müssten **nicht** identisch angeordnete Runen tragen — dann hätte man erkennen können, dass nach einem Tausch plötzlich ein *anderer* Ring dasteht (sichtbarer Beweis, dass ein Tausch stattfand). Das ist mit der Umstellung auf den **Innentausch** hinfällig ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)): Der Ringkörper wird **nicht mehr mitgetauscht**, der Ring bleibt immer derselbe. Die Frage nach Anzahl, Anordnung und Form der Runen bleibt davon unberührt offen.
 
 **Zu klären / Spannung:** C-010 verlangt für die Kopplung **„identische Runenkonfiguration + gleiche Ringgröße"**. Wenn die Runen sichtbar verschieden sein sollen, muss geklärt werden, was „identische Konfiguration" dann genau heißt (z. B. gleiche *Kopplungs*-Runen, aber unterschiedliche übrige Gravur/Schmuck? oder spiegelbildlich? oder Konfiguration ≠ sichtbares Muster?). Berührt direkt C-010 und C-012 (Selbsttausch neutral vs. sichtbar).
 
 ### C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft
-Durch den Volltausch (C-012) wird **keine Erde/kein Sand aufgewirbelt** — der früher erwogene „Staubfontäne"-Effekt entfällt. Wie wird die Sahrin-Karawane dann auf die plötzlich erschienene Girlin aufmerksam?
+Durch den Tausch (C-012) wird **keine Erde/kein Sand aufgewirbelt** — der früher erwogene „Staubfontäne"-Effekt entfällt. Wie wird die Sahrin-Karawane dann auf die plötzlich erschienene Girlin aufmerksam?
 
 **Idee (Autor):** Es ist **Nacht**, und das **grüne Leuchten der Runen** (C-010) ist weithin über die Wüste sichtbar.
 
 ### C-015: Verhältnis Drehung ↔ Tausch
-Ist die 180°-Drehung ein **simultaner Vorgang** mit dem Tausch (das Außenkugel-Volumen wird in einem transformiert) — oder dreht der Ring erst physisch und tauscht **danach**? Praktisch durch den Volltausch (C-012) entschärft (es gibt keine durchfurchende Materie), konzeptuell aber offen. Klein.
+Ist die 180°-Drehung ein **simultaner Vorgang** mit dem Tausch (die Kugel wird in einem transformiert) — oder dreht der Ring erst physisch und tauscht **danach**? Praktisch entschärft, seit der Reif Materie folgenlos durchdringt (C-012) — es gibt keine durchfurchende Materie mehr. Konzeptuell aber offen. Klein.
 
 ### C-017: Weitere Ringgrößen
 Festgelegt (C-010): **3,00 m** (ortsfeste Tor-Ringe) und **0,30 m** (tragbarer Post-Ring). Gibt es im Erbauer-System weitere Größen — und wofür? Offen.
@@ -407,7 +408,7 @@ Aus einer alten Autorennotiz: Die Ringe sollen **abgerundete Kanten** haben (wei
 Zu entscheiden:
 - **Ist der Querschnitt gerundet?** Passt zur Formreferenz (der Eine Ring hat einen gewölbten Mantel) und zu „keine Naht, keine Werkzeugspuren" ([C-035](#c-035-aussehen-der-ringoberfläche-)). Betrifft die Beschreibung im Erzähltext.
 - **Berechnungsvorbehalt dokumentieren:** Wenn gerundet, ist der Zylinder eine **Obergrenze** — reales Volumen und Gewicht liegen einige Prozent darunter. Die ~8 t bleiben als Hausnummer gültig, sollten aber als „Zylinderannahme" gekennzeichnet werden.
-- **Berührt [C-012](#c-012-aktivierungsverhalten-des-rings-):** Die Tausch-Kugel ist über die **Außenkante** definiert. Bei gerundetem Mantel wird der Außen-Ø nur auf der Mittellinie erreicht — der Ring bleibt also erst recht innerhalb seiner Außenkugel, das Argument wird sogar stärker.
+- **Berührt [C-012](#c-012-aktivierungsverhalten-des-rings-):** Die Tausch-Kugel ist über die **Innenkante** definiert. Bei gerundetem Mantel wäre die Öffnung an den Rändern weiter als in der Mitte — zu klären wäre dann, ob der Innen-Ø der **engsten** Stelle gilt (naheliegend, weil die Rotation den engsten Kreis überstreicht).
 
 ### C-074: Haptik der Ringoberfläche
 Eine alte Autorennotiz beschreibt die Oberfläche als „silbern und **leicht rau**". Das Wiki legt nur die **Optik** fest (matt silbrig-grau, fein gerichtet — [C-035](#c-035-aussehen-der-ringoberfläche-)), nicht das Anfassen. Offen: Fühlt sich der Ring rau, seidig, kalt, warm, glatt an?
@@ -482,7 +483,7 @@ Aus [Plot 1](Plot-1.md) (Girlin 8): *„Sie bekommt ein weiteres Kind."* Fehlt i
 
 Weitere offene Punkte: **Alter des Kindes** beim Finale (hängt an [C-060](#c-060-girlin-und-der-neffe): Wann beginnt die Beziehung?), **Vater** (Häuptling oder Neffe), und ob [Tara](../Menschen/Nordvolk/Nebenfiguren/Tara.md) und Tibun davon je erfahren.
 
-Berührt zudem den Ring: Beim Volltausch reist, wer **vollständig innerhalb** der Kugel steht ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)) — ein Kind auf dem Arm reist mit, ein Kind daneben nicht. Die Mechanik zwingt zu einer Entscheidung in **einem Augenblick**, ohne Rückweg. Das ist erzählerisch enorm brauchbar.
+Berührt zudem den Ring: Es reist, wer **vollständig innerhalb** der Kugel steht ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)) — ein Kind auf dem Arm reist mit, ein Kind daneben nicht. Die Mechanik zwingt zu einer Entscheidung in **einem Augenblick**, ohne Rückweg. Das ist erzählerisch enorm brauchbar.
 
 **Nichts festgelegt** — das ist eine der größten offenen Weichen des Gesamtwerks.
 
@@ -510,6 +511,30 @@ Idee des Autors: Kapitel jeweils mit einem Zitat eröffnen. Sammlung in [Zitate.
 **Stand:** Der Autor tendiert zu **weltinternen Motti**. Vorschläge gesammelt in [Zitate.md](Zitate.md) — Nordvolk (Weberin/Wanderer/Donnerer, Heide & Moor, Thing), Sahrin (vorläufig, hängt an [C-003](#c-003-sahrin--kulturelle-tiefe)) und eine Gruppe verdeckter Kreislauf-Sprüche. Dort auch die Formregeln, darunter zwei harte: **Stabreim statt Endreim** (Endreim ist um 550 ein Anachronismus) und **keine Sprichwörter über Ringe** ([C-008 ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)).
 
 **Zusätzlich offen:** ob die beiden Stränge **getrennte Quellen** bekommen (Tibun-Kapitel = Nordvolk, Girlin-Kapitel = Sahrin) — das würde die Strangzugehörigkeit vor dem ersten Satz signalisieren. Auswahl trifft der Autor.
+
+### C-084: Mulde, Standfläche und die rohen Ringe
+Folge der Umstellung auf den **Innentausch** ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)): Die Tauschkugel hat nur noch **1,50 m Radius**. Beim flach liegenden Ring reicht sie damit nur **1,50 m über die Ringebene** — ein **Stehender** passt nicht hinein, der rohe ebenerdige Ring köpft ihn.
+
+**Entschieden (Autor):**
+- **[Girlin](../Menschen/Nordvolk/Girlin.md) stolpert in den Ring** — womöglich über den Ring selbst — und **liegt** darin. Liegend passt ein Mensch bei **jeder** Einbettungstiefe: Auf Bodenhöhe hat die Kugel nahezu den vollen Durchmesser von 3,00 m, ein Liegender misst 1,75 × 0,3 m. Die Einbettungstiefe des Skir-Rings ist damit **kein Problem mehr** — sie war es nur für Stehende.
+- **Für den Alltagsbetrieb baut die Nutzer-Zivilisation eine Mulde** in den Ringboden, damit man **stehend** reisen kann. Das Wissen darum gehört zur Bedienung.
+
+**Die daraus folgende Betriebsregel** (dokumentiert in [Portalringe.md](../Technik/Portalringe.md)):
+> Das Kugelzentrum muss ~0,75 m über der Standfläche liegen.
+
+Eine Regel, zwei Bauformen — flach liegend: **Mulde 0,75 m tief**; vertikal: **Zentrum 0,75 m über dem Gehweg**. Beide ergeben dieselben Maße: **2,60 m Standfläche, 2,25 m Kopffreiheit**. Kein Zufall, es ist dieselbe Geometrie.
+
+**Erzählwert (Girlin):** Hätte sie **gestanden**, hätte der Ring sie geköpft. [Tibun](../Menschen/Nordvolk/Tibun.md) sieht seine Mutter verschwinden, weil sie **gestürzt** ist — derselbe Zufall, der sie ihm nimmt, hält sie am Leben. Und er kann das nie erfahren.
+
+**Neu offen — die Mulde wandert.** Sie liegt *innerhalb* der Tauschkugel und wird deshalb **mitgetauscht**. Hat nur eine Seite eine Mulde, wird sie beim ersten Tausch mit dem Erdreich der Gegenseite **verfüllt**, während drüben eine entsteht. **Asymmetrische Anlagen zerstören sich selbst.** Beide Seiten müssen gleich gebaut sein — was voraussetzt, dass man die Gegenseite **kennt**.
+
+Für die Erbauer selbstverständlich. Für [Tibun](../Menschen/Nordvolk/Tibun.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md) unmöglich: Keiner von beiden kennt das andere Ende. Wer von ihnen gräbt, macht die eigene Anlage beim ersten Auslösen zunichte und beschädigt die fremde. **Zu klären, wie das Finale damit umgeht** — es ist ein Problem, das aus der Mechanik fällt statt hineingeschrieben zu werden, und berührt [C-062](#c-062-assims-ankunft-vor-tibuns-zündung) (wer zündet, wer reist).
+
+**Kleiner Restpunkt:** [Girlins](../Menschen/Nordvolk/Girlin.md) Körpergröße ist nirgends festgelegt. Für den Sturz irrelevant, für spätere Szenen im Ring nicht.
+
+Berührt [C-055](#c-055-der-skir--gewässer-see-und-fundort-des-rings) (Fundort und Steilufer).
+
+---
 
 ## Gelöst / Entschieden
 
@@ -550,19 +575,65 @@ Vollständige Regeln in [`portalringe.md`](../Technik/Portalringe.md). Kurz:
 **Wandstärke:** in C-007 entschieden (0,405 m beim 3-m-Ring); der frühere „bleibt offen"-Vermerk ist überholt.
 
 ### C-012: Aktivierungsverhalten des Rings ✓
-**Mechanismus — Flip + Volltausch:**
+**Mechanismus — Flip + Innentausch:**
 - **Flip:** Der flach liegende Ring dreht bei Aktivierung um **180° um einen Durchmesser** (Achse in der Ringebene) — ein **Münz-Flip** (Kopf↔Zahl), *nicht* um die Hochachse. Da ein Kreis symmetrisch ist, liegt der Ring danach **deckungsgleich**; nur Ober-/Unterseite sind getauscht.
-- **Tauschvolumen = AUSSENkante (Volltausch).** Getauscht wird die Kugel, die die **Außenkante** des Rings beschreibt: Tausch-Kugel-Ø = **Außen-Ø** ≈ 3,81 m beim 3-m-Ring (C-007). **Der Ringkörper selbst wird mitgetauscht.** (Innentausch nach Innen-Ø verworfen — s. „Warum".)
-- **Warum Volltausch:** Der Ring reicht beim Flip nie über seine eigene Außenkugel hinaus → er berührt **keine Materie außerhalb des Tauschvolumens**. Sein Körper und alles, was er durchquert, ist Teil des getauschten Blocks. Damit verschwindet das beim Innentausch **unlösbare Problem der „durchfurchenden Materie"** (Bahn/Auflage): Es gibt kein „Außen" zum Durchpflügen.
-- **Ring tauscht mit:** Da beide Ringe gleich konfiguriert sind (C-010), wäre der Selbsttausch effektiv neutral — transportiert würde nur der *Inhalt*. **Offen:** ob die Runen wirklich identisch angeordnet sind → **C-013**. Bei nicht-identischen Runen stünde nach dem Tausch sichtbar ein *anderer* Ring da.
+- **Tauschvolumen = INNENkante (Innentausch).** Getauscht wird die Kugel, die die **Innenkante** des Rings beschreibt: Tausch-Kugel-Ø = **Innen-Ø** = **3,00 m** beim 3-m-Ring, Radius 1,50 m. **Der Ringkörper wird nicht mitgetauscht** — er liegt vollständig außerhalb.
+- **Der Reif durchläuft Materie wie ein Geist.** Während der Drehung durchdringt der Ringkörper alles, was ihm im Weg liegt — Erdreich, Fundament, einen danebenstehenden Menschen —, **ohne es anzutasten**. Kein Pflügen, kein Pulverisieren, keine Spur. Damit ist das Problem der „durchfurchenden Materie" gelöst, das ursprünglich zum Volltausch geführt hatte (siehe **Korrektur** unten).
+  - **Nur während der Drehung.** Ein ruhender Ring ist fest und schwer; sonst sänke er durch den Boden.
+  - **Innen und außen berühren sich nie.** Ein um einen Durchmesser rotierender Ring überstreicht exakt die Schale zwischen Innen- und Außenradius (1,50–1,905 m). Der Reif kommt der Tauschkugel nie näher als tangential — die Geist-Eigenschaft gilt ausschließlich für Materie *außerhalb* des Tauschvolumens. Keine Sonderregel nötig.
+- **Schnittkante: messerscharf**, am **Innenrand** (1,50 m Radius). Sie fällt **genau mit der sichtbaren Ringöffnung zusammen** — die Grenze ist sichtbar und erlernbar: *Wer ganz in der Öffnung steht, reist heil; was hinausragt, wird durchtrennt.* Girlin stand vollständig innerhalb.
+- **Wer in der Schale steht (1,50–1,905 m), bleibt unverletzt** — der Reif geht durch ihn hindurch. Er reist nur nicht mit.
 - **Austausch:** Beide gepaarten Ringe (Skir + Sahrin) drehen **gleichzeitig**. **Ganze Kugel inkl. Erdreich:** untere Halbkugel im Boden → Halbkugel Schlei-Erde ↔ Halbkugel Wüstensand (= die **Sandmulde**).
 - **Harter Tausch:** Inhalt 1:1, kompromisslos, auch bei stark verschiedenem Inhalt (Luft ↔ massiver Sand). Keine Sonderregeln, kein „Ausgleich".
-- **Auflage (Folge des Volltauschs):** Nach dem Tausch ruht der Ring auf **Gegenseiten-Material**. Gleich gebettete Ringe (Erbauer: beide in Sand) → sauber & beliebig wiederholbar (Routinebetrieb/Postsystem). Tibuns Asymmetrie (feuchte Schlei-Erde ↔ Wüstensand) → roh; erzeugt die Sandmulde und die Gefahr (erklärt Girlins Unfall).
-- **Person/Inhalt:** Außenkugel ≈ 3,81 m → 1,8-m-Person passt frei stehend, **ohne Plattform/Halterung** (alles im Block; jede feste Verankerung würde mitgetauscht oder an der Kante geschnitten — Schwerkraft genügt).
-- **Schnittkante: messerscharf**, am **Außenrand** (~1,9 m Radius) — weit weg vom Inhalt im Zentrum. Was sie kreuzt, wird durchtrennt. Girlin stand vollständig innerhalb.
+- **Der Ring bleibt liegen.** Da er nicht mitgetauscht wird, ruht er unverändert in seinem eigenen Bett; die Mulde entsteht **innerhalb** von ihm. Kein Verrutschen, keine fremde Auflage.
+- **Person/Inhalt:** frei stehend, **ohne Plattform/Halterung** (jede feste Verankerung würde mitgetauscht oder an der Kante geschnitten — Schwerkraft genügt). **Aber:** Die Kugel reicht nur **1,50 m über die Ringebene** — **stehend** reist nur, wer eine **Mulde** hat (Kugelzentrum ~0,75 m über der Standfläche); im rohen Ring reist nur, wer **liegt**. So überlebt Girlin ihren Sturz → **C-084**.
 - **Optik:** Aus dem Ring tritt **nichts aus** (vgl. C-002); grünes Glühen der Runennuten begleitet die Aktivierung (C-010).
 - **Konsistenz:** deckt Girlins Verschwinden (C-008), Paar-Mechanik & Ringgrößen (C-010).
-- **Ausgelagerte Restpunkte:** C-013 (Runen), C-014 (Karawanen-Aufmerksamkeit), C-015 (Drehung↔Tausch).
+- **Ausgelagerte Restpunkte:** C-013 (Runen), C-014 (Karawanen-Aufmerksamkeit), C-015 (Drehung↔Tausch), C-084 (Mulde & Standfläche).
+
+**Korrektur (Autor, final): Volltausch → Innentausch.**
+
+Hier stand ursprünglich der **Volltausch** nach der Außenkante (Kugel-Ø 3,81 m, Ringkörper wird mitgetauscht). Begründung damals: Der Ring reiche beim Flip nie über seine eigene Außenkugel hinaus und berühre deshalb keine Materie außerhalb des Tauschvolumens — womit das „unlösbare Problem der durchfurchenden Materie" verschwand.
+
+**Der Autor hat auf den Innentausch umgestellt** und das Problem stattdessen direkt gelöst: Der Reif **durchdringt** Materie folgenlos. Damit entfällt der Grund, der seinerzeit gegen den Innentausch sprach.
+
+*Was der Wechsel bringt:*
+- Die Schnittkante fällt mit der **sichtbaren Ringöffnung** zusammen. Vorher lag sie 40 cm außerhalb des Reifs, im Leeren, ohne Markierung. Jetzt ist die tödliche Grenze **sichtbar und erlernbar** — für eine Kultur, die täglich reist, der Unterschied zwischen Handwerk und Glücksspiel.
+- Der Reif ist **nicht mehr tödlich**: Wer in der Schale steht, wird nicht zerteilt, sondern reist bloß nicht mit.
+- Der Ring **bleibt in seinem Bett** statt auf fremdem Material aufzusetzen.
+
+*Was der Wechsel kostet:*
+- **Die Auflage-Asymmetrie entfällt.** Sie begründete bisher, warum Tibuns Aufbau „roh" ist (feuchte Schlei-Erde ↔ Wüstensand) und worin die Gefahr bei Girlins Unfall besteht. Der Vorgang ist jetzt sauberer — aber eine Gefahrenbegründung weniger.
+- **Der Ring wird nicht mehr mitgetauscht.** Damit entfällt der in [C-013](#c-013-runen--anordnung-anzahl-aussehen) erwogene Effekt, dass nach einem Tausch sichtbar ein *anderer* Ring dasteht (unterschiedlich angeordnete Runen als Beweis, dass ein Tausch stattfand). Der Ring bleibt immer derselbe.
+- **Die Kugel schrumpft** von 3,81 m auf 3,00 m Durchmesser, die Sandmulde auf gut die Hälfte ihres Volumens — und die Kopffreiheit wird zur harten Größe → **C-084**.
+
+**Nachtrag (Autor): Flipdauer und vertikale Aufstellung.**
+
+**Dauer des Flips = ein Lidschlag.** Schnell, aber langsam genug, dass das Auge die Drehung *sehen* und verfolgen kann. Bewusst **kein konkreter Zeitwert** im Text — „Lidschlag" ist das Maß, und es ist zugleich epochentauglich: Eine Figur von 550 kann das denken und sagen, „Sekunde" nicht. Damit taugt der Vergleich auch für den Erzähltext (vgl. das Problem in [C-037](#c-037-ringoptik-im-erzähltext-ohne-anachronismus)).
+
+*Berechnungsreferenz (Autorenebene, wie AZ31 — erscheint nie im Text):* ein spontaner Lidschlag misst 100–150 ms. Für den 3-m-Ring ergibt das ~21 rad/s und eine **Kantengeschwindigkeit von ~40 m/s (≈ 144 km/h)**. Folgen:
+- Man sieht eine **Drehung**, keine Einzelheiten — Runen sind währenddessen nicht lesbar.
+- **Kein Windstoß nach außen**, obwohl ein 8-t-Körper mit 144 km/h schwingt: Die verdrängte Luft ist **Teil der Tauschkugel**. Dasselbe Argument, das schon die durchfurchende Materie gelöst hat. Bleibt konsistent mit „aus dem Ring tritt nichts aus".
+- Wer **neben** der Kugelkante steht, sieht den Reif mit 144 km/h vorbeirauschen — die Schnittkante wird ohne ein Wort Erklärung bedrohlich.
+
+**Vertikale Aufstellung als zweite Betriebsart.** Der flach liegende Ring ist die Situation am [Skir](../Orte/Skirraa.md), keine Eigenschaft der Ringe. Ein Ring kann ebenso **vertikal** stehen — die Tauschkugel ändert sich dadurch **nicht**, denn eine Rotation um einen Durchmesser überstreicht dieselbe Kugel, gleich aus welcher Ausgangslage.
+
+Damit wird der **Durchgang im Gehen** möglich: Der Reisende betritt die Kugel, wird getauscht und geht am Zielort **geradeaus weiter** — ohne anzuhalten, ohne langsamer zu werden. Der Ring ist dabei nie ein „Tor", durch das man tritt; der Reisende läuft schlicht durch die Kugel hindurch, während sie ihren Inhalt wechselt.
+
+**Bedingung — der Ring darf nicht auf dem Boden aufstehen.** Stünde er auf, läge sein Zentrum bei 1,905 m und die Tauschkugel (Radius 1,50 m) schwebte von 0,405 m bis 3,405 m Höhe — sie berührte den Boden gar nicht, und jeder Durchgehende hätte die Beine außerhalb. Ausnahmslos tödlich. Der Ring muss **teilweise eingelassen** sein. Bei einem Zentrum auf ~0,75 m über Gehwegniveau:
+
+| Maß | Wert |
+|---|---|
+| Standfläche am Boden (Tauschkugel) | 2,60 m Durchmesser |
+| Durchgangshöhe am Scheitel | 2,25 m |
+| Ringunterkante unter Bodenniveau | 1,16 m |
+| Zeitfenster bei 1,4 m/s Gehtempo | ~1,3 s (≈ **9 Flipdauern**) |
+
+Bei 0,8 m Schrittspreizung bleiben 1,80 m nutzbare Strecke — ein sehr komfortables Fenster.
+
+**Nebeneffekt:** Die untere Halbkugel ist dann **Fundament**. Sind beide Ringe gleich gebettet, ist der Tausch genau der „saubere, beliebig wiederholbare" Vorgang, den dieser Eintrag für das Erbauer-System ohnehin vorsieht — Ringplätze einer Hochkultur wären entsprechend gebaut.
+
+**Für Tibuns Geschichte ändert sich nichts:** Der Skir-Ring liegt flach, mit der unteren Halbkugel im Erdreich. Sandmulde, Auflage-Asymmetrie und Girlins Unfall bleiben unberührt.
 
 ### C-016: Schicksal von Vilund ✓
 **Entscheidung: behalten — mit Auflage.** Vilund bleibt als **ring-loser Kult-Hain** bestehen (die ursprüngliche Konzeption „Hain *mit* Ring" ist durch [C-008](#c-008-anzahl-und-bekanntheit-der-ringe-) hinfällig).

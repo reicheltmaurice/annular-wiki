@@ -13,7 +13,7 @@
 
 ## Beschreibung
 Die Portalringe sehen aus wie riesige Fingerringe mit grün leuchtenden Runen an der Außenseite. Die Oberfläche ist **matt silbrig-grau, fein gerichtet — optisch wie gebürstetes Aluminium** (nur Optikreferenz, das Material ist es nicht). Kein Spiegelglanz, keine Naht, keine Guss- oder Werkzeugspuren.
-Bei Aktivierung rotieren sie 180° um einen Durchmesser (Achse in der Ringebene) — wie eine Münze, die von Kopf auf Zahl flippt — bleiben dabei aber ortsfest und liegen danach deckungsgleich.
+Bei Aktivierung rotieren sie 180° um einen Durchmesser (Achse in der Ringebene) — wie eine Münze, die von Kopf auf Zahl flippt — bleiben dabei aber ortsfest und liegen danach deckungsgleich. Die Drehung dauert **einen Lidschlag**. Sie können **flach liegen oder vertikal stehen** (siehe unten).
 
 ---
 
@@ -25,15 +25,72 @@ Bei Aktivierung rotieren sie 180° um einen Durchmesser (Achse in der Ringebene)
 
 ## Aktivierung & Tausch
 
-Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Drehung definiert eine **Kugel**, deren Inhalt mit dem des Partnerrings ausgetauscht wird. Entscheidungslog: [C-012](../Notizen/Offene-Challenges.md).
+Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Drehung definiert eine **Kugel**, deren Inhalt mit dem des Partnerrings ausgetauscht wird. Entscheidungslog: [C-012](../Notizen/Offene-Challenges.md#c-012-aktivierungsverhalten-des-rings-).
 
-- **Tauschvolumen = Außenkugel.** Maßgeblich ist die **Außenkante** des Rings: Die Tausch-Kugel hat den Außendurchmesser (≈ 3,81 m beim 3-m-Ring). **Der Ringkörper selbst wird mitgetauscht** — er reicht beim Flip nie über seine eigene Außenkugel hinaus und berührt damit keine Materie außerhalb des Tauschvolumens. So gibt es kein „Durchpflügen" von umgebendem Erdreich.
+- **Tauschvolumen = Innenkugel.** Maßgeblich ist die **Innenkante** des Rings: Die Tausch-Kugel hat den Innendurchmesser (**3,00 m** beim 3-m-Ring, Radius 1,50 m). **Der Ringkörper wird nicht mitgetauscht** — er liegt vollständig außerhalb.
+- **Der Reif durchläuft Materie wie ein Geist.** Während der Drehung durchdringt der Ringkörper alles, was ihm im Weg liegt — Erdreich, Fundament, einen danebenstehenden Menschen —, **ohne es anzutasten**. Kein Pflügen, kein Pulverisieren, keine Spur. Deshalb braucht es kein freigeräumtes Umfeld.
+  - **Nur während der Drehung.** Ein ruhender Ring ist fest und schwer wie jeder Körper; sonst sänke er durch den Boden.
+  - **Innen und außen berühren sich nie.** Ein um einen Durchmesser rotierender Ring überstreicht exakt die Schale zwischen Innen- und Außenradius (1,50–1,905 m). Der Reif kommt der Tauschkugel nie näher als tangential — die Geist-Eigenschaft gilt also ausschließlich für Materie *außerhalb* des Tauschvolumens.
+- **Messerscharfe Schnittkante.** Die Kugeloberfläche trennt alles, was sie kreuzt. Sie fällt **genau mit der sichtbaren Ringöffnung zusammen** — die Grenze ist damit sichtbar und erlernbar: *Wer ganz in der Öffnung steht, reist heil; was hinausragt, wird durchtrennt.*
 - **Harter Tausch.** Der gesamte Kugelinhalt wird kompromisslos 1:1 mit der Gegenseite getauscht — auch bei stark verschiedenem Inhalt (z. B. Luft gegen massiven Sand). Beide gepaarten Ringe flippen gleichzeitig.
 - **Ganze Kugel inkl. Erdreich.** Liegt der Ring flach im Boden, steckt die untere Halbkugel im Erdreich; sie wird mitgetauscht. So entsteht am Skir-Ufer eine halbkugelförmige Mulde, gefüllt mit Wüstensand (und umgekehrt).
-- **Messerscharfe Schnittkante.** Die Kugeloberfläche trennt alles, was sie kreuzt. Sie liegt am Außenrand, also weit vom Inhalt im Zentrum — wer vollständig innerhalb steht, reist heil; was halb hineinragt, wird durchtrennt.
-- **Kein Halt nötig.** Personen oder Waren stehen frei im Inneren (die ≈ 3,81-m-Kugel fasst einen stehenden Menschen mühelos). Eine feste Plattform ist unmöglich, da jede Verankerung mitgetauscht oder an der Kante geschnitten würde — die Schwerkraft genügt.
-- **Auflage des Rings.** Nach dem Tausch ruht der Ring auf dem eingetauschten Material der Gegenseite. Sind beide Ringe gleich gebettet (vom Erbauer-System: beide in Sand), ist der Vorgang sauber und beliebig wiederholbar. Liegt einer anders (Tibuns Skir-Ring in feuchter Erde gegen Wüstensand), wird der Vorgang roh — Ursache der Sandmulde und der Gefahr bei Girlins Unfall.
-- **Aus dem Ring tritt nichts aus** — kein Strahl, keine Druckwelle. Sichtbar ist allein das grüne Glühen der Runen (siehe unten).
+- **Kein Halt nötig.** Personen oder Waren stehen frei im Inneren. Eine feste Plattform ist unmöglich, da jede Verankerung mitgetauscht oder an der Kante geschnitten würde — die Schwerkraft genügt.
+- **Der Ring bleibt liegen.** Da er nicht mitgetauscht wird, ruht er unverändert in seinem eigenen Bett. Die Mulde entsteht **innerhalb** von ihm. Kein Verrutschen, keine fremde Auflage.
+
+---
+
+## Kopffreiheit und die Mulde
+
+Die Kugel reicht nur **1,50 m über die Ringebene**. Für einen **Stehenden** ist das zu wenig — der rohe, ebenerdige Ring köpft ihn. Daraus folgt die zentrale Betriebsregel:
+
+> **Das Kugelzentrum muss ~0,75 m über der Standfläche liegen.**
+
+Eine Regel, zwei Bauformen: beim **flach liegenden** Ring eine **Mulde** von 0,75 m unter der Ringebene, beim **vertikalen** Ring ein Zentrum 0,75 m über dem Gehweg. Beide ergeben dieselben Maße — **2,60 m Standfläche, 2,25 m Kopffreiheit**.
+
+**Liegend gilt die Grenze nicht.** Auf Bodenhöhe hat die Kugel nahezu den vollen Durchmesser von 3,00 m; ein liegender Mensch (1,75 m lang, 0,3 m hoch) passt bei **jeder** Einbettungstiefe hinein, auch im rohen Ring ohne Mulde. So überlebt [Girlin](../Menschen/Nordvolk/Girlin.md) ihre Reise: Sie **stolpert** in den Ring — womöglich über den Ring selbst — und **liegt** darin. Stehend hätte sie der Ring geköpft.
+
+**Die Mulde wandert.** Sie liegt *innerhalb* der Tauschkugel und wird deshalb mitgetauscht. Hat nur eine Seite eine Mulde, wird sie beim ersten Tausch mit dem Erdreich der Gegenseite **verfüllt** — und drüben entsteht eine. **Asymmetrische Anlagen zerstören sich selbst.** Beide Seiten müssen gleich gebaut sein, was voraussetzt, dass man die Gegenseite kennt. Für die Erbauer selbstverständlich; für jeden, der ein Ringpaar nur von einem Ende her kennt, unmöglich.
+
+**Wie eine Zivilisation das lernt:** durch Tote. Die erste Generation jedes Zyklus findet die Maße heraus, indem Menschen aufrecht in ungemuldete Ringe treten — passend dazu, dass die **Bedienung** in jedem Zyklus neu erlernt wird ([Welt](../Welt/README.md#drei-wissensebenen)).
+
+Offene Restpunkte: [C-084](../Notizen/Offene-Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe).
+- **Aus dem Ring tritt nichts aus** — kein Strahl, keine Druckwelle. Sichtbar ist allein das grüne Glühen der Runen (siehe unten). Das gilt auch für **Luft**: Der Reif schwingt zwar mit ~144 km/h Kantengeschwindigkeit, verdrängt dabei aber nur Luft, die selbst **Teil der Tauschkugel** ist.
+
+### Dauer des Flips
+
+**Ein Lidschlag.** Schnell — aber langsam genug, dass das Auge die Drehung *sieht* und ihr folgen kann. Man nimmt eine **Drehung** wahr, keine Einzelheiten: Runen sind währenddessen nicht lesbar, eine bestimmte Stelle am Reif nicht verfolgbar.
+
+„Lidschlag" ist zugleich der **epochentaugliche** Vergleich — eine Figur von 550 kann ihn denken und aussprechen, „Sekunde" nicht. Er darf deshalb im Erzähltext stehen.
+
+> **Berechnungsreferenz (Autorenebene, erscheint nie im Text):** 100–150 ms. Für den 3-m-Ring ~21 rad/s, Kantengeschwindigkeit außen ~40 m/s (≈ 144 km/h). Wer **neben** der Kugelkante steht, sieht den Reif damit vorbeirauschen.
+
+---
+
+## Aufstellung: flach oder vertikal
+
+Ringe liegen nicht zwingend flach — das ist die Situation am [Skir](../Orte/Skirraa.md), keine Eigenschaft der Ringe. **Die Tauschkugel ist von der Aufstellung unabhängig:** Eine Rotation um einen Durchmesser überstreicht dieselbe Kugel, gleich aus welcher Ausgangslage.
+
+### Flach liegend
+Untere Halbkugel im Erdreich, wird mitgetauscht (Sandmulde). So liegt der **Skir-Ring** und so verschwand [Girlin](../Menschen/Nordvolk/Girlin.md). Man steht darin und wartet — was eine **Mulde** voraussetzt (siehe oben). Ohne Mulde reist nur, wer **liegt**.
+
+### Vertikal (eingelassen)
+Erlaubt den **Durchgang im Gehen**: Der Reisende betritt die Kugel, wird getauscht und geht am Zielort **geradeaus weiter** — ohne anzuhalten. Der Ring ist dabei nie ein „Tor", durch das man tritt; man läuft durch die Kugel, während sie ihren Inhalt wechselt.
+
+**Bedingung: Der Ring darf nicht auf dem Boden aufstehen.** Stünde er auf, läge sein Zentrum bei 1,905 m und die Tauschkugel schwebte von 0,405 m bis 3,405 m — sie berührte den Boden nicht, und jeder Durchgehende hätte die Beine außerhalb. Ausnahmslos tödlich. Er muss **teilweise eingelassen** sein.
+
+<table>
+  <caption>Vertikaler 3-m-Ring, Zentrum ~0,75 m über Gehwegniveau</caption>
+  <tbody>
+    <tr><td>Standfläche am Boden (Tauschkugel)</td><td>2,60 m Ø</td></tr>
+    <tr><td>Durchgangshöhe am Scheitel</td><td>2,25 m</td></tr>
+    <tr><td>Ringunterkante unter Bodenniveau</td><td>1,16 m</td></tr>
+    <tr><td>Zeitfenster bei 1,4 m/s Gehtempo</td><td>~1,3 s (≈ 9 Flipdauern)</td></tr>
+  </tbody>
+</table>
+
+Bei 0,8 m Schrittspreizung bleiben 1,80 m nutzbare Strecke — ein komfortables Fenster.
+
+**Nebeneffekt:** Die untere Halbkugel ist dann **Fundament**. Sind beide Ringe gleich gebettet, ist der Tausch sauber und beliebig wiederholbar — Ringplätze einer Hochkultur wären entsprechend gebaut.
 
 ---
 

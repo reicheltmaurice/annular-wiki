@@ -66,3 +66,5 @@
 * [Regeln & Prüfliste](Notizen/Regeln.md)
 * [Bild-Prompts](Notizen/Bild-Prompts.md)
 * [Zitate](Notizen/Zitate.md)
+* [Trailer Loop (alte Notiz)](Notizen/Trailer-Loop.md)
+* [Verteiler-Turm (alte Notiz)](Notizen/Verteiler-Turm.md)
