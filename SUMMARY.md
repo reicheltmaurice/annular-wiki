@@ -61,6 +61,7 @@
 ## Notizen
 
 * [Kapitelstruktur](Notizen/Kapitelstruktur.md)
+* [Plot 1 (alte Notiz)](Notizen/Plot-1.md)
 * [Offene Challenges](Notizen/Offene-Challenges.md)
 * [Regeln & Prüfliste](Notizen/Regeln.md)
 * [Bild-Prompts](Notizen/Bild-Prompts.md)

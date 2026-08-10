@@ -67,6 +67,12 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-074: Haptik der Ringoberfläche](#c-074-haptik-der-ringoberfläche)
 - [C-075: Ist das Ringmaterial ein Metall?](#c-075-ist-das-ringmaterial-ein-metall)
 - [C-076: Abklingdauer des grünen Leuchtens](#c-076-abklingdauer-des-grünen-leuchtens)
+- [C-077: Tibun und Tara nach Girlins Verschwinden](#c-077-tibun-und-tara-nach-girlins-verschwinden)
+- [C-078: Tibuns Verhältnis zu Mellia](#c-078-tibuns-verhältnis-zu-mellia)
+- [C-079: Tibuns Alpträume — und der Traum als Ideenquelle](#c-079-tibuns-alpträume--und-der-traum-als-ideenquelle)
+- [C-080: Girlins Entführung und Rettung](#c-080-girlins-entführung-und-rettung)
+- [C-081: Girlins zweites Kind in der Wüste](#c-081-girlins-zweites-kind-in-der-wüste)
+- [C-082: Girlins Entscheidung zur Rückreise](#c-082-girlins-entscheidung-zur-rückreise)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -314,11 +320,26 @@ Offene Punkte:
 - **Wer** wird verletzt (Nebenfigur oder [Tara](../Menschen/Nordvolk/Nebenfiguren/Tara.md)?) und **wie schwer**?
 - Ist der Unfall **Mitauslöser** für Tibuns Aufbruch? Die Skizze setzt ihn direkt davor — das legt eine Kausalkette (Schuld → Flucht) nahe, die die Zeitleiste noch nicht kennt.
 
+**Ergänzung aus [Plot 1](Plot-1.md) (Tibun 7):** Dort experimentiert Tibun mit dem **„Blitzeffekt"** und verletzt dabei jemanden — nicht am Wasserrad. Das ist mit dem Kanon **nicht vereinbar**: [C-002](#c-002-tibuns-elektrizitätsquelle) und [Elektrizität](../Technik/Elektrizitaet.md) legen fest, dass statische Entladung einen schmerzhaften Funken erzeugt, aber **keine Verletzung** — die Gefahr am Generator kommt ausdrücklich aus dem *mechanischen* Teil. Dieselbe Kollision wurde im Prolog schon einmal gelöst ([C-039](#c-039-prolog--funke-entzündet-wolle)).
+
+Die Fassung der Skizze (Wasserrad) ist damit die kanonkonforme. Denkbar bliebe eine Mischform: Tibun **wollte** den Blitzeffekt vorführen, der Unfall passiert aber am mechanischen Antrieb — dann trägt er die Schuld an einem Experiment, das ihn selbst nie hätte verletzen können. Nicht entschieden.
+
 ### C-059: Tibuns Zieheltern in Kaupvik
 [Kapitelskizze](Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Tibun 8–9): Tibun kommt in [Kaupvik](Orte/Kaupvik.md) bei einem **Paar** unter, arbeitet mit dem Mann am Hafen, die beiden werden Freunde, der Mann wird Tibuns **neue Bezugsperson**. Beide Figuren existieren im Wiki noch nicht — keine Namen, kein Gewerbe, keine Herkunft. Dramaturgisch wichtig: Das ist der Gegenentwurf zu [Semban](../Menschen/Nordvolk/Nebenfiguren/Semban.md) und damit die emotionale Achse der Wanderjahre. Berührt [C-034](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft) (Lebensgrundlage).
 
 ### C-060: Girlin und der Neffe
 [Kapitelskizze](Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Girlin 7) bietet zwei Varianten an: Girlin und der Neffe kommen sich näher — **oder** die Frau des Neffen brennt erst durch und sie kommen sich danach näher. Offen ist zudem: **wessen** Neffe (Häuptling der Nomaden? [Bellbrim](../Menschen/Andere/Bellbrim.md)?), ob die Figur einen Namen bekommt und ob die Linie überhaupt bleibt. Anmerkung: Variante 2 („Frau brennt durch") entlastet Girlin moralisch, kostet aber Konfliktpotenzial. Girlin ist zu diesem Zeitpunkt Mitte 30 und weiß nicht, ob [Semban](../Menschen/Nordvolk/Nebenfiguren/Semban.md) noch lebt — das ist der eigentliche Konflikt und sollte nicht wegvereinfacht werden.
+
+**Ältere Fassung aus [Plot 1](Plot-1.md) (Girlin 5 und 7) — beantwortet die Frage „wessen Neffe?" auf ihre Weise: gar keiner.** Dort finden **Girlin und der Häuptling selbst** zueinander, und durchgebrannt ist die **Frau des Häuptlings** mit einem seiner Männer.
+
+Das ist die deutlich klarere Konstruktion:
+- Der **Neffe** ist eine Figur ohne Eigenschaften, die nur existiert, um eine Beziehung zu tragen. Der **Häuptling** ist ohnehin gesetzt — er offenbart später das Navigationswissen ([C-061](#c-061-navigationswissen-des-häuptlings)) und trägt damit schon einen Schlüsselmoment.
+- Die durchgebrannte **Häuptlingsfrau** liefert das Motiv gleich mit: Er ist öffentlich gedemütigt und allein; sie ist gestrandet und weiß nicht, ob ihr Mann noch lebt. Zwei Menschen mit demselben Riss.
+- Verbindet zugleich [C-061](#c-061-navigationswissen-des-häuptlings): Warum schweigt der Häuptling über den Ring-Standort? Weil er weiß, dass er sie damit verliert. Das nimmt dem Beat den Deus-ex-Machina-Verdacht — er hatte einen **Grund**, und der Grund ist Liebe.
+
+**Tendenz (Claude): Häuptling statt Neffe.** Eine Figur weniger, drei Probleme gelöst. Entschieden ist nichts.
+
+Hängt an [C-081](#c-081-girlins-zweites-kind-in-der-wüste) (in Plot 1 folgt das Kind unmittelbar auf diesen Beat) und [C-080](#c-080-girlins-entführung-und-rettung) (läuft dort parallel).
 
 ### C-061: Navigationswissen des Häuptlings
 [Kapitelskizze](Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Girlin 10–11): Nach großer Verzweiflung über den unbekannten Ring-Standort **offenbart der Häuptling sein Wissen zur Navigation**, die Nomaden finden den Ring und transportieren ihn zu Bellbrim. Offen: **Welches** Wissen (Sternnavigation, Wegmarken, mündliche Routenüberlieferung)? Warum hat er es **zurückgehalten**? Historisch tragfähig ist Sternnavigation plus tradierte Landmarken — ohne Karte, ohne Instrument. **Achtung Deus ex Machina:** Ein Häuptling, der im Moment der Verzweiflung genau die fehlende Information hat, kippt schnell ins Verbotene. Es braucht einen Grund für das Schweigen (Tabu, Preis, Misstrauen gegenüber der Fremden). Der Transport-Beat ist zugleich ein Lösungsvorschlag zu [C-018](#c-018-widerspruch--transport-des-sahrin-rings).
@@ -327,6 +348,12 @@ Offene Punkte:
 Widerspruch zwischen [Kapitelskizze](Kapitelstruktur.md#zusammenführung-unter-dem-trennstrich) und [Zeitleiste](../Zeitleiste.md). Die Skizze setzt Tibun beim Zusammentreffen „**kurz vor der Vollendung**" — Assim taucht also auf, **bevor** Tibun gezündet hat. Die Zeitleiste führt dagegen „Tibuns erste Zündung" und die Aktivierung in der Wüste als **dasselbe Ereignis** ([C-012](#c-012-aktivierungsverhalten-des-rings-)).
 
 Beides ist vereinbar, wenn die Auslösung **von der Wüstenseite** kommt (Kampf bei Bellbrim aktiviert den Sahrin-Ring, der Skir-Ring flippt simultan mit) — dann ist Tibuns Anlage aber gar nicht die Ursache, und seine zehn Jahre Arbeit verlieren ihre dramaturgische Zahlung. Zu entscheiden: **Wer zündet zuerst** — und wenn die Wüste zuerst zündet, wofür ist Tibuns Anlage dann noch nötig?
+
+**Dritte Variante aus [Plot 1](Plot-1.md) (Girlin 12, dort als „Optional" markiert):** *„Sie will gerade los, da kommt Tibun durch den Ring."* Also die **umgekehrte Reiserichtung** — nicht Assim reist zu Tibun, sondern **Tibun reist in die Wüste**.
+
+Das löst das Zahlungsproblem sauber: Tibun zündet, Tibun reist, Tibun findet seine Mutter. Zehn Jahre Arbeit münden in genau die Tat, auf die sie hinarbeiten. Beide vorhandenen Varianten lassen ihn dagegen passiv in seiner Werkstatt stehen, während das Finale zu ihm kommt.
+
+**Preis:** Das Wiedersehen findet dann in der Wüste statt, nicht daheim, und Girlins Rückkehr ([C-082](#c-082-girlins-entscheidung-zur-rückreise)) wird zur gemeinsamen Rückreise — mit allem, was [C-081](#c-081-girlins-zweites-kind-in-der-wüste) daran hängt. Außerdem ist unklar, wo Assim in dieser Variante bleibt. Nicht entschieden.
 
 ### C-063: Prolog — Szene auf Autorenfassung zurückgerollt
 [Die-Entdeckung.md](../Szenen/Prolog/Die-Entdeckung.md) steht wieder auf der **Originalfassung des Autors** („ver 2.2", Stand vor der Wiki-Überarbeitung). Die im Wiki getroffenen Prolog-Entscheidungen sind darin **nicht enthalten** — der Wortlaut bleibt bewusst der des Autors, die Kanon-Anpassungen müssen aber noch von Hand eingearbeitet werden.
@@ -397,6 +424,75 @@ Erzählerisch entscheidend, weil daran hängt, **wie eine Figur von 550 es einor
 [Portalringe.md](../Technik/Portalringe.md) sagt zum Aktivierungsglühen nur „verblasst danach **recht schnell**". Die alte Autorennotiz war konkreter: **einige Sekunden**. Offen, ob diese Zahl gelten soll.
 
 Nicht bloß Kosmetik — die Dauer entscheidet mit über [C-014](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft): Wenn die Sahrin-Karawane das Leuchten nachts über die Wüste sehen soll, braucht es lang genug, dass jemand hinschaut. Wenige Sekunden reichen dafür knapp; ein Nachglühen von einer Minute wäre großzügiger, aber weniger unheimlich. Klein.
+
+### C-077: Tibun und Tara nach Girlins Verschwinden
+Aus [Plot 1](Plot-1.md) (Tibun 5): *„Er muss sich um seine kleine Schwester kümmern."* Fehlt in der [Kapitelskizze](Kapitelstruktur.md) und im Wiki vollständig.
+
+Die Zahlen tragen den Beat: [Tara](../Menschen/Nordvolk/Nebenfiguren/Tara.md) ist beim Verschwinden **9**, Tibun **16** ([Zeitleiste](../Zeitleiste.md)). Ein 16-Jähriger, der der 9-jährigen Schwester die Mutter ersetzt, während der Vater sich rasch neu bindet — das ist glaubwürdig und kostet nichts.
+
+**Der Haken:** Ein Jahr später **geht Tibun fort** ([C-022 ✓](#c-022-tibuns-reise--dauer-motiv-hof-), Aufbruch mit 17) und bleibt **acht Jahre** weg. Wenn er sich vorher um Tara kümmert, lässt er sie mit 10 zurück — bei dem Vater, den er verurteilt, und der Stiefmutter. Das macht seinen Aufbruch deutlich härter und wirft eine Frage auf, die die Zeitleiste bisher nicht stellt: **Was denkt Tara darüber?**
+
+Beantwortet zugleich einen Teil von [C-047](#c-047-tara--offene-felder) („bekommt Tara eine eigene Rolle?"). Nichts festgelegt.
+
+### C-078: Tibuns Verhältnis zu Mellia
+Direkter Widerspruch zwischen den beiden Autorenfassungen:
+- **[Plot 1](Plot-1.md) (Tibun 6):** *„Vater heiratet neu (Melia). Tibun mag Melia nicht."*
+- **[Kapitelskizze](Kapitelstruktur.md) (Tibun 3):** *„Tibun hat nichts gegen sie, verurteilt aber seinen Vater, weil er die Mutter aufgibt / zu früh"*
+
+Das Wiki folgt bisher der Skizze ([C-022 ✓](#c-022-tibuns-reise--dauer-motiv-hof-)). Die beiden Fassungen erzählen aber **verschiedene Geschichten**:
+- **Skizze:** Der Konflikt ist sauber auf [Semban](../Menschen/Nordvolk/Nebenfiguren/Semban.md) fokussiert. [Mellia](../Menschen/Nordvolk/Nebenfiguren/Mellia.md) bleibt unschuldig, was sie interessanter macht — sie war Girlins Freundin und steht selbst in einer unmöglichen Lage.
+- **Plot 1:** Klassischer Stiefmutter-Konflikt. Emotional unmittelbarer, aber deutlich abgegriffener — und er verschiebt die Schuld weg vom Vater, wo sie dramaturgisch hingehört.
+
+**Tendenz (Claude): Skizze.** „Er hat nichts gegen sie und trotzdem hält er es nicht aus" ist der schwierigere und lohnendere Satz. Entschieden ist nichts.
+
+### C-079: Tibuns Alpträume — und der Traum als Ideenquelle
+Aus [Plot 1](Plot-1.md) (Tibun 8–9): *„Er wird von Alpträumen geplagt."* / *„Im Traum kommt ihm die Idee für einen Bandgenerator."* Beides fehlt in der [Kapitelskizze](Kapitelstruktur.md).
+
+Zwei getrennte Fragen, die die Notiz zusammenwirft:
+
+**1. Die Alpträume selbst — tragfähig.** Tibun ist einziger Zeuge des Ring-Flips, ihm glaubt niemand. Wiederkehrende Träume vom grünen Aufleuchten und der verschwindenden Mutter sind das naheliegende Ventil dafür und würden über acht Reisejahre hinweg einen Faden spannen. Kostet nichts, passt zu allem.
+
+**2. Die Idee im Traum — kollidiert mit dem Kanon.** [C-002](#c-002-tibuns-elektrizitätsquelle) legt fest: Die Erkenntnis kommt durch den **Arbeitsunfall an der Bootsziehwinde** in [Kaupvik](../Orte/Kaupvik.md) (Seil rutscht, wird heiß, raucht → schnelle Reibung = viel Ladung). Das ist ein empirischer Erkenntnisweg, der zur Figur passt. Ein Einfall im Traum wäre eine **geschenkte Lösung** und streift damit das Verbot des Deus ex Machina ([CLAUDE.md](../CLAUDE.md)).
+
+**Möglicher Kompromiss, nicht entschieden:** Der Traum liefert **kein Wissen**, sondern ein **Bild** — Tibun träumt vom Ring, vom Funken, von der Mutter, und erkennt den Zusammenhang erst wach am Hafen. Dann bleibt der Traum als Motiv erhalten, ohne die Erkenntnis zu verschenken.
+
+Randnotiz: Der Begriff **„Bandgenerator"** in Plot 1 ist Altlast ([C-005 ✓](#c-005-van-de-graaff-generator-) gestrichen, ersetzt durch das Bernsteinrad in C-002).
+
+### C-080: Girlins Entführung und Rettung
+Aus [Plot 1](Plot-1.md) (Girlin 4 und 6): *„Sie wird entführt"* … *„Nomadenvolk rettet Gyrlin"*. Ein kompletter Handlungsbogen, der in der [Kapitelskizze](Kapitelstruktur.md) fehlt.
+
+Offen ist alles: **Wer** entführt sie, **warum**, **wie lange**, und **wie** kommt sie frei.
+
+**Der naheliegende Täter ist [Assim Atwan](../Menschen/Wuestenvolk/Assim-Atwan.md)** — er ist als Sklavenhändler/Schmuggler geführt ([C-028](#c-028-assim-atwan--herkunft--hintergrund)/[C-029](#c-029-assim-atwan--charakter-motivation--fähigkeiten)), und eine blasshäutige Fremde ohne Sippe ist in der Wüste genau seine Ware. Das hätte einen erheblichen Vorteil: In der Kapitelskizze taucht Assim erst **spät** auf (Girlin 13, Basar), also kurz vor dem Finale — als Antagonist ist er damit dünn eingeführt. Eine frühe Entführung würde ihn **von Anfang an** in Girlins Strang verankern, und die Basar-Begegnung wäre ein **Wiedersehen** statt einer Erstbegegnung.
+
+**Gegenargument:** Girlins Strang trägt schon viel (Ankunft, Sprachbarriere, Bellbrim, Beziehung, Ringsuche, Kampf). Ein zusätzlicher Entführungsbogen kann ihn überladen — und die Rettung durch die Nomaden bindet sie erneut an das Volk, das sie ohnehin schon aufgenommen hat. Die Wiederholung müsste einen eigenen Zweck haben.
+
+Berührt [C-060](#c-060-girlin-und-der-neffe): In Plot 1 steht die Entführung **direkt neben** dem Durchbrennen der Häuptlingsfrau — beide Beats laufen gleichzeitig. Nichts entschieden.
+
+### C-081: Girlins zweites Kind in der Wüste
+Aus [Plot 1](Plot-1.md) (Girlin 8): *„Sie bekommt ein weiteres Kind."* Fehlt in [Kapitelskizze](Kapitelstruktur.md), [Zeitleiste](../Zeitleiste.md) und dem gesamten Wiki. **Von allen Fundstücken der schwerste Punkt.**
+
+[Girlin](../Menschen/Nordvolk/Girlin.md) ist **zehn Jahre** in der Wüste (Jahr 0 → +10, [C-023 ✓](#c-023-zeitleiste--altersgerüst-)), von 30 bis 40. Ein Kind in dieser Zeit ist biologisch selbstverständlich und folgt zwingend aus der Beziehung, die die Skizze ohnehin ansetzt ([C-060](#c-060-girlin-und-der-neffe)). Die Frage ist nicht, ob es plausibel ist, sondern **was es mit dem Finale macht**.
+
+**Es verändert ihre Rückkehr vollständig.** Bisher lautet ihr Ziel schlicht „nach Hause". Mit einem Kind in der Wüste hat sie **zwei** Familien und kann nur eine haben:
+- **Kind bleibt:** Sie tut ihrem Wüstenkind an, was ihr angetan wurde — sie verschwindet. Das ist bitter und stark.
+- **Kind kommt mit:** [Tibun](../Menschen/Nordvolk/Tibun.md) bekommt am Ende nicht nur die Mutter zurück, sondern ein Geschwisterkind, das er nie erwähnt bekommen hat — und einen Vater dazu, den es in Skirraa nicht geben darf.
+- **Sie bleibt:** Der ganze Rückkehr-Antrieb bricht. Vermutlich zu teuer, nach zehn Jahren Sehnsucht.
+
+Weitere offene Punkte: **Alter des Kindes** beim Finale (hängt an [C-060](#c-060-girlin-und-der-neffe): Wann beginnt die Beziehung?), **Vater** (Häuptling oder Neffe), und ob [Tara](../Menschen/Nordvolk/Nebenfiguren/Tara.md) und Tibun davon je erfahren.
+
+Berührt zudem den Ring: Beim Volltausch reist, wer **vollständig innerhalb** der Kugel steht ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)) — ein Kind auf dem Arm reist mit, ein Kind daneben nicht. Die Mechanik zwingt zu einer Entscheidung in **einem Augenblick**, ohne Rückweg. Das ist erzählerisch enorm brauchbar.
+
+**Nichts festgelegt** — das ist eine der größten offenen Weichen des Gesamtwerks.
+
+### C-082: Girlins Entscheidung zur Rückreise
+Aus [Plot 1](Plot-1.md) (Girlin 11): *„Nach langem Zögern und Zaudern entschließt sie sich doch die Rückreise durch den Ring zu wagen."* Fehlt in der [Kapitelskizze](Kapitelstruktur.md) — dort endet Girlins Strang mit Basar, Flucht in die Schlucht und Kampf (Girlin 13–15).
+
+Das ist eine **dramaturgische Lücke, kein bloßer fehlender Beat.** In der Skizze wird Girlin am Ende von Ereignissen getrieben: Assim greift an, sie flieht, es kommt zum Kampf, und die Zusammenführung passiert. In Plot 1 **entscheidet** sie sich. Nach zehn Jahren, in denen sie ausschließlich heimwill, ist das Zögern der eigentliche Charakterbeweis — sie hat sich in der Wüste ein Leben aufgebaut, und der Ring nimmt es ihr wieder weg.
+
+Hängt unmittelbar an [C-081](#c-081-girlins-zweites-kind-in-der-wüste): **Ohne** zweites Kind ist das Zögern schwach begründbar (warum sollte sie zaudern?). **Mit** Kind ist es zwingend. Die beiden Beats stützen einander — das spricht dafür, dass sie in Plot 1 zusammengehörten.
+
+Zu klären: Kommt der Entschluss **vor** dem Kampf (dann ist Assims Angriff die Störung eines gefassten Plans) oder **danach** (dann treibt die Not sie)? Ersteres gibt ihr Handlungsmacht, Letzteres ist einfacher zu verketten. Nichts entschieden.
 
 ---
 
