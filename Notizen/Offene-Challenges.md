@@ -73,6 +73,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-080: Girlins Entführung und Rettung](#c-080-girlins-entführung-und-rettung)
 - [C-081: Girlins zweites Kind in der Wüste](#c-081-girlins-zweites-kind-in-der-wüste)
 - [C-082: Girlins Entscheidung zur Rückreise](#c-082-girlins-entscheidung-zur-rückreise)
+- [C-083: Zitate als Kapitel-Motti](#c-083-zitate-als-kapitel-motti)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -494,7 +495,21 @@ Hängt unmittelbar an [C-081](#c-081-girlins-zweites-kind-in-der-wüste): **Ohne
 
 Zu klären: Kommt der Entschluss **vor** dem Kampf (dann ist Assims Angriff die Störung eines gefassten Plans) oder **danach** (dann treibt die Not sie)? Ersteres gibt ihr Handlungsmacht, Letzteres ist einfacher zu verketten. Nichts entschieden.
 
----
+### C-083: Zitate als Kapitel-Motti
+Idee des Autors: Kapitel jeweils mit einem Zitat eröffnen. Sammlung in [Zitate.md](Zitate.md). Noch nicht entschieden, ob überhaupt.
+
+**Wenn ja, zu klären:**
+- **Durchgängig oder punktuell?** Motti sind ein Versprechen: Wer Kapitel 1 mit einem Zitat öffnet, muss es bis zum Schluss durchhalten. Aussetzer wirken wie Versehen.
+- **Fremdzitate oder Eigenes?** Ein Buch, das in **550 n.Chr.** spielt und dessen einzige Abweichung von der Realität die Portalringe sind ([CLAUDE.md](../CLAUDE.md)), reibt sich mit Bruce Lee über dem Kapitelkopf. Motti stehen zwar außerhalb des Erzähltexts und sind deshalb **kein Anachronismus im engeren Sinn** — sie holen den Leser aber jedes Mal aus der Epoche heraus, bevor er hineingeht. Alternative: **weltinterne Motti** — Sprichwörter des Nordvolks, Zeilen aus dem Epitheta-Umfeld (*der Wanderer*, *die Weberin*), Sahrin-Redewendungen ([C-003](#c-003-sahrin--kulturelle-tiefe) sieht solche ohnehin vor). Die schaffen Welt, statt sie zu unterbrechen.
+- **Rechte.** Beide gesammelten Zitate sind geschützt (Bruce Lee 1971, Tolkien/Jackson). Für ein Manuskript in der Schublade egal, für eine Veröffentlichung nicht — Motti aus geschützten Werken brauchen in der Regel eine Genehmigung des Rechteinhabers, und Filmzitate sind dabei die unangenehmere Sorte. Sollte geklärt sein, **bevor** sich eine Struktur darauf stützt.
+
+**Besondere Vorsicht beim Bilbo-Zitat:** Das Wiki nutzt den Einen Ring bereits als **Formreferenz** für die Portalringe ([C-007 ✓](#c-007-proportionen-der-portalringe-)) — ausdrücklich auf **Autorenebene**, nie sichtbar ([C-035 ✓](#c-035-aussehen-der-ringoberfläche-) hält denselben Grundsatz für alle drei Referenzen fest). Ein Tolkien-Motto über einem Kapitel würde genau diese Referenz **sichtbar machen** und einem Buch über geheimnisvolle Ringe einen Vergleich aufdrängen, den es nicht gewinnen kann.
+
+**Tendenz (Claude): Motti ja, aber weltintern.** Nichts entschieden — die Sammlung wächst erst mal weiter.
+
+**Stand:** Der Autor tendiert zu **weltinternen Motti**. Vorschläge gesammelt in [Zitate.md](Zitate.md) — Nordvolk (Weberin/Wanderer/Donnerer, Heide & Moor, Thing), Sahrin (vorläufig, hängt an [C-003](#c-003-sahrin--kulturelle-tiefe)) und eine Gruppe verdeckter Kreislauf-Sprüche. Dort auch die Formregeln, darunter zwei harte: **Stabreim statt Endreim** (Endreim ist um 550 ein Anachronismus) und **keine Sprichwörter über Ringe** ([C-008 ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)).
+
+**Zusätzlich offen:** ob die beiden Stränge **getrennte Quellen** bekommen (Tibun-Kapitel = Nordvolk, Girlin-Kapitel = Sahrin) — das würde die Strangzugehörigkeit vor dem ersten Satz signalisieren. Auswahl trifft der Autor.
 
 ## Gelöst / Entschieden
 
