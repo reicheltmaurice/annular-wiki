@@ -17,14 +17,21 @@ Vom Autor notiert. Rechtlich und stilistisch problematisch als Motti — siehe [
 >
 > — Bilbo Beutlin
 
+### Schreiben & Handwerk
+
+> **Der Unterschied zwischen dem richtigen Wort und dem beinahe Richtigen, ist derselbe Unterschied wie zwischen einem Blitz und einem Glühwürmchen.**
+>
+> — Mark Twain
+
+Kein Motto für ein Kapitel — es spricht über Sprache, nicht über die Welt, und würde den Leser aus ihr herausholen. Als **Leitsatz für die Arbeit am Buch** dagegen passend; vergleiche [Regeln.md](Regeln.md).
+
 **Herkunft (Autorenebene):**
 
-| Zitat | Quelle |
-|---|---|
-| Be water my friend | Bruce Lee, Fernsehinterview *The Pierre Berton Show* (1971) |
-| Ich kenn die Hälfte von euch … | Bilbos Abschiedsrede, J. R. R. Tolkien, *Der Herr der Ringe* — Filmfassung Peter Jackson, *Die Gefährten* (2001) |
-
-Beide urheberrechtlich geschützt.
+| Zitat | Quelle | Rechte |
+|---|---|---|
+| Be water my friend | Bruce Lee, Fernsehinterview *The Pierre Berton Show* (1971) | geschützt |
+| Ich kenn die Hälfte von euch … | Bilbos Abschiedsrede, J. R. R. Tolkien, *Der Herr der Ringe* — Filmfassung Peter Jackson, *Die Gefährten* (2001) | geschützt |
+| Der Unterschied zwischen dem richtigen Wort … | Mark Twain, Brief an George Bainton, 15.10.1888. Original: *„the difference between the almost right word and the right word … 'tis the difference between the lightning-bug and the lightning."* | **gemeinfrei** (Twain † 1910) — die *Übersetzung* kann eigenen Schutz genießen, eine eigene Übertragung löst das |
 
 ---
 
