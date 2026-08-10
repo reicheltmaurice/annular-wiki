@@ -53,6 +53,16 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-060: Girlin und der Neffe](#c-060-girlin-und-der-neffe)
 - [C-061: Navigationswissen des Häuptlings](#c-061-navigationswissen-des-häuptlings)
 - [C-062: Assims Ankunft vor Tibuns Zündung](#c-062-assims-ankunft-vor-tibuns-zündung)
+- [C-063: Prolog — Szene auf Autorenfassung zurückgerollt](#c-063-prolog--szene-auf-autorenfassung-zurückgerollt)
+- [C-064: Prolog — Dorfplatz und Verlobungsschauplatz nachziehen](#c-064-prolog--dorfplatz-und-verlobungsschauplatz-nachziehen)
+- [C-065: Prolog — Fischerdorf-Milieu nachziehen](#c-065-prolog--fischerdorf-milieu-nachziehen)
+- [C-066: Prolog — Bernstein-Herkunft nachziehen](#c-066-prolog--bernstein-herkunft-nachziehen)
+- [C-067: Prolog — Rollen von Herik und Lanke nachziehen](#c-067-prolog--rollen-von-herik-und-lanke-nachziehen)
+- [C-068: Prolog — Brand und Brandblasen nachziehen](#c-068-prolog--brand-und-brandblasen-nachziehen)
+- [C-069: Prolog — Jolyls Familie und Stiefvater](#c-069-prolog--jolyls-familie-und-stiefvater)
+- [C-070: Prolog — Dateikopf und Versionszeile](#c-070-prolog--dateikopf-und-versionszeile)
+- [C-071: Prolog — Tibuns Alter und Heiratsantrag](#c-071-prolog--tibuns-alter-und-heiratsantrag)
+- [C-072: Prolog — Textfassung 2.2 oder 2.3](#c-072-prolog--textfassung-22-oder-23)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -207,7 +217,7 @@ Berührt [C-013](#c-013-runen--anordnung-anzahl-aussehen). Wird spätestens bei 
 ### C-038: Prolog — Ortsmaßstab in Skirraa
 Die Prolog-Szene ([Die-Entdeckung.md](../Szenen/Prolog/Die-Entdeckung.md)) spielt auf einem „Dorfplatz/Marktplatz" mit festem **Rednerpodest** und einer einberufenen **Versammlung**. [Skirraa](../Orte/Skirraa.md) ist aber ein **Weiler mit ~6 Höfen, 40–60 Menschen**. Maßstab zu groß — Verlobung müsste im kleinen Rahmen (führender Hof / Nachbarschaft) stattfinden, kein Marktplatz. Szene anpassen.
 
-**Entschieden:** Verlobung wird **beim Großbauern** (führender Hof von [Skirraa](../Orte/Skirraa.md)) im kleinen Rahmen besiegelt — kein Marktplatz, kein Rednerpodest, keine Volksversammlung. Verlagerung nach Tingsal verworfen (bräche die Geografie: Stall-Entdeckung am selben Abend nicht mehr möglich). In der Szene umgesetzt.
+**Entschieden:** Verlobung wird **beim Großbauern** (führender Hof von [Skirraa](../Orte/Skirraa.md)) im kleinen Rahmen besiegelt — kein Marktplatz, kein Rednerpodest, keine Volksversammlung. Verlagerung nach Tingsal verworfen (bräche die Geografie: Stall-Entdeckung am selben Abend nicht mehr möglich). **Umsetzung in der Szene offen** (siehe [C-064](#c-064-prolog--dorfplatz-und-verlobungsschauplatz-nachziehen)).
 
 ### C-039: Prolog — Funke entzündet Wolle
 In der Szene entzündet der Bernsteinfunke Wollreste, Tibun bekommt **Brandblasen**. Widerspricht [C-002](#c-002-tibuns-elektrizitätsquelle) und [Elektrizität](../Technik/Elektrizitaet.md): statische Entladung = sichtbarer Funke, **keine Brandwunden**; physikalisch kann ein handgeriebener Bernsteinfunke keine Wolle entzünden. Blockierend für die Entdeckungs-Inszenierung. Neu lösen: Entdeckung über Funke im Dunkeln / angezogene Fasern / Schreck statt Feuer.
@@ -217,19 +227,19 @@ In der Szene entzündet der Bernsteinfunke Wollreste, Tibun bekommt **Brandblase
 ### C-040: Prolog — Fischerdorf vs. Heide-Weiler
 Die Szene zeichnet mit Fischer, **Bootsbauer** und dessen Sohn ein Küsten-Fischerdorf. [Skirraa](../Orte/Skirraa.md) ist karge Heide/Moor mit Tierzucht/Jagd (Küstennähe zum Skagerrak erlaubt Fischerei, aber nicht als prägendes Milieu). Charakter des Orts bewusst entscheiden und Szene angleichen.
 
-**Entschieden:** Fischer-/Bootsbauer-Milieu **gestrichen**. Skirraa bleibt Heide-/Moor-Weiler mit Tierzucht; Tibuns Hof = Schaf-/Wollhof abseits (Herde, Schur, Stoffherstellung; abseits wegen Platz, Lärm, Geruch; dennoch geachtet wegen guter Wollqualität). In der Szene umgesetzt.
+**Entschieden:** Fischer-/Bootsbauer-Milieu **gestrichen**. Skirraa bleibt Heide-/Moor-Weiler mit Tierzucht; Tibuns Hof = Schaf-/Wollhof abseits (Herde, Schur, Stoffherstellung; abseits wegen Platz, Lärm, Geruch; dennoch geachtet wegen guter Wollqualität). **Umsetzung in der Szene offen** (siehe [C-065](#c-065-prolog--fischerdorf-milieu-nachziehen)) — der Wollhof steht bereits kanon-konform im Text, das Fischer-/Bootsbauer-Milieu noch drin.
 
 **Hinweis:** Das Familienhandwerk stammt bereits aus der Original-Szene von 2015, war aber **nie ins Wiki übernommen** worden. Jetzt verankert in [Tibun](../Menschen/Nordvolk/Tibun.md), [Skirraa](../Orte/Skirraa.md) und [Semban](../Menschen/Nordvolk/Nebenfiguren/Semban.md).
 
 ### C-041: Prolog — Bernstein-Fundort
 Tibun findet den Bernstein laut Szene „im Flussbett" des Bachs. In Jütland ist Bernstein **Strandgut** (Skagerrak/Nordsee), kein Flussfund. Fundort auf Küste/Strand umstellen (passt zu Skirraas Lage kurz vor den Dünen).
 
-**Entschieden:** Der Bernstein ist ein **Geschenk seiner Mutter [Girlin](../Menschen/Nordvolk/Girlin.md)**. Sie kennt die Herkunft, verrät sie aber nie — **Tibun** weiß nicht, woher der Stein stammt (offener Faden → [C-044](#c-044-herkunft-von-girlins-bernstein)). Ersetzt den Bachbett-Fund und koppelt an [C-043](#c-043-prolog--herzschmerz-rahmen-nutzen-fürs-gesamtwerk).
+**Entschieden:** Der Bernstein ist ein **Geschenk seiner Mutter [Girlin](../Menschen/Nordvolk/Girlin.md)**. Sie kennt die Herkunft, verrät sie aber nie — **Tibun** weiß nicht, woher der Stein stammt (offener Faden → [C-044](#c-044-herkunft-von-girlins-bernstein)). Ersetzt den Bachbett-Fund und koppelt an [C-043](#c-043-prolog--herzschmerz-rahmen-nutzen-fürs-gesamtwerk). **Umsetzung in der Szene offen** (siehe [C-066](#c-066-prolog--bernstein-herkunft-nachziehen)).
 
 ### C-042: Prolog — Nebenfiguren Jolyl, Herik, Lanke
 Die Szene führt **Jolyl** (Liebe Tibuns), **Herik** (Sohn des Bootsbauers, Tibuns Freund) und **Lanke** (Bootsbauer) ein — keine davon im Wiki. Entscheiden: bleiben sie? Wenn ja, eigene Dateien unter `Nebenfiguren/` + Verlinkung ([C-033](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder-)). Jolyl taucht im späteren Kanon nicht wieder auf — Rolle klären.
 
-**Entschieden:** **Jolyl** = Mädchen aus Skirraa (lokal). **Herik** = Hofsohn von auswärts (Gegend um Tingsal), die „bessere Partie" — schärft Tibuns Stich. **Lanke** = Heriks Vater, ortsfremder Hofbesitzer. Bleiben als Nebenfiguren. Eigene Wiki-Dateien nach [C-033](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder-) **angelegt** ([Jolyl](../Menschen/Nordvolk/Nebenfiguren/Jolyl.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Lanke](../Menschen/Nordvolk/Nebenfiguren/Lanke.md)), in README-Index und SUMMARY eingetragen. In der Szene umgesetzt.
+**Entschieden:** **Jolyl** = Mädchen aus Skirraa (lokal). **Herik** = Hofsohn von auswärts (Gegend um Tingsal), die „bessere Partie" — schärft Tibuns Stich. **Lanke** = Heriks Vater, ortsfremder Hofbesitzer. Bleiben als Nebenfiguren. Eigene Wiki-Dateien nach [C-033](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder-) **angelegt** ([Jolyl](../Menschen/Nordvolk/Nebenfiguren/Jolyl.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Lanke](../Menschen/Nordvolk/Nebenfiguren/Lanke.md)), in README-Index und SUMMARY eingetragen. **Umsetzung in der Szene offen** (siehe [C-067](#c-067-prolog--rollen-von-herik-und-lanke-nachziehen)) — die Namen stimmen, die Rollen noch nicht.
 
 **Restliche offene Felder** je Figur ausgelagert: [C-051 Jolyl](#c-051-jolyl--offene-felder), [C-052 Herik](#c-052-herik--offene-felder), [C-053 Lanke](#c-053-lanke--offene-felder).
 
@@ -313,6 +323,51 @@ Offene Punkte:
 Widerspruch zwischen [Kapitelskizze](Kapitelstruktur.md#zusammenführung-unter-dem-trennstrich) und [Zeitleiste](../Zeitleiste.md). Die Skizze setzt Tibun beim Zusammentreffen „**kurz vor der Vollendung**" — Assim taucht also auf, **bevor** Tibun gezündet hat. Die Zeitleiste führt dagegen „Tibuns erste Zündung" und die Aktivierung in der Wüste als **dasselbe Ereignis** ([C-012](#c-012-aktivierungsverhalten-des-rings-)).
 
 Beides ist vereinbar, wenn die Auslösung **von der Wüstenseite** kommt (Kampf bei Bellbrim aktiviert den Sahrin-Ring, der Skir-Ring flippt simultan mit) — dann ist Tibuns Anlage aber gar nicht die Ursache, und seine zehn Jahre Arbeit verlieren ihre dramaturgische Zahlung. Zu entscheiden: **Wer zündet zuerst** — und wenn die Wüste zuerst zündet, wofür ist Tibuns Anlage dann noch nötig?
+
+### C-063: Prolog — Szene auf Autorenfassung zurückgerollt
+[Die-Entdeckung.md](../Szenen/Prolog/Die-Entdeckung.md) steht wieder auf der **Originalfassung des Autors** („ver 2.2", Stand vor der Wiki-Überarbeitung). Die im Wiki getroffenen Prolog-Entscheidungen sind darin **nicht enthalten** — der Wortlaut bleibt bewusst der des Autors, die Kanon-Anpassungen müssen aber noch von Hand eingearbeitet werden.
+
+Betroffene Entscheidungen, je als eigene Challenge: [C-064](#c-064-prolog--dorfplatz-und-verlobungsschauplatz-nachziehen) (Schauplatz), [C-065](#c-065-prolog--fischerdorf-milieu-nachziehen) (Milieu), [C-066](#c-066-prolog--bernstein-herkunft-nachziehen) (Bernstein), [C-067](#c-067-prolog--rollen-von-herik-und-lanke-nachziehen) (Herik/Lanke), [C-068](#c-068-prolog--brand-und-brandblasen-nachziehen) (Feuer), [C-069](#c-069-prolog--jolyls-familie-und-stiefvater) (Jolyls Familie), [C-070](#c-070-prolog--dateikopf-und-versionszeile) (Dateikopf), [C-071](#c-071-prolog--tibuns-alter-und-heiratsantrag) (Alter).
+
+[C-038](#c-038-prolog--ortsmaßstab-in-skirraa), [C-040](#c-040-prolog--fischerdorf-vs-heide-weiler), [C-041](#c-041-prolog--bernstein-fundort) und [C-042](#c-042-prolog--nebenfiguren-jolyl-herik-lanke) sind deshalb auf **„Umsetzung in der Szene offen"** zurückgesetzt — die inhaltlichen Entscheidungen selbst bleiben gültig.
+
+### C-064: Prolog — Dorfplatz und Verlobungsschauplatz nachziehen
+Die Szene spielt auf einem „Dorfplatz/Marktplatz" mit **Rednerpodest** und einberufener **Versammlung**; durchgehend ist von „Dorf" die Rede. [C-038 entschieden](#c-038-prolog--ortsmaßstab-in-skirraa): Verlobung **beim Großbauern** im kleinen Rahmen, [Skirraa](../Orte/Skirraa.md) ist ein **Weiler** mit ~6 Höfen. Nachzuziehen: Schauplatz, Podest, Menschenmenge und die Wortwahl „Dorf".
+
+### C-065: Prolog — Fischerdorf-Milieu nachziehen
+In der Szene sind **Fischer** und **Bootsbauer** tragende Berufe des Orts. [C-040 entschieden](#c-040-prolog--fischerdorf-vs-heide-weiler): Fischer-/Bootsbauer-Milieu **gestrichen**, Skirraa bleibt Heide-/Moor-Weiler mit Tierzucht. Nachzuziehen: alle Erwähnungen von Fischerei und Bootsbau. Der Schaf-/Wollhof der Familie steht bereits kanon-konform in der Szene.
+
+### C-066: Prolog — Bernstein-Herkunft nachziehen
+Die Szene lässt Tibun den Bernstein selbst **im Flussbett** finden. [C-041 entschieden](#c-041-prolog--bernstein-fundort): Der Stein ist ein **Geschenk seiner Mutter [Girlin](../Menschen/Nordvolk/Girlin.md)**, Herkunft für Tibun unbekannt ([C-044](#c-044-herkunft-von-girlins-bernstein)). Daran hängt der Payoff aus [C-043](#c-043-prolog--herzschmerz-rahmen-nutzen-fürs-gesamtwerk) — von allen Nachzieh-Punkten der **inhaltlich schwerste**, weil er die Bedeutung des Steins verändert.
+
+### C-067: Prolog — Rollen von Herik und Lanke nachziehen
+In der Szene ist **Lanke** der Bootsbauer **aus dem Dorf** und **Herik** dessen Sohn und **Tibuns guter Freund** aus gemeinsamen Kindertagen. [C-042 entschieden](#c-042-prolog--nebenfiguren-jolyl-herik-lanke) und in [Herik.md](../Menschen/Nordvolk/Nebenfiguren/Herik.md)/[Lanke.md](../Menschen/Nordvolk/Nebenfiguren/Lanke.md) verankert: beide sind **ortsfremd** (Gegend um [Tingsal](../Orte/Tingsal.md)), Herik die „bessere Partie", Tibun kaum bekannt. Die Namen selbst stimmen bereits überein. Zu klären ist dabei auch, ob die **Freundschaft** zwischen Tibun und Herik erhalten bleiben soll — sie schärft den Stich anders als die Fremdheit.
+
+### C-068: Prolog — Brand und Brandblasen nachziehen
+In der Szene fangen Wollreste **Feuer**, Tibun löscht mit bloßen Händen und trägt **Brandblasen** davon. [C-039 entschieden](#c-039-prolog--funke-entzündet-wolle): nur **kurzes Ansengen loser Flusen**, kein Brand, keine Brandwunden — die Gefahr entsteht allein aus **Tibuns Schreck**. Physikalisch blockierend (siehe [Elektrizität](../Technik/Elektrizitaet.md)); ebenso das später „verkohlte" Stück, das aus dem Stein gebrochen sein soll.
+
+### C-069: Prolog — Jolyls Familie und Stiefvater
+Die Szene gibt Jolyl eine **zugezogene Mutter** und einen **Stiefvater** (Fischer aus dem Dorf, ruft die Versammlung ein, arrangiert die Verlobung). Das Wiki führt bei [Jolyl](../Menschen/Nordvolk/Nebenfiguren/Jolyl.md) nur einen namenlosen Vater (`???`, siehe [C-051](#c-051-jolyl--offene-felder)). Zu entscheiden: Bleibt die Stiefvater-Konstruktion und der Zuzug — und wenn ja, mit welchem Gewerbe (Fischer entfällt nach [C-065](#c-065-prolog--fischerdorf-milieu-nachziehen))? Danach Wiki-Datei nachtragen.
+
+### C-070: Prolog — Dateikopf und Versionszeile
+Die Datei beginnt mit der Zeile „Die Entdeckung (ver 2.2)" statt mit einer Markdown-Überschrift; Versionsnummer und Absatzformatierung folgen nicht der Wiki-Konvention (siehe [Regeln.md](Regeln.md)), Zeilenumbrüche fehlen zwischen Absätzen. Rein formal — Wortlaut bleibt unangetastet. Klein.
+
+### C-071: Prolog — Tibuns Alter und Heiratsantrag
+In der Szene will Tibun **um Jolyls Hand anhalten**, wird aber durchweg als „Junge" gezeichnet; [Szenen/README](../Szenen/README.md) führt ihn im Prolog mit **15**. Zu klären: Ist ein eigener Antrag in diesem Alter im Kanon plausibel, oder liefe eine Verbindung ohnehin über die Eltern (wie bei Lankes Bitte)? Berührt die [Zeitleiste](../Zeitleiste.md) (Girlins Verschwinden ein Jahr später).
+
+### C-072: Prolog — Textfassung 2.2 oder 2.3
+Vom Autor existierten zwei alte Fassungen, **2.2** und **2.3**; sie unterscheiden sich an fünf Stellen (reiner Feinschliff, keine inhaltliche Umarbeitung). Am Abgleich mit dem Wiki-Kanon ([C-064](#c-064-prolog--dorfplatz-und-verlobungsschauplatz-nachziehen) bis [C-071](#c-071-prolog--tibuns-alter-und-heiratsantrag)) ändert die Wahl nichts — alle Diskrepanzen stehen in beiden Fassungen identisch.
+
+**Entschieden:** Basis ist **2.3**, die Punkte 2 und 3 bleiben in der 2.2-Formulierung. In der Szene umgesetzt.
+
+Die Unterschiede (2.2 → 2.3):
+1. „Als Tibun **Jolyl** das erste mal sah" → „Als Tibun **sie** …" — besser, der Name steht zwei Sätze vorher.
+2. „Platz für die vielen **Schafe**" → „für die vielen **Tiere**" — schlechter: im selben Satz folgt „Geruch der vielen Tiere".
+3. „Doch **nun** brachte ihn das Ganze auf eine andere Idee" → „Doch **damals** …" — **Zeitbruch:** „damals" verweist in die Kindheitserinnerung, der Folgesatz spielt aber im Stall.
+4. „Tibun rieb den Stein **nun** schneller" → ohne „nun" — hängt an Punkt 3, verstärkt den fehlenden Zeitanker.
+5. „ein winziger, **heller** Blitz" → „**greller**" — stärker, passt zum dunklen Stall.
+
+Übernommen wurden 1, 4 und 5; 2 und 3 blieben bei 2.2. Punkt 4 trägt ohne Punkt 3 keinen Zeitbruch mehr, weil der Anker „Doch nun …" im Satz davor wieder steht.
 
 ---
 
