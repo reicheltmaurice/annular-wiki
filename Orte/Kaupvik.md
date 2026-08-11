@@ -15,7 +15,7 @@ Handelssiedlung und Hafen an der Schlei. Der Name bedeutet „Handelsbucht".
 
 ## Bedeutung für die Geschichte
 - **Endpunkt und Wendepunkt** von Tibuns Reise (siehe [C-022](../Notizen/Offene-Challenges.md)): der weiteste Punkt — von hier kehrt er **direkt nach Skirraa zurück**, um den Generator zu bauen. Der genaue Reiseverlauf bis hierher: **???**
-- Was er auf der Reise sucht: Bernstein, bessere Mechanik **und** Wissen über den Portalring — getrieben von der Suche nach seiner verschwundenen Mutter (siehe [Zeitleiste](../Zeitleiste.md))
+- Was er auf der Reise sucht: Bernstein, bessere Mechanik **und** Wissen über den Portalring — getrieben von der Suche nach seiner verschwundenen Mutter (siehe [Zeitleiste](../Plots/Plot-1/Zeitleiste.md))
 - Schauplatz seines Erkenntnismoments am Hafen (Bootsziehwinde, siehe [C-002](../Notizen/Offene-Challenges.md)) — der Auslöser für den Generatorbau
 
 ## Authentizität

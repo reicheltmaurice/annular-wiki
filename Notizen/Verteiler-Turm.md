@@ -1,6 +1,6 @@
 # Verteiler-Turm (alte Notiz)
 
-> **Status:** ??? — geparkte Brainstorm-Notiz. Idee für eine **Nutzer-Zivilisation** (Ring-Hochkultur, also die Phase *Aufstieg* im [Kreislauf](../Welt/README.md) — nicht [Tibuns Zeit](../Zeitleiste.md)). Keine Challenges, keine Entscheidungen.
+> **Status:** ??? — geparkte Brainstorm-Notiz. Idee für eine **Nutzer-Zivilisation** (Ring-Hochkultur, also die Phase *Aufstieg* im [Kreislauf](../Welt/README.md) — nicht [Tibuns Zeit](../Plots/Plot-1/Zeitleiste.md)). Keine Challenges, keine Entscheidungen.
 
 ---
 

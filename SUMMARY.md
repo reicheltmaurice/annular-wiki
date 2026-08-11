@@ -1,7 +1,17 @@
 # Zusammenfassung
 
 * [Übersicht](README.md)
-* [Zeitleiste](Zeitleiste.md)
+
+## Plots
+
+* [Übersicht](Plots/README.md)
+* Plot 1 — Tibun & Girlin (Titel ???)
+  * [Übersicht](Plots/Plot-1/README.md)
+  * [Kapitelstruktur](Plots/Plot-1/Kapitelstruktur.md)
+  * [Zeitleiste](Plots/Plot-1/Zeitleiste.md)
+  * [Plot 1 (alte Notiz)](Plots/Plot-1/Plot-1.md)
+  * [Szenen-Log](Plots/Plot-1/Szenen/README.md)
+    * [Prolog: Die Entdeckung](Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md)
 
 ## Charaktere
 
@@ -53,15 +63,8 @@
 
 * [Übersicht](Welt/README.md)
 
-## Szenen
-
-* [Szenen-Log](Szenen/README.md)
-* [Prolog: Die Entdeckung](Szenen/Prolog/Die-Entdeckung.md)
-
 ## Notizen
 
-* [Kapitelstruktur](Notizen/Kapitelstruktur.md)
-* [Plot 1 (alte Notiz)](Notizen/Plot-1.md)
 * [Offene Challenges](Notizen/Offene-Challenges.md)
 * [Regeln & Prüfliste](Notizen/Regeln.md)
 * [Bild-Prompts](Notizen/Bild-Prompts.md)

@@ -8,7 +8,7 @@ Gebaut von [Tibun](../Menschen/Nordvolk/Tibun.md) als Erwachsenem (~25+), rein e
 
 ## Erkenntnismoment
 
-Tibun kennt den Bernstein-Effekt seit seiner Jugend (**15**, Prolog), versteht aber lange nicht, wie er genug Ladung erzeugen soll. Die Einsicht kommt erst nach einem **Arbeitsunfall an einer Bootsziehwinde**: Ein Seil rutscht unter Last frei durch, wird heiß und beginnt zu rauchen. Daraus schließt er — *schnelle, kontinuierliche Reibung = viel Ladung*. Zwischen Entdeckung und Einsicht liegen **~9 Jahre** (15 → ~24, siehe [Zeitleiste](../Zeitleiste.md)).
+Tibun kennt den Bernstein-Effekt seit seiner Jugend (**15**, Prolog), versteht aber lange nicht, wie er genug Ladung erzeugen soll. Die Einsicht kommt erst nach einem **Arbeitsunfall an einer Bootsziehwinde**: Ein Seil rutscht unter Last frei durch, wird heiß und beginnt zu rauchen. Daraus schließt er — *schnelle, kontinuierliche Reibung = viel Ladung*. Zwischen Entdeckung und Einsicht liegen **~9 Jahre** (15 → ~24, siehe [Zeitleiste](../Plots/Plot-1/Zeitleiste.md)).
 
 ---
 

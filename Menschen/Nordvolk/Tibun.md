@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | **Rolle** | Protagonist |
-| **Alter** | 15 (Prolog) · 16 (Girlins Verschwinden) · 17 (Aufbruch) · 25 (Rückkehr) · 26 (Finale) — siehe [Zeitleiste](../../Zeitleiste.md) |
+| **Alter** | 15 (Prolog) · 16 (Girlins Verschwinden) · 17 (Aufbruch) · 25 (Rückkehr) · 26 (Finale) — siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md) |
 | **Herkunft** | [Skirraa](../../Orte/Skirraa.md) (Nordjütland / Vendsyssel) |
 
 **Familie**

@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | **Rolle** | Antagonist |
-| **Alter** | offen — siehe [C-028](../../Notizen/Offene-Challenges.md) (Endalter = Anfangsalter + 10, siehe [Zeitleiste](../../Zeitleiste.md)) |
+| **Alter** | offen — siehe [C-028](../../Notizen/Offene-Challenges.md) (Endalter = Anfangsalter + 10, siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md)) |
 | **Herkunft** | Offen — siehe [C-028](../../Notizen/Offene-Challenges.md) |
 
 **Familie**
@@ -34,7 +34,7 @@
 
 ## Bedeutung in der Geschichte
 
-Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Schmuggel) und wird im Finale durch den Ring zu Tibun teleportiert. Siehe [Zeitleiste](../../Zeitleiste.md).
+Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Schmuggel) und wird im Finale durch den Ring zu Tibun teleportiert. Siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md).
 
 ---
 

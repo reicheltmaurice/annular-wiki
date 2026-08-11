@@ -6,11 +6,20 @@
 - Token-sparsam – Wiki und Chat.
 
 ## Projektziel
-Annular soll als Buch oder Szenensammlung enden. Frage bei jeder Entscheidung: *Interessiert das einen Leser in 30 Jahren noch?*
+**Annular ist ein Universum, kein einzelnes Buch.** Darin entstehen mehrere unabhängige Geschichten. Jede einzelne Geschichte soll als Buch oder Szenensammlung enden. Frage bei jeder Entscheidung: *Interessiert das einen Leser in 30 Jahren noch?*
+
+## Struktur: Universum vs. Plot
+- **Universum** (Wiki-Wurzel): `Menschen/`, `Orte/`, `Kulturen/`, `Technik/`, `Welt/`, `Notizen/` — gilt für alle Geschichten.
+- **Plot** (`Plots/<Ordner>/`): Kapitelstruktur, Zeitleiste, Szenen — gilt nur für diese eine Geschichte.
+- Figuren und Orte liegen **oben**, auch wenn sie nur in einer Geschichte vorkommen.
+- **Ordnernamen sind dauerhaft generisch** (`Plot-1`, `Plot-2`, …) und tragen **nie** den Werktitel. Der Titel steht ausschließlich in der `README.md` des Plots und in `SUMMARY.md` — so müssen Links nie nachgezogen werden.
+- `Notizen/Offene-Challenges.md` bleibt **eine durchgehende C-Nummernfolge über alle Plots hinweg**. Nummern werden nie neu vergeben.
 
 ## Authentizitätsprinzip
 **Einzige Abweichung von der Realität: die Portalringe.**
 Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in `Notizen/Offene-Challenges.md` dokumentieren.
+
+**Erbauer-Regel:** Wer die Portalringe gebaut hat, wird **niemals** aufgelöst — in keiner Geschichte. Alle Plots erzählen ausschließlich von **Nutzern** der Ringe; auch eine Hochkultur, die sie im Alltag beherrscht, weiß nicht, woher sie stammen.
 
 ## Meine Rolle
 - Brainstorming-Partner, Historik-Checker, Schreibassistent

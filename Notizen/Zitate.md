@@ -49,7 +49,7 @@ Kein Motto für ein Kapitel — es spricht über Sprache, nicht über die Welt, 
 
 ## Struktureller Vorschlag: zwei Quellen für zwei Stränge
 
-Das Buch hat zwei parallele Stränge ([Kapitelstruktur](Kapitelstruktur.md)). Wenn **Tibun-Kapitel** mit Sprüchen des Nordvolks öffnen und **Girlin-Kapitel** mit Sprüchen der [Sahrin](../Menschen/Wuestenvolk/Sahrin.md), weiß der Leser vor dem ersten Satz, wo er steht — und die beiden Weisheitswelten kommentieren einander über die Kapitelgrenzen hinweg.
+Das Buch hat zwei parallele Stränge ([Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md)). Wenn **Tibun-Kapitel** mit Sprüchen des Nordvolks öffnen und **Girlin-Kapitel** mit Sprüchen der [Sahrin](../Menschen/Wuestenvolk/Sahrin.md), weiß der Leser vor dem ersten Satz, wo er steht — und die beiden Weisheitswelten kommentieren einander über die Kapitelgrenzen hinweg.
 
 Im Finale, wo die Stränge zusammenlaufen, wäre entweder **kein** Motto die stärkere Wahl (der Bruch fällt auf) oder eines aus beiden Welten nebeneinander.
 
