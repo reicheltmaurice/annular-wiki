@@ -15,7 +15,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft)
 - [C-015: Verhältnis Drehung ↔ Tausch](#c-015-verhältnis-drehung--tausch)
 - [C-017: Weitere Ringgrößen](#c-017-weitere-ringgrößen)
-- [C-018: Widerspruch — Transport des Wüstenrings](#c-018-widerspruch--transport-des-sahrin-rings)
 - [C-019: Ursache von Erwachen und Zusammenbruch](#c-019-ursache-von-erwachen-und-zusammenbruch)
 - [C-020: Vorwarnung vor dem Flip?](#c-020-vorwarnung-vor-dem-flip)
 - [C-024: Girlin — Herkunft & Vorgeschichte](#c-024-girlin--herkunft--vorgeschichte)
@@ -35,8 +34,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-042: Prolog — Nebenfiguren Frida, Herik, Lanke](#c-042-prolog--nebenfiguren-frida-herik-lanke)
 - [C-043: Prolog — Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk](#c-043-prolog--herzschmerz-rahmen-nutzen-fürs-gesamtwerk)
 - [C-044: Herkunft von Girlins Bernstein](#c-044-herkunft-von-girlins-bernstein)
-- [C-045: Semund — offene Felder](#c-045-semban--offene-felder)
-- [C-046: Millia — offene Felder](#c-046-mellia--offene-felder)
+- [C-045: Semund — offene Felder](#c-045-semund--offene-felder)
+- [C-046: Millia — offene Felder](#c-046-millia--offene-felder)
 - [C-047: Truda — offene Felder](#c-047-truda--offene-felder)
 - [C-048: Hadurik — offene Felder](#c-048-hadurik--offene-felder)
 - [C-049: Wala von Tingsal — offene Felder](#c-049-wala-von-tingsal--offene-felder)
@@ -50,9 +49,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-057: Prolog — warum sind Tibun und Girlin allein draußen?](#c-057-prolog--warum-sind-tibun-und-girlin-allein-draußen)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld](#c-058-wasserrad-unfall-und-tibuns-schuld)
 - [C-059: Tibuns Zieheltern in Kaupvik](#c-059-tibuns-zieheltern-in-kaupvik)
-- [C-060: Girlin und der Neffe](#c-060-girlin-und-der-neffe)
 - [C-061: Navigationswissen des Häuptlings](#c-061-navigationswissen-des-häuptlings)
-- [C-062: Azzims Ankunft vor Tibuns Zündung](#c-062-assims-ankunft-vor-tibuns-zündung)
 - [C-063: Prolog — Szene auf Autorenfassung zurückgerollt](#c-063-prolog--szene-auf-autorenfassung-zurückgerollt)
 - [C-064: Prolog — Dorfplatz und Verlobungsschauplatz nachziehen](#c-064-prolog--dorfplatz-und-verlobungsschauplatz-nachziehen)
 - [C-065: Prolog — Fischerdorf-Milieu nachziehen](#c-065-prolog--fischerdorf-milieu-nachziehen)
@@ -68,11 +65,10 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-075: Ist das Ringmaterial ein Metall?](#c-075-ist-das-ringmaterial-ein-metall)
 - [C-076: Abklingdauer des grünen Leuchtens](#c-076-abklingdauer-des-grünen-leuchtens)
 - [C-077: Tibun und Truda nach Girlins Verschwinden](#c-077-tibun-und-truda-nach-girlins-verschwinden)
-- [C-078: Tibuns Verhältnis zu Millia](#c-078-tibuns-verhältnis-zu-mellia)
+- [C-078: Tibuns Verhältnis zu Millia](#c-078-tibuns-verhältnis-zu-millia)
 - [C-079: Tibuns Alpträume — und der Traum als Ideenquelle](#c-079-tibuns-alpträume--und-der-traum-als-ideenquelle)
 - [C-080: Girlins Entführung und Rettung](#c-080-girlins-entführung-und-rettung)
 - [C-081: Girlins drittes Kind in der Wüste](#c-081-girlins-drittes-kind-in-der-wüste)
-- [C-082: Girlins Entscheidung zur Rückreise](#c-082-girlins-entscheidung-zur-rückreise)
 - [C-083: Zitate als Kapitel-Motti](#c-083-zitate-als-kapitel-motti)
 - [C-084: Mulde, Standfläche und die rohen Ringe](#c-084-mulde-standfläche-und-die-rohen-ringe)
 - [C-085: Titel für Plot 1](#c-085-titel-für-plot-1)
@@ -80,6 +76,21 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-089: Azzim — Verhältnis zum Ring (harte Regel)](#c-089-azzim--verhältnis-zum-ring-harte-regel)
 - [C-092: Namenssystem des Nordvolks](#c-092-namenssystem-des-nordvolks)
 - [C-093: Prolog — Namen nach C-092 nachziehen](#c-093-prolog--namen-nach-c-092-nachziehen)
+- [C-098: Woher Tibun die Schnittwirkung der Kugelgrenze kennt](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt)
+- [C-099: Der isolierte Konduktor — Ladungsspeicher ohne Anachronismus](#c-099-der-isolierte-konduktor--ladungsspeicher-ohne-anachronismus)
+- [C-100: Die Werkstatt an der Tabustelle](#c-100-die-werkstatt-an-der-tabustelle)
+- [C-101: Girlins Nachricht — Vorhaben ohne Ausführung](#c-101-girlins-nachricht--vorhaben-ohne-ausführung)
+- [C-102: Was bei Zündung 1 aus dem Norden verschwindet](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet)
+- [C-103: Transportlogistik des Wüstenrings](#c-103-transportlogistik-des-wüstenrings)
+- [C-104: Wasser als Gegenleistung — das Motiv des Transports](#c-104-wasser-als-gegenleistung--das-motiv-des-transports)
+- [C-105: Der Neffe — Name, Eigenschaften, Schweigebitte](#c-105-der-neffe--name-eigenschaften-schweigebitte)
+- [C-106: Durchgebrannte Ehefrau bei den Kel Aman](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman)
+- [C-107: Azzims Motiv — Wasser statt Sklaverei](#c-107-azzims-motiv--wasser-statt-sklaverei)
+- [C-108: Der Kampf in der Schlucht während Tibuns Ankunft](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft)
+- [C-109: Ladezeit des Konduktors — die Uhr im Finale](#c-109-ladezeit-des-konduktors--die-uhr-im-finale)
+- [C-110: Der Schlusssatz — wissen die Figuren, was er kostet?](#c-110-der-schlusssatz--wissen-die-figuren-was-er-kostet)
+- [C-111: Wiederaufstellung des Rings nach dem Transport](#c-111-wiederaufstellung-des-rings-nach-dem-transport)
+- [C-112: Das Wüstenkind während des Finales](#c-112-das-wüstenkind-während-des-finales)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -91,6 +102,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-010: Ringsystem — Kopplungsmechanik ✓](#c-010-ringsystem--kopplungsmechanik-)
 - [C-012: Aktivierungsverhalten des Rings ✓](#c-012-aktivierungsverhalten-des-rings-)
 - [C-016: Schicksal von Vilund ✓](#c-016-schicksal-von-vilund-)
+- [C-018: Transport des Wüstenrings ✓](#c-018-widerspruch--transport-des-wüstenrings-)
 - [C-021: Reale Verortung der Orte ✓](#c-021-reale-verortung-der-orte-)
 - [C-022: Tibuns Reise — Dauer, Motiv, Hof ✓](#c-022-tibuns-reise--dauer-motiv-hof-)
 - [C-023: Zeitleiste & Altersgerüst ✓](#c-023-zeitleiste--altersgerüst-)
@@ -98,15 +110,17 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-033: Nebenfiguren — eigene Dateien & strukturierte Felder ✓](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder-)
 - [C-035: Aussehen der Ringoberfläche ✓](#c-035-aussehen-der-ringoberfläche-)
 - [C-036: Altert der Ring? Patina, Moos, Ablagerungen ✓](#c-036-altert-der-ring-patina-moos-ablagerungen-)
+- [C-060: Girlin und der Neffe ✓](#c-060-girlin-und-der-neffe-)
+- [C-062: Azzims Ankunft vor Tibuns Zündung ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)
+- [C-082: Girlins Entscheidung zur Rückreise ✓](#c-082-girlins-entscheidung-zur-rückreise-)
 - [C-086: Ton in einem Satz ✓](#c-086-ton-in-einem-satz-)
 - [C-088: Verortung der Wüste ✓](#c-088-verortung-der-wüste-)
 - [C-090: Kel Aman — Eigenname und Namenssystem ✓](#c-090-kel-aman--eigenname-und-namenssystem-)
 - [C-091: Krummsäbel und Bewaffnung der Kel Aman ✓](#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)
 - [C-094: Der Sand an der Skir ✓](#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-)
 - [C-095: Verschwundene für tot erklärt — Wiederheirat und Erbe ✓](#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-)
-- [C-096: Korrektur — Girlins Alter ✓](#c-096-korrektur-girlins-alter-)
+- [C-096: Korrektur — Girlins Alter ✓](#c-096-korrektur--girlins-alter-)
 - [C-097: Girlins Kinderfolge ✓](#c-097-girlins-kinderfolge--die-neun-jahre-lücke-)
-
 ---
 
 ## Offen
@@ -164,9 +178,20 @@ Ist die 180°-Drehung ein **simultaner Vorgang** mit dem Tausch (die Kugel wird 
 ### C-017: Weitere Ringgrößen
 Festgelegt (C-010): **3,00 m** (ortsfeste Tor-Ringe) und **0,30 m** (tragbarer Post-Ring). Gibt es im Erbauer-System weitere Größen — und wofür? Offen.
 
-### C-018: Widerspruch — Transport des Wüstenrings
+### C-018: Widerspruch — Transport des Wüstenrings ✓
 `zeitleiste.md` (Girlins Reise) sieht vor: *„Transport des Ringes in Bellbrims Labor"* + Experimente dort. Das widerspricht **C-007/C-010**: Der 3-m-Ring ist ~8 t schwer und **faktisch untransportierbar/ortsfest**. Beide Ringe müssen 3 m sein (sonst keine Rückkehr für Girlin, C-010) — ein kleinerer Wüstenring scheidet also aus.
-Optionen: (a) Bellbrim arbeitet **am Fundort** statt im Labor; (b) Transport nur mit enormem Aufwand (Nomaden, Zugtiere, Rollen) — kollidiert mit „untransportierbar"; (c) Zeitleiste anpassen. Zu klären.
+**Entschieden (Autor, 31.08.2026): Option (b) — der Ring wird bewegt, unter enormem Aufwand.**
+
+Der Autor hat gegen die Empfehlung entschieden (Vorschlag war: Bellbrim zieht zum Ring statt umgekehrt). Damit die Entscheidung das Authentizitätsprinzip nicht bricht, gelten drei Bedingungen:
+
+1. **Verfahren:** Schlitten auf **befeuchteter Piste** — historisch für weit schwerere Lasten belegt (ägyptische Obelisken, mehrere hundert Tonnen). Nicht Rollen, die im Sand versinken.
+2. **Route:** ausschließlich **Hammada** (Steinwüste) und **Serir** (Kiesebene). Über **Erg** (Dünensand) ist es unmöglich, nicht nur schwer.
+3. **Die harte Grenze ist die Verpflegung, nicht das Gewicht.** Wasser und Nahrung für hundert Männer über Monate in der Wüste ist das eigentliche Problem → [C-103](#c-103-transportlogistik-des-wüstenrings), [C-104](#c-104-wasser-als-gegenleistung--das-motiv-des-transports).
+
+**Ziel:** die **Schlucht** bei Bellbrim — Schatten, Fels, Verteidigungslage. Sie ist danach Werkstatt, Zuflucht und Finalort in einem; Beat 14 der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md) bekommt damit einen Grund, dort zu sein.
+**Zeitraum:** Jahr **+5 bis +8**. Bei 1–3 km am Tag ist das kein Beat, sondern ein Kapitel — ein ganzes Volk zieht ein Jahrhundertprojekt durch die Wüste. Die zehn Jahre bezahlen es.
+
+**Nachgezogen:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md). **Neu daraus:** [C-103](#c-103-transportlogistik-des-wüstenrings), [C-104](#c-104-wasser-als-gegenleistung--das-motiv-des-transports), [C-111](#c-111-wiederaufstellung-des-rings-nach-dem-transport).
 
 ### C-019: Ursache von Erwachen und Zusammenbruch
 Was treibt die Phasen des Ring-Kreislaufs ([Welt/README.md](../Welt/README.md))? Folgt das System einer **festen Periode**, wird es **ausgelöst** (wodurch?), oder ist die Ursache **grundsätzlich unergründlich**? Verwandt mit C-011 (Kreis/Spirale). Autorenebene, nicht zwingend im Erzähltext.
@@ -180,6 +205,8 @@ Flippt der Ring bei Aktivierung sofort, oder kündigt er sich an (z. B. mehrfach
 
 Vorteil: löst Normalbetrieb-Dramatik **und** Girlin-Unfall ohne Sonderregel; liefert C-014 die nächtliche Optik (bei Girlin: beide Ringe schlagartig, kein Vorlauf → plötzliches Aufleuchten + Girlin).
 **Gegenoption:** Erbauer als kalt-gleichgültig → gar keine Warnung, immer sofortiger Flip (düsterer, aber ohne Puls-Optik und ohne saubere Girlin-Erklärung).
+
+**Wichtig seit 31.08.2026:** Tibuns Anlage arbeitet **nicht** mit einer Laderampe am Ring. Das Bernsteinrad lädt einen isolierten **Konduktor**, die Zündung erfolgt über eine herabfallende **Kette** — punktuell, gezielt, augenblicklich ([C-099](#c-099-der-isolierte-konduktor--ladungsspeicher-ohne-anachronismus)). Seine Zündung ist damit **derselbe Vorgang wie Girlins Blitz**, nur gewollt: schlagartige Entladung ohne Vorlauf. Eine pulsende Vorwarnung am Ring gibt es bei dieser Bauweise also nicht — die Rampe sitzt am Speicher, nicht am Ring. Das entzieht der „Tendenz Claude" oben ihren Hauptanwendungsfall; sie gilt allenfalls noch für den **Erbauer-Betrieb**. Zu prüfen.
 Erweitert die Signal-Grammatik aus C-010 (Puls=Kopplung / Dauerglühen=Aktivierung) um *beschleunigende Pulse = Ladewarnung*. Noch nicht entschieden.
 
 ### C-024: Girlin — Herkunft & Vorgeschichte
@@ -188,7 +215,7 @@ Erweitert die Signal-Grammatik aus C-010 (Puls=Kopplung / Dauerglühen=Aktivieru
 **Entschieden (Autor, 31.08.2026):**
 - **Zugezogen**, nicht in [Skirraa](../Orte/Skirraa.md) geboren.
 - [**Semund**](../Menschen/Nordvolk/Nebenfiguren/Semund.md) **ist Tibuns leiblicher Vater**, die Ehe war regulär.
-- Alter bei Tibuns Geburt: **18** (korrigiert, [C-096 ✓](#c-096-korrektur-girlins-alter-)).
+- Alter bei Tibuns Geburt: **18** (korrigiert, [C-096 ✓](#c-096-korrektur--girlins-alter-)).
 
 **Erzählwert des Zuzugs:** Girlin hat schon einmal einen Ort verlassen und sich in einer fremden Gemeinschaft eingerichtet. Als sie in der Wüste aufwacht, tut sie zum zweiten Mal, was sie einmal überstanden hat — nur ohne Sprache und ohne Rückweg. Das ist eine Vorprägung, die man nicht erklären muss, sondern zeigen kann.
 
@@ -221,7 +248,7 @@ Im Wüsten-Arc überlebt sie zehn Winter, verständigt sich mit [Bellbrim](../Me
 
 **Weiterhin offen:**
 - **Wann kippt ihr Ziel** von „zurück" zu „beide zusammenbringen" — mit der neuen Liebe, mit dem Kind, oder früher? · **???**
-- **Was will sie im Finale konkret:** die Kinder in die Wüste holen, oder selbst zurück und dann wieder fort? Betrifft [C-082](#c-082-girlins-entscheidung-zur-rückreise) unmittelbar. · **???**
+- **Was will sie im Finale konkret:** die Kinder in die Wüste holen, oder selbst zurück und dann wieder fort? Betrifft [C-082](#c-082-girlins-entscheidung-zur-rückreise-) unmittelbar. · **???**
 - **Technische Neugier?** Ob die Findigkeit von ihr kommt oder von [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) — hier entscheidet sich, ob Tibuns Begabung ein Erbe ist. · **???**
 
 ### C-026: Bellbrim — historische Plausibilität & Herkunft
@@ -388,7 +415,7 @@ Die Fassung der Skizze (Wasserrad) ist damit die kanonkonforme. Denkbar bliebe e
 ### C-059: Tibuns Zieheltern in Kaupvik
 [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Tibun 8–9): Tibun kommt in [Kaupvik](../Orte/Kaupvik.md) bei einem **Paar** unter, arbeitet mit dem Mann am Hafen, die beiden werden Freunde, der Mann wird Tibuns **neue Bezugsperson**. Beide Figuren existieren im Wiki noch nicht — keine Namen, kein Gewerbe, keine Herkunft. Dramaturgisch wichtig: Das ist der Gegenentwurf zu [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) und damit die emotionale Achse der Wanderjahre. Berührt [C-034](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft) (Lebensgrundlage).
 
-### C-060: Girlin und der Neffe
+### C-060: Girlin und der Neffe ✓
 [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Girlin 7) bietet zwei Varianten an: Girlin und der Neffe kommen sich näher — **oder** die Frau des Neffen brennt erst durch und sie kommen sich danach näher. Offen ist zudem: **wessen** Neffe (Häuptling der Nomaden? [Bellbrim](../Menschen/Andere/Bellbrim.md)?), ob die Figur einen Namen bekommt und ob die Linie überhaupt bleibt. Anmerkung: Variante 2 („Frau brennt durch") entlastet Girlin moralisch, kostet aber Konfliktpotenzial. Girlin ist zu diesem Zeitpunkt Ende 30 und weiß nicht, ob [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) noch lebt — das ist der eigentliche Konflikt und sollte nicht wegvereinfacht werden.
 
 **Ältere Fassung aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 5 und 7) — beantwortet die Frage „wessen Neffe?" auf ihre Weise: gar keiner.** Dort finden **Girlin und der Häuptling selbst** zueinander, und durchgebrannt ist die **Frau des Häuptlings** mit einem seiner Männer.
@@ -398,14 +425,31 @@ Das ist die deutlich klarere Konstruktion:
 - Die durchgebrannte **Häuptlingsfrau** liefert das Motiv gleich mit: Er ist öffentlich gedemütigt und allein; sie ist gestrandet und weiß nicht, ob ihr Mann noch lebt. Zwei Menschen mit demselben Riss.
 - Verbindet zugleich [C-061](#c-061-navigationswissen-des-häuptlings): Warum schweigt der Häuptling über den Ring-Standort? Weil er weiß, dass er sie damit verliert. Das nimmt dem Beat den Deus-ex-Machina-Verdacht — er hatte einen **Grund**, und der Grund ist Liebe.
 
-**Tendenz (Claude): Häuptling statt Neffe.** Eine Figur weniger, drei Probleme gelöst. Entschieden ist nichts.
+**Entschieden (Autor, 31.08.2026): der Neffe — aber mit dem Motiv aus Plot 1.**
 
-Hängt an [C-081](#c-081-girlins-drittes-kind-in-der-wüste) (in Plot 1 folgt das Kind unmittelbar auf diesen Beat) und [C-080](#c-080-girlins-entführung-und-rettung) (läuft dort parallel).
+Der Vorschlag lautete „Häuptling statt Neffe". Der Autor hat begründet abgelehnt: *„Natürlich bekommt die Hauptfigur den Häuptling. War ja klar."* Das ist richtig — es ist das Klischee, das man aus zehn Metern sieht.
+
+**Beschlossen:**
+- Partner ist der **Neffe des Häuptlings**.
+- Übernommen aus Plot 1: **Seine Frau brennt zuvor mit einem anderen Mann durch.** Er ist öffentlich gedemütigt und allein, sie ist gestrandet und weiß nicht, ob ihr Mann lebt. Zwei Menschen mit demselben Riss.
+- Beginn spätestens **Jahr +3** (erzwungen durch [C-081](#c-081-girlins-drittes-kind-in-der-wüste): Kind in Jahr +4).
+
+**Der Einwand gegen den Neffen — eine Figur ohne Eigenschaften — löst sich über [C-061](#c-061-navigationswissen-des-häuptlings):** Der **Neffe bittet seinen Onkel zu schweigen.** Der Häuptling kennt den Ringstandort und behält ihn zehn Jahre für sich, weil sein Neffe ihn darum gebeten hat — wer den Ring findet, verliert die Frau und das Kind. Damit hat der Neffe eine **Handlung** statt einer Beziehung, eine **Schuld**, und der Wüstenstrang bekommt einen Konflikt **von innen** statt nur Azzim von außen.
+
+**Weiterhin offen:** Name und Eigenschaften des Neffen → [C-105](#c-105-der-neffe--name-eigenschaften-schweigebitte). Was kulturell gilt, wenn eine Kel-Aman-Frau ihren Mann verlässt → [C-106](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman).
+
+Hängt an [C-081](#c-081-girlins-drittes-kind-in-der-wüste) und [C-080](#c-080-girlins-entführung-und-rettung) (läuft dort parallel).
 
 ### C-061: Navigationswissen des Häuptlings
-[Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Girlin 10–11): Nach großer Verzweiflung über den unbekannten Ring-Standort **offenbart der Häuptling sein Wissen zur Navigation**, die Nomaden finden den Ring und transportieren ihn zu Bellbrim. Offen: **Welches** Wissen (Sternnavigation, Wegmarken, mündliche Routenüberlieferung)? Warum hat er es **zurückgehalten**? Historisch tragfähig ist Sternnavigation plus tradierte Landmarken — ohne Karte, ohne Instrument. **Achtung Deus ex Machina:** Ein Häuptling, der im Moment der Verzweiflung genau die fehlende Information hat, kippt schnell ins Verbotene. Es braucht einen Grund für das Schweigen (Tabu, Preis, Misstrauen gegenüber der Fremden). Der Transport-Beat ist zugleich ein Lösungsvorschlag zu [C-018](#c-018-widerspruch--transport-des-sahrin-rings).
+[Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Girlin 10–11): Nach großer Verzweiflung über den unbekannten Ring-Standort **offenbart der Häuptling sein Wissen zur Navigation**, die Nomaden finden den Ring und transportieren ihn zu Bellbrim. Offen: **Welches** Wissen (Sternnavigation, Wegmarken, mündliche Routenüberlieferung)? Warum hat er es **zurückgehalten**? Historisch tragfähig ist Sternnavigation plus tradierte Landmarken — ohne Karte, ohne Instrument. **Achtung Deus ex Machina:** Ein Häuptling, der im Moment der Verzweiflung genau die fehlende Information hat, kippt schnell ins Verbotene. Es braucht einen Grund für das Schweigen (Tabu, Preis, Misstrauen gegenüber der Fremden). Der Transport-Beat ist zugleich ein Lösungsvorschlag zu [C-018 ✓](#c-018-widerspruch--transport-des-wüstenrings-).
 
-### C-062: Azzims Ankunft vor Tibuns Zündung
+**Teilweise beantwortet (31.08.2026) — der Grund für das Schweigen steht:** Der **Neffe hat den Häuptling darum gebeten** ([C-060 ✓](#c-060-girlin-und-der-neffe-)). Wer den Ring findet, verliert Girlin und das Kind. Damit ist der Deus-ex-Machina-Verdacht ausgeräumt: Der Häuptling hatte einen Grund, und der Grund ist nicht Willkür, sondern die Sippe.
+
+**Folge für den Aufbau:** Ab dem Transport (Jahr +5, [C-018 ✓](#c-018-widerspruch--transport-des-wüstenrings-)) ist der Ring kein Geheimnis mehr — vier Jahre lang schleppt ihn ein ganzes Volk durch die Wüste. Das Schweigen muss also **davor** liegen und **brechen**. Der Wüstenstrang bekommt damit seine Mitte: erst das Schweigen, dann der Bruch, dann der Transport.
+
+**Weiterhin offen:** **Welches** Wissen genau (Sternnavigation, tradierte Landmarken), **wie** es herauskommt und **was es Girlin und den Neffen kostet** · **???**
+
+### C-062: Azzims Ankunft vor Tibuns Zündung ✓
 Widerspruch zwischen [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#zusammenführung-unter-dem-trennstrich) und [Zeitleiste](../Plots/Plot-1/Zeitleiste.md). Die Skizze setzt Tibun beim Zusammentreffen „**kurz vor der Vollendung**" — Azzim taucht also auf, **bevor** Tibun gezündet hat. Die Zeitleiste führt dagegen „Tibuns erste Zündung" und die Aktivierung in der Wüste als **dasselbe Ereignis** ([C-012](#c-012-aktivierungsverhalten-des-rings-)).
 
 Beides ist vereinbar, wenn die Auslösung **von der Wüstenseite** kommt (Kampf bei Bellbrim aktiviert den Wüstenring, der Skir-Ring flippt simultan mit) — dann ist Tibuns Anlage aber gar nicht die Ursache, und seine zehn Jahre Arbeit verlieren ihre dramaturgische Zahlung. Zu entscheiden: **Wer zündet zuerst** — und wenn die Wüste zuerst zündet, wofür ist Tibuns Anlage dann noch nötig?
@@ -414,7 +458,26 @@ Beides ist vereinbar, wenn die Auslösung **von der Wüstenseite** kommt (Kampf 
 
 Das löst das Zahlungsproblem sauber: Tibun zündet, Tibun reist, Tibun findet seine Mutter. Zehn Jahre Arbeit münden in genau die Tat, auf die sie hinarbeiten. Beide vorhandenen Varianten lassen ihn dagegen passiv in seiner Werkstatt stehen, während das Finale zu ihm kommt.
 
-**Preis:** Das Wiedersehen findet dann in der Wüste statt, nicht daheim, und Girlins Rückkehr ([C-082](#c-082-girlins-entscheidung-zur-rückreise)) wird zur gemeinsamen Rückreise — mit allem, was [C-081](#c-081-girlins-drittes-kind-in-der-wüste) daran hängt. Außerdem ist unklar, wo Azzim in dieser Variante bleibt. Nicht entschieden.
+**Preis:** Das Wiedersehen findet dann in der Wüste statt, nicht daheim, und Girlins Rückkehr ([C-082](#c-082-girlins-entscheidung-zur-rückreise-)) wird zur gemeinsamen Rückreise — mit allem, was [C-081](#c-081-girlins-drittes-kind-in-der-wüste) daran hängt. Außerdem ist unklar, wo Azzim in dieser Variante bleibt.
+
+---
+
+**Entschieden (Autor, 31.08.2026): keine der drei Varianten allein — sondern zwei Zündungen, Minuten auseinander.**
+
+Der Widerspruch war ein Scheinwiderspruch. Es zündet **nicht entweder** die Wüste **oder** der Norden, sondern **beide, nacheinander**:
+
+| | |
+|---|---|
+| **Zündung 1** | Azzims Angriff löst in der Schlucht den Wüstengenerator aus. Azzim steht vollständig in der Kugel und wird nach Jütland geworfen. |
+| **Dazwischen** | Der Skir-Ring ist danach **entladen** — Tibuns Anlage muss neu aufladen. **Das ist die Uhr des Finales:** Tibun kämpft nicht, bis er gewinnt, sondern bis das Rad genug gedreht hat, und er ist der Einzige, der weiß, wie lange das noch ist. |
+| **Zündung 2** | Tibun löst selbst aus, mit seiner eigenen Anlage, im Würgegriff. Er reist. |
+
+**Damit sind beide Probleme weg:** Die Gleichzeitigkeit aus [C-012 ✓](#c-012-aktivierungsverhalten-des-rings-) bleibt für jede einzelne Zündung gültig, und Tibuns zehn Jahre Arbeit werden ausgezahlt — er ist nicht der Mann, zu dem das Finale kommt, sondern der, der es auslöst.
+
+**Azzims Tod:** Tibun weiß aus der Sandmulde, dass die Kugelgrenze **schneidet** ([C-098](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt)). Azzim wirft ihn in den Ring und würgt ihn am Boden — damit steht Tibun **unfreiwillig** in der Kugel. Er erreicht mit letzter Kraft die Kette ([C-099](#c-099-der-isolierte-konduktor--ladungsspeicher-ohne-anachronismus)) und tritt Azzim im selben Griff von sich weg. Azzim taumelt zum Rand und wird zerteilt. **Notwehr, kein Plan** — das war die Bedingung, unter der der Ton („hell im Ausgang", Leser ab 16) es trägt.
+
+**Nachgezogen:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#finale-jahr-10--zwei-zündungen-ein-durchgehender-zug), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md#zusammenführung--entschieden-31082026).
+**Neu daraus:** [C-098](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt), [C-099](#c-099-der-isolierte-konduktor--ladungsspeicher-ohne-anachronismus), [C-100](#c-100-die-werkstatt-an-der-tabustelle), [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet), [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft), [C-109](#c-109-ladezeit-des-konduktors--die-uhr-im-finale).
 
 ### C-063: Prolog — Szene auf Autorenfassung zurückgerollt
 [Die-Entdeckung.md](../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md) steht wieder auf der **Originalfassung des Autors** („ver 2.2", Stand vor der Wiki-Überarbeitung). Die im Wiki getroffenen Prolog-Entscheidungen sind darin **nicht enthalten** — der Wortlaut bleibt bewusst der des Autors, die Kanon-Anpassungen müssen aber noch von Hand eingearbeitet werden.
@@ -528,12 +591,12 @@ Offen ist alles: **Wer** entführt sie, **warum**, **wie lange**, und **wie** ko
 
 **Gegenargument:** Girlins Strang trägt schon viel (Ankunft, Sprachbarriere, Bellbrim, Beziehung, Ringsuche, Kampf). Ein zusätzlicher Entführungsbogen kann ihn überladen — und die Rettung durch die Nomaden bindet sie erneut an das Volk, das sie ohnehin schon aufgenommen hat. Die Wiederholung müsste einen eigenen Zweck haben.
 
-Berührt [C-060](#c-060-girlin-und-der-neffe): In Plot 1 steht die Entführung **direkt neben** dem Durchbrennen der Häuptlingsfrau — beide Beats laufen gleichzeitig. Nichts entschieden.
+Berührt [C-060](#c-060-girlin-und-der-neffe-): In Plot 1 steht die Entführung **direkt neben** dem Durchbrennen der Häuptlingsfrau — beide Beats laufen gleichzeitig. Nichts entschieden.
 
 ### C-081: Girlins drittes Kind in der Wüste
 Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 8): *„Sie bekommt ein weiteres Kind."* — es ist ihr **drittes** (nach Tibun und Truda). Fehlt in [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und dem gesamten Wiki. **Von allen Fundstücken der schwerste Punkt.**
 
-[Girlin](../Menschen/Nordvolk/Girlin.md) ist **zehn Jahre** in der Wüste (Jahr 0 → +10, [C-023 ✓](#c-023-zeitleiste--altersgerüst-)), von 34 bis 44. Ein Kind in dieser Zeit ist biologisch selbstverständlich und folgt zwingend aus der Beziehung, die die Skizze ohnehin ansetzt ([C-060](#c-060-girlin-und-der-neffe)). Die Frage ist nicht, ob es plausibel ist, sondern **was es mit dem Finale macht**.
+[Girlin](../Menschen/Nordvolk/Girlin.md) ist **zehn Jahre** in der Wüste (Jahr 0 → +10, [C-023 ✓](#c-023-zeitleiste--altersgerüst-)), von 34 bis 44. Ein Kind in dieser Zeit ist biologisch selbstverständlich und folgt zwingend aus der Beziehung, die die Skizze ohnehin ansetzt ([C-060](#c-060-girlin-und-der-neffe-)). Die Frage ist nicht, ob es plausibel ist, sondern **was es mit dem Finale macht**.
 
 **Es verändert ihre Rückkehr vollständig.** Bisher lautet ihr Ziel schlicht „nach Hause". Mit einem Kind in der Wüste hat sie **zwei** Familien und kann nur eine haben:
 - **Kind bleibt:** Sie tut ihrem Wüstenkind an, was ihr angetan wurde — sie verschwindet. Das ist bitter und stark.
@@ -549,22 +612,34 @@ Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 8): *„Sie bekommt ein weiteres
 | **Das Kind ist im Finale sechs** | Der eigentliche Gewinn. Es spricht, hat einen eigenen Willen, kann seine Mutter rufen. Ein Säugling wäre ein Gegenstand, den man mitnimmt oder nicht — ein Sechsjähriger ist eine Person, die zusieht. |
 | **Es ist ein Wüstenkind** | Dort geboren, spricht diese Sprache, hat nie Schnee gesehen. Das macht „mitnehmen oder zurücklassen" erst scharf. |
 
-Daraus folgt: Die Beziehung ([C-060](#c-060-girlin-und-der-neffe)) beginnt spätestens in **Jahr +3**.
+Daraus folgt: Die Beziehung ([C-060](#c-060-girlin-und-der-neffe-)) beginnt spätestens in **Jahr +3**.
 
-**Weitere offene Punkte:** **Vater** (Häuptling oder Neffe), und ob [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) und Tibun davon je erfahren. · **???**
+**Vater entschieden (Autor, 31.08.2026): der Neffe des Häuptlings** → [C-060 ✓](#c-060-girlin-und-der-neffe-).
+
+**Folge aus dem beschlossenen Finale:** Girlin **bleibt** in der Wüste ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)) — die Wahl „Kind bleibt / Kind kommt mit / sie bleibt" ist damit zugunsten der dritten Möglichkeit entschieden, und zwar **bevor** Tibun ankommt. Der Rückkehr-Antrieb bricht dadurch nicht, weil er sich verlagert: nicht sie geht heim, sondern [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) soll geholt werden.
+
+**Weiterhin offen:** Name und Geschlecht des Kindes, und ob Truda je davon erfährt. Wo das Kind während des Finales ist → [C-112](#c-112-das-wüstenkind-während-des-finales) · **???**
 
 Berührt zudem den Ring: Es reist, wer **vollständig innerhalb** der Kugel steht ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)) — ein Kind auf dem Arm reist mit, ein Kind daneben nicht. Die Mechanik zwingt zu einer Entscheidung in **einem Augenblick**, ohne Rückweg. Das ist erzählerisch enorm brauchbar.
 
 **Nichts festgelegt** — das ist eine der größten offenen Weichen des Gesamtwerks.
 
-### C-082: Girlins Entscheidung zur Rückreise
+### C-082: Girlins Entscheidung zur Rückreise ✓
 Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 11): *„Nach langem Zögern und Zaudern entschließt sie sich doch die Rückreise durch den Ring zu wagen."* Fehlt in der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md) — dort endet Girlins Strang mit Basar, Flucht in die Schlucht und Kampf (Girlin 13–15).
 
 Das ist eine **dramaturgische Lücke, kein bloßer fehlender Beat.** In der Skizze wird Girlin am Ende von Ereignissen getrieben: Azzim greift an, sie flieht, es kommt zum Kampf, und die Zusammenführung passiert. In Plot 1 **entscheidet** sie sich. Nach zehn Jahren, in denen sie ausschließlich heimwill, ist das Zögern der eigentliche Charakterbeweis — sie hat sich in der Wüste ein Leben aufgebaut, und der Ring nimmt es ihr wieder weg.
 
 Hängt unmittelbar an [C-081](#c-081-girlins-drittes-kind-in-der-wüste): **Ohne** das Wüstenkind ist das Zögern schwach begründbar (warum sollte sie zaudern?). **Mit** Kind ist es zwingend. Die beiden Beats stützen einander — das spricht dafür, dass sie in Plot 1 zusammengehörten.
 
-Zu klären: Kommt der Entschluss **vor** dem Kampf (dann ist Azzims Angriff die Störung eines gefassten Plans) oder **danach** (dann treibt die Not sie)? Ersteres gibt ihr Handlungsmacht, Letzteres ist einfacher zu verketten. Nichts entschieden.
+**Entschieden (Autor, 31.08.2026): Sie reist gar nicht — sie hat sich entschieden zu BLEIBEN.**
+
+Die Frage war falsch gestellt. Nach zehn Jahren gibt Girlin die Rückkehr auf: Sie wählt das Wüstenkind und den Mann und begräbt Tibun und Truda in sich. **Der Entschluss fällt vor dem Kampf**, also bevor Tibun ankommt.
+
+**Warum das die stärkere Fassung ist:** Sie hat den Preis **bereits bezahlt**, als ihr Sohn durch den Ring fällt. Damit ist das Wiedersehen eine **Gnade, die sie nicht mehr erwartet hat**, statt einer Belohnung für Ausdauer — und der Ring nimmt ihr nicht im letzten Moment die schwerste Wahl ihres Lebens ab. Der umgekehrte Weg (sie entscheidet sich zu reisen, dann kommt Tibun) hätte ihren Verzicht durch das Timing entwertet.
+
+**Was an die Stelle der Reise tritt, ist ein Vorhaben — kein Ereignis.** Sie will ihrer Familie ein Zeichen schicken, dass sie lebt. **Dazu kommt es nie:** Der Angriff und die beiden Zündungen überholen sie ([C-101](#c-101-girlins-nachricht--vorhaben-ohne-ausführung)). Die Nachricht bleibt ihr letzter Antrieb, nicht ihre letzte Tat.
+
+**Nachgezogen:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md). Siehe auch [C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-) (Finalablauf) und [C-110](#c-110-der-schlusssatz--wissen-die-figuren-was-er-kostet) (Schlusssatz).
 
 ### C-083: Zitate als Kapitel-Motti
 Idee des Autors: Kapitel jeweils mit einem Zitat eröffnen. Sammlung in [Zitate.md](Zitate.md). Noch nicht entschieden, ob überhaupt.
@@ -598,7 +673,7 @@ Eine Regel, zwei Bauformen — flach liegend: **Mulde 0,75 m tief**; vertikal: *
 
 **Neu offen — die Mulde wandert.** Sie liegt *innerhalb* der Tauschkugel und wird deshalb **mitgetauscht**. Hat nur eine Seite eine Mulde, wird sie beim ersten Tausch mit dem Erdreich der Gegenseite **verfüllt**, während drüben eine entsteht. **Asymmetrische Anlagen zerstören sich selbst.** Beide Seiten müssen gleich gebaut sein — was voraussetzt, dass man die Gegenseite **kennt**.
 
-Für die Erbauer selbstverständlich. Für [Tibun](../Menschen/Nordvolk/Tibun.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md) unmöglich: Keiner von beiden kennt das andere Ende. Wer von ihnen gräbt, macht die eigene Anlage beim ersten Auslösen zunichte und beschädigt die fremde. **Zu klären, wie das Finale damit umgeht** — es ist ein Problem, das aus der Mechanik fällt statt hineingeschrieben zu werden, und berührt [C-062](#c-062-assims-ankunft-vor-tibuns-zündung) (wer zündet, wer reist).
+Für die Erbauer selbstverständlich. Für [Tibun](../Menschen/Nordvolk/Tibun.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md) unmöglich: Keiner von beiden kennt das andere Ende. Wer von ihnen gräbt, macht die eigene Anlage beim ersten Auslösen zunichte und beschädigt die fremde. **Zu klären, wie das Finale damit umgeht** — es ist ein Problem, das aus der Mechanik fällt statt hineingeschrieben zu werden, und berührt [C-062](#c-062-azzims-ankunft-vor-tibuns-zündung-) (wer zündet, wer reist).
 
 **Kleiner Restpunkt:** [Girlins](../Menschen/Nordvolk/Girlin.md) Körpergröße ist nirgends festgelegt. Für den Sturz irrelevant, für spätere Szenen im Ring nicht.
 
@@ -609,7 +684,7 @@ Das Projekt heißt **Annular** — das ist der Name des **Universums** ([Plots/R
 
 **Was der Titel tragen muss:** die Zweisträngigkeit (Norden/Wüste), die zehn Jahre Trennung, und dass beide **unabhängig voneinander dasselbe erfinden**. Was er *nicht* tragen sollte: den Ring — der gehört auf die Universumsebene und ist in „Annular" bereits vergeben.
 
-**Vorsicht, verfrüht:** Der thematische Schwerpunkt ist noch nicht fest. [C-081](#c-081-girlins-drittes-kind-in-der-wüste) (drittes Kind) und [C-082](#c-082-girlins-entscheidung-zur-rückreise) (Entschluss zur Rückreise) können die Geschichte von „Trennung und Wiederfinden" zu „Frau zwischen zwei Familien" verschieben — das wären zwei verschiedene Titel. Ein Arbeitstitel genügt vorerst.
+**Vorsicht, verfrüht:** Der thematische Schwerpunkt ist noch nicht fest. [C-081](#c-081-girlins-drittes-kind-in-der-wüste) (drittes Kind) und [C-082](#c-082-girlins-entscheidung-zur-rückreise-) (Entschluss zur Rückreise) können die Geschichte von „Trennung und Wiederfinden" zu „Frau zwischen zwei Familien" verschieben — das wären zwei verschiedene Titel. Ein Arbeitstitel genügt vorerst.
 
 **???**
 
@@ -986,7 +1061,7 @@ Der Ort wird **nicht abgesperrt und nicht bewacht** — er wird gemieden. Die Wa
 **Was das erzählerisch löst:**
 - Tibun kann zehn Winter lang unbehelligt an einem Ring arbeiten, der im Dorfgebiet liegt — **weil sonst niemand hingeht**. Kein Zaun, keine Wache, nur Angst.
 - Umgekehrt ist jeder seiner Gänge dorthin ein **Tabubruch**. Er tut nicht Verbotenes, er tut Undenkbares.
-- Und die Rechtsgrundlage für Semunds Wiederheirat ist mitgeliefert → [C-095](#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten).
+- Und die Rechtsgrundlage für Semunds Wiederheirat ist mitgeliefert → [C-095](#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-).
 
 **Neu offen daraus:**
 - Wenn Tibun das Tabu **jahrelang bricht und nichts passiert** — bröckelt die Angst der anderen dann? Wer bemerkt es zuerst? · **???**
@@ -1022,7 +1097,7 @@ Semunds schnelle Neubindung an [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia
 
 **Die eigentliche Kränkung: niemand tut etwas Böses.** Der Webstuhl klappert weiter, nur mit anderen Händen. Für Tibun und Truda ist das die tägliche Bestätigung, dass die Mutter ersetzt wurde — und es gibt kein Unrecht, das man benennen könnte.
 
-**Ausdrücklich gestrichen (Autor):** die Frage, was rechtlich gilt, wenn eine für tot Erklärte nach zehn Wintern zurückkommt. Ein äußerst seltener Randfall — er wird nicht als Rechtsfrage behandelt. Was im Finale daraus wird, entscheidet die Erzählung, nicht das Recht → [C-082](#c-082-girlins-entscheidung-zur-rückreise).
+**Ausdrücklich gestrichen (Autor):** die Frage, was rechtlich gilt, wenn eine für tot Erklärte nach zehn Wintern zurückkommt. Ein äußerst seltener Randfall — er wird nicht als Rechtsfrage behandelt. Was im Finale daraus wird, entscheidet die Erzählung, nicht das Recht → [C-082](#c-082-girlins-entscheidung-zur-rückreise-).
 
 ### C-096: Korrektur — Girlins Alter ✓
 **Befund (31.08.2026):** Das Altersgerüst ([C-023 ✓](#c-023-zeitleiste--altersgerüst-)) setzte Girlin beim Verschwinden auf **30**. Bei [Tibun](../Menschen/Nordvolk/Tibun.md) **16** hieße das: Sie war bei seiner Geburt **14**.
@@ -1042,7 +1117,7 @@ Bei [Trudas](../Menschen/Nordvolk/Nebenfiguren/Truda.md) Geburt war sie **25**. 
 **Folge, die zu prüfen bleibt:** Girlins drittes Kind fiele damit in ihre **späten Dreißiger**. Biologisch unproblematisch, im 6. Jahrhundert aber ein deutlich höheres Risiko — was [C-081](#c-081-girlins-drittes-kind-in-der-wüste) eher stärkt als schwächt.
 
 ### C-097: Girlins Kinderfolge — die neun Jahre Lücke ✓
-Aus dem korrigierten Altersgerüst ([C-096 ✓](#c-096-korrektur-girlins-alter-)) fiel eine Lücke, die vorher niemandem auffiel: [Tibun](../Menschen/Nordvolk/Tibun.md) geboren bei [Girlin](../Menschen/Nordvolk/Girlin.md) **18**, [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) bei **25**, Verschwinden mit **34**. Sieben Jahre zwischen den Kindern, danach neun Jahre ohne ein weiteres — bei einer verheirateten Frau in einer Gesellschaft ohne Verhütung. Ohne Erklärung eine stille Abweichung vom Authentizitätsprinzip.
+Aus dem korrigierten Altersgerüst ([C-096 ✓](#c-096-korrektur--girlins-alter-)) fiel eine Lücke, die vorher niemandem auffiel: [Tibun](../Menschen/Nordvolk/Tibun.md) geboren bei [Girlin](../Menschen/Nordvolk/Girlin.md) **18**, [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) bei **25**, Verschwinden mit **34**. Sieben Jahre zwischen den Kindern, danach neun Jahre ohne ein weiteres — bei einer verheirateten Frau in einer Gesellschaft ohne Verhütung. Ohne Erklärung eine stille Abweichung vom Authentizitätsprinzip.
 
 **Entschieden (Autor, 31.08.2026): Es gab drei weitere Kinder. Keines hat überlebt.**
 
@@ -1056,9 +1131,165 @@ Damit sind es fünf Schwangerschaften in sechzehn Ehejahren bei zwei überlebend
 
 #### Was das trägt
 
-- **Semunds Haus ist schon vor dem Ring ein Haus des Verlusts.** Als Girlin verschwindet, hat die Familie gerade erst ein Kind begraben. Das erklärt Sprachlosigkeit und Erschöpfung im Umgang mit dem Unerklärlichen — und macht [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) schnelle Wiederheirat ([C-095](#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten)) lesbar: Er hat nicht ersetzt, er hat aufgehört zu verlieren.
+- **Semunds Haus ist schon vor dem Ring ein Haus des Verlusts.** Als Girlin verschwindet, hat die Familie gerade erst ein Kind begraben. Das erklärt Sprachlosigkeit und Erschöpfung im Umgang mit dem Unerklärlichen — und macht [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) schnelle Wiederheirat ([C-095](#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-)) lesbar: Er hat nicht ersetzt, er hat aufgehört zu verlieren.
 - **Es verstärkt Girlins Motiv, ohne es zu erklären.** Sie hat Kinder verloren, die sie nicht zurückholen konnte. Tibun und Truda **kann** sie zurückholen — das ist der Unterschied, an dem sich ihr Wille festhält ([C-025](#c-025-girlin--charakter--fähigkeiten)).
 - **Truda war alt genug, um sich zu erinnern** (7 oder 8), Tibun ebenfalls (14 oder 15, also um die Zeit des [Prologs](../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md)).
 
 **Offen:** ob und wie es im Erzähltext sichtbar wird — ein Grab, ein Satz, ein Name, den niemand ausspricht. Der Autor hält sich die Möglichkeit offen. · **???**
 
+### C-098: Woher Tibun die Schnittwirkung der Kugelgrenze kennt
+Im Finale nutzt [Tibun](../Menschen/Nordvolk/Tibun.md) gezielt, dass die Kugelgrenze **schneidet** ([C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)). Er hat den Ring aber nie zuvor gezündet — **woher weiß er das?**
+
+Herleitbar ist es: Die Sandmulde an der Skir liegt zehn Winter offen vor ihm ([C-094 ✓](#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-)). Glatt durchtrennte Wurzeln, halbierte Steine, eine Schnittfläche wie mit dem Messer. Das ist beobachtbar, nicht spekulativ.
+
+**Aber es muss vorher im Text stehen.** Ohne diesen Beleg wirkt die Falle im Finale wie Autorenwille statt wie Figurenwissen. Setup vor Payoff. Zu klären: **wo** im Aufbau er es bemerkt, und ob er es je ausspricht · **???**
+
+Erklärt zugleich, warum er seine Anlage **außerhalb** des Kugelvolumens baut → [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet).
+
+### C-099: Der isolierte Konduktor — Ladungsspeicher ohne Anachronismus
+**Entschieden (Autor, 31.08.2026):** Das **Bernsteinrad** lädt auf, gezündet wird über eine **Kette**, die aus dem Dachstuhl der Werkstatt herabfällt und Speicher und Ring verbindet. Punktuell, gezielt, augenblicklich.
+
+**Was der Bau dafür braucht — und was er nicht sein darf:**
+- Die Ladung muss zwischen Erzeugung und Zündung **irgendwo sitzen**. Ein **isolierter Konduktor** — ein Metallkörper auf Harz, Wachs oder knochentrockenem Holz — hält sie. Das ist epochengerecht: nur ein Leiter, der Ladung trägt.
+- Eine **Leidener Flasche** (echter Kondensator, 1745) wäre 1200 Jahre zu früh und **verboten**.
+- Die Kette hängt im Dachstuhl der Werkstatt ([C-100](#c-100-die-werkstatt-an-der-tabustelle)) und schließt den Weg vom Konduktor zum Ring. Fallhöhe rund zwei Meter, also gut ein halber Herzschlag Fallzeit — **genau ein Taumelschritt**. Die Physik erledigt das Timing des Finales, ohne dass es erklärt werden muss.
+
+**Der eigentliche Gewinn:** Damit ist erklärbar, warum Tibun **zehn Jahre** braucht. Das Problem war nie „genug Ladung erzeugen", sondern **sammeln und schlagartig freigeben**. Und seine Zündung wird technisch **derselbe Vorgang wie Girlins Blitz**, nur gewollt.
+
+**Offen:** Material und Größe des Konduktors, Isolierung gegen jütische Feuchtigkeit (das härteste praktische Problem — Nordjütland ist nass, Reibungselektrizität mag das nicht), Auslösemechanismus im Dachstuhl · **???**
+Betrifft [C-002](#c-002-tibuns-elektrizitätsquelle) und [C-020](#c-020-vorwarnung-vor-dem-flip).
+
+### C-100: Die Werkstatt an der Tabustelle
+**Entschieden (Autor, 31.08.2026): Tibun baut eine überdachte Werkstatt über dem Ring** — kein verstecktes Gerüst. Der Vorschlag lautete umgekehrt (Balkengerüst, um das Tabu zu umgehen); der Autor hat das abgelehnt, **weil der Konflikt der Punkt ist**.
+
+Ein Dach an der Stelle, die die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) zum Tabu erklärt hat ([C-094 ✓](#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-)), ist keine heimliche Arbeit mehr, sondern eine **öffentliche Ansage**. Damit hat der Nordstrang in den Jahren +9 bis +10 endlich einen eigenen Konflikt, statt nur auf das Finale zu warten — und der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) bekommt eine Antwort auf seine Frage *„Wer will den Ring außer Tibun?"*.
+
+**Zu klären · ???**
+- **Womit baut er?** Bauholz, Arbeitskraft und Werkzeug sind in dieser Epoche teuer. Wovon bezahlt er das nach acht Jahren Wanderschaft? Berührt [C-034](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft).
+- **Duldet oder verbietet das Dorf es?** Ein Tabubruch dieser Größe verlangt eine Reaktion — Warnung, Boykott, Gewalt, Anrufung des Things.
+- **Was tut die Wala?** Sie ist wandernd, also nicht ständig da. Kommt sie zurück? Ihr Urteil hat den Sand zum Zeichen der Götter erklärt — Tibun stellt ein Dach darüber.
+- **Wie steht [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) dazu**, und wie [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) → [C-077](#c-077-tibun-und-truda-nach-girlins-verschwinden)?
+- **Was rettet ihn davor, vertrieben zu werden?** Ohne Antwort steht die Werkstatt nicht zehn Monate, geschweige denn bis zum Finale.
+
+Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor--ladungsspeicher-ohne-anachronismus) und hält den Konduktor trocken — was in Nordjütland das größte praktische Problem der ganzen Anlage ist. Der Bau löst also ein technisches Problem und schafft ein gesellschaftliches.
+
+### C-101: Girlins Nachricht — Vorhaben ohne Ausführung
+**Entschieden (Autor, 31.08.2026):** [Girlin](../Menschen/Nordvolk/Girlin.md) bleibt in der Wüste ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)). Was ihr bleibt, ist der Wunsch, **ein Zeichen durch den Ring zu schicken**, damit ihre Familie weiß, dass sie lebt.
+
+**Sie kommt nie dazu.** Der Angriff auf die Schlucht und die beiden Zündungen überholen sie. Die Nachricht ist ihr **Antrieb in den letzten Monaten, keine Handlung im Finale** — es geht nichts hinüber.
+
+> Ausdrücklich festgehalten, weil hier zunächst das Gegenteil ins Wiki geschrieben wurde: Es gibt **keine** angekommene Nachricht im Norden, und der Leser erfährt **nicht**, dass sie ankommt. Das war eine Erfindung beim Mitschreiben, keine Autorenentscheidung.
+
+**Warum das die härtere Fassung ist:** Sie hat aufgegeben heimzukehren und will nur noch, dass ihre Kinder es *wissen*. Selbst das gelingt ihr nicht. Was sie stattdessen bekommt, ist ihr Sohn — nicht das, was sie geplant hat, sondern mehr.
+
+**Offen · ???**
+- **Was hätte sie hineingelegt?** Sie kann vermutlich nicht schreiben; es müsste ein Gegenstand sein, den nur ihre Leute deuten. Weben ist ihr Handwerk ([C-025](#c-025-girlin--charakter--fähigkeiten)). Wenn das Vorhaben sichtbar werden soll, muss der Gegenstand **existieren** und im Text auftauchen, bevor es zu spät ist.
+- **Wie weit ist sie gekommen?** Hat sie das Zeichen schon gefertigt und liegt es griffbereit — oder ist es nur ein Gedanke? Das entscheidet, ob der Leser die verpasste Möglichkeit **sieht** oder nur davon hört.
+- **Für wen?** Tibun, [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md)?
+
+### C-102: Was bei Zündung 1 aus dem Norden verschwindet
+Der Tausch ist symmetrisch. Bei **Zündung 1** ([C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)) kommt Azzim nach Jütland — **gleichzeitig geht eine Halbkugel Norden in die Wüste**, ohne jede Vorwarnung für Tibun.
+
+**Entschieden:** In der Gegenrichtung reist **kein Mensch** — nur Sand und Gerät.
+
+**Zu prüfen, sonst bricht das Finale:** Steht Tibuns **Anlage** im Kugelvolumen, ist sie nach Zündung 1 weg, und er kann nie zünden. Sauberste Auflösung — sie fällt aus [C-098](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt): **Weil er die Grenze kennt, hat er außerhalb gebaut.** Nur die Kette und die Zuleitung reichen hinein.
+
+**Und was geht dann tatsächlich über?** Der Ring liegt am **Bach**. Bei jeder Zündung wandern rund **14 m³ jütisches Bachwasser und Erdreich** in die Wüste — Torf, Heidekraut, kaltes Wasser. Das ist keine Wahl, sondern Mechanik, und es passiert **zweimal**. Konsequenzen → [C-104](#c-104-wasser-als-gegenleistung--das-motiv-des-transports).
+
+**Offen:** Was genau Tibun in dem Moment sieht und begreift. Für ihn ist Azzims Ankunft nach zehn Jahren der **erste Beweis**, dass am anderen Ende Menschen leben · **???**
+
+### C-103: Transportlogistik des Wüstenrings
+Folgt aus [C-018 ✓](#c-018-widerspruch--transport-des-wüstenrings-). Acht Tonnen sollen über Jahre durch die Sahara bewegt werden. Die Physik ist das kleinere Problem, die **Verpflegung** das größere.
+
+**Zu klären · ???**
+- **Entfernung** vom Fundort zur Schlucht. Bei 1–3 km am Tag und Jahr +5 bis +8 als Rahmen sind einige Dutzend bis wenige hundert Kilometer plausibel — mehr nicht.
+- **Wie viele Männer, wie viele Zugtiere**, und wer ernährt sie?
+- **Woher das Wasser** für die befeuchtete Piste kommt. In der Wüste ist Wasser für eine Gleitbahn ein absurder Luxus — außer der Ring liefert es selbst ([C-104](#c-104-wasser-als-gegenleistung--das-motiv-des-transports)). Dann beißt sich die Katze allerdings in den Schwanz, denn zünden können sie erst nach Bellbrims Arbeit. **Reihenfolge prüfen.**
+- **Wer trägt die Kosten** und was verlangt er dafür?
+
+### C-104: Wasser als Gegenleistung — das Motiv des Transports
+Kein Clan schleppt ein Weltwunder durch die Wüste, weil eine Fremde heim will. **Das Motiv muss den [Kel Aman](../Menschen/Wuestenvolk/Kel-Aman.md) gehören, nicht Girlin.**
+
+Es liegt in der Mechanik bereit: Der Skir-Ring liegt am Bach, jede Zündung schiebt rund **14 m³ Süßwasser** in die Wüste ([C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet)). Sobald [Bellbrim](../Menschen/Andere/Bellbrim.md) das begreift, ist der Ring keine Kuriosität mehr, sondern eine **Quelle** — das Wertvollste, was in einer Wüste überhaupt denkbar ist. Dafür bewegt man acht Tonnen.
+
+**Das liefert zugleich [Azzim](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) endlich ein nachvollziehbares Motiv** → [C-107](#c-107-azzims-motiv--wasser-statt-sklaverei). Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) nennt den Wassertausch die *größte ungenutzte Konsequenz der eigenen Mechanik*; hier wird sie zum Träger des halben Wüstenstrangs.
+
+**Offen:** Wann und wie erfahren die Kel Aman davon, **bevor** je gezündet wurde? Bellbrim kann es nur **behaupten** — also braucht der Transport entweder einen Vertrauensvorschuss oder einen ersten Beweis · **???**
+
+### C-105: Der Neffe — Name, Eigenschaften, Schweigebitte
+Der Partner Girlins steht fest ([C-060 ✓](#c-060-girlin-und-der-neffe-)), die Figur nicht. Es gibt weder Namen noch Alter noch Stellung im Clan.
+
+**Was er tragen muss:**
+- Er **bittet den Häuptling zu schweigen** ([C-061](#c-061-navigationswissen-des-häuptlings)) — die Handlung, die ihn vom Beziehungsplatzhalter zur Figur macht.
+- Seine **Frau ist zuvor durchgebrannt** ([C-106](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman)) — seine Demütigung ist der Grund, warum er und Girlin zueinanderfinden.
+- Er ist **Vater von Girlins drittem Kind** ([C-081](#c-081-girlins-drittes-kind-in-der-wüste)).
+- Im Finale bleibt Girlin **bei ihm** ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)) — er muss also stark genug sein, dass diese Entscheidung einleuchtet.
+
+**Offen:** Name nach dem Kel-Aman-Muster ([C-090 ✓](#c-090-kel-aman--eigenname-und-namenssystem-)), Alter, Gewerbe, und **wie Girlin auf den Verrat reagiert**, wenn das Schweigen herauskommt · **???**
+
+### C-106: Durchgebrannte Ehefrau bei den Kel Aman
+Aus [C-060 ✓](#c-060-girlin-und-der-neffe-): Die Frau des Neffen verlässt ihn für einen anderen Mann. Der Beat trägt zwei Figuren — aber die **Kultur dahinter fehlt vollständig**.
+
+**Zu klären · ???**
+- Gibt es bei den Kel Aman **Scheidung**, und kann eine Frau sie betreiben?
+- Ist Weggehen ein **Rechtsbruch, eine Ehrsache oder eine Selbstverständlichkeit**? Bei berbersprachigen Gruppen der Region hatten Frauen historisch teils erhebliche Freiheiten — das ist verwertbar, aber es muss entschieden sein.
+- Was bedeutet es für den **Mann** und was für die **Sippe des Liebhabers**? Folgt Gewalt?
+- Und was heißt das für **Girlin**, die als Fremde ohne Sippe an seine Seite tritt? Was ist sie dort rechtlich?
+
+Gehört zur Schicht „Ordnung" des [Weltenbau-Leitfadens](Weltenbau-Leitfaden.md) und zu [C-003](#c-003-kel-aman--kulturelle-tiefe).
+
+### C-107: Azzims Motiv — Wasser statt Sklaverei
+Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) hält [Azzim](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) für einen *rein einseitigen Gegenspieler* und verlangt ein Motiv, das man versteht. Mit [C-104](#c-104-wasser-als-gegenleistung--das-motiv-des-transports) liegt es auf dem Tisch: **Wasser.**
+
+Ein Mann, der einen Ring beansprucht, der Wasser in die Wüste schiebt, ist kein Bösewicht, sondern jemand mit dem einzig vernünftigen Interesse weit und breit. Er kann dabei die Interessen seiner eigenen Leute vertreten und trotzdem Girlins Gegner sein. Das ist der **dritte Konflikt mit zwei verständlichen Seiten**, den die Prüfliste anmahnt.
+
+**Offen:** Ob Sklaverei als Motiv daneben bestehen bleibt oder ersetzt wird; ob Azzim für sich handelt oder für eine Gruppe; ob er den Wassereffekt **selbst gesehen** hat oder nur davon gehört · **???**
+Berührt [C-089](#c-089-azzim--verhältnis-zum-ring-harte-regel) und [C-028](#c-028-azzim-u-tawan--herkunft--hintergrund).
+
+### C-108: Der Kampf in der Schlucht während Tibuns Ankunft
+Zwischen Zündung 1 und Zündung 2 liegen **Minuten** ([C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)). In der Wüste ist der Kampf also **noch nicht vorbei**, wenn Tibun aus dem Nichts in der Schlucht landet — in einer Pfütze jütischen Bachwassers, ohne Waffe, ohne Vorräte, im Hemd.
+
+**Zu klären · ???**
+- **Wie geht der Kampf ohne Azzim weiter?** Sein Verschwinden mitten im Gefecht ist für seine Leute ein Ereignis — brechen sie ab, oder kämpfen sie weiter?
+- **Wie wird Tibun in dieser Lage überhaupt erkannt?** Er spricht kein Wort der Sprache, sieht aus wie ein Nordmann, ist 26 — Girlin hat ihn zuletzt mit 16 gesehen. **Woran erkennt eine Mutter ihren Sohn nach zehn Jahren?** Das ist die wichtigste halbe Seite des Buches.
+- **Was macht das Wasser** mit den Anwesenden → [C-104](#c-104-wasser-als-gegenleistung--das-motiv-des-transports).
+- Kommt Azzims **abgetrennte Hälfte** mit über? Sie stand innerhalb der Grenze. Der Ton verlangt Wirkung statt Ausmalen ([C-086 ✓](#c-086-ton-in-einem-satz-)).
+
+### C-109: Ladezeit des Konduktors — die Uhr im Finale
+Zündung 1 entlädt den Skir-Ring. Tibuns Anlage muss neu aufladen, und **genau so lange dauert der Kampf** ([C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)). Tibun kämpft nicht, bis er gewinnt, sondern bis das Rad genug gedreht hat — und er ist der Einzige, der weiß, wie lange das noch ist.
+
+**Das Problem:** Wie lange ist das? Ein realistisches Bernsteinrad braucht für eine große Ladungsmenge eher **Stunden** als Minuten. Ein Kampf dauert **Minuten**. Beides muss zusammengehen.
+
+**Mögliche Auflösungen · ???**
+- Der Konduktor war vom **Testlauf** her bereits weitgehend geladen und wurde durch Zündung 1 nur **teilweise** entleert.
+- Der Ring braucht keine volle Ladung, sondern eine **Schwelle**, die knapp überschritten wird.
+- Die Anlage lädt **mehrere Speicher parallel**, von denen Zündung 1 nur einen greift.
+
+Hängt an [C-099](#c-099-der-isolierte-konduktor--ladungsspeicher-ohne-anachronismus) und [C-002](#c-002-tibuns-elektrizitätsquelle). **Ohne Antwort trägt die Uhr nicht** — und die Uhr ist die Spannung des gesamten Nordfinales.
+
+### C-110: Der Schlusssatz — wissen die Figuren, was er kostet?
+Das Buch endet mit: *„Was machen wir jetzt?" — „Jetzt holen wir deine Schwester…"* ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)).
+
+**Das Problem steckt in der eigenen Mechanik.** Der Ring **tauscht** — man kann niemanden rufen, der nicht schon dort steht. [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) müsste im Augenblick der Zündung im Nordring stehen, und es gibt keinen Boten, keine Nachricht, keine Verabredung über viertausend Kilometer. Ein aufmerksamer Leser weiß das nach vierhundert Seiten.
+
+**Damit ist der Satz eines von beidem:**
+- **leichthin gesagt** → er liest sich naiv, und die Mechanik straft ihn ab;
+- **im vollen Bewusstsein gesagt** → er ist Trotz gegen ein Unmögliches und der beste Satz des Buchs.
+
+Der Unterschied steckt in **einer halben Zeile davor**, nicht in der Handlung · **???**
+
+### C-111: Wiederaufstellung des Rings nach dem Transport
+Aus [C-018 ✓](#c-018-widerspruch--transport-des-wüstenrings-): Der Wüstenring wird versetzt. Damit stellen sich Fragen, die für den Skir-Ring nie auftauchten, weil der liegen blieb, wo er lag.
+
+**Zu klären · ???**
+- **Wie steht der Ring am neuen Ort?** Aufgerichtet, eingegraben, auf einem Fundament? Betrifft [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe).
+- **Wo entsteht die Tauschkugel?** Sie liegt relativ zum Ring fest — an einem neuen Standort schneidet sie also neues Erdreich, und die **Mulde entsteht von vorn**.
+- **Beschädigt das Versetzen die Kopplung?** Nach [C-010 ✓](#c-010-ringsystem--kopplungsmechanik-) ist das Paar fest verbunden; ob die Verbindung ortsgebunden ist, ist nirgends entschieden. **Wenn ja, bricht der Transport das Finale.** Diese Frage muss vor allem anderen beantwortet werden.
+- Der [C-018-Ausgangstext](#c-018-widerspruch--transport-des-wüstenrings-) merkt an: *Wer gräbt, macht die eigene Anlage beim ersten Auslösen zunichte.* Gilt das auch für ein Fundament?
+
+### C-112: Das Wüstenkind während des Finales
+Girlins drittes Kind ist im Finale **sechs** ([C-081](#c-081-girlins-drittes-kind-in-der-wüste)) — alt genug, um zu sprechen, zu laufen und zuzusehen. Während des Angriffs auf die Schlucht und zweier Zündungen ist es irgendwo.
+
+**Das ist keine Nebenfrage.** Es reist, wer vollständig in der Kugel steht ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)). Ein sechsjähriges Kind in der Nähe eines zündenden Rings ist eine Katastrophe, die jederzeit passieren kann — und Girlin weiß das besser als jeder andere Mensch auf der Welt.
+
+**Zu klären · ???** Wo ist es, wer hat es, und **sieht es**, wie ein fremder Mann aus dem Nichts erscheint und seine Mutter umarmt? Der Ton verlangt hier Zurückhaltung ([C-086 ✓](#c-086-ton-in-einem-satz-)), nicht Grausamkeit.
