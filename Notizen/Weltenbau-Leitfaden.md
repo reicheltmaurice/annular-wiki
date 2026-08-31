@@ -279,4 +279,4 @@ in diesem Plan, an der Zurückgezogenheit echten Fortschritt kostet.
 
 | Datum | Std. | Woran gearbeitet |
 |---|---|---|
-| | | |
+| 31.08.2026 | ??? | Schicht 0 abgeschlossen (Ton, C-086). Wüste verortet: Fezzan/Garamanten (C-088), Bellbrim als Vandalin (C-026). Namenssysteme für beide Völker (C-090, C-092), sechs Figuren umbenannt. Sand an der Skir und das Wala-Tabu (C-094). Erbrecht und Wiederheirat (C-095). Girlin: Herkunft, Charakter, Alterskorrektur, Kinderfolge (C-024, C-025, C-096, C-097). **Alle vier A-Entscheidungen getroffen.** |
