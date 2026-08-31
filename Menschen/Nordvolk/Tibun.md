@@ -37,6 +37,16 @@ Tibun wächst in Skirraa auf, einem abgelegenen Weiler im hohen Norden. Die Fami
 
 ---
 
+## Der Webkamm
+
+Nach [Girlins](Girlin.md) Toterklärung erbt [Truda](Nebenfiguren/Truda.md) das Frauengut, [Millia](Nebenfiguren/Millia.md) übernimmt Webstuhl und Herd — **Tibun bekommt nichts**. Er nimmt sich ihren **Webkamm**, der rechtlich der Schwester zusteht, und trägt ihn zehn Winter mit sich. Ein Werkzeug, kein Schmuck; unscheinbar genug, dass niemand ihn vermisst.
+
+> **Regel:** Der Kamm bleibt ein Kamm. Er wird **nie** Teil von Tibuns Erfindung — der Bernstein trägt diese Rolle bereits, und beides in einem Gegenstand wäre zu glatt.
+
+Siehe [C-095](../../Notizen/Offene-Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-).
+
+---
+
 ## Bedeutung in der Geschichte
 
 Tibun ist die zentrale Figur der Handlung und treibt die Entdeckung der Portalringe voran.

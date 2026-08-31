@@ -66,7 +66,7 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 - [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet ([C-097 ✓](Offene-Challenges.md#c-097-girlins-kinderfolge--die-neun-jahre-lücke-)): Girlin und Semund haben **drei Kinder verloren**, das letzte kurz vor ihrem Verschwinden — Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. **Offen:** wer bei der Geburt des Wüstenkindes hilft (Jahr +4), und was bei einer Wunde geschieht.
 
 ### Schicht 3 — Die Ordnung  ← **größte Lücke**
-- [~] **Recht.** Grundlage steht: Die **Wala** erklärt Girlin für tot, damit ist Semund Witwer und darf neu binden ([C-095](Offene-Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten)). Offen bleiben Frist, Beurkundung durch das Thing, Girlins Besitz — und was gilt, wenn eine für tot Erklärte zurückkommt. Das Thing als **Verfahren** fehlt weiter.
+- [~] **Recht.** Der Erbfall Girlin ist vollständig geklärt ([C-095](Offene-Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-)): Die **Wala** erklärt sie für tot, Semund darf nach **einem Winter** neu binden, **Truda** erbt das Kleingut, **Millia** übernimmt Webstuhl und Herd, **Tibun** nimmt sich den Webkamm. Offen bleibt nur, was gilt, wenn eine für tot Erklärte **zurückkommt** — gehört ans Finale. Das Thing als **Verfahren** fehlt weiter.
 - [ ] **Wirtschaft und Preise.** Was ist ein Ballen Wolle wert? Wovon lebt Tibun acht Jahre unterwegs?
 - [ ] **Wie überlebt ein 17-Jähriger allein auf dem Ochsenweg?** Ohne Sippe ist er in dieser Epoche weitgehend schutzlos. Er braucht einen sozialen Mechanismus: Gastrecht, Anschluss an einen Händlerzug, Dienstverhältnis, Gefolgschaft. Ohne den bricht die Wanderschaft die Authentizitätsregel härter als jeder falsche Gegenstand.
 - [ ] **Gewalt.** Wer trägt Waffen, wer darf töten, was kostet ein Totschlag?
@@ -199,7 +199,7 @@ Es sind Entscheidungen, keine Recherchen. Neun Sitzungen genügen:
 | 1 | Challenges nur nach A/B/C sortieren — nicht beantworten |
 | 3–4 | **Wo liegt die Wüste?** Der einzige Punkt, der wirklich Lesen erfordert |
 | ~~1~~ | ~~Der Sand an der Skir~~ — erledigt 31.08.2026 ([C-094](Offene-Challenges.md#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-)) |
-| ~~1~~ | ~~Semunds Wiederheirat~~ — Grundlage steht ([C-095](Offene-Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten)), nur noch Frist und Beurkundung offen |
+| ~~1~~ | ~~Semunds Wiederheirat~~ — Grundlage steht ([C-095](Offene-Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-)), nur noch Frist und Beurkundung offen |
 | ~~2~~ | ~~Girlin: Herkunft und Charakter~~ — erledigt 31.08.2026 ([C-024](Offene-Challenges.md#c-024-girlin--herkunft--vorgeschichte)/[C-025](Offene-Challenges.md#c-025-girlin--charakter--fähigkeiten)) |
 
 Dazu ab sofort ein **fester Termin, wöchentlich, gleicher Tag, gleiche Uhrzeit.**

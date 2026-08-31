@@ -80,7 +80,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-089: Azzim — Verhältnis zum Ring (harte Regel)](#c-089-azzim--verhältnis-zum-ring-harte-regel)
 - [C-092: Namenssystem des Nordvolks](#c-092-namenssystem-des-nordvolks)
 - [C-093: Prolog — Namen nach C-092 nachziehen](#c-093-prolog--namen-nach-c-092-nachziehen)
-- [C-095: Wann gilt eine Verschwundene als tot — und wann darf Semund neu heiraten?](#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -104,6 +103,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-090: Kel Aman — Eigenname und Namenssystem ✓](#c-090-kel-aman--eigenname-und-namenssystem-)
 - [C-091: Krummsäbel und Bewaffnung der Kel Aman ✓](#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)
 - [C-094: Der Sand an der Skir ✓](#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-)
+- [C-095: Verschwundene für tot erklärt — Wiederheirat und Erbe ✓](#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-)
 - [C-096: Korrektur — Girlins Alter ✓](#c-096-korrektur-girlins-alter-)
 - [C-097: Girlins Kinderfolge ✓](#c-097-girlins-kinderfolge--die-neun-jahre-lücke-)
 
@@ -689,23 +689,6 @@ Der Szenenordner wurde bei der Namensumstellung bewusst ausgespart (Autorenanwei
 
 **???**
 
-### C-095: Wann gilt eine Verschwundene als tot — und wann darf Semund neu heiraten?
-Semunds schnelle Neubindung an [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md) ist ein tragender Konflikt zwischen ihm und [Tibun](../Menschen/Nordvolk/Tibun.md) — hing rechtlich aber bisher in der Luft. Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) führt die Frage als eigene A-Entscheidung.
-
-**Grundlage jetzt vorhanden:** Mit [C-094 ✓](#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-) erklärt die [wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) [Girlin](../Menschen/Nordvolk/Girlin.md) **öffentlich für tot**. Das ist kein Gerücht und keine Vermutung, sondern ein Spruch der höchsten religiösen Autorität, die die Region kennt — damit ist Semund **nicht Verlassener, sondern Witwer**, und eine neue Ehe ist regelkonform.
-
-**Der Konflikt wird dadurch schärfer, nicht schwächer.** Semund hat recht: Er darf. Tibun hat recht: Sie lebt. Beide Seiten sind verständlich — genau das, was der [Konflikttest](Weltenbau-Leitfaden.md) verlangt.
-
-**Entschieden (Autor, 31.08.2026):**
-- **Frist: ein Winter.** Semund darf im Jahr nach der Toterklärung neu heiraten, nicht früher. Das ist kurz genug, dass Tibun es als Verrat empfindet, und lang genug, dass es keiner ist.
-- **Der Spruch der Wala genügt.** Keine Beurkundung durch das [Thing](../Orte/Tingsal.md) nötig — die religiöse Autorität entscheidet über Leben und Tod einer Verschwundenen, nicht die rechtliche. Für [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) heißt das: Er hat mit der Sache zunächst nichts zu tun.
-
-**Warum das trägt:** Semund handelt vollständig regelkonform und wartet sogar die Frist ab. Tibun weiß trotzdem, dass seine Mutter lebt. Es gibt keine Schuld auf einer der beiden Seiten — nur zwei Wahrheiten, die einander ausschließen.
-
-**Weiterhin offen:**
-- **Was passiert mit Girlins Besitz** und ihrer Stellung im Haushalt, sobald Millia einzieht? · **???**
-- **Und wenn sie zurückkäme?** Eine für tot Erklärte, die zehn Winter später vor der Tür steht, ist rechtlich niemand — und Semund wäre mit zwei Frauen verheiratet. Das betrifft das Finale unmittelbar → berührt [C-082](#c-082-girlins-entscheidung-zur-rückreise). · **???**
-
 
 ---
 
@@ -931,11 +914,6 @@ Bis dahin war die Wüste ein Ort ohne historischen Anker und damit eine **zweite
 
 **Was daraus folgt:** [C-090](#c-090-kel-aman--eigenname-und-namenssystem-) (Eigenname und Namenssystem), [C-091 ✓](#c-091-krummsäbel-und-bewaffnung-der-kel-aman-) (Bewaffnung), [C-003](#c-003-kel-aman--kulturelle-tiefe) (kulturelle Tiefe auf neuer Grundlage), [C-087](#c-087-zeitrechnung-im-erzähltext) (Girlins Zeitmaß ohne Winter).
 
-### C-091: Krummsäbel und Bewaffnung der Kel Aman ✓
-**Entscheidung (Autor, 31.08.2026): Krummsäbel gestrichen.** Gekrümmte Klingen sind für **550 n.Chr. zu früh** — sie kommen im islamischen Raum erst Jahrhunderte später auf und sind ein reiner Hollywood-Reflex.
-
-**Stattdessen:** gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reitertaktik. Für die Sahara um 550 belegt und unauffällig. Nachgezogen in [Kel-Aman.md](../Menschen/Wuestenvolk/Kel-Aman.md).
-
 ### C-090: Kel Aman — Eigenname und Namenssystem ✓
 Die alten Namen (**„Sahrin", „Sahar", „Sahrinai"**, ebenso **Assim**, **Ishem**, **Imra**) waren vom *arabischen* Wort für Wüste abgeleitet — im [Fezzan](#c-088-verortung-der-wüste-) des 6. Jahrhunderts spricht niemand Arabisch. **Entscheidung (Autor, 31.08.2026): neu ausgearbeitet, keine Ausnahme.** Sprachfamilie ist **libysch-berberisch** (die Sprache der Garamanten, überliefert in libyschen Inschriften, verwandt mit dem heutigen Tamazight).
 
@@ -972,6 +950,11 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 **Kleiner Restpunkt:** ob die Filiation `u-`/`ult-` auch im **Erzähltext** auftaucht oder nur im Wiki steht · **???**
 
 **Nicht Teil dieser Challenge:** „Atem der Erde", „Augen des Geistes", „Kinder des Windes" und die matrilinearen Clan-Mütter sind Begriffe und Bräuche, keine Namen → [C-003](#c-003-kel-aman--kulturelle-tiefe). Die Namen des Nordvolks → [C-092](#c-092-namenssystem-des-nordvolks).
+
+### C-091: Krummsäbel und Bewaffnung der Kel Aman ✓
+**Entscheidung (Autor, 31.08.2026): Krummsäbel gestrichen.** Gekrümmte Klingen sind für **550 n.Chr. zu früh** — sie kommen im islamischen Raum erst Jahrhunderte später auf und sind ein reiner Hollywood-Reflex.
+
+**Stattdessen:** gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reitertaktik. Für die Sahara um 550 belegt und unauffällig. Nachgezogen in [Kel-Aman.md](../Menschen/Wuestenvolk/Kel-Aman.md).
 
 ### C-094: Der Sand an der Skir — was das Dorf sieht und wie es deutet ✓
 Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) hatte hier einen **handfesten Widerspruch im Kernkonflikt** benannt: Nach [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden liegt an der Skir eine Halbkugel Wüstensand — in Jütland, für jeden sichtbar. Trotzdem soll [Tibun](../Menschen/Nordvolk/Tibun.md) „nicht geglaubt" werden.
@@ -1010,6 +993,37 @@ Der Ort wird **nicht abgesperrt und nicht bewacht** — er wird gemieden. Die Wa
 - Was geschieht, wenn er später eine **große Wasseranlage** dort baut ([C-002](#c-002-tibuns-elektrizitätsquelle))? Ein Wasserrad an der Skir ist nicht zu verbergen. Das ist der Punkt, an dem das Dorf reagieren **muss** — und der Kampf um den Ring beginnt, den der Leitfaden bisher vermisst. · **???**
 - Kommt die wandernde Wala im Verlauf der zehn Winter **zurück**? Vom Autor als **nicht vorrangig** eingestuft — wird beim Schreiben entschieden, wenn eine Szene es verlangt. · **???**
 
+### C-095: Wann gilt eine Verschwundene als tot — und wann darf Semund neu heiraten? ✓
+Semunds schnelle Neubindung an [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md) ist ein tragender Konflikt zwischen ihm und [Tibun](../Menschen/Nordvolk/Tibun.md) — hing rechtlich aber bisher in der Luft. Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) führt die Frage als eigene A-Entscheidung.
+
+**Grundlage jetzt vorhanden:** Mit [C-094 ✓](#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-) erklärt die [wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) [Girlin](../Menschen/Nordvolk/Girlin.md) **öffentlich für tot**. Das ist kein Gerücht und keine Vermutung, sondern ein Spruch der höchsten religiösen Autorität, die die Region kennt — damit ist Semund **nicht Verlassener, sondern Witwer**, und eine neue Ehe ist regelkonform.
+
+**Der Konflikt wird dadurch schärfer, nicht schwächer.** Semund hat recht: Er darf. Tibun hat recht: Sie lebt. Beide Seiten sind verständlich — genau das, was der [Konflikttest](Weltenbau-Leitfaden.md) verlangt.
+
+**Entschieden (Autor, 31.08.2026):**
+- **Frist: ein Winter.** Semund darf im Jahr nach der Toterklärung neu heiraten, nicht früher. Das ist kurz genug, dass Tibun es als Verrat empfindet, und lang genug, dass es keiner ist.
+- **Der Spruch der Wala genügt.** Keine Beurkundung durch das [Thing](../Orte/Tingsal.md) nötig — die religiöse Autorität entscheidet über Leben und Tod einer Verschwundenen, nicht die rechtliche. Für [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) heißt das: Er hat mit der Sache zunächst nichts zu tun.
+
+**Warum das trägt:** Semund handelt vollständig regelkonform und wartet sogar die Frist ab. Tibun weiß trotzdem, dass seine Mutter lebt. Es gibt keine Schuld auf einer der beiden Seiten — nur zwei Wahrheiten, die einander ausschließen.
+
+#### Girlins Besitz (entschieden 31.08.2026)
+
+**Rechtlicher Rahmen:** Eine germanische Ehefrau hatte **Eigengut** — Morgengabe, Ausstattung aus der Herkunftssippe, Schmuck, Fibeln, Truhe, Webgerät. Es gehörte ihr, nicht dem Haushalt. Beim Tod fiel es an die Kinder; nur bei kinderloser Ehe zurück an die Herkunftssippe. Innerhalb der Kinder folgte solches Gut überwiegend der **weiblichen Linie**.
+
+| | |
+|---|---|
+| **[Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) erbt das Kleingut** | Schmuck, Fibeln, die Truhe — verwahrt, bis sie heiratet. Sie ist neun, also verwaltet es faktisch das Haus, und damit [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md). |
+| **Millia übernimmt Webstuhl und Herd** | Ein Gewichtswebstuhl ist kein Andenken, sondern das wichtigste Arbeitsgerät im Haus. Ihn zehn Winter ungenutzt stehen zu lassen, kann sich niemand leisten — Sentimentalität ist dieser Epoche fremd. Ein Haus braucht eine Herrin. |
+| **[Tibun](../Menschen/Nordvolk/Tibun.md) erbt nichts** | Er ist der Einzige, der weiß, dass sie lebt — und der Einzige, dem nichts von ihr bleibt. |
+| **Er nimmt sich den Webkamm** | Ein Stück ihres Frauenguts, das rechtlich Truda zusteht. Ein kleiner Diebstahl an der eigenen Schwester, den er zehn Winter mit sich trägt. |
+| **Die Herkunftssippe** | hat keinen Anspruch, weil Kinder da sind — **könnte** ihn aber erheben. Als Konfliktlinie verfügbar, nicht gesetzt. · **???** |
+
+**Warum der Webkamm und nicht ein Bernstein:** Der Bernstein ist im Plot bereits besetzt — er ist der Schlüssel zur [Elektrizität](../Technik/Elektrizitaet.md). Wäre das Erinnerungsstück an die Mutter zugleich das Werkzeug, das sie zurückholt, wird die Geschichte glatt und rutscht in Richtung Deus ex Machina. Der Webkamm ist besser, **weil er nichts kann**: Werkzeug statt Schmuck, Arbeit statt Wert. — **Regel dazu:** Der Kamm bleibt ein Kamm. Horn und Knochen laden sich beim Reiben zwar auf, aber daraus einen stillen Vorgriff auf Tibuns Entdeckung zu machen, wäre derselbe Fehler.
+
+**Die eigentliche Kränkung: niemand tut etwas Böses.** Der Webstuhl klappert weiter, nur mit anderen Händen. Für Tibun und Truda ist das die tägliche Bestätigung, dass die Mutter ersetzt wurde — und es gibt kein Unrecht, das man benennen könnte.
+
+**Ausdrücklich gestrichen (Autor):** die Frage, was rechtlich gilt, wenn eine für tot Erklärte nach zehn Wintern zurückkommt. Ein äußerst seltener Randfall — er wird nicht als Rechtsfrage behandelt. Was im Finale daraus wird, entscheidet die Erzählung, nicht das Recht → [C-082](#c-082-girlins-entscheidung-zur-rückreise).
+
 ### C-096: Korrektur — Girlins Alter ✓
 **Befund (31.08.2026):** Das Altersgerüst ([C-023 ✓](#c-023-zeitleiste--altersgerüst-)) setzte Girlin beim Verschwinden auf **30**. Bei [Tibun](../Menschen/Nordvolk/Tibun.md) **16** hieße das: Sie war bei seiner Geburt **14**.
 
@@ -1047,3 +1061,4 @@ Damit sind es fünf Schwangerschaften in sechzehn Ehejahren bei zwei überlebend
 - **Truda war alt genug, um sich zu erinnern** (7 oder 8), Tibun ebenfalls (14 oder 15, also um die Zeit des [Prologs](../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md)).
 
 **Offen:** ob und wie es im Erzähltext sichtbar wird — ein Grab, ein Satz, ein Name, den niemand ausspricht. Der Autor hält sich die Möglichkeit offen. · **???**
+

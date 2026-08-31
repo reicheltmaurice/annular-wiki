@@ -39,7 +39,7 @@
 
 ## Vor Girlins Verschwinden
 
-Semund und [Girlin](../Girlin.md) haben **drei Kinder verloren** — das letzte ein bis zwei Winter vor ihrem Verschwinden ([C-097 ✓](../../../Notizen/Offene-Challenges.md#c-097-girlins-kinderfolge--die-neun-jahre-lücke-)). Als der Ring ihm die Frau nimmt, ist sein Haus also längst eines des Verlusts. Das ist der Schlüssel zu seiner schnellen Neubindung an [Millia](Millia.md) ([C-095](../../../Notizen/Offene-Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten)): **Er hat nicht ersetzt, er hat aufgehört zu verlieren.**
+Semund und [Girlin](../Girlin.md) haben **drei Kinder verloren** — das letzte ein bis zwei Winter vor ihrem Verschwinden ([C-097 ✓](../../../Notizen/Offene-Challenges.md#c-097-girlins-kinderfolge--die-neun-jahre-lücke-)). Als der Ring ihm die Frau nimmt, ist sein Haus also längst eines des Verlusts. Das ist der Schlüssel zu seiner schnellen Neubindung an [Millia](Millia.md) ([C-095](../../../Notizen/Offene-Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-)): **Er hat nicht ersetzt, er hat aufgehört zu verlieren.**
 
 ---
 
