@@ -40,6 +40,12 @@ Neue Regeln laufend ergänzen — keine Begründungen, nur die Regel selbst.
 - Keine Erklär-Dialoge — Figuren erklären einander nichts, was sie beide wissen
 - Das Feld **Inspiration** meint **ausschließlich das Äußere** (Gesicht, Statur, Auftreten) — nie Charakter, Rolle oder Wesen der Vorlage. Aus einer Inspiration darf nichts über die Figur abgeleitet werden.
 
+## Namen
+
+- **Nordvolk:** zweigliedrige Vollnamen aus festem Elementvorrat, im Alltag Kurzformen (Erstglied + `-un` m. / `-in`,`-a` w. / `-i`). Kein Familienname, sondern Vatersname `-sun`/`-dohtar`. **Keine Götterelemente** (`Thor-`, `Tiw-`, `Ing-`) — sie unterlaufen das Epitheta-Prinzip. Muster und Elementvorrat: [C-092](Offene-Challenges.md#c-092-namenssystem-des-nordvolks)
+- **Kel Aman:** libysch-berberisch. Frauennamen umklammert ein `t`, Männernamen enden konsonantisch oder auf `-an`/`-en`, Abstammung mit `u-`/`ult-`, Gruppen mit `Kel-`. Siehe [C-090](Offene-Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)
+- **Keine Sonderzeichen — überall im Wiki.** Alles wird mit deutscher Tastatur geschrieben: kein Thorn, kein Eth, keine Längenstriche über Vokalen. Stattdessen `th`, `d` und einfache Vokale.
+
 ## Schreiben
 
 - Show-don't-tell — keine Gefühlsberichte, nur Handlung und Bild

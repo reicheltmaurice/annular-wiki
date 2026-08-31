@@ -8,16 +8,22 @@ Die erste Geschichte im [Annular-Universum](../README.md).
 
 ## Kern
 
-Ein Portalring trennt Mutter und Sohn: [Girlin](../../Menschen/Nordvolk/Girlin.md) (30) verschwindet in einem Gewitter aus [Skirraa](../../Orte/Skirraa.md) und wacht in der Wüste auf; [Tibun](../../Menschen/Nordvolk/Tibun.md) (16) ist der einzige Zeuge und wird nicht geglaubt. Über **zehn Jahre** hinweg arbeiten beide — jeder für sich, ohne vom anderen zu wissen — an derselben Sache: genug [Elektrizität](../../Technik/Elektrizitaet.md) zu erzeugen, um einen [Ring](../../Technik/Portalringe.md) zu zünden. Im Finale laufen die Stränge zusammen.
+Ein Portalring trennt Mutter und Sohn: [Girlin](../../Menschen/Nordvolk/Girlin.md) (34) verschwindet in einem Gewitter aus [Skirraa](../../Orte/Skirraa.md) und wacht in der Wüste auf; [Tibun](../../Menschen/Nordvolk/Tibun.md) (16) ist der einzige Zeuge. Das Verschwinden **glaubt man ihm** — der Wüstensand liegt für alle sichtbar an der Skir. Nicht geglaubt wird seine **Deutung**: Die [wandernde Wala](../../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) erklärt den Sand zum Zeichen der Götter, Girlin für tot und die Stelle zum Tabu ([C-094](../../Notizen/Offene-Challenges.md#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-)). Über **zehn Jahre** hinweg arbeiten beide — jeder für sich, ohne vom anderen zu wissen — an derselben Sache: genug [Elektrizität](../../Technik/Elektrizitaet.md) zu erzeugen, um einen [Ring](../../Technik/Portalringe.md) zu zünden. Im Finale laufen die Stränge zusammen.
 
 Erzählt in **zwei parallelen Strängen** (Tibun im Norden, Girlin in der Wüste), abgeschlossen durch einen gemeinsamen Block.
+
+## Ton
+
+> *Zwei Menschen, getrennt durch ein Wunder, das niemand erklären kann — zehn Jahre Suche in einer harten Welt, hell im Ausgang.*
+
+**Abenteuer und Staunen** stehen vorn, nicht der Verlust. Ausgang **hoffnungsvoll**. Leser: **Jugendliche ab ~16**. Gewalt, Tod und Sklaverei bleiben, werden aber in ihrer *Wirkung* erzählt statt ausgemalt — nie unnötig brutal oder finster. Beim **Ring** wissen Leser und Figuren gleich viel; die Zweisträngigkeit gibt dem Leser darüber hinaus einen Vorsprung (er weiß, dass Girlin lebt — Tibun nicht). Festgelegt in [C-086](../../Notizen/Offene-Challenges.md#c-086-ton-in-einem-satz-).
 
 ## Figuren
 
 | Strang | Zentral | Umfeld |
 |---|---|---|
-| Norden | [Tibun](../../Menschen/Nordvolk/Tibun.md) | [Semban](../../Menschen/Nordvolk/Nebenfiguren/Semban.md), [Mellia](../../Menschen/Nordvolk/Nebenfiguren/Mellia.md), [Tara](../../Menschen/Nordvolk/Nebenfiguren/Tara.md), [Jolyl](../../Menschen/Nordvolk/Nebenfiguren/Jolyl.md) |
-| Wüste | [Girlin](../../Menschen/Nordvolk/Girlin.md) | [Bellbrim](../../Menschen/Andere/Bellbrim.md), [Assim Atwan](../../Menschen/Wuestenvolk/Assim-Atwan.md), [Sahrin](../../Menschen/Wuestenvolk/Sahrin.md) |
+| Norden | [Tibun](../../Menschen/Nordvolk/Tibun.md) | [Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Millia](../../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Frida](../../Menschen/Nordvolk/Nebenfiguren/Frida.md) |
+| Wüste | [Girlin](../../Menschen/Nordvolk/Girlin.md) | [Bellbrim](../../Menschen/Andere/Bellbrim.md), [Azzim u-Tawan](../../Menschen/Wuestenvolk/Azzim-u-Tawan.md), [Kel Aman](../../Menschen/Wuestenvolk/Kel-Aman.md) |
 
 ## Dateien
 

@@ -34,7 +34,7 @@ Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in 
 ## Welt
 - Epoche: **550 n.Chr. (Vendelzeit)** — internes Referenzjahr, erscheint nicht im Erzähltext
 - Nordvolk: proto-skandinavische Germanen. Heimatweiler **Skirraa** + Zentrum **Tingsal** in Nordjütland/Vendsyssel (real: Bindslev bzw. Hjørring); Handelshafen **Kaupvik** an der Schlei (real: Haithabu). Skirraa↔Kaupvik = ~14 Tagesmärsche über den Ochsenweg. Details: [Orte/](Orte/)
-- Sahrin: nomadisches Wüstenvolk
+- Kel Aman („die Leute des Wassers"): nomadisches Wüstenvolk im **Fezzan** (Garamanten, zentrale Sahara), Sprache libysch-berberisch. Namensmuster: Frauennamen mit umklammerndem `t`, Männernamen konsonantisch/`-an`, Abstammung mit `u-`/`ult-`, Gruppen mit `Kel-`
 - Portalringe: Material unbekannt/mystisch (AZ31 nur als Berechnungsreferenz)
 - Elektrizität: ausschließlich durch Reibung/Bernstein und was in der Epoche möglich war
 - Tibun baut seine Erfindungen als Erwachsener (~25+), nicht als Kind

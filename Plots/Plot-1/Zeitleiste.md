@@ -9,16 +9,17 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 <table>
 <tr><th>Figur</th><th>Prolog (−1)</th><th>Verschwinden (0)</th><th>Aufbruch (+1)</th><th>Rückkehr (+9)</th><th>Finale (+10)</th></tr>
 <tr><td>Tibun</td><td>15</td><td>16</td><td>17</td><td>25</td><td>26</td></tr>
-<tr><td>Girlin</td><td>—</td><td>30</td><td>—</td><td>—</td><td>40</td></tr>
-<tr><td>Tara</td><td>8</td><td>9</td><td>10</td><td>18</td><td>19</td></tr>
-<tr><td>Semban</td><td>34</td><td>35</td><td>36</td><td>44</td><td>45</td></tr>
+<tr><td>Girlin</td><td>33</td><td>34</td><td>35</td><td>43</td><td>44</td></tr>
+<tr><td>Truda</td><td>8</td><td>9</td><td>10</td><td>18</td><td>19</td></tr>
+<tr><td>Semund</td><td>34</td><td>35</td><td>36</td><td>44</td><td>45</td></tr>
 <tr><td>Bellbrim</td><td>—</td><td>(40)</td><td>—</td><td>—</td><td>50</td></tr>
-<tr><td>Assim Atwan</td><td>—</td><td>offen</td><td>—</td><td>—</td><td>offen</td></tr>
+<tr><td>Azzim u-Tawan</td><td>—</td><td>offen</td><td>—</td><td>—</td><td>offen</td></tr>
 </table>
 
-- **Tara:** 7 Jahre jünger als Tibun (löst [C-030](../../Notizen/Offene-Challenges.md)).
+- **Truda:** 7 Jahre jünger als Tibun (löst [C-030](../../Notizen/Offene-Challenges.md)).
+- **Girlin:** bei Tibuns Geburt **18**, bei Trudas Geburt **25** (Korrektur vom 31.08.2026, [C-096](../../Notizen/Offene-Challenges.md#c-096-korrektur-girlins-alter-)).
 - **Bellbrim:** tritt erst in Girlins Wüsten-Arc auf (nach Jahr 0); 40 als Richtwert beim Kennenlernen, 50 im Finale.
-- **Assim Atwan:** Alter offen ([C-028](../../Notizen/Offene-Challenges.md)).
+- **Azzim u-Tawan:** Alter offen ([C-028](../../Notizen/Offene-Challenges.md)).
 
 ---
 
@@ -32,7 +33,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - Szene am Fluss, unerwiderte Liebe (früher Schwarm), Feuer in der Scheune
 - Er versteht das Prinzip noch **nicht** — die Einsicht kommt erst Jahre später in Kaupvik
 
-## Jahr 0 — Girlins Verschwinden (Tibun 16, Girlin 30)
+## Jahr 0 — Girlins Verschwinden (Tibun 16, Girlin 34)
 - Weltweites Beben (Erwachen des Ringsystems) löst einen Erdrutsch am Steilufer der Skir aus und legt den vergrabenen Portalring frei ([C-008](../../Notizen/Offene-Challenges.md))
 - Girlin verschwindet bei Blitzschlag-Aktivierung des freigelegten Rings ([C-012](../../Notizen/Offene-Challenges.md))
 - Tibun ist einziger Zeuge
@@ -42,8 +43,8 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 ## Tibuns Strang (Jahr 0 → +10)
 
 ### Nach dem Verschwinden (Jahr 0–1)
-- **Konflikt:** Allein zurückgelassen; die Dorfbewohner — vor allem [Semban](../../Menschen/Nordvolk/Nebenfiguren/Semban.md) — glauben Tibun nicht; Girlin gilt als weggelaufen oder tot
-- Semban bindet sich **rasch** neu an [Mellia](../../Menschen/Nordvolk/Nebenfiguren/Mellia.md) — für Tibun ein Verrat, denn er **weiß**, dass Girlin lebt ([C-022](../../Notizen/Offene-Challenges.md))
+- **Konflikt:** Allein zurückgelassen; die Dorfbewohner — vor allem [Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md) — glauben Tibun nicht; Girlin gilt als weggelaufen oder tot
+- Semund bindet sich **rasch** neu an [Millia](../../Menschen/Nordvolk/Nebenfiguren/Millia.md) — für Tibun ein Verrat, denn er **weiß**, dass Girlin lebt ([C-022](../../Notizen/Offene-Challenges.md))
 
 ### Aufbruch & Wanderschaft (Jahr +1 → +9, Tibun 17 → 25)
 - **Konflikt/Antrieb:** Suche nach der Mutter, Bernstein, Wissen über den Ring, Mechanik
@@ -60,12 +61,13 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 ---
 
-## Girlins Strang (Jahr 0 → +10, Girlin 30 → 40 — **10 Jahre in der Wüste**)
+## Girlins Strang (Jahr 0 → +10, Girlin 34 → 44 — **10 Jahre in der Wüste**)
 
 - Sie wacht in einer Wüste auf (Jahr 0)
 - Kämpft sich durch die Wüste bis in eine Stadt / einen Basar
 - **Konflikt:** Sprache und Kulturbarriere?
 - Begegnet [Bellbrim](../../Menschen/Andere/Bellbrim.md), die ihr hilft
+- **Jahr +4: Girlins drittes Kind wird geboren** (Girlin 38, Kind im Finale 6) — siehe [C-081](../../Notizen/Offene-Challenges.md#c-081-girlins-drittes-kind-in-der-wüste); die Beziehung beginnt spätestens Jahr +3 ([C-060](../../Notizen/Offene-Challenges.md#c-060-girlin-und-der-neffe))
 - Girlin überredet Bellbrim, den Portalring zu untersuchen
 - **Konflikt:** Arbeit am Ring (Fundort vs. Labor — Transport-Widerspruch, [C-018](../../Notizen/Offene-Challenges.md))
 - Beginn der Experimente mit dem Ring (Wassergenerator)
@@ -74,21 +76,21 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 ---
 
 ## Konflikt (Wüste, gegen Ende von Jahr +10)
-- Assim Atwan tritt als Antagonist auf
+- Azzim u-Tawan tritt als Antagonist auf
 - Er entdeckt Girlin und will sie für seine Geschäfte nutzen (Sklaverei, Schmuggel, Kuriosum)
 - Sklavenhändler greifen Bellbrims Standort an
 - Nomaden helfen Girlin und Bellbrim
-- Im Konflikt wird der Sahrin-Ring aktiviert
+- Im Konflikt wird der Wüstenring aktiviert
 
 ## Finale (Jahr +10)
 Beide gepaarten Ringe flippen **gleichzeitig** ([C-012](../../Notizen/Offene-Challenges.md)) — Tibuns erste Zündung und die Aktivierung in der Wüste sind **dasselbe Ereignis**, kein Zufall.
 
 **Variante A:**
-- Assim Atwan wird zu Tibun teleportiert
+- Azzim u-Tawan wird zu Tibun teleportiert
 - Übernimmt vielleicht Tibuns Werkstatt oder das Dorf — oder wird im Kampf mit Tibun getötet
-  - Ring wird erneut aktiviert, Tibun teleportiert; Assim wird vom Ring getötet
+  - Ring wird erneut aktiviert, Tibun teleportiert; Azzim wird vom Ring getötet
 
 **Variante B:**
 - Tibun wird zu Girlin teleportiert
-- Assim nimmt Tibun als Geisel, will den Ring aktivieren, um aus der Wüste zu entkommen
-- Im Konflikt wird der Ring aktiviert und Assim vom Ring getötet
+- Azzim nimmt Tibun als Geisel, will den Ring aktivieren, um aus der Wüste zu entkommen
+- Im Konflikt wird der Ring aktiviert und Azzim vom Ring getötet

@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| **Rolle** | Verlobter [Jolyls](Jolyl.md) |
+| **Rolle** | Verlobter [Fridas](Frida.md) |
 | **Alter** | ??? |
 | **Herkunft** | Hof in der Gegend um [Tingsal](../../../Orte/Tingsal.md) |
 
@@ -19,7 +19,7 @@
 | | |
 |---|---|
 | **Vater** | [Lanke](Lanke.md) |
-| **Verlobte** | [Jolyl](Jolyl.md) |
+| **Verlobte** | [Frida](Frida.md) |
 
 ---
 
@@ -37,7 +37,7 @@ Hofsohn von auswärts, aus der Gegend um [Tingsal](../../../Orte/Tingsal.md) —
 
 ## Bedeutung in der Geschichte
 
-Im Prolog ([Die Entdeckung](../../../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md)) wird seine Verlobung mit [Jolyl](Jolyl.md) beim Großbauern von Skirraa verkündet — arrangiert von seinem Vater [Lanke](Lanke.md) als **Bündnis zwischen Höfen**, nicht aus Zuneigung. Als ortsfremde „bessere Partie" sticht er [Tibun](../Tibun.md) aus, ohne es zu wollen; auch ihm ist die Sache sichtlich unangenehm.
+Im Prolog ([Die Entdeckung](../../../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md)) wird seine Verlobung mit [Frida](Frida.md) beim Großbauern von Skirraa verkündet — arrangiert von seinem Vater [Lanke](Lanke.md) als **Bündnis zwischen Höfen**, nicht aus Zuneigung. Als ortsfremde „bessere Partie" sticht er [Tibun](../Tibun.md) aus, ohne es zu wollen; auch ihm ist die Sache sichtlich unangenehm.
 
 Weitere Rolle im Verlauf **offen** (siehe [C-042](../../../Notizen/Offene-Challenges.md)).
 
@@ -46,7 +46,7 @@ Weitere Rolle im Verlauf **offen** (siehe [C-042](../../../Notizen/Offene-Challe
 ## Verbindungen zu anderen Charakteren
 
 - Vater: [Lanke](Lanke.md)
-- Verlobt mit: [Jolyl](Jolyl.md)
+- Verlobt mit: [Frida](Frida.md)
 - Unwissentlicher Rivale von: [Tibun](../Tibun.md)
 
 ---

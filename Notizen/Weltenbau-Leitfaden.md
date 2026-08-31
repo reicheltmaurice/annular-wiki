@@ -21,7 +21,7 @@ Annular ist an einer Stelle sehr tief und an einer anderen fast leer. Das ist di
 | Nordvolk: Verortung, Religion, Siedlungsstruktur | historisch verankert, belastbar |
 | Plot 1: Stränge, Zeitleiste, Altersgerüst | steht |
 | **Gesellschaft** (Recht, Wirtschaft, Überleben, Alltag) | **fehlt fast vollständig** |
-| **Sahrin / Süden** | **generische Wüstenfantasie ohne historischen Anker** |
+| **Kel Aman / Süden** | verortet (Fezzan/Garamanten), Namen und Bewaffnung entschieden — Kultur, Religion und Orte fehlen weiter |
 | **Namenssystem** | **kein System erkennbar** |
 | **Folgen des Rings für die Menschen vor Ort** | **nicht durchgespielt** |
 
@@ -38,7 +38,7 @@ Was folgt daraus, und was wird dadurch unmöglich? Bei den Ringen wendest du das
 Dieselbe Strenge fehlt bislang überall dort, wo es um Menschen statt um Material geht.
 
 ### 2. Grenzen sind glaubwürdiger als Fähigkeiten
-Gilt auch für Kulturen: Was darf ein Sahrin **nicht** tun? Was kostet es einen Nordmann, das Thing anzurufen?
+Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es einen Nordmann, das Thing anzurufen?
 
 ---
 
@@ -48,29 +48,29 @@ Gilt auch für Kulturen: Was darf ein Sahrin **nicht** tun? Was kostet es einen 
 - [x] Grundabweichung: die Portalringe. Sauber definiert und diszipliniert eingehalten.
 - [x] Folgekette: für die Ringe gezogen.
 - [x] Absage: keine Erbauer-Auflösung, keine Götternamen, keine Technik außerhalb der Epoche.
-- [ ] **Ton in einem Satz** — noch nirgends festgehalten. Was verspricht das Buch dem Leser: Abenteuer, Verlustgeschichte, historische Härte, Wunder?
+- [x] **Ton in einem Satz** — entschieden 31.08.2026, [C-086](Offene-Challenges.md#c-086-ton-in-einem-satz-): *Zwei Menschen, getrennt durch ein Wunder, das niemand erklären kann — zehn Jahre Suche in einer harten Welt, hell im Ausgang.* Steht in [Plots/Plot-1/README.md](../Plots/Plot-1/README.md).
 
 ### Schicht 1 — Der Rahmen
 - [x] Kosmologie, Zyklus, Wissensebenen.
 - [x] Nordgeografie mit realen Ankern und Tagesmärschen.
-- [ ] **Wo liegt die Wüste?** Die größte offene Frage des ganzen Projekts — siehe unten.
-- [ ] **Zeitrechnung im Text.** Zehn Jahre vergehen, aber niemand zählt Jahre. Wie misst Tibun die Zeit — Winter? Thingversammlungen? Wie Girlin? Ohne Regel wird jede Zeitangabe im Text zum Anachronismus.
+- [x] **Wo liegt die Wüste?** Entschieden 31.08.2026: **Fezzan / Garamanten** ([C-088](Offene-Challenges.md#c-088-verortung-der-wüste-)). Damit ist die zweite Abweichung von der Realität beseitigt.
+- [~] **Zeitrechnung im Text.** Norden entschieden 31.08.2026: **gezählt wird in Wintern** ([C-087](Offene-Challenges.md#c-087-zeitrechnung-im-erzähltext)). Offen bleiben Girlins Maß in der Wüste und die Zählmarke innerhalb des Jahres.
 - [ ] **Jahreszeiten als Taktgeber.** Im Norden bestimmt der Winter alles: Schafe, Vorräte, Reisen, Tod. Bisher spielt Wetter nur im Prolog eine Rolle.
 
 ### Schicht 2 — Das Leben
 - [x] Nordvolk-Religion (Epitheta-Prinzip — die stärkste Einzelentscheidung im Wiki).
 - [x] Skirraa: Höfe, Herde, Wolle, Unfreie.
-- [ ] **Namensmuster.** Tibun, Girlin, Tara, Semban, Mellia, Hadurik, Jolyl, Herik, Lanke folgen keinem erkennbaren System. Germanische Namen der Epoche sind überwiegend zweigliedrig (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen. Entweder du legst ein Bildungsmuster fest, oder du erklärst die Namen ausdrücklich zur bewussten Ausnahme vom Authentizitätsprinzip. Beides ist vertretbar — nur unentschieden bleiben ist es nicht.
-- [ ] **Sahrin-Namen** dasselbe: Tiberan, Nahal, Ishem, Imra, Mela stammen aus keiner erkennbaren Sprachfamilie.
+- [ ] **Namensmuster Nordvolk** → [C-092](Offene-Challenges.md#c-092-namenssystem-des-nordvolks). Tibun, Girlin, Truda, Semund, Millia, Hadurik, Frida, Herik, Lanke folgen keinem erkennbaren System. Germanische Namen der Epoche sind überwiegend zweigliedrig (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen. Entweder du legst ein Bildungsmuster fest, oder du erklärst die Namen ausdrücklich zur bewussten Ausnahme vom Authentizitätsprinzip. Beides ist vertretbar — nur unentschieden bleiben ist es nicht.
+- [x] **Kel-Aman-Namen:** entschieden 31.08.2026 ([C-090](Offene-Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)) — libysch-berberisches Muster, Volksname **Kel Aman**, alle Altnamen im Wiki umbenannt.
 - [ ] **Alltag im Norden:** Was isst man im Februar? Wie wird geheizt? Wie oft isst man Fleisch?
-- [ ] **Krankheit, Geburt, Tod.** Girlin bekommt in der Wüste ein zweites Kind. Wer hilft? Was passiert bei einer Wunde? Über zehn Jahre ist das nicht wegzulassen.
+- [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet ([C-097 ✓](Offene-Challenges.md#c-097-girlins-kinderfolge--die-neun-jahre-lücke-)): Girlin und Semund haben **drei Kinder verloren**, das letzte kurz vor ihrem Verschwinden — Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. **Offen:** wer bei der Geburt des Wüstenkindes hilft (Jahr +4), und was bei einer Wunde geschieht.
 
 ### Schicht 3 — Die Ordnung  ← **größte Lücke**
-- [ ] **Recht.** Das Thing steht als Ort, aber nicht als Verfahren. Konkret plotrelevant: Nach welcher Regel darf Semban wieder heiraten? Wann gilt eine Verschwundene als tot? Wer entscheidet das — die Sippe, das Thing, die Wala? Sembans schnelle Neubindung ist ein tragender Konflikt und hängt derzeit rechtlich in der Luft.
+- [~] **Recht.** Grundlage steht: Die **Wala** erklärt Girlin für tot, damit ist Semund Witwer und darf neu binden ([C-095](Offene-Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten)). Offen bleiben Frist, Beurkundung durch das Thing, Girlins Besitz — und was gilt, wenn eine für tot Erklärte zurückkommt. Das Thing als **Verfahren** fehlt weiter.
 - [ ] **Wirtschaft und Preise.** Was ist ein Ballen Wolle wert? Wovon lebt Tibun acht Jahre unterwegs?
 - [ ] **Wie überlebt ein 17-Jähriger allein auf dem Ochsenweg?** Ohne Sippe ist er in dieser Epoche weitgehend schutzlos. Er braucht einen sozialen Mechanismus: Gastrecht, Anschluss an einen Händlerzug, Dienstverhältnis, Gefolgschaft. Ohne den bricht die Wanderschaft die Authentizitätsregel härter als jeder falsche Gegenstand.
 - [ ] **Gewalt.** Wer trägt Waffen, wer darf töten, was kostet ein Totschlag?
-- [ ] **Unfreiheit.** Sklaverei ist gesetzt und im Süden Handlungstreiber (Assim). Wie funktioniert sie konkret auf beiden Seiten?
+- [ ] **Unfreiheit.** Sklaverei ist gesetzt und im Süden Handlungstreiber (Azzim). Wie funktioniert sie konkret auf beiden Seiten?
 - [ ] **Wissen und Nachricht.** Wie schnell reist eine Nachricht von Kaupvik nach Skirraa? Warum hat in Kaupvik niemand von Skirraa gehört — und was heißt das für Tibuns Suche?
 
 ### Schicht 4 — Die Zeit
@@ -88,10 +88,10 @@ Gilt auch für Kulturen: Was darf ein Sahrin **nicht** tun? Was kostet es einen 
 Diese Schicht ist neu und für Annular die wichtigste. Der Ring ist bislang als **Gerät** durchdacht,
 noch nicht als **Ereignis in einer Gesellschaft**.
 
-- [ ] **Der Ring frisst eine Frau vor Zeugen. Was tut das Dorf?** Die wahrscheinlichste Reaktion einer Gemeinschaft von 550 ist nicht Neugier, sondern Religion: Tabu, Absperrung, Opferplatz, Zerstörungsversuch. Derzeit liegt der Ring zehn Jahre unbehelligt herum, während ein Junge daran bastelt.
+- [x] **Der Ring frisst eine Frau vor Zeugen. Was tut das Dorf?** Entschieden 31.08.2026 ([C-094](Offene-Challenges.md#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-)): Die wandernde Wala erklärt den Sand zum Zeichen der Götter, Girlin für tot und die Stelle zum Tabu — **gemieden aus Todesangst, nicht bewacht**. Genau deshalb kann Tibun dort zehn Winter arbeiten, und jeder Gang dorthin ist ein Tabubruch.
 - [ ] **Wer will den Ring außer Tibun?** Der Häuptling in Tingsal? Die Wala? Ein Nachbarweiler? Ein Ding, das Menschen verschwinden lässt, ist der wichtigste Gegenstand der Region. Der Kampf darum fehlt — und er wäre besseres Material als der Antagonist, den du hast.
-- [ ] **Die Sandmulde ist ein sichtbares Wunder.** Nach Girlins Verschwinden liegt an der Skir eine Halbkugel Wüstensand — in Jütland. Vielleicht mit fremden Pflanzenresten, einem Insekt, einem Skorpion. Das ist unwiderlegbar und für jeden sichtbar. Es widerlegt zugleich, dass Tibun „nicht geglaubt" wird — entweder der Sand ist da und alle sehen ihn, oder du musst erklären, warum er niemanden überzeugt. **Das ist derzeit ein handfester Widerspruch im Kernkonflikt.**
-- [ ] **Und umgekehrt:** In der Wüste erscheint gleichzeitig eine Halbkugel jütisches Erdreich — Torf, Heidekraut, kaltes Wasser. Vermutlich der eigentliche Grund, warum die Sahrin überhaupt zur Fundstelle kommen und Girlin finden.
+- [x] **Die Sandmulde ist ein sichtbares Wunder.** Widerspruch aufgelöst 31.08.2026 ([C-094](Offene-Challenges.md#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-)): Das Dorf glaubt das **Ereignis** — nur nicht Tibuns **Deutung**. Der Sand beweist ein Wunder, nicht dass Girlin lebt.
+- [ ] **Und umgekehrt:** In der Wüste erscheint gleichzeitig eine Halbkugel jütisches Erdreich — Torf, Heidekraut, kaltes Wasser. Vermutlich der eigentliche Grund, warum die Kel Aman überhaupt zur Fundstelle kommen und Girlin finden.
 - [ ] **Der Ring liegt an einem Bach.** Damit wird bei jeder Zündung Wasser mitgetauscht — die Tauschkugel fasst gefüllt rund 14 Kubikmeter. In einer Wüste ist ein wiederholbarer Übergang, der Wasser liefert, das Wertvollste, was überhaupt denkbar ist. Sobald Tibun am Ende zuverlässig zünden kann, existiert eine Wasserbrücke nach Süden. Das ist die größte ungenutzte Konsequenz deiner eigenen Mechanik — und ein deutlich größeres Motiv für einen Antagonisten als Sklavenhandel.
 
 ---
@@ -101,19 +101,18 @@ noch nicht als **Ereignis in einer Gesellschaft**.
 Dein Authentizitätsprinzip lautet: *einzige Abweichung sind die Portalringe, alles andere folgt dem
 historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält es **nicht** ein.
 
-Die Sahrin haben keinen Ort, keine Sprachfamilie, keine belegte Kultur — „Atem der Erde",
-Schleier, Kamele, Krummsäbel. Das ist Fantasy-Wüste, und damit eine zweite Abweichung von der Realität.
+**Stand 31.08.2026: der Kernvorwurf ist erledigt.** Ort ([C-088](Offene-Challenges.md#c-088-verortung-der-wüste-)), Sprachfamilie und Namen ([C-090](Offene-Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)) und Bewaffnung ([C-091](Offene-Challenges.md#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)) sind entschieden. Offen bleiben Religion, Bräuche und Orte — die Punkte unten gelten weiter.
 
 - [ ] **Wo liegt die Wüste? ???** Ohne diese Entscheidung ist keine Kulturarbeit im Süden möglich. Ernsthafte Kandidaten für 550 n.Chr.:
   - **Sahara / Fezzan** — die Garamanten: reale Wüstenkultur mit Fernhandel und Bewässerungstunneln, in dieser Zeit im Niedergang. Passt zur „vergessenen Hochkultur"-Stimmung.
   - **Arabische Halbinsel** — dicht belegt, Kamelnomaden, Karawanenhandel, eine Generation vor dem Islam.
   - **Syrische Wüste** — Randzone von Byzanz. Vorteil: Es gibt dort Menschen, die Griechisch oder Latein können, also einen **historisch plausiblen Sprachweg** zu einer Germanin.
   - **Zentralasien / Sogdien** — die Vermittlerkultur schlechthin, mehrsprachige Fernhändler. Löst Bellbrim fast von selbst.
-- [ ] **Krummsäbel streichen.** Gekrümmte Klingen sind für 550 zu früh; gerade Klingen. (Kamele in der Sahara sind dagegen unproblematisch — zu dieser Zeit längst etabliert.)
-- [ ] **Sprache.** Aktuell ist die Sprachbarriere ein Hindernis, das durch „Bellbrim ist mehrsprachig" weggeräumt wird. Sie ist aber das beste Material, das du im Wüstenstrang hast: zehn Jahre, in denen eine Frau sich eine Sprache erarbeitet, ist die Verlustgeschichte selbst. Entscheidung nötig: Wie lange bleibt Girlin sprachlos, und was macht das mit ihr?
-- [ ] **Girlin.** Sie trägt den halben Roman und besteht fast vollständig aus `???` — Herkunft, Charakter, Fähigkeiten. Vor der nächsten Ringdetailfrage sollte diese Figur stehen.
-- [ ] **Assim Atwan.** Rein einseitiger Gegenspieler. Deine eigene Regel verlangt Konflikte, bei denen man beide Seiten versteht. Gib ihm ein Motiv, das man nachvollziehen kann — Wasser, Schutz seiner Leute, Angst vor dem Ring.
-- [ ] **Ablage:** Die Sahrin-Kultur steht in `Menschen/Wuestenvolk/`, während `Kulturen/Sahrin/` leer ist und noch auf die längst entschiedene Epochenfrage verweist. `allgemein.md`, `Karawanen.md` und `Sahrin.md` überschneiden sich.
+- [x] **Krummsäbel gestrichen** (31.08.2026, [C-091](Offene-Challenges.md#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)): gerade Klingen, Speere, Bogen. (Kamele in der Sahara sind unproblematisch — zu dieser Zeit längst etabliert.)
+- [~] **Sprache.** Grundhaltung entschieden ([C-025](Offene-Challenges.md#c-025-girlin--charakter--fähigkeiten)): **Girlin lernt aktiv** — keine Verweigerung, sie arbeitet an ihrer Lage. Bellbrims Vandalisch ist mit ihrer Sprache verwandt, aber nicht gleich ([C-026](Offene-Challenges.md#c-026-bellbrim--historische-plausibilität--herkunft)), die Barriere bleibt also erhalten. **Offen:** wie lange sie sprachlos bleibt und was das mit ihr macht — vom Autor vertagt, bis der Plot steht.
+- [x] **Girlin.** Steht seit 31.08.2026 ([C-024](Offene-Challenges.md#c-024-girlin--herkunft--vorgeschichte), [C-025](Offene-Challenges.md#c-025-girlin--charakter--fähigkeiten), [C-096](Offene-Challenges.md#c-096-korrektur-girlins-alter-)): zugezogen aus einem Nachbarweiler, Wolle und Weben, 34 beim Verschwinden. **Ihr Wille gilt ihren Kindern, nicht einem Ort** — sie will nicht heim, sie will sie erreichen und dann in der Wüste bleiben. Daraus fällt der Kernkonflikt des Finales von selbst.
+- [ ] **Azzim u-Tawan.** Rein einseitiger Gegenspieler. Deine eigene Regel verlangt Konflikte, bei denen man beide Seiten versteht. Gib ihm ein Motiv, das man nachvollziehen kann — Wasser, Schutz seiner Leute, Angst vor dem Ring.
+- [~] **Ablage:** `Kulturen/Kel-Aman/README.md` ist neu geschrieben (Verortung, Bewaffnung, offene Punkte). Die inhaltliche Überschneidung von `allgemein.md`, `Karawanen.md` und `Kel-Aman.md` in `Menschen/Wuestenvolk/` besteht weiter.
 
 ---
 
@@ -125,8 +124,8 @@ Nicht „sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die
 - [ ] **2 · Die drei unbequemen Fragen.** Was passiert mit den Toten? Wovon lebt man im Winter? Was kostet ein Ballen Wolle?
 - [ ] **3 · Bruchtest.** Bereits bestanden: Die Ringmechanik erzeugt Folgen, die du nicht geplant hattest (wandernde Mulde, Kopffreiheit, Tod durch Unwissen).
 - [ ] **4 · Ortstest.** Für die Nordorte bestanden. Für die Wüste noch nicht — dort gibt es keine Orte.
-- [ ] **5 · Konflikttest.** Drei Konflikte, bei denen beide Seiten verständlich sind. Semban gegen Tibun trägt bereits. Assim noch nicht. Ein dritter fehlt.
-- [ ] **6 · Namenstest.** Derzeit **nicht** bestanden — ohne Bildungsmuster ist kein neuer Name „richtig" oder „falsch".
+- [ ] **5 · Konflikttest.** Drei Konflikte, bei denen beide Seiten verständlich sind. Semund gegen Tibun trägt bereits. Azzim noch nicht. Ein dritter fehlt.
+- [~] **6 · Namenstest.** Für den Süden **bestanden** ([C-090](Offene-Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)). Für den Norden liegt das Muster als Vorschlag vor und wartet auf Bestätigung → [C-092](Offene-Challenges.md#c-092-namenssystem-des-nordvolks).
 - [ ] **7 · Überraschungstest.** Bestanden, für die Technik. Für die Gesellschaften noch offen.
 
 ---
@@ -137,7 +136,7 @@ Es stehen über achtzig Challenges offen, und die Liste wächst schneller, als s
 Sie ist ein gutes Werkzeug und gleichzeitig ein Schuldenberg. Sortiere sie in drei Töpfe:
 
 **A — blockiert die nächste Szene.** Zuerst und ausschließlich.
-Beispiele: Girlins Charakter, Wo liegt die Wüste, Sembans Wiederheirat nach welcher Regel,
+Beispiele: Girlins Charakter, Wo liegt die Wüste, Semunds Wiederheirat nach welcher Regel,
 was die Dorfbewohner nach dem Verschwinden tatsächlich sehen.
 
 **B — blockiert das Buch, nicht die Szene.** Kann warten, bis die Szene steht.
@@ -154,13 +153,13 @@ Beispiele: Kantenquerschnitt, Haptik der Oberfläche, Abklingdauer des Leuchtens
 Nicht eingetragen — Nummernvergabe liegt beim Autor. Folgende Punkte haben in `Offene-Challenges.md`
 noch keine Entsprechung gefunden:
 
-- Wo liegt die Wüste? (historischer Anker für die Sahrin)
-- Namensbildung Nordvolk und Sahrin — System oder bewusste Ausnahme?
-- Rechtsfrage: Wann gilt eine Verschwundene als tot, wann darf Semban neu heiraten?
+- Wo liegt die Wüste? (historischer Anker für die Kel Aman)
+- Namensbildung Nordvolk und Kel Aman — System oder bewusste Ausnahme?
+- Rechtsfrage: Wann gilt eine Verschwundene als tot, wann darf Semund neu heiraten?
 - Wie überlebt Tibun acht Jahre allein auf der Wanderschaft?
 - Zeitmessung im Erzähltext über zehn Jahre hinweg
 - Der sichtbare Wüstensand an der Skir — widerlegt er Tibuns Unglaubwürdigkeit?
-- Das jütische Erdreich in der Wüste als Fundhinweis für die Sahrin
+- Das jütische Erdreich in der Wüste als Fundhinweis für die Kel Aman
 - Wassertausch durch den Bachring — Folgen für den Süden und für die Motivation des Antagonisten
 - Wer außer Tibun beansprucht den Ring? (Häuptling, Wala, Nachbarweiler)
 
@@ -199,9 +198,9 @@ Es sind Entscheidungen, keine Recherchen. Neun Sitzungen genügen:
 |---|---|
 | 1 | Challenges nur nach A/B/C sortieren — nicht beantworten |
 | 3–4 | **Wo liegt die Wüste?** Der einzige Punkt, der wirklich Lesen erfordert |
-| 1 | Der Sand an der Skir: Was sieht das Dorf, und warum überzeugt es niemanden? |
-| 1 | Sembans Wiederheirat: nach welcher Regel? |
-| 2 | Girlin: Herkunft und Charakter, je fünf Sätze — mehr nicht |
+| ~~1~~ | ~~Der Sand an der Skir~~ — erledigt 31.08.2026 ([C-094](Offene-Challenges.md#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-)) |
+| ~~1~~ | ~~Semunds Wiederheirat~~ — Grundlage steht ([C-095](Offene-Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten)), nur noch Frist und Beurkundung offen |
+| ~~2~~ | ~~Girlin: Herkunft und Charakter~~ — erledigt 31.08.2026 ([C-024](Offene-Challenges.md#c-024-girlin--herkunft--vorgeschichte)/[C-025](Offene-Challenges.md#c-025-girlin--charakter--fähigkeiten)) |
 
 Dazu ab sofort ein **fester Termin, wöchentlich, gleicher Tag, gleiche Uhrzeit.**
 

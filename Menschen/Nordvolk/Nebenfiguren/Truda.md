@@ -1,4 +1,4 @@
-# Tara
+# Truda
 
 > **Status:** ???
 
@@ -19,7 +19,7 @@
 | | |
 |---|---|
 | **Mutter** | [Girlin](../Girlin.md) |
-| **Vater** | [Semban](Semban.md) |
+| **Vater** | [Semund](Semund.md) |
 | **Bruder** | [Tibun](../Tibun.md) |
 
 ---
@@ -36,6 +36,12 @@
 
 ---
 
+## Vor Girlins Verschwinden
+
+Truda war **7 oder 8**, als das jüngste Geschwisterkind starb — alt genug, sich zu erinnern ([C-097 ✓](../../../Notizen/Offene-Challenges.md#c-097-girlins-kinderfolge--die-neun-jahre-lücke-)). Ein Jahr später verschwindet die Mutter.
+
+---
+
 ## Bedeutung in der Geschichte
 
 Verspielt, neugierig und hängt sehr an ihrem Bruder [Tibun](../Tibun.md).
@@ -45,7 +51,7 @@ Verspielt, neugierig und hängt sehr an ihrem Bruder [Tibun](../Tibun.md).
 ## Verbindungen zu anderen Charakteren
 
 - Mutter: [Girlin](../Girlin.md)
-- Vater: [Semban](Semban.md)
+- Vater: [Semund](Semund.md)
 - Bruder: [Tibun](../Tibun.md)
 
 ---

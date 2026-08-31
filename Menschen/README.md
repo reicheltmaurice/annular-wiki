@@ -5,12 +5,12 @@
 ## Völker
 
 - [Menschen des Nordvolks](Nordvolk/README.md)
-- [Sahrin (Wüstennomaden)](Wuestenvolk/README.md)
+- [Kel Aman (Wüstennomaden)](Wuestenvolk/README.md)
 - [Andere](Andere/README.md)
 
 ## Wichtige Charaktere
 
 - [Tibun](Nordvolk/Tibun.md)
 - [Girlin](Nordvolk/Girlin.md)
-- [Assim Atwan](Wuestenvolk/Assim-Atwan.md)
+- [Azzim u-Tawan](Wuestenvolk/Azzim-u-Tawan.md)
 - [Bellbrim](Andere/Bellbrim.md)

@@ -19,20 +19,20 @@
   * [Tibun](Menschen/Nordvolk/Tibun.md)
   * [Girlin](Menschen/Nordvolk/Girlin.md)
   * [Nebenfiguren](Menschen/Nordvolk/Nebenfiguren/README.md)
-    * [Tara](Menschen/Nordvolk/Nebenfiguren/Tara.md)
-    * [Semban](Menschen/Nordvolk/Nebenfiguren/Semban.md)
-    * [Mellia](Menschen/Nordvolk/Nebenfiguren/Mellia.md)
+    * [Truda](Menschen/Nordvolk/Nebenfiguren/Truda.md)
+    * [Semund](Menschen/Nordvolk/Nebenfiguren/Semund.md)
+    * [Millia](Menschen/Nordvolk/Nebenfiguren/Millia.md)
     * [Hadurik](Menschen/Nordvolk/Nebenfiguren/Hadurik.md)
     * [Wala von Tingsal](Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md)
     * [Wandernde Wala](Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md)
-    * [Jolyl](Menschen/Nordvolk/Nebenfiguren/Jolyl.md)
+    * [Frida](Menschen/Nordvolk/Nebenfiguren/Frida.md)
     * [Herik](Menschen/Nordvolk/Nebenfiguren/Herik.md)
     * [Lanke](Menschen/Nordvolk/Nebenfiguren/Lanke.md)
-* Volk der Sahrin
-  * [Das Volk der Sahrin](Menschen/Wuestenvolk/Sahrin.md)
+* Volk der Kel Aman
+  * [Das Volk der Kel Aman](Menschen/Wuestenvolk/Kel-Aman.md)
   * [Erscheinung & Lebensweise](Menschen/Wuestenvolk/allgemein.md)
   * [Karawanen](Menschen/Wuestenvolk/Karawanen.md)
-  * [Assim Atwan](Menschen/Wuestenvolk/Assim-Atwan.md)
+  * [Azzim u-Tawan](Menschen/Wuestenvolk/Azzim-u-Tawan.md)
   * [Nebenfiguren](Menschen/Wuestenvolk/Nebenfiguren/README.md)
 * Weitere Figuren
   * [Bellbrim](Menschen/Andere/Bellbrim.md)
@@ -41,7 +41,7 @@
 ## Kulturen
 
 * [Nordvolk](Kulturen/Nordvolk/README.md)
-* [Sahrin](Kulturen/Sahrin/README.md)
+* [Kel Aman](Kulturen/Kel-Aman/README.md)
 
 ## Orte
 

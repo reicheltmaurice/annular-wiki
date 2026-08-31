@@ -26,3 +26,7 @@ Dort wo der Stein verkohlt war, bemerkte er jetzt, dass ein winziges Stück am S
 Doch nun brachte ihn das Ganze auf eine andere Idee.
 Tibun rieb den Stein schneller. Ihm fiel ein, dass er den Stein am Bach ziemlich lange gesäubert hatte. Wieder führte er ihn langsam zur Schere und beobachtete das Geschehen ganz genau.
 Es tat sich gar nichts. Außer weiterer Fussel, die sich an den Stein hefteten. Er versuchte es erneut. Er rieb stärker, schneller und länger und tatsächlich, als er den Stein dieses Mal an die Schere führte, schlug ein winziger, greller Blitz zur Schere über. . .
+
+---
+
+*Umfang: 1.222 Wörter (Fließtext ohne Titelzeile), Stand 31.08.2026.*

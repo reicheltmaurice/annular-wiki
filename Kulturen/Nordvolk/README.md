@@ -12,7 +12,7 @@ Götter werden nicht beim Eigennamen genannt. "Odin" und "Thor" sind altnordisch
 
 | Epitheton | Bedeutung | Historisches Vorbild |
 |---|---|---|
-| *der Wanderer* | Göttervater, Wissenssucher | Wodan/Wōðanaz |
+| *der Wanderer* | Göttervater, Wissenssucher | Wodan |
 | *der Donnerer* | Wettergott, Beschützer | Donar/Þunraz |
 | *die Weberin* | Schicksal, Unabwendbarkeit | Nornen/Wyrd |
 

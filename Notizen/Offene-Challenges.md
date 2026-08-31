@@ -8,22 +8,22 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 
 **Offen**
 - [C-002: Tibuns Elektrizitätsquelle](#c-002-tibuns-elektrizitätsquelle)
-- [C-003: Sahrin — kulturelle Tiefe](#c-003-sahrin--kulturelle-tiefe)
+- [C-003: Kel Aman — kulturelle Tiefe](#c-003-kel-aman--kulturelle-tiefe)
 - [C-009: Häuptling von Tingsal](#c-009-häuptling-von-tingsal)
 - [C-011: Kreis oder Spirale?](#c-011-kreis-oder-spirale-struktur-des-kreislaufs)
 - [C-013: Runen — Anordnung, Anzahl, Aussehen](#c-013-runen--anordnung-anzahl-aussehen)
 - [C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft)
 - [C-015: Verhältnis Drehung ↔ Tausch](#c-015-verhältnis-drehung--tausch)
 - [C-017: Weitere Ringgrößen](#c-017-weitere-ringgrößen)
-- [C-018: Widerspruch — Transport des Sahrin-Rings](#c-018-widerspruch--transport-des-sahrin-rings)
+- [C-018: Widerspruch — Transport des Wüstenrings](#c-018-widerspruch--transport-des-sahrin-rings)
 - [C-019: Ursache von Erwachen und Zusammenbruch](#c-019-ursache-von-erwachen-und-zusammenbruch)
 - [C-020: Vorwarnung vor dem Flip?](#c-020-vorwarnung-vor-dem-flip)
 - [C-024: Girlin — Herkunft & Vorgeschichte](#c-024-girlin--herkunft--vorgeschichte)
 - [C-025: Girlin — Charakter & Fähigkeiten](#c-025-girlin--charakter--fähigkeiten)
 - [C-026: Bellbrim — historische Plausibilität & Herkunft](#c-026-bellbrim--historische-plausibilität--herkunft)
 - [C-027: Bellbrim — Vorgeschichte, Familie & Fähigkeiten](#c-027-bellbrim--vorgeschichte-familie--fähigkeiten)
-- [C-028: Assim Atwan — Herkunft & Hintergrund](#c-028-assim-atwan--herkunft--hintergrund)
-- [C-029: Assim Atwan — Charakter, Motivation & Fähigkeiten](#c-029-assim-atwan--charakter-motivation--fähigkeiten)
+- [C-028: Azzim u-Tawan — Herkunft & Hintergrund](#c-028-azzim-u-tawan--herkunft--hintergrund)
+- [C-029: Azzim u-Tawan — Charakter, Motivation & Fähigkeiten](#c-029-azzim-u-tawan--charakter-motivation--fähigkeiten)
 - [C-031: Tibun — Inspiration/Besetzung](#c-031-tibun--inspirationbesetzung)
 - [C-032: Girlin — Inspiration/Besetzung](#c-032-girlin--inspirationbesetzung)
 - [C-034: Tibuns Lebensgrundlage während der Wanderschaft](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft)
@@ -32,16 +32,16 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-039: Prolog — Funke entzündet Wolle](#c-039-prolog--funke-entzündet-wolle)
 - [C-040: Prolog — Fischerdorf vs. Heide-Weiler](#c-040-prolog--fischerdorf-vs-heide-weiler)
 - [C-041: Prolog — Bernstein-Fundort](#c-041-prolog--bernstein-fundort)
-- [C-042: Prolog — Nebenfiguren Jolyl, Herik, Lanke](#c-042-prolog--nebenfiguren-jolyl-herik-lanke)
+- [C-042: Prolog — Nebenfiguren Frida, Herik, Lanke](#c-042-prolog--nebenfiguren-frida-herik-lanke)
 - [C-043: Prolog — Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk](#c-043-prolog--herzschmerz-rahmen-nutzen-fürs-gesamtwerk)
 - [C-044: Herkunft von Girlins Bernstein](#c-044-herkunft-von-girlins-bernstein)
-- [C-045: Semban — offene Felder](#c-045-semban--offene-felder)
-- [C-046: Mellia — offene Felder](#c-046-mellia--offene-felder)
-- [C-047: Tara — offene Felder](#c-047-tara--offene-felder)
+- [C-045: Semund — offene Felder](#c-045-semban--offene-felder)
+- [C-046: Millia — offene Felder](#c-046-mellia--offene-felder)
+- [C-047: Truda — offene Felder](#c-047-truda--offene-felder)
 - [C-048: Hadurik — offene Felder](#c-048-hadurik--offene-felder)
 - [C-049: Wala von Tingsal — offene Felder](#c-049-wala-von-tingsal--offene-felder)
 - [C-050: Wandernde Wala — offene Felder](#c-050-wandernde-wala--offene-felder)
-- [C-051: Jolyl — offene Felder](#c-051-jolyl--offene-felder)
+- [C-051: Frida — offene Felder](#c-051-frida--offene-felder)
 - [C-052: Herik — offene Felder](#c-052-herik--offene-felder)
 - [C-053: Lanke — offene Felder](#c-053-lanke--offene-felder)
 - [C-054: Tingsal — Halle & Thinggeschehen](#c-054-tingsal--halle--thinggeschehen)
@@ -52,14 +52,14 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-059: Tibuns Zieheltern in Kaupvik](#c-059-tibuns-zieheltern-in-kaupvik)
 - [C-060: Girlin und der Neffe](#c-060-girlin-und-der-neffe)
 - [C-061: Navigationswissen des Häuptlings](#c-061-navigationswissen-des-häuptlings)
-- [C-062: Assims Ankunft vor Tibuns Zündung](#c-062-assims-ankunft-vor-tibuns-zündung)
+- [C-062: Azzims Ankunft vor Tibuns Zündung](#c-062-assims-ankunft-vor-tibuns-zündung)
 - [C-063: Prolog — Szene auf Autorenfassung zurückgerollt](#c-063-prolog--szene-auf-autorenfassung-zurückgerollt)
 - [C-064: Prolog — Dorfplatz und Verlobungsschauplatz nachziehen](#c-064-prolog--dorfplatz-und-verlobungsschauplatz-nachziehen)
 - [C-065: Prolog — Fischerdorf-Milieu nachziehen](#c-065-prolog--fischerdorf-milieu-nachziehen)
 - [C-066: Prolog — Bernstein-Herkunft nachziehen](#c-066-prolog--bernstein-herkunft-nachziehen)
 - [C-067: Prolog — Rollen von Herik und Lanke nachziehen](#c-067-prolog--rollen-von-herik-und-lanke-nachziehen)
 - [C-068: Prolog — Brand und Brandblasen nachziehen](#c-068-prolog--brand-und-brandblasen-nachziehen)
-- [C-069: Prolog — Jolyls Familie und Stiefvater](#c-069-prolog--jolyls-familie-und-stiefvater)
+- [C-069: Prolog — Fridas Familie und Stiefvater](#c-069-prolog--fridas-familie-und-stiefvater)
 - [C-070: Prolog — Dateikopf und Versionszeile](#c-070-prolog--dateikopf-und-versionszeile)
 - [C-071: Prolog — Tibuns Alter und Heiratsantrag](#c-071-prolog--tibuns-alter-und-heiratsantrag)
 - [C-072: Prolog — Textfassung 2.2 oder 2.3](#c-072-prolog--textfassung-22-oder-23)
@@ -67,15 +67,20 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-074: Haptik der Ringoberfläche](#c-074-haptik-der-ringoberfläche)
 - [C-075: Ist das Ringmaterial ein Metall?](#c-075-ist-das-ringmaterial-ein-metall)
 - [C-076: Abklingdauer des grünen Leuchtens](#c-076-abklingdauer-des-grünen-leuchtens)
-- [C-077: Tibun und Tara nach Girlins Verschwinden](#c-077-tibun-und-tara-nach-girlins-verschwinden)
-- [C-078: Tibuns Verhältnis zu Mellia](#c-078-tibuns-verhältnis-zu-mellia)
+- [C-077: Tibun und Truda nach Girlins Verschwinden](#c-077-tibun-und-truda-nach-girlins-verschwinden)
+- [C-078: Tibuns Verhältnis zu Millia](#c-078-tibuns-verhältnis-zu-mellia)
 - [C-079: Tibuns Alpträume — und der Traum als Ideenquelle](#c-079-tibuns-alpträume--und-der-traum-als-ideenquelle)
 - [C-080: Girlins Entführung und Rettung](#c-080-girlins-entführung-und-rettung)
-- [C-081: Girlins zweites Kind in der Wüste](#c-081-girlins-zweites-kind-in-der-wüste)
+- [C-081: Girlins drittes Kind in der Wüste](#c-081-girlins-drittes-kind-in-der-wüste)
 - [C-082: Girlins Entscheidung zur Rückreise](#c-082-girlins-entscheidung-zur-rückreise)
 - [C-083: Zitate als Kapitel-Motti](#c-083-zitate-als-kapitel-motti)
 - [C-084: Mulde, Standfläche und die rohen Ringe](#c-084-mulde-standfläche-und-die-rohen-ringe)
 - [C-085: Titel für Plot 1](#c-085-titel-für-plot-1)
+- [C-087: Zeitrechnung im Erzähltext](#c-087-zeitrechnung-im-erzähltext)
+- [C-089: Azzim — Verhältnis zum Ring (harte Regel)](#c-089-azzim--verhältnis-zum-ring-harte-regel)
+- [C-092: Namenssystem des Nordvolks](#c-092-namenssystem-des-nordvolks)
+- [C-093: Prolog — Namen nach C-092 nachziehen](#c-093-prolog--namen-nach-c-092-nachziehen)
+- [C-095: Wann gilt eine Verschwundene als tot — und wann darf Semund neu heiraten?](#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -90,10 +95,17 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-021: Reale Verortung der Orte ✓](#c-021-reale-verortung-der-orte-)
 - [C-022: Tibuns Reise — Dauer, Motiv, Hof ✓](#c-022-tibuns-reise--dauer-motiv-hof-)
 - [C-023: Zeitleiste & Altersgerüst ✓](#c-023-zeitleiste--altersgerüst-)
-- [C-030: Taras Alter ✓](#c-030-taras-alter-)
+- [C-030: Trudas Alter ✓](#c-030-trudas-alter-)
 - [C-033: Nebenfiguren — eigene Dateien & strukturierte Felder ✓](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder-)
 - [C-035: Aussehen der Ringoberfläche ✓](#c-035-aussehen-der-ringoberfläche-)
 - [C-036: Altert der Ring? Patina, Moos, Ablagerungen ✓](#c-036-altert-der-ring-patina-moos-ablagerungen-)
+- [C-086: Ton in einem Satz ✓](#c-086-ton-in-einem-satz-)
+- [C-088: Verortung der Wüste ✓](#c-088-verortung-der-wüste-)
+- [C-090: Kel Aman — Eigenname und Namenssystem ✓](#c-090-kel-aman--eigenname-und-namenssystem-)
+- [C-091: Krummsäbel und Bewaffnung der Kel Aman ✓](#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)
+- [C-094: Der Sand an der Skir ✓](#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-)
+- [C-096: Korrektur — Girlins Alter ✓](#c-096-korrektur-girlins-alter-)
+- [C-097: Girlins Kinderfolge ✓](#c-097-girlins-kinderfolge--die-neun-jahre-lücke-)
 
 ---
 
@@ -117,7 +129,7 @@ Was baut Tibun als Erwachsener (~25+), um den Portalring zu zünden? (Ersatz fü
 (Aktivierung des Rings selbst → C-012.)
 
 
-### C-003: Sahrin — kulturelle Tiefe
+### C-003: Kel Aman — kulturelle Tiefe
 Nomadisches Wüstenvolk. Welche reale Kultur als Vorlage für 550 n.Chr.?
 - Kandidaten: Garamanten (Sahara, dokumentiert bis ~600 n.Chr.), Berber-Stämme, frühe arabische Stämme (vor dem Islam)
 
@@ -142,7 +154,7 @@ Wie sind die Runen auf den Ringen gestaltet (Anzahl, Anordnung, Form, Position a
 **Zu klären / Spannung:** C-010 verlangt für die Kopplung **„identische Runenkonfiguration + gleiche Ringgröße"**. Wenn die Runen sichtbar verschieden sein sollen, muss geklärt werden, was „identische Konfiguration" dann genau heißt (z. B. gleiche *Kopplungs*-Runen, aber unterschiedliche übrige Gravur/Schmuck? oder spiegelbildlich? oder Konfiguration ≠ sichtbares Muster?). Berührt direkt C-010 und C-012 (Selbsttausch neutral vs. sichtbar).
 
 ### C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft
-Durch den Tausch (C-012) wird **keine Erde/kein Sand aufgewirbelt** — der früher erwogene „Staubfontäne"-Effekt entfällt. Wie wird die Sahrin-Karawane dann auf die plötzlich erschienene Girlin aufmerksam?
+Durch den Tausch (C-012) wird **keine Erde/kein Sand aufgewirbelt** — der früher erwogene „Staubfontäne"-Effekt entfällt. Wie wird die Kel-Aman-Karawane dann auf die plötzlich erschienene Girlin aufmerksam?
 
 **Idee (Autor):** Es ist **Nacht**, und das **grüne Leuchten der Runen** (C-010) ist weithin über die Wüste sichtbar.
 
@@ -152,8 +164,8 @@ Ist die 180°-Drehung ein **simultaner Vorgang** mit dem Tausch (die Kugel wird 
 ### C-017: Weitere Ringgrößen
 Festgelegt (C-010): **3,00 m** (ortsfeste Tor-Ringe) und **0,30 m** (tragbarer Post-Ring). Gibt es im Erbauer-System weitere Größen — und wofür? Offen.
 
-### C-018: Widerspruch — Transport des Sahrin-Rings
-`zeitleiste.md` (Girlins Reise) sieht vor: *„Transport des Ringes in Bellbrims Labor"* + Experimente dort. Das widerspricht **C-007/C-010**: Der 3-m-Ring ist ~8 t schwer und **faktisch untransportierbar/ortsfest**. Beide Ringe müssen 3 m sein (sonst keine Rückkehr für Girlin, C-010) — ein kleinerer Sahrin-Ring scheidet also aus.
+### C-018: Widerspruch — Transport des Wüstenrings
+`zeitleiste.md` (Girlins Reise) sieht vor: *„Transport des Ringes in Bellbrims Labor"* + Experimente dort. Das widerspricht **C-007/C-010**: Der 3-m-Ring ist ~8 t schwer und **faktisch untransportierbar/ortsfest**. Beide Ringe müssen 3 m sein (sonst keine Rückkehr für Girlin, C-010) — ein kleinerer Wüstenring scheidet also aus.
 Optionen: (a) Bellbrim arbeitet **am Fundort** statt im Labor; (b) Transport nur mit enormem Aufwand (Nomaden, Zugtiere, Rollen) — kollidiert mit „untransportierbar"; (c) Zeitleiste anpassen. Zu klären.
 
 ### C-019: Ursache von Erwachen und Zusammenbruch
@@ -171,18 +183,64 @@ Vorteil: löst Normalbetrieb-Dramatik **und** Girlin-Unfall ohne Sonderregel; li
 Erweitert die Signal-Grammatik aus C-010 (Puls=Kopplung / Dauerglühen=Aktivierung) um *beschleunigende Pulse = Ladewarnung*. Noch nicht entschieden.
 
 ### C-024: Girlin — Herkunft & Vorgeschichte
-[Girlin](../Menschen/Nordvolk/Girlin.md) (Tibuns Mutter) ist kaum ausgearbeitet. Offen: Woher stammt sie? In Skirraa geboren oder zugezogen — und woher? Vorgeschichte vor der Ehe mit Semban. Relevant, weil sie als verschleppte Protagonistin einen eigenen Wüsten-Arc trägt.
+[Girlin](../Menschen/Nordvolk/Girlin.md) (Tibuns Mutter) ist kaum ausgearbeitet. Relevant, weil sie als verschleppte Protagonistin einen eigenen Wüsten-Arc trägt.
+
+**Entschieden (Autor, 31.08.2026):**
+- **Zugezogen**, nicht in [Skirraa](../Orte/Skirraa.md) geboren.
+- [**Semund**](../Menschen/Nordvolk/Nebenfiguren/Semund.md) **ist Tibuns leiblicher Vater**, die Ehe war regulär.
+- Alter bei Tibuns Geburt: **18** (korrigiert, [C-096 ✓](#c-096-korrektur-girlins-alter-)).
+
+**Erzählwert des Zuzugs:** Girlin hat schon einmal einen Ort verlassen und sich in einer fremden Gemeinschaft eingerichtet. Als sie in der Wüste aufwacht, tut sie zum zweiten Mal, was sie einmal überstanden hat — nur ohne Sprache und ohne Rückweg. Das ist eine Vorprägung, die man nicht erklären muss, sondern zeigen kann.
+
+**Weiterhin offen:**
+- **Woher:** aus einem **Nachbarweiler** — dieselbe Kultur, dieselbe Sprache, aber nicht dieselben Leute. Nah genug, dass niemand sie fremd nennt; weit genug, dass sie nicht dazugehört. Welcher Weiler und wie weit: · **???**
+- **Warum** kam sie nach Skirraa: Heirat, Not, Flucht, Verwaisung? · **???**
+- Lebt dort noch Familie, die zehn Winter später eine Rolle spielen könnte? · **???**
 
 ### C-025: Girlin — Charakter & Fähigkeiten
-Welche Eigenschaften und Fähigkeiten hat Girlin? Im Wüsten-Arc überlebt sie, überzeugt Bellbrim und ist am Wassergenerator beteiligt — das verlangt Findigkeit/Willensstärke. Zu klären: Charakter, Können, evtl. Parallele zu Tibuns technischer Neugier (vererbt?).
+Im Wüsten-Arc überlebt sie zehn Winter, verständigt sich mit [Bellbrim](../Menschen/Andere/Bellbrim.md) und ist am Wassergenerator beteiligt.
+
+**Entschieden (Autor, 31.08.2026):**
+
+**Sie ist willensstark und zäh — aber ihr Wille gilt ihren Kindern, nicht einem Ort.** Das ist die entscheidende Unterscheidung. Sie will nicht „heim". Sie will [Tibun](../Menschen/Nordvolk/Tibun.md) und [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) zurück — und, noch davor: sie **wissen lassen, dass es ihr gut geht**.
+
+**Sie lernt die Sprache aktiv**, weil sie erkennt, dass ihr das hilft. Keine Verweigerung, kein Rückzug: Sie arbeitet an ihrer Lage, statt sie zu erleiden. (Dauer und Verlauf → offene Sprachfrage im [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md).)
+
+**Sie will in der Wüste leben — sobald ihre Kinder wieder bei ihr sind oder es ihnen erwiesen gut geht.** Neue Liebe und das Wüstenkind ([C-081](#c-081-girlins-drittes-kind-in-der-wüste)) binden sie dorthin. Beides steht nebeneinander, nicht gegeneinander.
+
+#### Was das für den Plot bedeutet
+
+**Girlin und Tibun wollen nicht dasselbe.** Er will seine Mutter zurückholen; sie will ihre Kinder erreichen. Zehn Winter lang arbeiten beide an derselben Sache mit **unvereinbaren Zielen** — und beim Wiedersehen im Finale liegt der Konflikt bereits fertig da, ohne dass ihn jemand konstruieren muss.
+
+**Ihre Grenze ist damit gefunden, und sie ist keine Schwäche:** Sie kann nicht beide Leben haben. Ihr Fehler ist nicht Sturheit, sondern die Hoffnung, sie ließen sich zusammenbringen — sie schiebt die Entscheidung vor sich her und plant „beides", bis das Finale sie zwingt. Das erfüllt die Regel *„Grenzen sind glaubwürdiger als Fähigkeiten"*, ohne die Figur zu schwächen.
+
+**Resonanz mit der Mechanik:** Was Girlin eigentlich braucht, ist keine Reise, sondern eine **Nachricht**. Genau dafür waren die kleinen **0,30-m-Ringe** der Erbauer gedacht — ein Postsystem, das niemand mehr kennt ([C-008 ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)). Ob diese Linie gezogen wird, ist offen; sie liegt aber bereit.
+
+#### Handwerk
+**Wolle und Weben** — dasselbe Gewerbe, das [Skirraa](../Orte/Skirraa.md) trägt. In der Wüste ist das kein totes Wissen: Die Kel Aman leben von Ziegenhaar und gewebten Zelten, Wolle ist Handelsgut. Sie kann sich also **selbst ernähren, bevor [Bellbrim](../Menschen/Andere/Bellbrim.md) auftaucht** — und sie bringt eine fremde Webart mit, die auffällt. Das ist zugleich der plausibelste Weg, wie eine sprachlose Fremde überhaupt geduldet wird: Sie ist nützlich.
+
+**Weiterhin offen:**
+- **Wann kippt ihr Ziel** von „zurück" zu „beide zusammenbringen" — mit der neuen Liebe, mit dem Kind, oder früher? · **???**
+- **Was will sie im Finale konkret:** die Kinder in die Wüste holen, oder selbst zurück und dann wieder fort? Betrifft [C-082](#c-082-girlins-entscheidung-zur-rückreise) unmittelbar. · **???**
+- **Technische Neugier?** Ob die Findigkeit von ihr kommt oder von [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) — hier entscheidet sich, ob Tibuns Begabung ein Erbe ist. · **???**
 
 ### C-026: Bellbrim — historische Plausibilität & Herkunft
 [Bellbrim](../Menschen/Andere/Bellbrim.md) ist als „Wissenschaftlerin" geführt — für **550 n.Chr.** zu prüfen (Authentizitätsprinzip): Was heißt „Wissenschaftlerin" in dieser Epoche/Region konkret (Gelehrte, Heilerin, Handwerksmeisterin, Seherin)? Berührt C-003.
 
-**Neuer Befund aus der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Girlin 6):** Bellbrim **spricht mehrere Sprachen und hat ebenfalls blasse Haut**. Damit ist die Teilfrage „Sahrin oder Fremde" faktisch beantwortet — sie ist **keine Sahrin**, sondern wie [Girlin](../Menschen/Nordvolk/Girlin.md) eine Zugewanderte. Das trägt zugleich Girlin 8 („Bellbrim kann endlich übersetzen"): Die Karawane wandert gezielt zu ihr, weil sie die einzige ist, die vermitteln kann.
+**Neuer Befund aus der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Girlin 6):** Bellbrim **spricht mehrere Sprachen und hat ebenfalls blasse Haut**. Damit ist die Teilfrage „Kel Aman oder Fremde" faktisch beantwortet — sie ist **keine Kel Aman**, sondern wie [Girlin](../Menschen/Nordvolk/Girlin.md) eine Zugewanderte. Das trägt zugleich Girlin 8 („Bellbrim kann endlich übersetzen"): Die Karawane wandert gezielt zu ihr, weil sie die einzige ist, die vermitteln kann.
 
 Was dadurch **neu** offen wird:
 - **Woher** kommt sie, und wie ist sie in die Wüste gelangt? Ein blasshäutiger Mensch mit Mehrsprachigkeit im Wüstenraum um 550 n.Chr. braucht einen Weg dorthin (Handel, Verschleppung, Flucht, Gelehrtenmigration).
+
+**Entschieden (Autor, 31.08.2026): Bellbrim ist Vandalin.** Folge aus der Verortung im Fezzan ([C-088 ✓](#c-088-verortung-der-wüste-)). Nordafrika war **429–534 Vandalenreich** — Ostgermanen. 534 zerschlägt Byzanz es; versprengte Vandalen bleiben als Sklaven, Söldner und Flüchtlinge im Land, ein Teil weicht ins Landesinnere aus. Eine blasse, gebildete, mehrsprachige Frau um 550 südlich von Tripolitanien ist damit historisch naheliegend statt konstruiert.
+
+Was das löst:
+- **Blasse Haut** — erklärt, ohne Sonderfall zu sein.
+- **Mehrsprachigkeit** — Vandalisch, Latein, dazu Berberisch und Handelssprachen aus den Jahren in der Wüste. Kein Zufall, sondern Biografie: Das Vandalenreich war zweisprachig (germanisch/lateinisch), seine Oberschicht lesekundig.
+- **Die Sprachbarriere bleibt erhalten.** Vandalisch ist *ost*germanisch, [Girlins](../Menschen/Nordvolk/Girlin.md) Sprache proto-nordisch — verwandt, aber rund 500 Jahre auseinander. Verständigung ist mühsam und braucht Monate; sie wird nicht weggeräumt, sondern erzählt. Berührt die Sprachfrage im [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md).
+- **Gelehrsamkeit** — ein untergegangenes Reich mit römischem Erbe erklärt Schrift und technisches Wissen, ohne eine „Wissenschaftlerin" von 550 erfinden zu müssen.
+
+**Weiterhin offen:** Alter bei der Flucht, wie genau sie in den Fezzan kam (verschleppt? mit einem Händlerzug? freiwillig?), und was aus ihrer Familie wurde → [C-027](#c-027-bellbrim--vorgeschichte-familie--fähigkeiten). Ebenso, was „Gelehrte" bei ihr konkret heißt — Mechanik, Heilkunde, Schrift.
 - **Wie viele Jahre** lebt sie schon dort? Sie ist beim Kennenlernen ~40 ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)).
 - **Spricht sie ausgerechnet Girlins Sprache?** Mehrsprachigkeit allein genügt nicht — Girlins proto-skandinavische Mundart ist selten. Entweder stammt Bellbrim aus dem nordischen Raum, oder es braucht eine Brückensprache. Wenn Ersteres: Warum? Ein zweiter Mensch aus dem Norden in derselben Wüste ist ein starker Zufall.
 
@@ -191,11 +249,11 @@ Der letzte Punkt ist der kritische — er entscheidet, ob die Übersetzung glaub
 ### C-027: Bellbrim — Vorgeschichte, Familie & Fähigkeiten
 Frühes Leben, Familie und konkrete Fähigkeiten sind offen. Was genau kann sie (Mechanik, Naturkunde, Schrift?), wie wurde sie das, und wie passt das zu C-026?
 
-### C-028: Assim Atwan — Herkunft & Hintergrund
-[Assim Atwan](../Menschen/Wuestenvolk/Assim-Atwan.md) (Antagonist) ist in Alter, Herkunft, Familie und Vorgeschichte offen. Früherer Story-Hook: möglicherweise ein **abtrünniger Sahrin**, der die Bräuche seines Volkes verraten hat (siehe [Sahrin](../Menschen/Wuestenvolk/Sahrin.md)) — zu bestätigen oder zu verwerfen. Berührt C-003.
+### C-028: Azzim u-Tawan — Herkunft & Hintergrund
+[Azzim u-Tawan](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) (Antagonist) ist in Alter, Herkunft, Familie und Vorgeschichte offen. Früherer Story-Hook: möglicherweise ein **abtrünniger Kel Aman**, der die Bräuche seines Volkes verraten hat (siehe [Kel Aman](../Menschen/Wuestenvolk/Kel-Aman.md)) — zu bestätigen oder zu verwerfen. Berührt C-003.
 
-### C-029: Assim Atwan — Charakter, Motivation & Fähigkeiten
-Was treibt Assim an (über „Sklaverei/Schmuggel" hinaus)? Charakter, Mittel und besondere Fähigkeiten als glaubwürdiger Gegenspieler — und warum er gerade Girlin/den Ring ins Visier nimmt.
+### C-029: Azzim u-Tawan — Charakter, Motivation & Fähigkeiten
+Was treibt Azzim an (über „Sklaverei/Schmuggel" hinaus)? Charakter, Mittel und besondere Fähigkeiten als glaubwürdiger Gegenspieler — und warum er gerade Girlin/den Ring ins Visier nimmt.
 
 ### C-031: Tibun — Inspiration/Besetzung
 Vorbild/Besetzung (Schauspieler oder Figur-Inspiration) für [Tibun](../Menschen/Nordvolk/Tibun.md) noch offen. Autorenebene (Todo), keine Story-Frage.
@@ -242,36 +300,36 @@ Die Szene zeichnet mit Fischer, **Bootsbauer** und dessen Sohn ein Küsten-Fisch
 
 **Entschieden:** Fischer-/Bootsbauer-Milieu **gestrichen**. Skirraa bleibt Heide-/Moor-Weiler mit Tierzucht; Tibuns Hof = Schaf-/Wollhof abseits (Herde, Schur, Stoffherstellung; abseits wegen Platz, Lärm, Geruch; dennoch geachtet wegen guter Wollqualität). **Umsetzung in der Szene offen** (siehe [C-065](#c-065-prolog--fischerdorf-milieu-nachziehen)) — der Wollhof steht bereits kanon-konform im Text, das Fischer-/Bootsbauer-Milieu noch drin.
 
-**Hinweis:** Das Familienhandwerk stammt bereits aus der Original-Szene von 2015, war aber **nie ins Wiki übernommen** worden. Jetzt verankert in [Tibun](../Menschen/Nordvolk/Tibun.md), [Skirraa](../Orte/Skirraa.md) und [Semban](../Menschen/Nordvolk/Nebenfiguren/Semban.md).
+**Hinweis:** Das Familienhandwerk stammt bereits aus der Original-Szene von 2015, war aber **nie ins Wiki übernommen** worden. Jetzt verankert in [Tibun](../Menschen/Nordvolk/Tibun.md), [Skirraa](../Orte/Skirraa.md) und [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md).
 
 ### C-041: Prolog — Bernstein-Fundort
 Tibun findet den Bernstein laut Szene „im Flussbett" des Bachs. In Jütland ist Bernstein **Strandgut** (Skagerrak/Nordsee), kein Flussfund. Fundort auf Küste/Strand umstellen (passt zu Skirraas Lage kurz vor den Dünen).
 
 **Entschieden:** Der Bernstein ist ein **Geschenk seiner Mutter [Girlin](../Menschen/Nordvolk/Girlin.md)**. Sie kennt die Herkunft, verrät sie aber nie — **Tibun** weiß nicht, woher der Stein stammt (offener Faden → [C-044](#c-044-herkunft-von-girlins-bernstein)). Ersetzt den Bachbett-Fund und koppelt an [C-043](#c-043-prolog--herzschmerz-rahmen-nutzen-fürs-gesamtwerk). **Umsetzung in der Szene offen** (siehe [C-066](#c-066-prolog--bernstein-herkunft-nachziehen)).
 
-### C-042: Prolog — Nebenfiguren Jolyl, Herik, Lanke
-Die Szene führt **Jolyl** (Liebe Tibuns), **Herik** (Sohn des Bootsbauers, Tibuns Freund) und **Lanke** (Bootsbauer) ein — keine davon im Wiki. Entscheiden: bleiben sie? Wenn ja, eigene Dateien unter `Nebenfiguren/` + Verlinkung ([C-033](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder-)). Jolyl taucht im späteren Kanon nicht wieder auf — Rolle klären.
+### C-042: Prolog — Nebenfiguren Frida, Herik, Lanke
+Die Szene führt **Frida** (Liebe Tibuns), **Herik** (Sohn des Bootsbauers, Tibuns Freund) und **Lanke** (Bootsbauer) ein — keine davon im Wiki. Entscheiden: bleiben sie? Wenn ja, eigene Dateien unter `Nebenfiguren/` + Verlinkung ([C-033](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder-)). Frida taucht im späteren Kanon nicht wieder auf — Rolle klären.
 
-**Entschieden:** **Jolyl** = Mädchen aus Skirraa (lokal). **Herik** = Hofsohn von auswärts (Gegend um Tingsal), die „bessere Partie" — schärft Tibuns Stich. **Lanke** = Heriks Vater, ortsfremder Hofbesitzer. Bleiben als Nebenfiguren. Eigene Wiki-Dateien nach [C-033](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder-) **angelegt** ([Jolyl](../Menschen/Nordvolk/Nebenfiguren/Jolyl.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Lanke](../Menschen/Nordvolk/Nebenfiguren/Lanke.md)), in README-Index und SUMMARY eingetragen. **Umsetzung in der Szene offen** (siehe [C-067](#c-067-prolog--rollen-von-herik-und-lanke-nachziehen)) — die Namen stimmen, die Rollen noch nicht.
+**Entschieden:** **Frida** = Mädchen aus Skirraa (lokal). **Herik** = Hofsohn von auswärts (Gegend um Tingsal), die „bessere Partie" — schärft Tibuns Stich. **Lanke** = Heriks Vater, ortsfremder Hofbesitzer. Bleiben als Nebenfiguren. Eigene Wiki-Dateien nach [C-033](#c-033-nebenfiguren--eigene-dateien--strukturierte-felder-) **angelegt** ([Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md), [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md), [Lanke](../Menschen/Nordvolk/Nebenfiguren/Lanke.md)), in README-Index und SUMMARY eingetragen. **Umsetzung in der Szene offen** (siehe [C-067](#c-067-prolog--rollen-von-herik-und-lanke-nachziehen)) — die Namen stimmen, die Rollen noch nicht.
 
-**Restliche offene Felder** je Figur ausgelagert: [C-051 Jolyl](#c-051-jolyl--offene-felder), [C-052 Herik](#c-052-herik--offene-felder), [C-053 Lanke](#c-053-lanke--offene-felder).
+**Restliche offene Felder** je Figur ausgelagert: [C-051 Frida](#c-051-frida--offene-felder), [C-052 Herik](#c-052-herik--offene-felder), [C-053 Lanke](#c-053-lanke--offene-felder).
 
 ### C-043: Prolog — Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk
-Die Entdeckung des Bernstein-Effekts ist an Tibuns **Liebeskummer** (Jolyls Verlobung mit Herik) gekoppelt: er wirft die Kette aus Wut → Funke. Dramaturgisch tragfähig, aber die Leitfrage („interessiert das einen Leser in 30 Jahren?") stellt sich: Trägt der Herzschmerz-Rahmen, oder sollte die Entdeckung an ein Motiv mit späterem Payoff gebunden werden? Entscheiden.
+Die Entdeckung des Bernstein-Effekts ist an Tibuns **Liebeskummer** (Fridas Verlobung mit Herik) gekoppelt: er wirft die Kette aus Wut → Funke. Dramaturgisch tragfähig, aber die Leitfrage („interessiert das einen Leser in 30 Jahren?") stellt sich: Trägt der Herzschmerz-Rahmen, oder sollte die Entdeckung an ein Motiv mit späterem Payoff gebunden werden? Entscheiden.
 
-**Entschieden:** Herzschmerz-Rahmen (Jolyl) **bleibt**. Zusätzlicher Payoff über [C-041](#c-041-prolog--bernstein-fundort): Der Bernstein stammt von **Girlin** — Tibun verschenkt das Muttergeschenk an Jolyl; **ein Jahr später** verschwindet Girlin durch dasselbe elektrische Prinzip ([C-008](#c-008-anzahl-und-bekanntheit-der-ringe-)). Der kleine Prolog-Funke wird zur stillen Vorahnung der Katastrophe; der Bernstein verknüpft Liebe (Mutter), Verlust und Technik — genau das Material, mit dem Tibun später den Ring zünden will.
+**Entschieden:** Herzschmerz-Rahmen (Frida) **bleibt**. Zusätzlicher Payoff über [C-041](#c-041-prolog--bernstein-fundort): Der Bernstein stammt von **Girlin** — Tibun verschenkt das Muttergeschenk an Frida; **ein Jahr später** verschwindet Girlin durch dasselbe elektrische Prinzip ([C-008](#c-008-anzahl-und-bekanntheit-der-ringe-)). Der kleine Prolog-Funke wird zur stillen Vorahnung der Katastrophe; der Bernstein verknüpft Liebe (Mutter), Verlust und Technik — genau das Material, mit dem Tibun später den Ring zünden will.
 
 ### C-044: Herkunft von Girlins Bernstein
 Aus [C-041](#c-041-prolog--bernstein-fundort): Girlin schenkt Tibun den Bernstein und **kennt** dessen Herkunft, verrät sie ihm aber nie. Offen: Woher stammt der Stein wirklich? Bewusst als **offener Faden** gehalten — möglicher späterer Payoff (Anknüpfung an Girlins Vorgeschichte [C-024](#c-024-girlin--herkunft--vorgeschichte) oder den Ring). Noch nichts festlegen. Klein.
 
-### C-045: Semban — offene Felder
-[Semban](../Menschen/Nordvolk/Nebenfiguren/Semban.md) (Tibuns Vater): Frühes Leben, Fähigkeiten und Inspiration stehen auf `???`. Seine Story-Funktion (führt den Hof weiter, bindet sich rasch an Mellia) ist über [C-022](#c-022-tibuns-reise--dauer-motiv-hof-) geklärt — die Person dahinter nicht.
+### C-045: Semund — offene Felder
+[Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) (Tibuns Vater): Frühes Leben, Fähigkeiten und Inspiration stehen auf `???`. Seine Story-Funktion (führt den Hof weiter, bindet sich rasch an Millia) ist über [C-022](#c-022-tibuns-reise--dauer-motiv-hof-) geklärt — die Person dahinter nicht.
 
-### C-046: Mellia — offene Felder
-[Mellia](../Menschen/Nordvolk/Nebenfiguren/Mellia.md): Alter, Herkunft, Fähigkeiten, Inspiration auf `???`. Ihre Funktion (Girlins frühere Freundin, Sembans schneller Ersatz) ist geklärt; Vorgeschichte und Charakter nicht.
+### C-046: Millia — offene Felder
+[Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md): Alter, Herkunft, Fähigkeiten, Inspiration auf `???`. Ihre Funktion (Girlins frühere Freundin, Semunds schneller Ersatz) ist geklärt; Vorgeschichte und Charakter nicht.
 
-### C-047: Tara — offene Felder
-[Tara](../Menschen/Nordvolk/Nebenfiguren/Tara.md) (Tibuns Schwester): Frühes Leben, Fähigkeiten, Inspiration auf `???`. Alter ist über [C-030](#c-030-taras-alter-) geklärt. Offen ist vor allem, **ob sie eine eigene Rolle** bekommt — sie ist beim Verschwinden der Mutter 9 und beim Finale 19.
+### C-047: Truda — offene Felder
+[Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) (Tibuns Schwester): Frühes Leben, Fähigkeiten, Inspiration auf `???`. Alter ist über [C-030](#c-030-trudas-alter-) geklärt. Offen ist vor allem, **ob sie eine eigene Rolle** bekommt — sie ist beim Verschwinden der Mutter 9 und beim Finale 19.
 
 ### C-048: Hadurik — offene Felder
 [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) (Häuptling von [Tingsal](../Orte/Tingsal.md)): Alter, Familie, Frühes Leben, Fähigkeiten, Inspiration auf `???`. Charakter und Rolle als regionale Autorität laufen bereits unter [C-009](#c-009-häuptling-von-tingsal) — diese Challenge deckt die **Personendaten**, C-009 die Story-Funktion.
@@ -282,11 +340,11 @@ Aus [C-041](#c-041-prolog--bernstein-fundort): Girlin schenkt Tibun den Bernstei
 ### C-050: Wandernde Wala — offene Felder
 [Wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) (Zwillingsschwester der sesshaften Wala): Alter, Herkunft, Fähigkeiten, Inspiration auf `???`; Rolle ebenfalls ohne Szene. Zu klären zusammen mit [C-049](#c-049-wala-von-tingsal--offene-felder) — brauchen wir **zwei** Seherinnen?
 
-### C-051: Jolyl — offene Felder
-[Jolyl](../Menschen/Nordvolk/Nebenfiguren/Jolyl.md): Alter, Fähigkeiten, Inspiration und der Name ihres Vaters auf `???`. Wichtigste Frage bleibt (aus [C-042](#c-042-prolog--nebenfiguren-jolyl-herik-lanke)): Tritt sie nach dem Prolog noch einmal auf?
+### C-051: Frida — offene Felder
+[Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md): Alter, Fähigkeiten, Inspiration und der Name ihres Vaters auf `???`. Wichtigste Frage bleibt (aus [C-042](#c-042-prolog--nebenfiguren-frida-herik-lanke)): Tritt sie nach dem Prolog noch einmal auf?
 
 ### C-052: Herik — offene Felder
-[Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md): Alter, Fähigkeiten, Inspiration auf `???`. Ebenso offen, ob er nach dem Prolog noch eine Rolle spielt ([C-042](#c-042-prolog--nebenfiguren-jolyl-herik-lanke)).
+[Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md): Alter, Fähigkeiten, Inspiration auf `???`. Ebenso offen, ob er nach dem Prolog noch eine Rolle spielt ([C-042](#c-042-prolog--nebenfiguren-frida-herik-lanke)).
 
 ### C-053: Lanke — offene Felder
 [Lanke](../Menschen/Nordvolk/Nebenfiguren/Lanke.md): Alter, Frühes Leben, Fähigkeiten, Inspiration auf `???`. Derzeit reine Funktionsfigur des Prologs — gut möglich, dass hier alles **bewusst offen** bleibt; das entscheidet der Autor.
@@ -320,7 +378,7 @@ Neuer Beat aus der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil-
 
 Offene Punkte:
 - **Womit experimentiert er?** Die Skizze notiert „(Wasserrad / **Turm ???**)" — Wasserrad ist gesetzt, ein Turm als zweite Bauform ist die offene Frage des Autors. Ein Turm wäre eine deutlich größere, sichtbarere Konstruktion im Weiler und bräuchte einen Zweck (Fallhöhe? Aussicht?).
-- **Wer** wird verletzt (Nebenfigur oder [Tara](../Menschen/Nordvolk/Nebenfiguren/Tara.md)?) und **wie schwer**?
+- **Wer** wird verletzt (Nebenfigur oder [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md)?) und **wie schwer**?
 - Ist der Unfall **Mitauslöser** für Tibuns Aufbruch? Die Skizze setzt ihn direkt davor — das legt eine Kausalkette (Schuld → Flucht) nahe, die die Zeitleiste noch nicht kennt.
 
 **Ergänzung aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Tibun 7):** Dort experimentiert Tibun mit dem **„Blitzeffekt"** und verletzt dabei jemanden — nicht am Wasserrad. Das ist mit dem Kanon **nicht vereinbar**: [C-002](#c-002-tibuns-elektrizitätsquelle) und [Elektrizität](../Technik/Elektrizitaet.md) legen fest, dass statische Entladung einen schmerzhaften Funken erzeugt, aber **keine Verletzung** — die Gefahr am Generator kommt ausdrücklich aus dem *mechanischen* Teil. Dieselbe Kollision wurde im Prolog schon einmal gelöst ([C-039](#c-039-prolog--funke-entzündet-wolle)).
@@ -328,10 +386,10 @@ Offene Punkte:
 Die Fassung der Skizze (Wasserrad) ist damit die kanonkonforme. Denkbar bliebe eine Mischform: Tibun **wollte** den Blitzeffekt vorführen, der Unfall passiert aber am mechanischen Antrieb — dann trägt er die Schuld an einem Experiment, das ihn selbst nie hätte verletzen können. Nicht entschieden.
 
 ### C-059: Tibuns Zieheltern in Kaupvik
-[Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Tibun 8–9): Tibun kommt in [Kaupvik](../Orte/Kaupvik.md) bei einem **Paar** unter, arbeitet mit dem Mann am Hafen, die beiden werden Freunde, der Mann wird Tibuns **neue Bezugsperson**. Beide Figuren existieren im Wiki noch nicht — keine Namen, kein Gewerbe, keine Herkunft. Dramaturgisch wichtig: Das ist der Gegenentwurf zu [Semban](../Menschen/Nordvolk/Nebenfiguren/Semban.md) und damit die emotionale Achse der Wanderjahre. Berührt [C-034](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft) (Lebensgrundlage).
+[Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Tibun 8–9): Tibun kommt in [Kaupvik](../Orte/Kaupvik.md) bei einem **Paar** unter, arbeitet mit dem Mann am Hafen, die beiden werden Freunde, der Mann wird Tibuns **neue Bezugsperson**. Beide Figuren existieren im Wiki noch nicht — keine Namen, kein Gewerbe, keine Herkunft. Dramaturgisch wichtig: Das ist der Gegenentwurf zu [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) und damit die emotionale Achse der Wanderjahre. Berührt [C-034](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft) (Lebensgrundlage).
 
 ### C-060: Girlin und der Neffe
-[Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Girlin 7) bietet zwei Varianten an: Girlin und der Neffe kommen sich näher — **oder** die Frau des Neffen brennt erst durch und sie kommen sich danach näher. Offen ist zudem: **wessen** Neffe (Häuptling der Nomaden? [Bellbrim](../Menschen/Andere/Bellbrim.md)?), ob die Figur einen Namen bekommt und ob die Linie überhaupt bleibt. Anmerkung: Variante 2 („Frau brennt durch") entlastet Girlin moralisch, kostet aber Konfliktpotenzial. Girlin ist zu diesem Zeitpunkt Mitte 30 und weiß nicht, ob [Semban](../Menschen/Nordvolk/Nebenfiguren/Semban.md) noch lebt — das ist der eigentliche Konflikt und sollte nicht wegvereinfacht werden.
+[Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Girlin 7) bietet zwei Varianten an: Girlin und der Neffe kommen sich näher — **oder** die Frau des Neffen brennt erst durch und sie kommen sich danach näher. Offen ist zudem: **wessen** Neffe (Häuptling der Nomaden? [Bellbrim](../Menschen/Andere/Bellbrim.md)?), ob die Figur einen Namen bekommt und ob die Linie überhaupt bleibt. Anmerkung: Variante 2 („Frau brennt durch") entlastet Girlin moralisch, kostet aber Konfliktpotenzial. Girlin ist zu diesem Zeitpunkt Ende 30 und weiß nicht, ob [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) noch lebt — das ist der eigentliche Konflikt und sollte nicht wegvereinfacht werden.
 
 **Ältere Fassung aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 5 und 7) — beantwortet die Frage „wessen Neffe?" auf ihre Weise: gar keiner.** Dort finden **Girlin und der Häuptling selbst** zueinander, und durchgebrannt ist die **Frau des Häuptlings** mit einem seiner Männer.
 
@@ -342,28 +400,28 @@ Das ist die deutlich klarere Konstruktion:
 
 **Tendenz (Claude): Häuptling statt Neffe.** Eine Figur weniger, drei Probleme gelöst. Entschieden ist nichts.
 
-Hängt an [C-081](#c-081-girlins-zweites-kind-in-der-wüste) (in Plot 1 folgt das Kind unmittelbar auf diesen Beat) und [C-080](#c-080-girlins-entführung-und-rettung) (läuft dort parallel).
+Hängt an [C-081](#c-081-girlins-drittes-kind-in-der-wüste) (in Plot 1 folgt das Kind unmittelbar auf diesen Beat) und [C-080](#c-080-girlins-entführung-und-rettung) (läuft dort parallel).
 
 ### C-061: Navigationswissen des Häuptlings
 [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) (Girlin 10–11): Nach großer Verzweiflung über den unbekannten Ring-Standort **offenbart der Häuptling sein Wissen zur Navigation**, die Nomaden finden den Ring und transportieren ihn zu Bellbrim. Offen: **Welches** Wissen (Sternnavigation, Wegmarken, mündliche Routenüberlieferung)? Warum hat er es **zurückgehalten**? Historisch tragfähig ist Sternnavigation plus tradierte Landmarken — ohne Karte, ohne Instrument. **Achtung Deus ex Machina:** Ein Häuptling, der im Moment der Verzweiflung genau die fehlende Information hat, kippt schnell ins Verbotene. Es braucht einen Grund für das Schweigen (Tabu, Preis, Misstrauen gegenüber der Fremden). Der Transport-Beat ist zugleich ein Lösungsvorschlag zu [C-018](#c-018-widerspruch--transport-des-sahrin-rings).
 
-### C-062: Assims Ankunft vor Tibuns Zündung
-Widerspruch zwischen [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#zusammenführung-unter-dem-trennstrich) und [Zeitleiste](../Plots/Plot-1/Zeitleiste.md). Die Skizze setzt Tibun beim Zusammentreffen „**kurz vor der Vollendung**" — Assim taucht also auf, **bevor** Tibun gezündet hat. Die Zeitleiste führt dagegen „Tibuns erste Zündung" und die Aktivierung in der Wüste als **dasselbe Ereignis** ([C-012](#c-012-aktivierungsverhalten-des-rings-)).
+### C-062: Azzims Ankunft vor Tibuns Zündung
+Widerspruch zwischen [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#zusammenführung-unter-dem-trennstrich) und [Zeitleiste](../Plots/Plot-1/Zeitleiste.md). Die Skizze setzt Tibun beim Zusammentreffen „**kurz vor der Vollendung**" — Azzim taucht also auf, **bevor** Tibun gezündet hat. Die Zeitleiste führt dagegen „Tibuns erste Zündung" und die Aktivierung in der Wüste als **dasselbe Ereignis** ([C-012](#c-012-aktivierungsverhalten-des-rings-)).
 
-Beides ist vereinbar, wenn die Auslösung **von der Wüstenseite** kommt (Kampf bei Bellbrim aktiviert den Sahrin-Ring, der Skir-Ring flippt simultan mit) — dann ist Tibuns Anlage aber gar nicht die Ursache, und seine zehn Jahre Arbeit verlieren ihre dramaturgische Zahlung. Zu entscheiden: **Wer zündet zuerst** — und wenn die Wüste zuerst zündet, wofür ist Tibuns Anlage dann noch nötig?
+Beides ist vereinbar, wenn die Auslösung **von der Wüstenseite** kommt (Kampf bei Bellbrim aktiviert den Wüstenring, der Skir-Ring flippt simultan mit) — dann ist Tibuns Anlage aber gar nicht die Ursache, und seine zehn Jahre Arbeit verlieren ihre dramaturgische Zahlung. Zu entscheiden: **Wer zündet zuerst** — und wenn die Wüste zuerst zündet, wofür ist Tibuns Anlage dann noch nötig?
 
-**Dritte Variante aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 12, dort als „Optional" markiert):** *„Sie will gerade los, da kommt Tibun durch den Ring."* Also die **umgekehrte Reiserichtung** — nicht Assim reist zu Tibun, sondern **Tibun reist in die Wüste**.
+**Dritte Variante aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 12, dort als „Optional" markiert):** *„Sie will gerade los, da kommt Tibun durch den Ring."* Also die **umgekehrte Reiserichtung** — nicht Azzim reist zu Tibun, sondern **Tibun reist in die Wüste**.
 
 Das löst das Zahlungsproblem sauber: Tibun zündet, Tibun reist, Tibun findet seine Mutter. Zehn Jahre Arbeit münden in genau die Tat, auf die sie hinarbeiten. Beide vorhandenen Varianten lassen ihn dagegen passiv in seiner Werkstatt stehen, während das Finale zu ihm kommt.
 
-**Preis:** Das Wiedersehen findet dann in der Wüste statt, nicht daheim, und Girlins Rückkehr ([C-082](#c-082-girlins-entscheidung-zur-rückreise)) wird zur gemeinsamen Rückreise — mit allem, was [C-081](#c-081-girlins-zweites-kind-in-der-wüste) daran hängt. Außerdem ist unklar, wo Assim in dieser Variante bleibt. Nicht entschieden.
+**Preis:** Das Wiedersehen findet dann in der Wüste statt, nicht daheim, und Girlins Rückkehr ([C-082](#c-082-girlins-entscheidung-zur-rückreise)) wird zur gemeinsamen Rückreise — mit allem, was [C-081](#c-081-girlins-drittes-kind-in-der-wüste) daran hängt. Außerdem ist unklar, wo Azzim in dieser Variante bleibt. Nicht entschieden.
 
 ### C-063: Prolog — Szene auf Autorenfassung zurückgerollt
 [Die-Entdeckung.md](../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md) steht wieder auf der **Originalfassung des Autors** („ver 2.2", Stand vor der Wiki-Überarbeitung). Die im Wiki getroffenen Prolog-Entscheidungen sind darin **nicht enthalten** — der Wortlaut bleibt bewusst der des Autors, die Kanon-Anpassungen müssen aber noch von Hand eingearbeitet werden.
 
-Betroffene Entscheidungen, je als eigene Challenge: [C-064](#c-064-prolog--dorfplatz-und-verlobungsschauplatz-nachziehen) (Schauplatz), [C-065](#c-065-prolog--fischerdorf-milieu-nachziehen) (Milieu), [C-066](#c-066-prolog--bernstein-herkunft-nachziehen) (Bernstein), [C-067](#c-067-prolog--rollen-von-herik-und-lanke-nachziehen) (Herik/Lanke), [C-068](#c-068-prolog--brand-und-brandblasen-nachziehen) (Feuer), [C-069](#c-069-prolog--jolyls-familie-und-stiefvater) (Jolyls Familie), [C-070](#c-070-prolog--dateikopf-und-versionszeile) (Dateikopf), [C-071](#c-071-prolog--tibuns-alter-und-heiratsantrag) (Alter).
+Betroffene Entscheidungen, je als eigene Challenge: [C-064](#c-064-prolog--dorfplatz-und-verlobungsschauplatz-nachziehen) (Schauplatz), [C-065](#c-065-prolog--fischerdorf-milieu-nachziehen) (Milieu), [C-066](#c-066-prolog--bernstein-herkunft-nachziehen) (Bernstein), [C-067](#c-067-prolog--rollen-von-herik-und-lanke-nachziehen) (Herik/Lanke), [C-068](#c-068-prolog--brand-und-brandblasen-nachziehen) (Feuer), [C-069](#c-069-prolog--fridas-familie-und-stiefvater) (Fridas Familie), [C-070](#c-070-prolog--dateikopf-und-versionszeile) (Dateikopf), [C-071](#c-071-prolog--tibuns-alter-und-heiratsantrag) (Alter).
 
-[C-038](#c-038-prolog--ortsmaßstab-in-skirraa), [C-040](#c-040-prolog--fischerdorf-vs-heide-weiler), [C-041](#c-041-prolog--bernstein-fundort) und [C-042](#c-042-prolog--nebenfiguren-jolyl-herik-lanke) sind deshalb auf **„Umsetzung in der Szene offen"** zurückgesetzt — die inhaltlichen Entscheidungen selbst bleiben gültig.
+[C-038](#c-038-prolog--ortsmaßstab-in-skirraa), [C-040](#c-040-prolog--fischerdorf-vs-heide-weiler), [C-041](#c-041-prolog--bernstein-fundort) und [C-042](#c-042-prolog--nebenfiguren-frida-herik-lanke) sind deshalb auf **„Umsetzung in der Szene offen"** zurückgesetzt — die inhaltlichen Entscheidungen selbst bleiben gültig.
 
 ### C-064: Prolog — Dorfplatz und Verlobungsschauplatz nachziehen
 Die Szene spielt auf einem „Dorfplatz/Marktplatz" mit **Rednerpodest** und einberufener **Versammlung**; durchgehend ist von „Dorf" die Rede. [C-038 entschieden](#c-038-prolog--ortsmaßstab-in-skirraa): Verlobung **beim Großbauern** im kleinen Rahmen, [Skirraa](../Orte/Skirraa.md) ist ein **Weiler** mit ~6 Höfen. Nachzuziehen: Schauplatz, Podest, Menschenmenge und die Wortwahl „Dorf".
@@ -375,19 +433,19 @@ In der Szene sind **Fischer** und **Bootsbauer** tragende Berufe des Orts. [C-04
 Die Szene lässt Tibun den Bernstein selbst **im Flussbett** finden. [C-041 entschieden](#c-041-prolog--bernstein-fundort): Der Stein ist ein **Geschenk seiner Mutter [Girlin](../Menschen/Nordvolk/Girlin.md)**, Herkunft für Tibun unbekannt ([C-044](#c-044-herkunft-von-girlins-bernstein)). Daran hängt der Payoff aus [C-043](#c-043-prolog--herzschmerz-rahmen-nutzen-fürs-gesamtwerk) — von allen Nachzieh-Punkten der **inhaltlich schwerste**, weil er die Bedeutung des Steins verändert.
 
 ### C-067: Prolog — Rollen von Herik und Lanke nachziehen
-In der Szene ist **Lanke** der Bootsbauer **aus dem Dorf** und **Herik** dessen Sohn und **Tibuns guter Freund** aus gemeinsamen Kindertagen. [C-042 entschieden](#c-042-prolog--nebenfiguren-jolyl-herik-lanke) und in [Herik.md](../Menschen/Nordvolk/Nebenfiguren/Herik.md)/[Lanke.md](../Menschen/Nordvolk/Nebenfiguren/Lanke.md) verankert: beide sind **ortsfremd** (Gegend um [Tingsal](../Orte/Tingsal.md)), Herik die „bessere Partie", Tibun kaum bekannt. Die Namen selbst stimmen bereits überein. Zu klären ist dabei auch, ob die **Freundschaft** zwischen Tibun und Herik erhalten bleiben soll — sie schärft den Stich anders als die Fremdheit.
+In der Szene ist **Lanke** der Bootsbauer **aus dem Dorf** und **Herik** dessen Sohn und **Tibuns guter Freund** aus gemeinsamen Kindertagen. [C-042 entschieden](#c-042-prolog--nebenfiguren-frida-herik-lanke) und in [Herik.md](../Menschen/Nordvolk/Nebenfiguren/Herik.md)/[Lanke.md](../Menschen/Nordvolk/Nebenfiguren/Lanke.md) verankert: beide sind **ortsfremd** (Gegend um [Tingsal](../Orte/Tingsal.md)), Herik die „bessere Partie", Tibun kaum bekannt. Die Namen selbst stimmen bereits überein. Zu klären ist dabei auch, ob die **Freundschaft** zwischen Tibun und Herik erhalten bleiben soll — sie schärft den Stich anders als die Fremdheit.
 
 ### C-068: Prolog — Brand und Brandblasen nachziehen
 In der Szene fangen Wollreste **Feuer**, Tibun löscht mit bloßen Händen und trägt **Brandblasen** davon. [C-039 entschieden](#c-039-prolog--funke-entzündet-wolle): nur **kurzes Ansengen loser Flusen**, kein Brand, keine Brandwunden — die Gefahr entsteht allein aus **Tibuns Schreck**. Physikalisch blockierend (siehe [Elektrizität](../Technik/Elektrizitaet.md)); ebenso das später „verkohlte" Stück, das aus dem Stein gebrochen sein soll.
 
-### C-069: Prolog — Jolyls Familie und Stiefvater
-Die Szene gibt Jolyl eine **zugezogene Mutter** und einen **Stiefvater** (Fischer aus dem Dorf, ruft die Versammlung ein, arrangiert die Verlobung). Das Wiki führt bei [Jolyl](../Menschen/Nordvolk/Nebenfiguren/Jolyl.md) nur einen namenlosen Vater (`???`, siehe [C-051](#c-051-jolyl--offene-felder)). Zu entscheiden: Bleibt die Stiefvater-Konstruktion und der Zuzug — und wenn ja, mit welchem Gewerbe (Fischer entfällt nach [C-065](#c-065-prolog--fischerdorf-milieu-nachziehen))? Danach Wiki-Datei nachtragen.
+### C-069: Prolog — Fridas Familie und Stiefvater
+Die Szene gibt Frida eine **zugezogene Mutter** und einen **Stiefvater** (Fischer aus dem Dorf, ruft die Versammlung ein, arrangiert die Verlobung). Das Wiki führt bei [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) nur einen namenlosen Vater (`???`, siehe [C-051](#c-051-frida--offene-felder)). Zu entscheiden: Bleibt die Stiefvater-Konstruktion und der Zuzug — und wenn ja, mit welchem Gewerbe (Fischer entfällt nach [C-065](#c-065-prolog--fischerdorf-milieu-nachziehen))? Danach Wiki-Datei nachtragen.
 
 ### C-070: Prolog — Dateikopf und Versionszeile
 Die Datei beginnt mit der Zeile „Die Entdeckung (ver 2.2)" statt mit einer Markdown-Überschrift; Versionsnummer und Absatzformatierung folgen nicht der Wiki-Konvention (siehe [Regeln.md](Regeln.md)), Zeilenumbrüche fehlen zwischen Absätzen. Rein formal — Wortlaut bleibt unangetastet. Klein.
 
 ### C-071: Prolog — Tibuns Alter und Heiratsantrag
-In der Szene will Tibun **um Jolyls Hand anhalten**, wird aber durchweg als „Junge" gezeichnet; [Szenen/README](../Plots/Plot-1/Szenen/README.md) führt ihn im Prolog mit **15**. Zu klären: Ist ein eigener Antrag in diesem Alter im Kanon plausibel, oder liefe eine Verbindung ohnehin über die Eltern (wie bei Lankes Bitte)? Berührt die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) (Girlins Verschwinden ein Jahr später).
+In der Szene will Tibun **um Fridas Hand anhalten**, wird aber durchweg als „Junge" gezeichnet; [Szenen/README](../Plots/Plot-1/Szenen/README.md) führt ihn im Prolog mit **15**. Zu klären: Ist ein eigener Antrag in diesem Alter im Kanon plausibel, oder liefe eine Verbindung ohnehin über die Eltern (wie bei Lankes Bitte)? Berührt die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) (Girlins Verschwinden ein Jahr später).
 
 ### C-072: Prolog — Textfassung 2.2 oder 2.3
 Vom Autor existierten zwei alte Fassungen, **2.2** und **2.3**; sie unterscheiden sich an fünf Stellen (reiner Feinschliff, keine inhaltliche Umarbeitung). Am Abgleich mit dem Wiki-Kanon ([C-064](#c-064-prolog--dorfplatz-und-verlobungsschauplatz-nachziehen) bis [C-071](#c-071-prolog--tibuns-alter-und-heiratsantrag)) ändert die Wahl nichts — alle Diskrepanzen stehen in beiden Fassungen identisch.
@@ -395,7 +453,7 @@ Vom Autor existierten zwei alte Fassungen, **2.2** und **2.3**; sie unterscheide
 **Entschieden:** Basis ist **2.3**, die Punkte 2 und 3 bleiben in der 2.2-Formulierung. In der Szene umgesetzt.
 
 Die Unterschiede (2.2 → 2.3):
-1. „Als Tibun **Jolyl** das erste mal sah" → „Als Tibun **sie** …" — besser, der Name steht zwei Sätze vorher.
+1. „Als Tibun **Frida** das erste mal sah" → „Als Tibun **sie** …" — besser, der Name steht zwei Sätze vorher.
 2. „Platz für die vielen **Schafe**" → „für die vielen **Tiere**" — schlechter: im selben Satz folgt „Geruch der vielen Tiere".
 3. „Doch **nun** brachte ihn das Ganze auf eine andere Idee" → „Doch **damals** …" — **Zeitbruch:** „damals" verweist in die Kindheitserinnerung, der Folgesatz spielt aber im Stall.
 4. „Tibun rieb den Stein **nun** schneller" → ohne „nun" — hängt an Punkt 3, verstärkt den fehlenden Zeitanker.
@@ -426,24 +484,24 @@ Erzählerisch entscheidend, weil daran hängt, **wie eine Figur von 550 es einor
 ### C-076: Abklingdauer des grünen Leuchtens
 [Portalringe.md](../Technik/Portalringe.md) sagt zum Aktivierungsglühen nur „verblasst danach **recht schnell**". Die alte Autorennotiz war konkreter: **einige Sekunden**. Offen, ob diese Zahl gelten soll.
 
-Nicht bloß Kosmetik — die Dauer entscheidet mit über [C-014](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft): Wenn die Sahrin-Karawane das Leuchten nachts über die Wüste sehen soll, braucht es lang genug, dass jemand hinschaut. Wenige Sekunden reichen dafür knapp; ein Nachglühen von einer Minute wäre großzügiger, aber weniger unheimlich. Klein.
+Nicht bloß Kosmetik — die Dauer entscheidet mit über [C-014](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft): Wenn die Kel-Aman-Karawane das Leuchten nachts über die Wüste sehen soll, braucht es lang genug, dass jemand hinschaut. Wenige Sekunden reichen dafür knapp; ein Nachglühen von einer Minute wäre großzügiger, aber weniger unheimlich. Klein.
 
-### C-077: Tibun und Tara nach Girlins Verschwinden
+### C-077: Tibun und Truda nach Girlins Verschwinden
 Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Tibun 5): *„Er muss sich um seine kleine Schwester kümmern."* Fehlt in der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md) und im Wiki vollständig.
 
-Die Zahlen tragen den Beat: [Tara](../Menschen/Nordvolk/Nebenfiguren/Tara.md) ist beim Verschwinden **9**, Tibun **16** ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)). Ein 16-Jähriger, der der 9-jährigen Schwester die Mutter ersetzt, während der Vater sich rasch neu bindet — das ist glaubwürdig und kostet nichts.
+Die Zahlen tragen den Beat: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) ist beim Verschwinden **9**, Tibun **16** ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)). Ein 16-Jähriger, der der 9-jährigen Schwester die Mutter ersetzt, während der Vater sich rasch neu bindet — das ist glaubwürdig und kostet nichts.
 
-**Der Haken:** Ein Jahr später **geht Tibun fort** ([C-022 ✓](#c-022-tibuns-reise--dauer-motiv-hof-), Aufbruch mit 17) und bleibt **acht Jahre** weg. Wenn er sich vorher um Tara kümmert, lässt er sie mit 10 zurück — bei dem Vater, den er verurteilt, und der Stiefmutter. Das macht seinen Aufbruch deutlich härter und wirft eine Frage auf, die die Zeitleiste bisher nicht stellt: **Was denkt Tara darüber?**
+**Der Haken:** Ein Jahr später **geht Tibun fort** ([C-022 ✓](#c-022-tibuns-reise--dauer-motiv-hof-), Aufbruch mit 17) und bleibt **acht Jahre** weg. Wenn er sich vorher um Truda kümmert, lässt er sie mit 10 zurück — bei dem Vater, den er verurteilt, und der Stiefmutter. Das macht seinen Aufbruch deutlich härter und wirft eine Frage auf, die die Zeitleiste bisher nicht stellt: **Was denkt Truda darüber?**
 
-Beantwortet zugleich einen Teil von [C-047](#c-047-tara--offene-felder) („bekommt Tara eine eigene Rolle?"). Nichts festgelegt.
+Beantwortet zugleich einen Teil von [C-047](#c-047-truda--offene-felder) („bekommt Truda eine eigene Rolle?"). Nichts festgelegt.
 
-### C-078: Tibuns Verhältnis zu Mellia
+### C-078: Tibuns Verhältnis zu Millia
 Direkter Widerspruch zwischen den beiden Autorenfassungen:
 - **[Plot 1](../Plots/Plot-1/Plot-1.md) (Tibun 6):** *„Vater heiratet neu (Melia). Tibun mag Melia nicht."*
 - **[Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md) (Tibun 3):** *„Tibun hat nichts gegen sie, verurteilt aber seinen Vater, weil er die Mutter aufgibt / zu früh"*
 
 Das Wiki folgt bisher der Skizze ([C-022 ✓](#c-022-tibuns-reise--dauer-motiv-hof-)). Die beiden Fassungen erzählen aber **verschiedene Geschichten**:
-- **Skizze:** Der Konflikt ist sauber auf [Semban](../Menschen/Nordvolk/Nebenfiguren/Semban.md) fokussiert. [Mellia](../Menschen/Nordvolk/Nebenfiguren/Mellia.md) bleibt unschuldig, was sie interessanter macht — sie war Girlins Freundin und steht selbst in einer unmöglichen Lage.
+- **Skizze:** Der Konflikt ist sauber auf [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) fokussiert. [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md) bleibt unschuldig, was sie interessanter macht — sie war Girlins Freundin und steht selbst in einer unmöglichen Lage.
 - **Plot 1:** Klassischer Stiefmutter-Konflikt. Emotional unmittelbarer, aber deutlich abgegriffener — und er verschiebt die Schuld weg vom Vater, wo sie dramaturgisch hingehört.
 
 **Tendenz (Claude): Skizze.** „Er hat nichts gegen sie und trotzdem hält er es nicht aus" ist der schwierigere und lohnendere Satz. Entschieden ist nichts.
@@ -466,23 +524,34 @@ Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 4 und 6): *„Sie wird entführt
 
 Offen ist alles: **Wer** entführt sie, **warum**, **wie lange**, und **wie** kommt sie frei.
 
-**Der naheliegende Täter ist [Assim Atwan](../Menschen/Wuestenvolk/Assim-Atwan.md)** — er ist als Sklavenhändler/Schmuggler geführt ([C-028](#c-028-assim-atwan--herkunft--hintergrund)/[C-029](#c-029-assim-atwan--charakter-motivation--fähigkeiten)), und eine blasshäutige Fremde ohne Sippe ist in der Wüste genau seine Ware. Das hätte einen erheblichen Vorteil: In der Kapitelskizze taucht Assim erst **spät** auf (Girlin 13, Basar), also kurz vor dem Finale — als Antagonist ist er damit dünn eingeführt. Eine frühe Entführung würde ihn **von Anfang an** in Girlins Strang verankern, und die Basar-Begegnung wäre ein **Wiedersehen** statt einer Erstbegegnung.
+**Der naheliegende Täter ist [Azzim u-Tawan](../Menschen/Wuestenvolk/Azzim-u-Tawan.md)** — er ist als Sklavenhändler/Schmuggler geführt ([C-028](#c-028-azzim-u-tawan--herkunft--hintergrund)/[C-029](#c-029-azzim-u-tawan--charakter-motivation--fähigkeiten)), und eine blasshäutige Fremde ohne Sippe ist in der Wüste genau seine Ware. Das hätte einen erheblichen Vorteil: In der Kapitelskizze taucht Azzim erst **spät** auf (Girlin 13, Basar), also kurz vor dem Finale — als Antagonist ist er damit dünn eingeführt. Eine frühe Entführung würde ihn **von Anfang an** in Girlins Strang verankern, und die Basar-Begegnung wäre ein **Wiedersehen** statt einer Erstbegegnung.
 
 **Gegenargument:** Girlins Strang trägt schon viel (Ankunft, Sprachbarriere, Bellbrim, Beziehung, Ringsuche, Kampf). Ein zusätzlicher Entführungsbogen kann ihn überladen — und die Rettung durch die Nomaden bindet sie erneut an das Volk, das sie ohnehin schon aufgenommen hat. Die Wiederholung müsste einen eigenen Zweck haben.
 
 Berührt [C-060](#c-060-girlin-und-der-neffe): In Plot 1 steht die Entführung **direkt neben** dem Durchbrennen der Häuptlingsfrau — beide Beats laufen gleichzeitig. Nichts entschieden.
 
-### C-081: Girlins zweites Kind in der Wüste
-Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 8): *„Sie bekommt ein weiteres Kind."* Fehlt in [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und dem gesamten Wiki. **Von allen Fundstücken der schwerste Punkt.**
+### C-081: Girlins drittes Kind in der Wüste
+Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 8): *„Sie bekommt ein weiteres Kind."* — es ist ihr **drittes** (nach Tibun und Truda). Fehlt in [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und dem gesamten Wiki. **Von allen Fundstücken der schwerste Punkt.**
 
-[Girlin](../Menschen/Nordvolk/Girlin.md) ist **zehn Jahre** in der Wüste (Jahr 0 → +10, [C-023 ✓](#c-023-zeitleiste--altersgerüst-)), von 30 bis 40. Ein Kind in dieser Zeit ist biologisch selbstverständlich und folgt zwingend aus der Beziehung, die die Skizze ohnehin ansetzt ([C-060](#c-060-girlin-und-der-neffe)). Die Frage ist nicht, ob es plausibel ist, sondern **was es mit dem Finale macht**.
+[Girlin](../Menschen/Nordvolk/Girlin.md) ist **zehn Jahre** in der Wüste (Jahr 0 → +10, [C-023 ✓](#c-023-zeitleiste--altersgerüst-)), von 34 bis 44. Ein Kind in dieser Zeit ist biologisch selbstverständlich und folgt zwingend aus der Beziehung, die die Skizze ohnehin ansetzt ([C-060](#c-060-girlin-und-der-neffe)). Die Frage ist nicht, ob es plausibel ist, sondern **was es mit dem Finale macht**.
 
 **Es verändert ihre Rückkehr vollständig.** Bisher lautet ihr Ziel schlicht „nach Hause". Mit einem Kind in der Wüste hat sie **zwei** Familien und kann nur eine haben:
 - **Kind bleibt:** Sie tut ihrem Wüstenkind an, was ihr angetan wurde — sie verschwindet. Das ist bitter und stark.
 - **Kind kommt mit:** [Tibun](../Menschen/Nordvolk/Tibun.md) bekommt am Ende nicht nur die Mutter zurück, sondern ein Geschwisterkind, das er nie erwähnt bekommen hat — und einen Vater dazu, den es in Skirraa nicht geben darf.
 - **Sie bleibt:** Der ganze Rückkehr-Antrieb bricht. Vermutlich zu teuer, nach zehn Jahren Sehnsucht.
 
-Weitere offene Punkte: **Alter des Kindes** beim Finale (hängt an [C-060](#c-060-girlin-und-der-neffe): Wann beginnt die Beziehung?), **Vater** (Häuptling oder Neffe), und ob [Tara](../Menschen/Nordvolk/Nebenfiguren/Tara.md) und Tibun davon je erfahren.
+**Entschieden (Autor, 31.08.2026): Das Kind kommt in Jahr +4 zur Welt.** [Girlin](../Menschen/Nordvolk/Girlin.md) ist dann **38**, das Kind im Finale **6**.
+
+| | |
+|---|---|
+| **Vorlauf** | Vier Winter für Sprache, Vertrauen und Bindung. Ein Kind in Jahr +1 wäre beliebig; nach vier Wintern ist es eine Geschichte. |
+| **Alter** | Unauffällig. In Gesellschaften ohne Verhütung lag das Durchschnittsalter bei der **letzten** Geburt bei 39 bis 41 — 38 ist der Normalfall, nicht die Ausnahme. Erst ab etwa 41 wird es selten und riskant. |
+| **Das Kind ist im Finale sechs** | Der eigentliche Gewinn. Es spricht, hat einen eigenen Willen, kann seine Mutter rufen. Ein Säugling wäre ein Gegenstand, den man mitnimmt oder nicht — ein Sechsjähriger ist eine Person, die zusieht. |
+| **Es ist ein Wüstenkind** | Dort geboren, spricht diese Sprache, hat nie Schnee gesehen. Das macht „mitnehmen oder zurücklassen" erst scharf. |
+
+Daraus folgt: Die Beziehung ([C-060](#c-060-girlin-und-der-neffe)) beginnt spätestens in **Jahr +3**.
+
+**Weitere offene Punkte:** **Vater** (Häuptling oder Neffe), und ob [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) und Tibun davon je erfahren. · **???**
 
 Berührt zudem den Ring: Es reist, wer **vollständig innerhalb** der Kugel steht ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)) — ein Kind auf dem Arm reist mit, ein Kind daneben nicht. Die Mechanik zwingt zu einer Entscheidung in **einem Augenblick**, ohne Rückweg. Das ist erzählerisch enorm brauchbar.
 
@@ -491,27 +560,27 @@ Berührt zudem den Ring: Es reist, wer **vollständig innerhalb** der Kugel steh
 ### C-082: Girlins Entscheidung zur Rückreise
 Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 11): *„Nach langem Zögern und Zaudern entschließt sie sich doch die Rückreise durch den Ring zu wagen."* Fehlt in der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md) — dort endet Girlins Strang mit Basar, Flucht in die Schlucht und Kampf (Girlin 13–15).
 
-Das ist eine **dramaturgische Lücke, kein bloßer fehlender Beat.** In der Skizze wird Girlin am Ende von Ereignissen getrieben: Assim greift an, sie flieht, es kommt zum Kampf, und die Zusammenführung passiert. In Plot 1 **entscheidet** sie sich. Nach zehn Jahren, in denen sie ausschließlich heimwill, ist das Zögern der eigentliche Charakterbeweis — sie hat sich in der Wüste ein Leben aufgebaut, und der Ring nimmt es ihr wieder weg.
+Das ist eine **dramaturgische Lücke, kein bloßer fehlender Beat.** In der Skizze wird Girlin am Ende von Ereignissen getrieben: Azzim greift an, sie flieht, es kommt zum Kampf, und die Zusammenführung passiert. In Plot 1 **entscheidet** sie sich. Nach zehn Jahren, in denen sie ausschließlich heimwill, ist das Zögern der eigentliche Charakterbeweis — sie hat sich in der Wüste ein Leben aufgebaut, und der Ring nimmt es ihr wieder weg.
 
-Hängt unmittelbar an [C-081](#c-081-girlins-zweites-kind-in-der-wüste): **Ohne** zweites Kind ist das Zögern schwach begründbar (warum sollte sie zaudern?). **Mit** Kind ist es zwingend. Die beiden Beats stützen einander — das spricht dafür, dass sie in Plot 1 zusammengehörten.
+Hängt unmittelbar an [C-081](#c-081-girlins-drittes-kind-in-der-wüste): **Ohne** das Wüstenkind ist das Zögern schwach begründbar (warum sollte sie zaudern?). **Mit** Kind ist es zwingend. Die beiden Beats stützen einander — das spricht dafür, dass sie in Plot 1 zusammengehörten.
 
-Zu klären: Kommt der Entschluss **vor** dem Kampf (dann ist Assims Angriff die Störung eines gefassten Plans) oder **danach** (dann treibt die Not sie)? Ersteres gibt ihr Handlungsmacht, Letzteres ist einfacher zu verketten. Nichts entschieden.
+Zu klären: Kommt der Entschluss **vor** dem Kampf (dann ist Azzims Angriff die Störung eines gefassten Plans) oder **danach** (dann treibt die Not sie)? Ersteres gibt ihr Handlungsmacht, Letzteres ist einfacher zu verketten. Nichts entschieden.
 
 ### C-083: Zitate als Kapitel-Motti
 Idee des Autors: Kapitel jeweils mit einem Zitat eröffnen. Sammlung in [Zitate.md](Zitate.md). Noch nicht entschieden, ob überhaupt.
 
 **Wenn ja, zu klären:**
 - **Durchgängig oder punktuell?** Motti sind ein Versprechen: Wer Kapitel 1 mit einem Zitat öffnet, muss es bis zum Schluss durchhalten. Aussetzer wirken wie Versehen.
-- **Fremdzitate oder Eigenes?** Ein Buch, das in **550 n.Chr.** spielt und dessen einzige Abweichung von der Realität die Portalringe sind ([CLAUDE.md](../CLAUDE.md)), reibt sich mit Bruce Lee über dem Kapitelkopf. Motti stehen zwar außerhalb des Erzähltexts und sind deshalb **kein Anachronismus im engeren Sinn** — sie holen den Leser aber jedes Mal aus der Epoche heraus, bevor er hineingeht. Alternative: **weltinterne Motti** — Sprichwörter des Nordvolks, Zeilen aus dem Epitheta-Umfeld (*der Wanderer*, *die Weberin*), Sahrin-Redewendungen ([C-003](#c-003-sahrin--kulturelle-tiefe) sieht solche ohnehin vor). Die schaffen Welt, statt sie zu unterbrechen.
+- **Fremdzitate oder Eigenes?** Ein Buch, das in **550 n.Chr.** spielt und dessen einzige Abweichung von der Realität die Portalringe sind ([CLAUDE.md](../CLAUDE.md)), reibt sich mit Bruce Lee über dem Kapitelkopf. Motti stehen zwar außerhalb des Erzähltexts und sind deshalb **kein Anachronismus im engeren Sinn** — sie holen den Leser aber jedes Mal aus der Epoche heraus, bevor er hineingeht. Alternative: **weltinterne Motti** — Sprichwörter des Nordvolks, Zeilen aus dem Epitheta-Umfeld (*der Wanderer*, *die Weberin*), Kel-Aman-Redewendungen ([C-003](#c-003-kel-aman--kulturelle-tiefe) sieht solche ohnehin vor). Die schaffen Welt, statt sie zu unterbrechen.
 - **Rechte.** Beide gesammelten Zitate sind geschützt (Bruce Lee 1971, Tolkien/Jackson). Für ein Manuskript in der Schublade egal, für eine Veröffentlichung nicht — Motti aus geschützten Werken brauchen in der Regel eine Genehmigung des Rechteinhabers, und Filmzitate sind dabei die unangenehmere Sorte. Sollte geklärt sein, **bevor** sich eine Struktur darauf stützt.
 
 **Besondere Vorsicht beim Bilbo-Zitat:** Das Wiki nutzt den Einen Ring bereits als **Formreferenz** für die Portalringe ([C-007 ✓](#c-007-proportionen-der-portalringe-)) — ausdrücklich auf **Autorenebene**, nie sichtbar ([C-035 ✓](#c-035-aussehen-der-ringoberfläche-) hält denselben Grundsatz für alle drei Referenzen fest). Ein Tolkien-Motto über einem Kapitel würde genau diese Referenz **sichtbar machen** und einem Buch über geheimnisvolle Ringe einen Vergleich aufdrängen, den es nicht gewinnen kann.
 
 **Tendenz (Claude): Motti ja, aber weltintern.** Nichts entschieden — die Sammlung wächst erst mal weiter.
 
-**Stand:** Der Autor tendiert zu **weltinternen Motti**. Vorschläge gesammelt in [Zitate.md](Zitate.md) — Nordvolk (Weberin/Wanderer/Donnerer, Heide & Moor, Thing), Sahrin (vorläufig, hängt an [C-003](#c-003-sahrin--kulturelle-tiefe)) und eine Gruppe verdeckter Kreislauf-Sprüche. Dort auch die Formregeln, darunter zwei harte: **Stabreim statt Endreim** (Endreim ist um 550 ein Anachronismus) und **keine Sprichwörter über Ringe** ([C-008 ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)).
+**Stand:** Der Autor tendiert zu **weltinternen Motti**. Vorschläge gesammelt in [Zitate.md](Zitate.md) — Nordvolk (Weberin/Wanderer/Donnerer, Heide & Moor, Thing), Kel Aman (vorläufig, hängt an [C-003](#c-003-kel-aman--kulturelle-tiefe)) und eine Gruppe verdeckter Kreislauf-Sprüche. Dort auch die Formregeln, darunter zwei harte: **Stabreim statt Endreim** (Endreim ist um 550 ein Anachronismus) und **keine Sprichwörter über Ringe** ([C-008 ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)).
 
-**Zusätzlich offen:** ob die beiden Stränge **getrennte Quellen** bekommen (Tibun-Kapitel = Nordvolk, Girlin-Kapitel = Sahrin) — das würde die Strangzugehörigkeit vor dem ersten Satz signalisieren. Auswahl trifft der Autor.
+**Zusätzlich offen:** ob die beiden Stränge **getrennte Quellen** bekommen (Tibun-Kapitel = Nordvolk, Girlin-Kapitel = Kel Aman) — das würde die Strangzugehörigkeit vor dem ersten Satz signalisieren. Auswahl trifft der Autor.
 
 ### C-084: Mulde, Standfläche und die rohen Ringe
 Folge der Umstellung auf den **Innentausch** ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)): Die Tauschkugel hat nur noch **1,50 m Radius**. Beim flach liegenden Ring reicht sie damit nur **1,50 m über die Ringebene** — ein **Stehender** passt nicht hinein, der rohe ebenerdige Ring köpft ihn.
@@ -535,6 +604,109 @@ Für die Erbauer selbstverständlich. Für [Tibun](../Menschen/Nordvolk/Tibun.md
 
 Berührt [C-055](#c-055-der-skir--gewässer-see-und-fundort-des-rings) (Fundort und Steilufer).
 
+### C-085: Titel für Plot 1
+Das Projekt heißt **Annular** — das ist der Name des **Universums** ([Plots/README](../Plots/README.md)), nicht der einzelnen Geschichte. Die Geschichte um [Tibun](../Menschen/Nordvolk/Tibun.md) und [Girlin](../Menschen/Nordvolk/Girlin.md) braucht deshalb einen **eigenen Titel**. Der Ordner heißt dauerhaft neutral `Plots/Plot-1/` und wird **nicht** umbenannt — der Titel lebt nur in [Plots/Plot-1/README.md](../Plots/Plot-1/README.md) und [SUMMARY.md](../SUMMARY.md).
+
+**Was der Titel tragen muss:** die Zweisträngigkeit (Norden/Wüste), die zehn Jahre Trennung, und dass beide **unabhängig voneinander dasselbe erfinden**. Was er *nicht* tragen sollte: den Ring — der gehört auf die Universumsebene und ist in „Annular" bereits vergeben.
+
+**Vorsicht, verfrüht:** Der thematische Schwerpunkt ist noch nicht fest. [C-081](#c-081-girlins-drittes-kind-in-der-wüste) (drittes Kind) und [C-082](#c-082-girlins-entscheidung-zur-rückreise) (Entschluss zur Rückreise) können die Geschichte von „Trennung und Wiederfinden" zu „Frau zwischen zwei Familien" verschieben — das wären zwei verschiedene Titel. Ein Arbeitstitel genügt vorerst.
+
+**???**
+
+### C-087: Zeitrechnung im Erzähltext
+Zwischen [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden und dem Finale liegen **zehn Jahre** ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)). Niemand in 550 zählt Jahreszahlen — ohne feste Regel wird jede Zeitangabe im Text zum Anachronismus.
+
+**Entschieden (Autor): Gezählt wird in Wintern.** „Sieben Winter" statt „sieben Jahre". Das ist für den Norden historisch korrekt und zugleich inhaltlich richtig: Der Winter ist die Zählmarke, weil er der Abschnitt ist, den man **überlebt** — nicht der, den man verbringt.
+
+**Offen — die Wüstenseite.** Girlin verbringt die zehn Jahre in einer Wüste, in der es keinen Winter gibt. Sie kann anfangs weiterzählen, was sie kennt, aber ihr Maß löst sich mit der Zeit auf. Zu entscheiden: Woran misst sie die Jahre — an Karawanenzügen, Regenzeiten, Dattelernten, den Geburtstagen ihrer Kinder? Und **wann kippt ihr Maß** vom nordischen ins fremde? Das ist kein Detail, sondern ein Gradmesser ihrer Entfremdung: Sobald Girlin nicht mehr in Wintern zählt, ist sie nicht mehr dieselbe. Hängt an [C-003](#c-003-kel-aman--kulturelle-tiefe) (wo die Wüste liegt) und [C-025](#c-025-girlin--charakter--fähigkeiten).
+
+**Offen — die Zählmarke im Norden.** Jahresmaß ist der Winter; das *Datum* innerhalb des Jahres braucht aber ebenfalls eine Regel (Thing-Versammlungen, Aussaat, Schafschur, Sonnwendfeste). Berührt den Punkt „Jahreszeiten als Taktgeber" im [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md).
+
+### C-089: Azzim — Verhältnis zum Ring (harte Regel)
+**Festgelegt (Autor, 31.08.2026): Der Ring ist niemals Azzims Motiv.** [Azzim u-Tawan](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) **weiß bis zum Ende nichts vom Ring**. Er verfolgt [Girlin](../Menschen/Nordvolk/Girlin.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md) aus seinen eigenen Gründen (Sklaverei/Schmuggel → [C-028](#c-028-azzim-u-tawan--herkunft--hintergrund), [C-029](#c-029-azzim-u-tawan--charakter-motivation--fähigkeiten)); dass am Ende ausgerechnet er durch den Ring nach Norden geworfen wird, ist für ihn eine Katastrophe, kein Ziel.
+
+**Damit ausdrücklich verworfen:** der Vorschlag aus dem [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md), Azzims Motiv auf **Wasser** umzustellen. Begründung des Autors: In Plot 1 kann niemand den Ring zuverlässig oder gar täglich nutzen — eine Wasserbrücke nach Süden existiert schlicht nicht, und ein Antagonist kann nicht etwas anstreben, von dem er nichts weiß.
+
+**Was bleibt — als Schlusspointe, nicht als Motiv:** Am Ende seiner Reise, im Norden gestrandet, kommt Azzim **selbst** auf den Gedanken, was ein wiederholbarer Übergang in einer Wüste bedeuten würde. Das ist der letzte Moment seiner Figur und ein Aufhänger für eine spätere Geschichte im Universum — nicht für Plot 1. Zu klären: ob er diesen Gedanken überlebt und ob ihn jemand hört.
+
+**Folge für [C-029](#c-029-azzim-u-tawan--charakter-motivation--fähigkeiten):** Azzim braucht ein Motiv, das ganz ohne den Ring trägt und das man trotzdem versteht.
+
+### C-092: Namenssystem des Nordvolks
+[Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), Tara, Semban, Mellia, Hadurik, Jolyl, Herik, Lanke folgten bisher keinem erkennbaren Bildungsmuster. Germanische Namen der Vendelzeit sind überwiegend **zweigliedrig** (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen.
+
+**Entschieden (Autor, 31.08.2026).** Gegenstück im Süden: [C-090 ✓](#c-090-kel-aman--eigenname-und-namenssystem-).
+
+#### Das Bildungsmuster
+
+1. **Zweigliedrig.** Jeder Vollname besteht aus zwei Sinngliedern aus einem festen Vorrat.
+2. **Kurzformen sind der Alltag.** Im Weiler sagt niemand den Vollnamen: Erstglied + Koseendung — **`-un`** (m.), **`-in`/`-a`** (w.), **`-i`** (beide). Genau daher stammen die vorhandenen Namen.
+3. **Kein Familienname, sondern Vatersname:** `-sun` (Sohn) / `-dohtar` (Tochter). *Tibun Semundsun.*
+4. **Keine Götterelemente.** `Thor-`, `Tiw-`, `Ing-` sind ausgeschlossen — historisch waren sie üblich, aber sie führten die Götternamen durch die Hintertür wieder ein und verletzten damit das [Epitheta-Prinzip](../CLAUDE.md).
+5. **Keine Sonderzeichen.** Alle Namen und Elemente werden mit deutscher Tastatur geschrieben — kein Thorn, kein Eth, keine Längenstriche über Vokalen. Stattdessen `th`, `d` und einfache Vokale.
+
+**Elementvorrat** (in Runeninschriften und frühen Belegen bezeugt, hier in deutscher Schreibung):
+
+| Erstglied | Bedeutung | Zweitglied | Bedeutung |
+|---|---|---|---|
+| `Hroth-` | Ruhm | `-rik` | mächtig |
+| `Theud-` | Volk | `-bern` | Bär |
+| `Gair-` | Speer | `-mund` | Schutz |
+| `Hathu-`, `Gunth-` | Kampf | `-gast` | Gast, Fremder |
+| `Hari-` | Heer | `-harja` | Heer |
+| `Wulf-` | Wolf | `-mar` | berühmt |
+| `Rand-` | Schild | `-wulf` | Wolf |
+| `Sig-` | Sieg | `-stein` | Stein |
+| `Aud-` | Besitz, Glück | `-lind` | Lindenschild, mild *(w.)* |
+| `Frid-` | Frieden | `-hild`, `-gund` | Kampf *(w.)* |
+| `Land-` | Land | `-run` | Geheimnis *(w.)* |
+| `Mild-` | mild | `-frid` | Frieden *(w.)* |
+| `Wid-` | Wald, weit | `-wara` | Hüterin *(w.)* |
+| `Thrud-` | Kraft | `-laug` | geweiht *(w.)* |
+
+#### Die bestehenden Figuren
+
+| Name | Vollform | Bedeutung | Ergebnis |
+|---|---|---|---|
+| **[Girlin](../Menschen/Nordvolk/Girlin.md)** | *Gairlind* | Speer + Lindenschild | **bleibt** — passt ohne Eingriff |
+| **[Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md)** | *Hathurik* | Kampf + mächtig | **bleibt** — bereits korrekt zweigliedrig |
+| **[Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md)** | *Haririk* | Heer + mächtig | **bleibt** |
+| **[Lanke](../Menschen/Nordvolk/Nebenfiguren/Lanke.md)** | *Landwara* | Land + Hüter | **bleibt** — Kurzform |
+| **[Tibun](../Menschen/Nordvolk/Tibun.md)** | *Theudbern* | Volk + Bär | **bleibt** — Kurzform *Theubun* → Tibun |
+| **Semban** → [**Semund**](../Menschen/Nordvolk/Nebenfiguren/Semund.md) | *Sigmund* | Sieg + Schutz | **umbenannt** |
+| **Mellia** → [**Millia**](../Menschen/Nordvolk/Nebenfiguren/Millia.md) | *Mildhild* | mild + Kampf | **umbenannt** |
+| **Tara** → [**Truda**](../Menschen/Nordvolk/Nebenfiguren/Truda.md) | *Thrudhild* | Kraft + Kampf | **umbenannt** — „Tara" ist irisch, kein germanisches Element passt |
+| **Jolyl** → [**Frida**](../Menschen/Nordvolk/Nebenfiguren/Frida.md) | *Fridgund* | Frieden + Kampf | **umbenannt** — „Jolyl" war nicht deutbar |
+| **Vilund** | *Welund* | der Schmied der Sage | **Fund:** Der Name ist bereits der des germanischen Sagenschmieds (Wieland, altnord. *Volundr*). Hat Vilund mit Handwerk zu tun, ist das ein Geschenk — wenn nicht, eine irreführende Anspielung. Zu prüfen ([C-016 ✓](#c-016-schicksal-von-vilund-)) |
+
+**Alle Umbenennungen sind im Wiki durchgeführt** — Dateien, Links und [SUMMARY.md](../SUMMARY.md).
+
+**Nicht umbenannt und auch nicht nötig:** Girlin, Tibun, Hadurik, Herik, Lanke passen bereits ins Muster. Einzige Dehnung ist Tibun (`th` → `t`); strenger wäre *Theubun* oder *Tebun*, der Preis bei der Hauptfigur ist dem Autor zu hoch.
+
+**Ausstehend:** Der [Prolog](../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md) trägt noch die alten Namen (Jolyl). Er wird bei der nächsten Überarbeitung nachgezogen → [C-093](#c-093-prolog--namen-nach-c-092-nachziehen).
+
+### C-093: Prolog — Namen nach C-092 nachziehen
+Der Szenenordner wurde bei der Namensumstellung bewusst ausgespart (Autorenanweisung). Im [Prolog](../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md) steht deshalb weiter **Jolyl** statt **Frida** ([C-092](#c-092-namenssystem-des-nordvolks)). Beim nächsten Überarbeitungsdurchgang nachziehen — zusammen mit den übrigen Prolog-Challenges (C-063 bis C-072).
+
+**???**
+
+### C-095: Wann gilt eine Verschwundene als tot — und wann darf Semund neu heiraten?
+Semunds schnelle Neubindung an [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md) ist ein tragender Konflikt zwischen ihm und [Tibun](../Menschen/Nordvolk/Tibun.md) — hing rechtlich aber bisher in der Luft. Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) führt die Frage als eigene A-Entscheidung.
+
+**Grundlage jetzt vorhanden:** Mit [C-094 ✓](#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-) erklärt die [wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) [Girlin](../Menschen/Nordvolk/Girlin.md) **öffentlich für tot**. Das ist kein Gerücht und keine Vermutung, sondern ein Spruch der höchsten religiösen Autorität, die die Region kennt — damit ist Semund **nicht Verlassener, sondern Witwer**, und eine neue Ehe ist regelkonform.
+
+**Der Konflikt wird dadurch schärfer, nicht schwächer.** Semund hat recht: Er darf. Tibun hat recht: Sie lebt. Beide Seiten sind verständlich — genau das, was der [Konflikttest](Weltenbau-Leitfaden.md) verlangt.
+
+**Entschieden (Autor, 31.08.2026):**
+- **Frist: ein Winter.** Semund darf im Jahr nach der Toterklärung neu heiraten, nicht früher. Das ist kurz genug, dass Tibun es als Verrat empfindet, und lang genug, dass es keiner ist.
+- **Der Spruch der Wala genügt.** Keine Beurkundung durch das [Thing](../Orte/Tingsal.md) nötig — die religiöse Autorität entscheidet über Leben und Tod einer Verschwundenen, nicht die rechtliche. Für [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) heißt das: Er hat mit der Sache zunächst nichts zu tun.
+
+**Warum das trägt:** Semund handelt vollständig regelkonform und wartet sogar die Frist ab. Tibun weiß trotzdem, dass seine Mutter lebt. Es gibt keine Schuld auf einer der beiden Seiten — nur zwei Wahrheiten, die einander ausschließen.
+
+**Weiterhin offen:**
+- **Was passiert mit Girlins Besitz** und ihrer Stellung im Haushalt, sobald Millia einzieht? · **???**
+- **Und wenn sie zurückkäme?** Eine für tot Erklärte, die zehn Winter später vor der Tür steht, ist rechtlich niemand — und Semund wäre mit zwei Frauen verheiratet. Das betrifft das Finale unmittelbar → berührt [C-082](#c-082-girlins-entscheidung-zur-rückreise). · **???**
+
+
 ---
 
 ## Gelöst / Entschieden
@@ -557,7 +729,7 @@ Berührt [C-055](#c-055-der-skir--gewässer-see-und-fundort-des-rings) (Fundort 
 **Entscheidung:** Die Ringe folgen exakt den **Eine-Ring-Proportionen**, skaliert auf den Innendurchmesser (proportional schlank wie ein Fingerring, absolut ein Koloss). Damit gilt der proportional skalierte Maßsatz: 3-m-Ring = Außen-Ø 3,81 m, Wandstärke 0,405 m, ~8 t. Die alte „9-cm-Wand"-Variante entfällt. Folge: Der 3-m-Ring ist faktisch untransportierbar (erklärt, warum der Skir-Ring jahrtausendelang unbewegt im Boden lag).
 
 ### C-008: Anzahl und Bekanntheit der Ringe ✓
-- **Verborgenes Paar (Lesart A):** Physisch existieren zwei Ringe (Skir + Sahrin), weltweit sogar **viele weitere** — aber das System ist niemandem bekannt. Kopplung in C-010 geregelt.
+- **Verborgenes Paar (Lesart A):** Physisch existieren zwei Ringe (Skir + Wüstenring), weltweit sogar **viele weitere** — aber das System ist niemandem bekannt. Kopplung in C-010 geregelt.
 - **Fundort:** Der Ring liegt **am Bach Skir nahe [Skirraa](../Orte/Skirraa.md)**, seit Jahrtausenden **vergraben** (nicht in Vilund). Freigelegt durch einen **Erdrutsch am Steilufer**, ausgelöst vom ringverursachten Welt-Beben. Damit entfällt das „Bekanntheitsproblem": Der Ring war schlicht unter der Erde.
 - **Beben:** kommt vom **Ringsystem**, weltweit gleichzeitig spürbar (Netz-Reaktion, nicht tektonisch) — ringverursacht = erlaubte Abweichung.
 - **Vorteil:** Der Bach ist Alltagsort (Wasser holen) → erklärt zwanglos, warum Tibun *und* Girlin dort sind, als der Blitz den Ring aktiviert.
@@ -571,7 +743,7 @@ Vollständige Regeln in [`portalringe.md`](../Technik/Portalringe.md). Kurz:
 - **Material (A):** Oberfläche gravierbar, Körper unzerstörbar/nicht reproduzierbar.
 - **Grünes Leuchten:** Energie *in* den Runennuten (nicht Materialeigenschaft). Kurzer Puls = erfolgreiche Kopplung; anhaltendes Glühen = Aktivierung/Teleport.
 
-**Größen:** Skir-Ring **und** Sahrin-Ring = **3,00 m** (müssen passen, sonst keine Rückkehr für Girlin), ~8 t, ortsfest. **0,30 m** = ~8 kg, tragbar, gedacht als **Postsystem** (Pakete/Briefe) — ursprünglicher Erbauerzweck, heute vergessen (Konsistenz mit C-008 gewahrt). Weitere Größen → C-017.
+**Größen:** Skir-Ring **und** Wüstenring = **3,00 m** (müssen passen, sonst keine Rückkehr für Girlin), ~8 t, ortsfest. **0,30 m** = ~8 kg, tragbar, gedacht als **Postsystem** (Pakete/Briefe) — ursprünglicher Erbauerzweck, heute vergessen (Konsistenz mit C-008 gewahrt). Weitere Größen → C-017.
 
 **Wandstärke:** in C-007 entschieden (0,405 m beim 3-m-Ring); der frühere „bleibt offen"-Vermerk ist überholt.
 
@@ -584,7 +756,7 @@ Vollständige Regeln in [`portalringe.md`](../Technik/Portalringe.md). Kurz:
   - **Innen und außen berühren sich nie.** Ein um einen Durchmesser rotierender Ring überstreicht exakt die Schale zwischen Innen- und Außenradius (1,50–1,905 m). Der Reif kommt der Tauschkugel nie näher als tangential — die Geist-Eigenschaft gilt ausschließlich für Materie *außerhalb* des Tauschvolumens. Keine Sonderregel nötig.
 - **Schnittkante: messerscharf**, am **Innenrand** (1,50 m Radius). Sie fällt **genau mit der sichtbaren Ringöffnung zusammen** — die Grenze ist sichtbar und erlernbar: *Wer ganz in der Öffnung steht, reist heil; was hinausragt, wird durchtrennt.* Girlin stand vollständig innerhalb.
 - **Wer in der Schale steht (1,50–1,905 m), bleibt unverletzt** — der Reif geht durch ihn hindurch. Er reist nur nicht mit.
-- **Austausch:** Beide gepaarten Ringe (Skir + Sahrin) drehen **gleichzeitig**. **Ganze Kugel inkl. Erdreich:** untere Halbkugel im Boden → Halbkugel Schlei-Erde ↔ Halbkugel Wüstensand (= die **Sandmulde**).
+- **Austausch:** Beide gepaarten Ringe (Skir + Kel Aman) drehen **gleichzeitig**. **Ganze Kugel inkl. Erdreich:** untere Halbkugel im Boden → Halbkugel Schlei-Erde ↔ Halbkugel Wüstensand (= die **Sandmulde**).
 - **Harter Tausch:** Inhalt 1:1, kompromisslos, auch bei stark verschiedenem Inhalt (Luft ↔ massiver Sand). Keine Sonderregeln, kein „Ausgleich".
 - **Der Ring bleibt liegen.** Da er nicht mitgetauscht wird, ruht er unverändert in seinem eigenen Bett; die Mulde entsteht **innerhalb** von ihm. Kein Verrutschen, keine fremde Auflage.
 - **Person/Inhalt:** frei stehend, **ohne Plattform/Halterung** (jede feste Verankerung würde mitgetauscht oder an der Kante geschnitten — Schwerkraft genügt). **Aber:** Die Kugel reicht nur **1,50 m über die Ringebene** — **stehend** reist nur, wer eine **Mulde** hat (Kugelzentrum ~0,75 m über der Standfläche); im rohen Ring reist nur, wer **liegt**. So überlebt Girlin ihren Sturz → **C-084**.
@@ -665,32 +837,32 @@ Bei 0,8 m Schrittspreizung bleiben 1,80 m nutzbare Strecke — ein sehr komforta
   1. **Bernstein** — Material für seinen Reibungsgenerator (C-002).
   2. **Wissen über den Portalring** — der eigentliche Antrieb: Durch einen solchen Ring verschwand seine Mutter [Girlin](../Menschen/Nordvolk/Girlin.md) (C-008). Die Suche nach ihr trägt die weite Reise emotional — der frühere Zweifel am Reisegrund ist ausgeräumt.
   3. **Mechanik allgemein** — Handwerk und Technik für seine späteren Erfindungen.
-  4. **Schmerz/Aufbruch:** Sembans **rascher** neuer Bund mit [Mellia](../Menschen/Nordvolk/Nebenfiguren/Mellia.md) (alle halten Girlin für tot) ist für Tibun ein Verrat — denn er **weiß** als einziger Zeuge des Ring-Flips, dass Girlin lebt. Zusätzlicher emotionaler Antrieb fortzugehen.
-- **Hof:** **Semban** führt den Familienhof in Skirraa **unverändert weiter**. Tibun ist nicht dessen Oberhaupt; seine Abwesenheit löst **keine Hofkrise** aus. Die frühere Versorgungs-Sorge entfällt.
+  4. **Schmerz/Aufbruch:** Semunds **rascher** neuer Bund mit [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md) (alle halten Girlin für tot) ist für Tibun ein Verrat — denn er **weiß** als einziger Zeuge des Ring-Flips, dass Girlin lebt. Zusätzlicher emotionaler Antrieb fortzugehen.
+- **Hof:** **Semund** führt den Familienhof in Skirraa **unverändert weiter**. Tibun ist nicht dessen Oberhaupt; seine Abwesenheit löst **keine Hofkrise** aus. Die frühere Versorgungs-Sorge entfällt.
 
-**Verwandtschaft & Mellia geklärt:** Semban = Tibuns **leiblicher Vater** (Ehemann der verschwundenen Girlin). Er hält Girlin für tot und bindet sich **rasch** neu an Mellia (Girlins frühere Freundin); der schnelle Ersatz schmerzt Tibun — der als einziger Zeuge des Ring-Flips **weiß**, dass Girlin lebt — und treibt ihn mit fort. Überall vereinheitlicht.
+**Verwandtschaft & Millia geklärt:** Semund = Tibuns **leiblicher Vater** (Ehemann der verschwundenen Girlin). Er hält Girlin für tot und bindet sich **rasch** neu an Millia (Girlins frühere Freundin); der schnelle Ersatz schmerzt Tibun — der als einziger Zeuge des Ring-Flips **weiß**, dass Girlin lebt — und treibt ihn mit fort. Überall vereinheitlicht.
 **Zeitliche Einordnung** der Wanderschaft: geklärt in [C-023 ✓](#c-023-zeitleiste--altersgerüst-) (Aufbruch Jahr +1 mit 17, Rückkehr Jahr +9 mit 25).
 
 ### C-023: Zeitleiste & Altersgerüst ✓
 Vollständiges Altersgerüst in der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) festgelegt (Jahre relativ zu Girlins Verschwinden = Jahr 0; Ankerfigur Tibun, Alter = 16 + Jahr):
 - **Prolog (Jahr −1):** Tibun **15** entdeckt den Bernstein-Effekt, versteht ihn noch nicht.
-- **Verschwinden (Jahr 0):** Tibun **16**, Girlin **30**, Semban **35**, Tara **9**.
+- **Verschwinden (Jahr 0):** Tibun **16**, Girlin **34**, Semund **35**, Truda **9**.
 - **Aufbruch (Jahr +1):** Tibun **17** verlässt Skirraa (~1 Jahr nach dem Verschwinden).
 - **Wanderschaft:** ~**8 Jahre**; Erkenntnismoment + Tischmodell-Prototyp in **Kaupvik** (löst den früheren Ordnungs-Konflikt: Reise/Kaupvik → Idee → Bau).
 - **Rückkehr (Jahr +9):** Tibun **25**, direkt zum Ring.
-- **Finale (Jahr +10):** Tibun **26** vollendet die große Wasseranlage und zündet den Ring; Girlin **40**, Semban **45**, Bellbrim **50**, Tara **19**.
+- **Finale (Jahr +10):** Tibun **26** vollendet die große Wasseranlage und zündet den Ring; Girlin **44**, Semund **45**, Bellbrim **50**, Truda **19**.
 - **Parallelität gelöst:** Girlin ist **genau 10 Jahre** in der Wüste (Jahr 0 → +10). Tibuns erste Zündung und die Reaktivierung in der Wüste sind **dasselbe Ereignis** (beide Ringe flippen simultan, C-012) — kein Zufall.
-- **Semban/Mellia:** überall auf **rasch** vereinheitlicht (konsistent mit C-022).
+- **Semund/Millia:** überall auf **rasch** vereinheitlicht (konsistent mit C-022).
 Ausgelagert: Tibuns Existenzgrundlage während der 8 Reisejahre → C-034.
 
-### C-030: Taras Alter ✓
-[Tara](../Menschen/Nordvolk/Nebenfiguren/Tara.md) ist **7 Jahre jünger** als Tibun: 8 (Prolog) / 9 (Girlins Verschwinden) / 19 (Finale). Die alte Absolutangabe „5" (unter der überholten Tibun-12-Annahme) entfällt.
+### C-030: Trudas Alter ✓
+[Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) ist **7 Jahre jünger** als Tibun: 8 (Prolog) / 9 (Girlins Verschwinden) / 19 (Finale). Die alte Absolutangabe „5" (unter der überholten Tibun-12-Annahme) entfällt.
 
 ### C-033: Nebenfiguren — eigene Dateien & strukturierte Felder ✓
 Umgesetzt: Jede Nebenfigur hat eine **eigene Datei** in einem Unterordner `Nebenfiguren/` je Region (nach [charakter-template.md](../Menschen/Charakter-Template.md)), mit README-Index. Wird eine Figur wichtiger, genügt das **Verschieben** eine Ebene höher.
-- **Nordvolk:** [Tara](../Menschen/Nordvolk/Nebenfiguren/Tara.md), [Semban](../Menschen/Nordvolk/Nebenfiguren/Semban.md), [Mellia](../Menschen/Nordvolk/Nebenfiguren/Mellia.md), [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md), [Wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md).
+- **Nordvolk:** [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md), [Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md), [Wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md).
 - **Walas:** als **zwei getrennte Dateien** angelegt (sesshaft/wandernd, Zwillingsschwestern), Rollen weiter offen.
-- **Sahrin & Andere:** Ordner + README-Index angelegt, noch ohne Figuren.
+- **Kel Aman & Andere:** Ordner + README-Index angelegt, noch ohne Figuren.
 - SUMMARY.md, Region-READMEs und alle eingehenden Links (u. a. [tibun.md](../Menschen/Nordvolk/Tibun.md), [girlin.md](../Menschen/Nordvolk/Girlin.md), [zeitleiste.md](../Plots/Plot-1/Zeitleiste.md), [tingsal.md](../Orte/Tingsal.md), [sonstiges.md](../Orte/sonstiges.md)) nachgezogen; alte Sammel-`nebenfiguren.md` entfernt.
 
 ### C-035: Aussehen der Ringoberfläche ✓
@@ -713,13 +885,165 @@ Der Begriff darf **nie im Erzähltext** stehen → [C-037](#c-037-ringoptik-im-e
 
 **Erzählwert:** Das Unheimliche ist nicht ein Ring *ohne* Bewuchs, sondern ein bewachsener Ring **ohne jede Spur von Alter darunter**. Die Entdeckung bleibt leise und glaubwürdig — der Schock kommt erst beim Freilegen. Löst zugleich den Konflikt zwischen „unzerstörbarer Körper" ([C-007](#c-007-proportionen-der-portalringe-)) und einem Ring, der glaubhaft in der Landschaft liegt. Dokumentiert in [Portalringe.md](../Technik/Portalringe.md).
 
----
+### C-086: Ton in einem Satz ✓
+**Entscheidung (Autor):**
+> *Zwei Menschen, getrennt durch ein Wunder, das niemand erklären kann — zehn Jahre Suche in einer harten Welt, hell im Ausgang.*
 
-### C-085: Titel für Plot 1
-Das Projekt heißt **Annular** — das ist der Name des **Universums** ([Plots/README](../Plots/README.md)), nicht der einzelnen Geschichte. Die Geschichte um [Tibun](../Menschen/Nordvolk/Tibun.md) und [Girlin](../Menschen/Nordvolk/Girlin.md) braucht deshalb einen **eigenen Titel**. Der Ordner heißt dauerhaft neutral `Plots/Plot-1/` und wird **nicht** umbenannt — der Titel lebt nur in [Plots/Plot-1/README.md](../Plots/Plot-1/README.md) und [SUMMARY.md](../SUMMARY.md).
+Der Satz steht in [Plots/Plot-1/README.md](../Plots/Plot-1/README.md) und ist der Prüfstein für jede Szene: Trägt sie Abenteuer und Staunen, oder nur Weltenbau?
 
-**Was der Titel tragen muss:** die Zweisträngigkeit (Norden/Wüste), die zehn Jahre Trennung, und dass beide **unabhängig voneinander dasselbe erfinden**. Was er *nicht* tragen sollte: den Ring — der gehört auf die Universumsebene und ist in „Annular" bereits vergeben.
+**Geltungsbereich: nur Plot 1.** Der Ton ist keine Universumsregel — eine spätere Geschichte im Annular-Universum darf düster sein und ohne Hoffnung enden.
 
-**Vorsicht, verfrüht:** Der thematische Schwerpunkt ist noch nicht fest. [C-081](#c-081-girlins-zweites-kind-in-der-wüste) (zweites Kind) und [C-082](#c-082-girlins-entscheidung-zur-rückreise) (Entschluss zur Rückreise) können die Geschichte von „Trennung und Wiederfinden" zu „Frau zwischen zwei Familien" verschieben — das wären zwei verschiedene Titel. Ein Arbeitstitel genügt vorerst.
+**Die sechs Festlegungen dahinter:**
 
-**???**
+| Frage | Entscheidung |
+|---|---|
+| Was bleibt hängen? | **Abenteuer und Staunen** über das Wunder — nicht Verlust, nicht Epochenhärte |
+| Ausgang | **hoffnungsvoll** |
+| Wer trägt? | **beide gleich viel**, Tibun tendenziell etwas mehr |
+| Leser | **Jugendliche ab ~16** |
+| Härte | so drastisch wie nötig, sonst **angedeutet** — nie unnötig brutal oder finster |
+| Wissensstand | **beim Ring** wissen Leser und Figur gleich viel: keine Erklärung von Mechanik oder Erbauern über den Kenntnisstand der Figuren hinaus |
+
+**Nicht identisch mit strikter Figurenperspektive.** Die Zweisträngigkeit gibt dem Leser zwangsläufig einen Vorsprung — er weiß zehn Jahre lang, dass Girlin lebt, Tibun nicht. Das ist zugelassen und trägt die Spannung; die Wissensgleichheit gilt **ausschließlich für den Ring**.
+
+**Zweitverwendung:** Die Alternativformulierung *„Ein Staunen, das zehn Jahre kostet: Mutter und Sohn arbeiten getrennt am selben Rätsel, bis es sie wieder zusammenbringt"* gefiel dem Autor ebenfalls — sie taugt als Logline/Klappentext-Keim, nicht als Ton-Satz. Berührt [C-085](#c-085-titel-für-plot-1).
+
+**Folge — Prüffrage für Härte-Entscheidungen:** Sklaverei ([C-028](#c-028-azzim-u-tawan--herkunft--hintergrund)), Gewalt und Tod bleiben gesetzt, werden aber in ihrer *Wirkung* erzählt statt ausgemalt.
+
+### C-088: Verortung der Wüste ✓
+**Entscheidung (Autor, 31.08.2026): Der Wüstenstrang spielt im [Fezzan](https://de.wikipedia.org/wiki/Fessan) — dem Kernland der Garamanten in der zentralen Sahara (heute Südwest-Libyen).**
+
+Bis dahin war die Wüste ein Ort ohne historischen Anker und damit eine **zweite Abweichung von der Realität** neben den Portalringen — ein Bruch des Authentizitätsprinzips. Vier Kandidaten standen zur Wahl: Fezzan, Arabische Halbinsel, Syrische Wüste, Sogdien.
+
+**Warum der Fezzan:**
+
+| Grund | |
+|---|---|
+| **Wasser als Lebensnerv** | Die Garamanten leben von **Foggara** — kilometerlangen unterirdischen Bewässerungstunneln. Ein Volk, dessen ganze Existenz an Wassertechnik hängt, gibt jeder Szene über Durst, Brunnen und Vorrat sofort Gewicht. |
+| **Niedergang um 550** | Die garamantische Hochkultur ist zu dieser Zeit real im Verfall — eine Kultur, die gerade vergisst, was sie konnte. Das spiegelt den [Kreislauf](../Welt/README.md) der Ringkosmologie, ohne ihn auszusprechen. |
+| **Fremdheit** | Für einen Nordmann so weit weg wie irgend möglich. Die zehn Jahre Trennung wirken dadurch endgültig. |
+| **Sprachweg** | Löst sich über die Vandalen von selbst → [C-026](#c-026-bellbrim--historische-plausibilität--herkunft). |
+| **Handel und Sklaverei** | Beides für die Garamanten belegt (Trans-Sahara-Routen nach Tripolitanien) — trägt [Azzims](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) Geschäft ohne Erfindung. |
+
+**Warum nicht die anderen:** *Arabische Halbinsel* — Leser projizieren den Islam hinein, den es 550 noch nicht gibt. *Syrische Wüste* — Steppe statt Sandwüste, und Byzanz gegen Persien drängt Weltpolitik in eine Geschichte, die keine will. *Sogdien* — städtische Händlerkultur statt Nomaden, größter Rechercheaufwand.
+
+**Kamele sind unproblematisch** — in der Sahara um 550 längst etabliert.
+
+**Was daraus folgt:** [C-090](#c-090-kel-aman--eigenname-und-namenssystem-) (Eigenname und Namenssystem), [C-091 ✓](#c-091-krummsäbel-und-bewaffnung-der-kel-aman-) (Bewaffnung), [C-003](#c-003-kel-aman--kulturelle-tiefe) (kulturelle Tiefe auf neuer Grundlage), [C-087](#c-087-zeitrechnung-im-erzähltext) (Girlins Zeitmaß ohne Winter).
+
+### C-091: Krummsäbel und Bewaffnung der Kel Aman ✓
+**Entscheidung (Autor, 31.08.2026): Krummsäbel gestrichen.** Gekrümmte Klingen sind für **550 n.Chr. zu früh** — sie kommen im islamischen Raum erst Jahrhunderte später auf und sind ein reiner Hollywood-Reflex.
+
+**Stattdessen:** gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reitertaktik. Für die Sahara um 550 belegt und unauffällig. Nachgezogen in [Kel-Aman.md](../Menschen/Wuestenvolk/Kel-Aman.md).
+
+### C-090: Kel Aman — Eigenname und Namenssystem ✓
+Die alten Namen (**„Sahrin", „Sahar", „Sahrinai"**, ebenso **Assim**, **Ishem**, **Imra**) waren vom *arabischen* Wort für Wüste abgeleitet — im [Fezzan](#c-088-verortung-der-wüste-) des 6. Jahrhunderts spricht niemand Arabisch. **Entscheidung (Autor, 31.08.2026): neu ausgearbeitet, keine Ausnahme.** Sprachfamilie ist **libysch-berberisch** (die Sprache der Garamanten, überliefert in libyschen Inschriften, verwandt mit dem heutigen Tamazight).
+
+#### Das Bildungsmuster
+
+| Regel | Erklärung | Beispiel |
+|---|---|---|
+| **Frauennamen umklammert ein `t`** | Echtes berberisches Femininum-Muster (`t…t`). Macht das Geschlecht ohne Erklärung hörbar. | *Tamellat*, *Timrat*, *Tazerit* |
+| **Männernamen enden konsonantisch** oder auf `-an`/`-en` | Nach belegten libyschen Namen (Masinissa, Iugurtha, Gulussa, Mastanabal, Nubel). | *Masin*, *Gulan*, *Mastan*, *Iddar*, *Nubar* |
+| **Abstammung mit `u-` (Sohn) / `ult-` (Tochter)** | Berberische Filiation, ersetzt den Familiennamen. | *Masin u-Gulan* |
+| **Gruppen mit `Kel-` = „die von…"** | Bildungsweise der Wüstenberber für Stammesnamen. | *Kel Garama* |
+
+Damit ist jeder künftige Name prüfbar — der Namenstest des [Weltenbau-Leitfadens](Weltenbau-Leitfaden.md) ist für den Süden bestanden.
+
+#### Der Volksname
+
+**Kel Aman** — „die Leute des Wassers". `aman` heißt im Berberischen tatsächlich *Wasser*. Für ein Volk, dessen Existenz an den Foggara-Tunneln hängt, ist das kein Schmuckname, sondern eine Selbstbeschreibung. Verworfen: *Kel Garama*, *Igharamen*. Fremdbezeichnung durch Sesshafte und Händler bleibt schlicht „die Wüstenleute".
+
+#### Umbenennungen (durchgeführt)
+
+| bisher | neu |
+|---|---|
+| Sahrin (Volk) | **Kel Aman** |
+| Assim Atwan | **Azzim u-Tawan** — Klang fast unverändert, arabische Wurzel weg; „Atwan" lebt als Vatersname weiter |
+| Imra (w) | **Timrat** |
+| Mela (w) | **Tamellat** |
+| Sahrina (w) | entfällt — war vom alten Volksnamen abgeleitet |
+| Nahal (m) | **Nahar** |
+| Ishem (m) | **Ishmar** |
+| Tiberan (m) | **gestrichen** — zu nah an *Tibun*, über zwei Stränge hinweg verwechselbar |
+
+Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Menschen/Wuestenvolk/Azzim-u-Tawan.md`, `Kulturen/Kel-Aman/` umbenannt, alle Links und [SUMMARY.md](../SUMMARY.md) angepasst.
+
+**Kleiner Restpunkt:** ob die Filiation `u-`/`ult-` auch im **Erzähltext** auftaucht oder nur im Wiki steht · **???**
+
+**Nicht Teil dieser Challenge:** „Atem der Erde", „Augen des Geistes", „Kinder des Windes" und die matrilinearen Clan-Mütter sind Begriffe und Bräuche, keine Namen → [C-003](#c-003-kel-aman--kulturelle-tiefe). Die Namen des Nordvolks → [C-092](#c-092-namenssystem-des-nordvolks).
+
+### C-094: Der Sand an der Skir — was das Dorf sieht und wie es deutet ✓
+Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) hatte hier einen **handfesten Widerspruch im Kernkonflikt** benannt: Nach [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden liegt an der Skir eine Halbkugel Wüstensand — in Jütland, für jeden sichtbar. Trotzdem soll [Tibun](../Menschen/Nordvolk/Tibun.md) „nicht geglaubt" werden.
+
+#### Was tatsächlich dort liegt (physikalischer Befund)
+Die untere Halbkugel misst 1,50 m Radius → **rund 7 m³ Wüstensand**, etwa 11 t, bündig eingesetzt in Torf- und Heideboden.
+
+- **Farbe:** heller Ocker gegen fast schwarzen, nassen Torf. Der Regen des Gewitters verstärkt den Kontrast, statt ihn zu verwischen.
+- **Korn:** windgerundet, gleichkörnig, **ohne jede Wurzel, Faser oder Humusspur**. Wer hier Torf sticht, erkennt sofort, dass das kein Boden von hier ist.
+- **Setzung:** Lockerer Sand sackt gegenüber gewachsenem Boden — eine flache Senke, keine Grube.
+- **Wasser:** Sand ist durchlässig, der Regen sickert durch. Der **Bach schneidet die Kante an** und trägt hellen Sand ab; noch Wochen später ist das Ufer bachabwärts hell gesäumt.
+- **Langfristig:** Wüstensand ist nährstofffrei — dort wächst jahrelang nichts. Eine kahle helle Fläche mitten in der Heide. **Der Ort markiert sich selbst**, niemand muss ihn kennzeichnen.
+- **Das Verräterische:** was im Sand steckt. Ein Käferpanzer, ein Dornzweig, ein fremd gefärbtes Steinchen. Nichts davon gehört nach Jütland.
+
+#### Die Auflösung des Widerspruchs (Autor, 31.08.2026)
+**Das Dorf glaubt das Ereignis — es glaubt nur Tibuns Deutung nicht.**
+
+| | |
+|---|---|
+| **Geglaubt** | Dass etwas Unerklärliches geschehen ist. Der Sand liegt da, alle sehen ihn. |
+| **Nicht geglaubt** | Tibuns Deutung: dass Girlin **lebt** und dass ein **Ding** sie geholt hat, das man bedienen kann. |
+| **Die offizielle Lesart** | Die [wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) erklärt den Sand zum **Zeichen der Götter** und Girlin für **tot**. |
+
+Damit steht Tibun nicht gegen Unwissenheit, sondern gegen eine **Erklärung, die alle befriedigt** — und die von der höchsten religiösen Autorität kommt, die die Region kennt. Das ist ungleich stärker als ein Dorf, das ihm einfach nicht zuhört.
+
+#### Das Tabu
+Der Ort wird **nicht abgesperrt und nicht bewacht** — er wird gemieden. Die Wala droht mit **göttlicher Strafe: dasselbe Schicksal wie Girlin**. Wer hingeht, wird geholt. Das wirkt härter als jeder Zaun: Niemand geht freiwillig auch nur in die Nähe, und die Angst braucht keinen Wärter, weil die Wala weiterzieht.
+
+**Was das erzählerisch löst:**
+- Tibun kann zehn Winter lang unbehelligt an einem Ring arbeiten, der im Dorfgebiet liegt — **weil sonst niemand hingeht**. Kein Zaun, keine Wache, nur Angst.
+- Umgekehrt ist jeder seiner Gänge dorthin ein **Tabubruch**. Er tut nicht Verbotenes, er tut Undenkbares.
+- Und die Rechtsgrundlage für Semunds Wiederheirat ist mitgeliefert → [C-095](#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten).
+
+**Neu offen daraus:**
+- Wenn Tibun das Tabu **jahrelang bricht und nichts passiert** — bröckelt die Angst der anderen dann? Wer bemerkt es zuerst? · **???**
+- Was geschieht, wenn er später eine **große Wasseranlage** dort baut ([C-002](#c-002-tibuns-elektrizitätsquelle))? Ein Wasserrad an der Skir ist nicht zu verbergen. Das ist der Punkt, an dem das Dorf reagieren **muss** — und der Kampf um den Ring beginnt, den der Leitfaden bisher vermisst. · **???**
+- Kommt die wandernde Wala im Verlauf der zehn Winter **zurück**? Vom Autor als **nicht vorrangig** eingestuft — wird beim Schreiben entschieden, wenn eine Szene es verlangt. · **???**
+
+### C-096: Korrektur — Girlins Alter ✓
+**Befund (31.08.2026):** Das Altersgerüst ([C-023 ✓](#c-023-zeitleiste--altersgerüst-)) setzte Girlin beim Verschwinden auf **30**. Bei [Tibun](../Menschen/Nordvolk/Tibun.md) **16** hieße das: Sie war bei seiner Geburt **14**.
+
+Das ist für 550 auffällig früh. Germanische Frauen heirateten nach den antiken Berichten eher spät — Tacitus hebt das ausdrücklich hervor; üblich war die erste Geburt mit **17 bis 20**. Vierzehn ist möglich, aber kein Normalfall und erklärt sich nicht von selbst — ein Verstoß gegen das Authentizitätsprinzip, solange keine Vorgeschichte ihn trägt.
+
+**Entscheidung (Autor): Girlin ist bei Tibuns Geburt 18.** Damit verschiebt sich ihr Alter um **+4 Jahre**:
+
+| | Prolog (−1) | Verschwinden (0) | Aufbruch (+1) | Rückkehr (+9) | Finale (+10) |
+|---|---|---|---|---|---|
+| **Girlin** | 33 | **34** | 35 | 43 | **44** |
+
+Bei [Trudas](../Menschen/Nordvolk/Nebenfiguren/Truda.md) Geburt war sie **25**. [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) (35 beim Verschwinden) war bei Tibuns Geburt **19** — ein stimmiges Paar.
+
+**Nachgezogen:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Girlin.md](../Menschen/Nordvolk/Girlin.md), [Plot-1/README](../Plots/Plot-1/README.md), C-023, [C-081](#c-081-girlins-drittes-kind-in-der-wüste) (Wüstenjahre jetzt 34 → 44).
+
+**Folge, die zu prüfen bleibt:** Girlins drittes Kind fiele damit in ihre **späten Dreißiger**. Biologisch unproblematisch, im 6. Jahrhundert aber ein deutlich höheres Risiko — was [C-081](#c-081-girlins-drittes-kind-in-der-wüste) eher stärkt als schwächt.
+
+### C-097: Girlins Kinderfolge — die neun Jahre Lücke ✓
+Aus dem korrigierten Altersgerüst ([C-096 ✓](#c-096-korrektur-girlins-alter-)) fiel eine Lücke, die vorher niemandem auffiel: [Tibun](../Menschen/Nordvolk/Tibun.md) geboren bei [Girlin](../Menschen/Nordvolk/Girlin.md) **18**, [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) bei **25**, Verschwinden mit **34**. Sieben Jahre zwischen den Kindern, danach neun Jahre ohne ein weiteres — bei einer verheirateten Frau in einer Gesellschaft ohne Verhütung. Ohne Erklärung eine stille Abweichung vom Authentizitätsprinzip.
+
+**Entschieden (Autor, 31.08.2026): Es gab drei weitere Kinder. Keines hat überlebt.**
+
+| | |
+|---|---|
+| **Eines** | zwischen Tibun und Truda (Girlin ~21–23) |
+| **Zwei** | nach Truda |
+| **Das letzte** | **kurz vor Girlins Verschwinden** — ein bis zwei Winter davor, Girlin 32 oder 33. Genaues Jahr: **???** |
+
+Damit sind es fünf Schwangerschaften in sechzehn Ehejahren bei zwei überlebenden Kindern. Das ist für 550 kein Unglück, sondern der **Durchschnitt** — grob jedes dritte bis vierte Kind erreichte das Erwachsenenalter nicht.
+
+#### Was das trägt
+
+- **Semunds Haus ist schon vor dem Ring ein Haus des Verlusts.** Als Girlin verschwindet, hat die Familie gerade erst ein Kind begraben. Das erklärt Sprachlosigkeit und Erschöpfung im Umgang mit dem Unerklärlichen — und macht [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) schnelle Wiederheirat ([C-095](#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten)) lesbar: Er hat nicht ersetzt, er hat aufgehört zu verlieren.
+- **Es verstärkt Girlins Motiv, ohne es zu erklären.** Sie hat Kinder verloren, die sie nicht zurückholen konnte. Tibun und Truda **kann** sie zurückholen — das ist der Unterschied, an dem sich ihr Wille festhält ([C-025](#c-025-girlin--charakter--fähigkeiten)).
+- **Truda war alt genug, um sich zu erinnern** (7 oder 8), Tibun ebenfalls (14 oder 15, also um die Zeit des [Prologs](../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md)).
+
+**Offen:** ob und wie es im Erzähltext sichtbar wird — ein Grab, ein Satz, ein Name, den niemand ausspricht. Der Autor hält sich die Möglichkeit offen. · **???**

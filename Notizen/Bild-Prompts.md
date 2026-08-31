@@ -295,20 +295,20 @@ Photorealistic interior of a cave workshop in a desert rock system. Rough sandst
 
 ## Kulturen — Menschenbilder
 
-Ethnografische Arbeitsbilder zur allgemeinen Vorstellung (Kleidung, Haut, Haar, Alltag). **Kein Kanon für Einzelpersonen** — Charaktere haben eigene Dateien. Grundlagen: [Kulturen/Nordvolk](../Kulturen/Nordvolk/README.md), [Kulturen/Sahrin](../Kulturen/Sahrin/README.md), [Sahrin Aussehen](../Menschen/Wuestenvolk/Sahrin.md).
+Ethnografische Arbeitsbilder zur allgemeinen Vorstellung (Kleidung, Haut, Haar, Alltag). **Kein Kanon für Einzelpersonen** — Charaktere haben eigene Dateien. Grundlagen: [Kulturen/Nordvolk](../Kulturen/Nordvolk/README.md), [Kulturen/Kel Aman](../Kulturen/Kel-Aman/README.md), [Kel Aman Aussehen](../Menschen/Wuestenvolk/Kel-Aman.md).
 
 | ID | Datei | Kultur | Motiv |
 |----|--------|--------|--------|
 | **K-nordvolk-01** | [Bilder/K-nordvolk-01-gruppe.jpg](Bilder/K-nordvolk-01-gruppe.jpg) | Nordvolk | Gruppenbild — Alter, Haar, Kleidung |
 | **K-nordvolk-02** | [Bilder/K-nordvolk-02-haushalt.jpg](Bilder/K-nordvolk-02-haushalt.jpg) | Nordvolk | Haushaltsinneres (Langhaus) |
 | **K-nordvolk-03** | [Bilder/K-nordvolk-03-alltag.jpg](Bilder/K-nordvolk-03-alltag.jpg) | Nordvolk | Hofarbeit / Alltag draußen |
-| **K-sahrin-01** | [Bilder/K-sahrin-01-gruppe.jpg](Bilder/K-sahrin-01-gruppe.jpg) | Sahrin | Gruppenbild — Schleier, Roben |
-| **K-sahrin-02** | [Bilder/K-sahrin-02-lager.jpg](Bilder/K-sahrin-02-lager.jpg) | Sahrin | Zeltlager / Haushalt |
-| **K-sahrin-03** | [Bilder/K-sahrin-03-karawane.jpg](Bilder/K-sahrin-03-karawane.jpg) | Sahrin | Karawane unterwegs |
+| **K-sahrin-01** | [Bilder/K-sahrin-01-gruppe.jpg](Bilder/K-sahrin-01-gruppe.jpg) | Kel Aman | Gruppenbild — Schleier, Roben |
+| **K-sahrin-02** | [Bilder/K-sahrin-02-lager.jpg](Bilder/K-sahrin-02-lager.jpg) | Kel Aman | Zeltlager / Haushalt |
+| **K-sahrin-03** | [Bilder/K-sahrin-03-karawane.jpg](Bilder/K-sahrin-03-karawane.jpg) | Kel Aman | Karawane unterwegs |
 
 **Nordvolk (~550, Vendel):** helle bis wettergegerbte Haut; Haar blond / aschblond / hellbraun / rotbraun gemischt (kein Einheitsblond); ungefärbte und schwach pflanzengefärbte Wolle (grau, braun, naturweiß, gedämpftes Waidblau); Tunika, lange Kleider, Rechteckmäntel mit Bronze-Fibeln; **keine** Hörnerhelme, kein Fantasy-Schmuck.
 
-**Sahrin:** sonnengeschwärzte, sehnige Körper; dunkles Haar; weite mehrlagige Gewänder in Sand/Ocker/Schwarz; Tagelmust-ähnliche Schleier; Knochen-/Metallschnallen geometrisch; Ziegenhaarzelt, Kamele. (Kultur noch dünn — optisch an [Sahrin.md](../Menschen/Wuestenvolk/Sahrin.md) / [allgemein.md](../Menschen/Wuestenvolk/allgemein.md).)
+**Kel Aman:** sonnengeschwärzte, sehnige Körper; dunkles Haar; weite mehrlagige Gewänder in Sand/Ocker/Schwarz; Tagelmust-ähnliche Schleier; Knochen-/Metallschnallen geometrisch; Ziegenhaarzelt, Kamele. (Kultur noch dünn — optisch an [Kel-Aman.md](../Menschen/Wuestenvolk/Kel-Aman.md) / [allgemein.md](../Menschen/Wuestenvolk/allgemein.md).)
 
 ### K-nordvolk-01 — Gruppenbild
 
@@ -331,17 +331,17 @@ Photorealistic outdoor daily-work scene of a small Vendel-period Germanic farmst
 ### K-sahrin-01 — Gruppenbild
 
 ```
-Photorealistic ethnographic group portrait of the Sahrin, a desert nomad people. Six adults of mixed ages standing in bright desert light before dark goat-hair tents: lean sinewy bodies, sun-darkened copper-brown to deep tanned skin, deep wind lines around eyes; dark brown and black hair; men with short beards or clean-shaven under face cloths. Clothing: wide multi-layered robes and wraps in sand, ochre, dusty white and black wool; tagelmust-style indigo and black face-and-head veils leaving only eyes visible on some figures; leather belts with geometric bone and bronze buckles; simple bone bead necklaces. Serious reserved faces, not glamorous models. Documentary photography, North African / Sahara nomad feel without modern plastics or logos.
+Photorealistic ethnographic group portrait of the Kel Aman, a desert nomad people. Six adults of mixed ages standing in bright desert light before dark goat-hair tents: lean sinewy bodies, sun-darkened copper-brown to deep tanned skin, deep wind lines around eyes; dark brown and black hair; men with short beards or clean-shaven under face cloths. Clothing: wide multi-layered robes and wraps in sand, ochre, dusty white and black wool; tagelmust-style indigo and black face-and-head veils leaving only eyes visible on some figures; leather belts with geometric bone and bronze buckles; simple bone bead necklaces. Serious reserved faces, not glamorous models. Documentary photography, North African / Sahara nomad feel without modern plastics or logos.
 ```
 
 ### K-sahrin-02 — Lager / Haushalt
 
 ```
-Photorealistic interior and courtyard of a Sahrin nomad household camp at dusk. Black and brown goat-hair tents arranged in a loose circle around a low fire. Inside a tent opening: woven rugs, goatskin water bags, clay jars, date baskets, a woman grinding grain, an older woman sorting wool. Sun-darkened skin, dark hair, multi-layer ochre and black robes, face veils half-lowered indoors. Warm firelight and cool desert evening sky. Ethnographic documentary realism of pre-Islamic Sahara nomads, no modern camping gear, no plastic, no fantasy costumes.
+Photorealistic interior and courtyard of a Kel Aman nomad household camp at dusk. Black and brown goat-hair tents arranged in a loose circle around a low fire. Inside a tent opening: woven rugs, goatskin water bags, clay jars, date baskets, a woman grinding grain, an older woman sorting wool. Sun-darkened skin, dark hair, multi-layer ochre and black robes, face veils half-lowered indoors. Warm firelight and cool desert evening sky. Ethnographic documentary realism of pre-Islamic Sahara nomads, no modern camping gear, no plastic, no fantasy costumes.
 ```
 
 ### K-sahrin-03 — Karawane
 
 ```
-Photorealistic daily life of a Sahrin desert caravan on the move. Line of camels loaded with goods walking through pale sand dunes; lean men and women in wide sand-colored and black robes and tagelmust veils walking beside them; one rider; spears for protection; children on a camel. Sun-darkened skin, only eyes visible under veils for some, heat haze and dust. Documentary wide shot, harsh midday desert light, nomadic trade life, no jeeps, no modern clothing, no fantasy armor.
+Photorealistic daily life of a Kel Aman desert caravan on the move. Line of camels loaded with goods walking through pale sand dunes; lean men and women in wide sand-colored and black robes and tagelmust veils walking beside them; one rider; spears for protection; children on a camel. Sun-darkened skin, only eyes visible under veils for some, heat haze and dust. Documentary wide shot, harsh midday desert light, nomadic trade life, no jeeps, no modern clothing, no fantasy armor.
 ```

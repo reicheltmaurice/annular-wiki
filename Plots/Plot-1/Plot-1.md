@@ -1,8 +1,8 @@
 # Plot 1 (alte Notiz)
 
-> **Status:** ??? — Quellsicherung. Ältere Plotfassung des Autors, **Wortlaut unverändert** (inkl. der alten Schreibweisen `Gyrlin` und `Melia`; Wiki-Schreibweise ist [Girlin](../../Menschen/Nordvolk/Girlin.md) bzw. [Mellia](../../Menschen/Nordvolk/Nebenfiguren/Mellia.md)).
+> **Status:** ??? — Quellsicherung. Ältere Plotfassung des Autors, **Wortlaut unverändert** (inkl. der alten Schreibweisen `Gyrlin` und `Melia`; Wiki-Schreibweise ist [Girlin](../../Menschen/Nordvolk/Girlin.md) bzw. [Millia](../../Menschen/Nordvolk/Nebenfiguren/Millia.md)).
 
-Diese Fassung ist **älter** als die [Kapitelskizze](Kapitelstruktur.md): Sie kennt weder Tibuns achtjährige Wanderschaft nach [Kaupvik](../../Orte/Kaupvik.md) noch [Assim Atwan](../../Menschen/Wuestenvolk/Assim-Atwan.md) als Antagonisten. Sie enthält aber **fünf Beats, die in der Kapitelskizze fehlen** — eingeordnet in [Kapitelstruktur.md](Kapitelstruktur.md#ergänzungen-aus-plot-1-alte-notiz).
+Diese Fassung ist **älter** als die [Kapitelskizze](Kapitelstruktur.md): Sie kennt weder Tibuns achtjährige Wanderschaft nach [Kaupvik](../../Orte/Kaupvik.md) noch [Azzim u-Tawan](../../Menschen/Wuestenvolk/Azzim-u-Tawan.md) als Antagonisten. Sie enthält aber **fünf Beats, die in der Kapitelskizze fehlen** — eingeordnet in [Kapitelstruktur.md](Kapitelstruktur.md#ergänzungen-aus-plot-1-alte-notiz).
 
 ---
 

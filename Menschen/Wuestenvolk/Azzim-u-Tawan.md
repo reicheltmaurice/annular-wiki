@@ -1,4 +1,4 @@
-# Assim Atwan
+# Azzim u-Tawan
 
 > **Status:** ???
 
@@ -35,6 +35,8 @@
 ## Bedeutung in der Geschichte
 
 Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Schmuggel) und wird im Finale durch den Ring zu Tibun teleportiert. Siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md).
+
+> **Harte Regel — der Ring ist niemals sein Motiv.** Azzim **weiß bis zum Ende nichts vom Ring**. Er verfolgt Girlin und Bellbrim aus eigenen Gründen; dass ihn der Ring im Finale nach Norden wirft, ist für ihn eine Katastrophe, kein Ziel. Erst dort, gestrandet, kommt er selbst auf den Gedanken, was ein wiederholbarer Übergang in einer Wüste bedeuten würde — als Schlusspointe und Aufhänger für spätere Geschichten, nicht als Antrieb in Plot 1. Siehe [C-089](../../Notizen/Offene-Challenges.md#c-089-azzim--verhältnis-zum-ring-harte-regel).
 
 ---
 
