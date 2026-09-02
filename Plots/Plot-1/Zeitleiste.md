@@ -34,7 +34,8 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - Er versteht das Prinzip noch **nicht** — die Einsicht kommt erst Jahre später in Kaupvik
 
 ## Jahr 0 — Girlins Verschwinden (Tibun 16, Girlin 34)
-- Weltweites Beben (Erwachen des Ringsystems) löst einen Erdrutsch am Steilufer der Skir aus und legt den vergrabenen Portalring frei ([C-008](../../Notizen/Offene-Challenges.md))
+- Weltweites Beben (Erwachen des Ringsystems) ([C-008](../../Notizen/Offene-Challenges.md))
+  > **Frühere Fassung gestrichen:** „löst einen Erdrutsch am Steilufer der Skir aus und legt den vergrabenen Portalring frei" stammte nicht vom Autor → [C-119](../../Notizen/Offene-Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen), [C-128](../../Notizen/Offene-Challenges.md#c-128-fundort-und-freilegung-des-skir-rings)
 - Girlin verschwindet bei Blitzschlag-Aktivierung des freigelegten Rings ([C-012](../../Notizen/Offene-Challenges.md))
 - Tibun ist einziger Zeuge
 - **Tibun untersucht die frische Mulde** und begreift, dass der Ring **schneidet**: halbierte Steine, glatt durchtrennte Wurzeln, eine Schnittfläche wie mit dem Messer. Das Wissen, mit dem er zehn Jahre später Azzim tötet, liegt ab hier beim Leser — und niemand im Dorf glaubt ihm ([C-098 ✓](../../Notizen/Offene-Challenges.md#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-))
@@ -101,10 +102,11 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   > **Frühere Fassung gestrichen:** Der Satz *„Motiv des Clans ist nicht Girlins Heimweh, sondern Wasser"* stammte nicht vom Autor → [C-119](../../Notizen/Offene-Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen), [C-104](../../Notizen/Offene-Challenges.md#c-104-wasser-als-gegenleistung--das-motiv-des-transports)
 
 ### Der Transport (Jahr +5 → +8)
-- Der 3-m-Ring wiegt rund **8 t** und ist ortsfest ([C-007 ✓](../../Notizen/Offene-Challenges.md#c-007-proportionen-der-portalringe-)). Er wird dennoch bewegt — **auf Schlitten über befeuchtete Piste**, ausschließlich über Hammada und Serir, nie über Dünensand ([C-018 ✓](../../Notizen/Offene-Challenges.md#c-018-widerspruch--transport-des-wüstenrings-))
+- Der 3-m-Ring wiegt rund **5,7 t** ([C-007 ✓](../../Notizen/Offene-Challenges.md#c-007-proportionen-der-portalringe-)). Er wird bewegt ([C-018 ✓](../../Notizen/Offene-Challenges.md#c-018-widerspruch--transport-des-wüstenrings-)) — **wie**, ist offen · **???** → [C-125](../../Notizen/Offene-Challenges.md#c-125-das-transportverfahren-ist-offen)
+  > **Frühere Fassung gestrichen:** „auf Schlitten über befeuchtete Piste, ausschließlich über Hammada und Serir" stammte nicht vom Autor → [C-119](../../Notizen/Offene-Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen)
 - **Ziel:** die **Schlucht** bei Bellbrim — Schatten, Fels, Verteidigungslage. Sie ist danach Werkstatt, Zuflucht und Finalort in einem
 - **Motiv des Clans: Sippenpflicht** (entschieden 02.09.2026). Das Wassermotiv ist gestrichen → [C-119](../../Notizen/Offene-Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen)
-- Dauer: bei 1–3 km am Tag ein Vorhaben über **Jahre**, kein Beat — die harte Grenze ist die Verpflegung, nicht das Gewicht ([C-103](../../Notizen/Offene-Challenges.md#c-103-transportlogistik-des-wüstenrings))
+- Dauer: ein Vorhaben über **Jahre**, kein Beat. Woran die Dauer hängt — Entfernung, Verfahren, Verpflegung —, ist offen ([C-103](../../Notizen/Offene-Challenges.md#c-103-transportlogistik-des-wüstenrings))
 - **Nach dem Transport trennen sich die Wege** (entschieden 02.09.2026): Der Clan setzt den Ring in der Schlucht ab und **zieht weiter**. **Girlin, der Neffe und das Kind bleiben** bei Bellbrim. Es braucht keinen Bruch — die Trennung ergibt sich aus dem Weiterziehen. Für den Neffen ist es dennoch der Verlust seiner Sippe
 - **Folge für das Finale:** Solange der Clan da ist, kommt [Azzim](../../Menschen/Wuestenvolk/Azzim-u-Tawan.md) nicht an Girlin heran. **Ab Jahr +8 ist sie ungeschützt** — sein Zögern ist damit Lage, nicht Autorenwille
 

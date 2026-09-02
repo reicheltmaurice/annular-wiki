@@ -20,17 +20,17 @@ Was jeder Ring-Prompt korrekt treffen muss:
     </tr>
     <tr>
       <td><strong>Silhouette</strong></td>
-      <td>Wie der Eine Ring (PJ / Jens Hansen): massiver Fingerring, skaliert</td>
-      <td>Keine flachen Seitenwände, kein Brunnenrand, kein Rechteckprofil, kein rundes Rohr</td>
+      <td><strong>Flacher Armreif</strong> — breites, flaches Band</td>
+      <td>Kein massiver Fingerring, kein Brunnenrand, kein rundes Rohr, kein Wulst</td>
     </tr>
     <tr>
       <td><strong>Querschnitt</strong></td>
-      <td><strong>Oval</strong> (voll gerundet) — axial höher als radial dick</td>
-      <td>1,05 m hoch × 0,405 m dick; nicht kreisrund (sonst Donut-Schlauch)</td>
+      <td><strong>Abgerundetes Rechteck</strong> — flache Außenfläche, gebrochene Kanten</td>
+      <td>0,50 m breit × 0,15 m dick, Eckradius 0,03 m; nicht oval, nicht halbrund</td>
     </tr>
     <tr>
       <td><strong>Außen-Ø</strong></td>
-      <td>3,81 m</td>
+      <td>3,30 m</td>
       <td><a href="../Notizen/Offene-Challenges.md">C-007</a></td>
     </tr>
     <tr>
@@ -39,14 +39,14 @@ Was jeder Ring-Prompt korrekt treffen muss:
       <td></td>
     </tr>
     <tr>
-      <td><strong>Wandstärke (radial)</strong></td>
-      <td>0,405 m</td>
+      <td><strong>Dicke (radial)</strong></td>
+      <td>0,15 m</td>
       <td>Dicke des Ringkörpers von innen nach außen</td>
     </tr>
     <tr>
-      <td><strong>Höhe / Bandbreite (axial)</strong></td>
-      <td>1,05 m</td>
-      <td>Reicht einem Erwachsenen über die Hüfte</td>
+      <td><strong>Breite (axial)</strong></td>
+      <td>0,50 m</td>
+      <td>Reicht einem Erwachsenen bis knapp übers Knie</td>
     </tr>
     <tr>
       <td><strong>Optik</strong></td>
@@ -79,9 +79,10 @@ Was jeder Ring-Prompt korrekt treffen muss:
 **Der Bildkern:** Der Kontrast zwischen uraltem Bewuchs und der ungealterten Oberfläche darunter. Nicht der Fund ist unheimlich, sondern der Moment, in dem das Moos weggezogen wird.
 
 **Fallstricke:**
-- Generatoren stellen den Ring gern *aufrecht* hin (Stargate-Reflex) und ignorieren die Höhe von 1,05 m.
-- **`well-curb` / Rechteckprofil → flache Seiten.** Stattdessen: `One Ring`, `oval cross-section`, `fully rounded`, `NO flat faces`.
-- **`circular tube` / runder Rohr-Torus → Donut-Schlauch.** Falsch: Querschnitt ist **oval** (1,05 m hoch, 0,405 m radial) wie ein Fingerring, nicht kreisrund.
+- Generatoren stellen den Ring gern *aufrecht* hin (Stargate-Reflex) und ignorieren die Breite von 0,50 m.
+- **`circular tube` / runder Rohr-Torus → Donut-Schlauch.** Falsch: Der Querschnitt ist ein **abgerundetes Rechteck** (0,50 m breit, 0,15 m radial) wie ein flacher Armreif, nicht kreisrund und nicht oval.
+- **`One Ring` / `fully rounded` → wulstiger Fingerring.** Diese Begriffe sind **abgelöst** und dürfen nicht mehr in den Prompt: Sie erzeugen das alte, viel zu massige Profil.
+- **Gegenrichtung `sharp edges` → scharfkantiger Bord.** Die Kanten sind *gebrochen*, nicht scharf: `softly chamfered edges`, `small edge radius`.
 - `brushed aluminium` zieht Richtung Sci-Fi — nötigenfalls `no sci-fi, no industrial` verstärken.
 
 **Noch offen, in den Prompts vorläufig gesetzt:** Bürstrichtung umlaufend statt axial ([C-037](../Notizen/Offene-Challenges.md)); Runenform bewusst vage ([C-013](../Notizen/Offene-Challenges.md)).
@@ -92,13 +93,13 @@ Was jeder Ring-Prompt korrekt treffen muss:
 
 | ID | Datei | Status |
 |----|--------|--------|
-| **P-001o** | [Bilder/P-001o-oval-objektstudie.jpg](Bilder/P-001o-oval-objektstudie.jpg) | Objektstudie, ovales Profil |
+| **P-001o** | [Bilder/P-001o-oval-objektstudie.jpg](Bilder/P-001o-oval-objektstudie.jpg) | Objektstudie, **altes** ovales Profil — überholt |
 | **P-001u** | [Bilder/P-001u-s-aussenrunen-behalten.jpg](Bilder/P-001u-s-aussenrunen-behalten.jpg) | **Form/Szene-Lock** (Referenz; 24 Runen) |
 
 **Arbeitsstand (verbindlich für nächste Renders):**
-- **Form:** Eine Ring (PJ) — gigantischer Fingerring, flach liegend
-- **Querschnitt:** **Oval**, voll gerundet (axial 1,05 m × radial 0,405 m) — nicht Rechteck, nicht kreisrundes Rohr
-- **Prompt-Fallen:** `well-curb`, `rectangular`, `circular tube` → **nicht verwenden**
+- **Form:** flacher Armreif — breites, flaches Band, flach liegend
+- **Querschnitt:** **abgerundetes Rechteck** (axial 0,50 m × radial 0,15 m, Eckradius 0,03 m) — nicht oval, nicht halbrund, nicht kreisrundes Rohr
+- **Prompt-Fallen:** `One Ring`, `fully rounded`, `oval cross-section`, `circular tube`, `sharp edges` → **nicht verwenden**
 - **Lock:** **P-001u** (Form, Farbe, Szene, Runenstil). Nicht weiter per image_edit „nur Runen“ iterieren — Tool setzt Innenrunen wieder und zerstört Details.
 - **Runen-Ziel (offen):** 12 am Umfang (Uhr-Stunden), sichtbar ~5–6; nur Außenäquator; innen glatt. Umsetzung: externes Masken-Inpaint oder manuell auf u.
 - Ältere Zwischenstände (P-001–n, p–t, v/w, P-002*, P-003*) gelöscht.
@@ -107,7 +108,7 @@ Was jeder Ring-Prompt korrekt treffen muss:
 ### Form-Prompt (ersetzen für Geometrie)
 
 ```
-FORM: Giant plain wedding band like the One Ring in Peter Jackson's Lord of the Rings (Jens Hansen prop). Oval cross-section, fully rounded — taller than thick (height 1.05 m, radial thickness 0.405 m), continuous soft curves. NO circular pipe/tube doughnut, NO flat faces, NO rectangular sides, NO well-curb. Matte brushed aluminium (not gold). Lies flat, hole to sky, outer diameter 3.81 m, hip height.
+FORM: Giant flat bangle — a wide, flat metal band. Rounded-rectangle cross-section: flat outer face and flat inner bore, all four edges softly chamfered with a small radius (width 0.50 m axial, thickness 0.15 m radial, edge radius 0.03 m). Slab-like and slender, NOT a chunky wedding band, NOT oval, NOT half-round, NO circular pipe/tube doughnut, NO well-curb, NO sharp knife edges. Matte brushed aluminium (not gold). Lies flat, hole to sky, outer diameter 3.30 m, knee height.
 RUNES: Exactly 12 discrete glyphs, evenly spaced like clock hour marks (every 30°), outer equator only. Nordic/Stargate angular symbols — straight strokes only. Clear sharp V-cut wedge grooves (Keilrillen), not curved or soft channels. Inner curve of the hole blank. UNLIT.
 ```
 
@@ -124,7 +125,7 @@ Stimmungsbild. Der Bach Skir liegt außerhalb des Ausschnitts.
 Photorealistic. A colossal ring lies flat and forgotten in a stand of trees. Northern European, damp, still, ancient.
 
 THE RING — exact geometry, this is critical:
-A single seamless giant wedding band lying FLAT and HORIZONTAL on the forest floor, circular opening facing straight up at the sky. Form exactly like the One Ring in Peter Jackson's Lord of the Rings films (Jens Hansen prop): OVAL cross-section, fully rounded — taller than thick (height 1.05 m axial, radial thickness 0.405 m). Continuous soft curves only — NO circular pipe/doughnut tube, NO flat faces, NO rectangular sides, NO well-curb. Outer diameter 3.81 m. Hip-to-waist height on an adult.
+A single seamless giant flat bangle lying FLAT and HORIZONTAL on the forest floor, circular opening facing straight up at the sky. A wide, flat, slender band: rounded-rectangle cross-section with a flat outer face and a flat inner bore, all four edges softly chamfered with a small radius (width 0.50 m axial, thickness 0.15 m radial, edge radius 0.03 m). Slab-like, NOT a chunky wedding band, NOT oval, NOT half-round, NO circular pipe/doughnut tube, NO well-curb, NO sharp knife edges. Outer diameter 3.30 m. Knee height on an adult.
 
 SURFACE — the key contrast of the image:
 The bare material looks exactly like BRUSHED ALUMINIUM: matte silver-grey, with a fine directional grain running circumferentially around the ring. No mirror shine, no reflections, no seams, no welds, no casting marks, no tool marks.
@@ -140,19 +141,19 @@ CAMERA: Elevated three-quarter view from roughly 3 m up, so the opening reads cl
 NEGATIVE: no green glow, no light emission, no portal effect, no energy, no upright or standing ring, no gold, no mirror polish, no machinery, no sci-fi, no industrial setting, no stream, no river, no water, no people, no modern objects, no rust, no patina.
 ```
 
-Arbeitsdateien in [Bilder/](Bilder/). Formverbindlich ist der Block oben (ovales One-Ring-Profil).
+Arbeitsdateien in [Bilder/](Bilder/). Formverbindlich ist der Block oben (flacher Armreif, abgerundetes Rechteck).
 
 ---
 
-## P-002: Fundszene — Erdrutsch am Skir
+## P-002: Fundszene
 
-Kanonische Szene nach [C-008](../Notizen/Offene-Challenges.md): Der Erdrutsch am Steilufer legt den Ring frei.
+> **Nicht kanonisch · ???** Dieser Prompt zeigt einen Erdrutsch am Steilufer. **Der Erdrutsch ist gestrichen** ([C-128](Offene-Challenges.md#c-128-fundort-und-freilegung-des-skir-rings)) — der Ring liegt im Wald nahe dem Bach. Der Prompt bleibt als Materialarchiv stehen, bis feststeht, wie der Ring in Erscheinung tritt, und ist bis dahin **nicht zu rendern**.
 
 ```
 Photorealistic. Northern Jutland heathland, Vendsyssel, near the Skagerrak coast. A fresh landslide has torn open a steep stream bank, exposing a colossal ring lying flat in the slump debris.
 
 THE RING — exact geometry, this is critical:
-A single seamless giant wedding band lying FLAT and HORIZONTAL on the ground, circular opening facing straight up at the sky. Form like the One Ring (Peter Jackson / Jens Hansen): OVAL cross-section, fully rounded — taller than thick (1.05 m high, 0.405 m radial). NO circular pipe/doughnut tube, NO flat faces, NO rectangular sides, NO well-curb. Outer diameter 3.81 m. Hip-to-waist height.
+A single seamless giant flat bangle lying FLAT and HORIZONTAL on the ground, circular opening facing straight up at the sky. A wide, flat, slender band: rounded-rectangle cross-section with a flat outer face and a flat inner bore, all four edges softly chamfered with a small radius (width 0.50 m axial, thickness 0.15 m radial, edge radius 0.03 m). Slab-like, NOT a chunky wedding band, NOT oval, NOT half-round, NO circular pipe/doughnut tube, NO well-curb, NO sharp knife edges. Outer diameter 3.30 m. Knee height on an adult.
 
 SURFACE — the key contrast of the image:
 The bare material looks exactly like BRUSHED ALUMINIUM: matte silver-grey, fine directional grain running circumferentially. No mirror shine, no seams, no welds, no casting marks.
@@ -175,15 +176,15 @@ NEGATIVE: no green glow, no light emission, no portal effect, no energy, no upri
 
 Zum Festnageln von Größe und Material — nüchtern, ohne Stimmung.
 
-**Fallen:** Generatoren machen den Querschnitt zu einem dicken Rohr oder zu einem eckigen Bord. Oval erzwingen (1,05 m hoch, 0,405 m radial); Hüfthöhe am Körper; 24 Glyphen am Außenäquator.
+**Fallen:** Generatoren machen den Querschnitt zu einem dicken Rohr, einem Wulst oder einem scharfkantigen Bord. Abgerundetes Rechteck erzwingen (0,50 m breit, 0,15 m radial, Eckradius 0,03 m); Kniehöhe am Körper; 24 Glyphen am Außenäquator.
 
 ```
-Photorealistic technical study, neutral presentation. A colossal wedding-band ring lying flat and horizontal on open heathland, circular opening facing straight up at the sky.
+Photorealistic technical study, neutral presentation. A colossal flat bangle lying flat and horizontal on open heathland, circular opening facing straight up at the sky.
 
-GEOMETRY — One Ring oval band, not a trough, curb, or doughnut tube:
-Outer diameter 3.81 m. Radial thickness ONLY 0.405 m. Height above ground 1.05 m. OVAL cross-section, fully rounded — taller than thick. NO circular pipe profile, NO flat faces, NO rectangular sides.
+GEOMETRY — flat bangle, not a trough, curb, wedding band, or doughnut tube:
+Outer diameter 3.30 m. Radial thickness ONLY 0.15 m. Height above ground 0.50 m. Rounded-rectangle cross-section: flat outer face, flat inner bore, all four edges softly chamfered (edge radius 0.03 m). NO circular pipe profile, NO oval or half-round profile, NO sharp knife edges.
 
-SCALE ANCHOR: One adult human in undyed 6th-century woollen clothing stands beside it, hand resting on the upper curve — top of band reaches just above their waist.
+SCALE ANCHOR: One adult human in undyed 6th-century woollen clothing stands beside it, hand resting on the upper face — top of band reaches just above their knee.
 
 SURFACE: BRUSHED ALUMINIUM — matte silver-grey, circumferential grain, no mirror shine, seamless, un-aged, flawless.
 

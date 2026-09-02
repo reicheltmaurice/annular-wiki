@@ -161,7 +161,7 @@ Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt wede
 | Suchtrupp, Semund + Millia, Aufbruch, Hafenstadt, Unfall → Generator-Idee | deckungsgleich |
 | Wasserrad-Unfall mit Verletztem | **teilentschieden 02.09.2026** — er passiert, Opfer ist eine Nebenfigur; Bauart offen → [C-058](../../Notizen/Offene-Challenges.md#c-058-wasserrad-unfall-und-tibuns-schuld) |
 | Paar in Kaupvik / neue Bezugsperson | **teilentschieden 02.09.2026** — sie bleiben lebend zurück; Figuren fehlen weiter → [C-059](../../Notizen/Offene-Challenges.md#c-059-tibuns-zieheltern-in-kaupvik) |
-| Nomaden bergen den Ring und bringen ihn zu Bellbrim | **entschieden** — Transport auf Schlitten in die Schlucht, Jahr +5 bis +8 → [C-018 ✓](../../Notizen/Offene-Challenges.md#c-018-widerspruch--transport-des-wüstenrings-) |
+| Nomaden bergen den Ring und bringen ihn zu Bellbrim | **entschieden** — Transport in die Schlucht, Jahr +5 bis +8 → [C-018 ✓](../../Notizen/Offene-Challenges.md#c-018-widerspruch--transport-des-wüstenrings-). Verfahren offen → [C-125](../../Notizen/Offene-Challenges.md#c-125-das-transportverfahren-ist-offen) |
 | Girlin und Neffe | **entschieden** — der **Neffe**, dessen Frau zuvor durchbrennt → [C-060 ✓](../../Notizen/Offene-Challenges.md#c-060-girlin-und-der-neffe-) |
 | Häuptling offenbart Navigationswissen | **gestrichen 02.09.2026** — kein Geheimnis; drei Phasen statt Schweigen → [C-061 ✓](../../Notizen/Offene-Challenges.md#c-061-navigationswissen-des-häuptlings) |
 | Tibun kümmert sich um Truda | **neu** aus [Plot 1](Plot-1.md) → [C-077](../../Notizen/Offene-Challenges.md#c-077-tibun-und-truda-nach-girlins-verschwinden) |

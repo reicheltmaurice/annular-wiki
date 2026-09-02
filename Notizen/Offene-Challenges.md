@@ -58,7 +58,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-070: Prolog — Dateikopf und Versionszeile](#c-070-prolog--dateikopf-und-versionszeile)
 - [C-071: Prolog — Tibuns Alter und Heiratsantrag](#c-071-prolog--tibuns-alter-und-heiratsantrag)
 - [C-072: Prolog — Textfassung 2.2 oder 2.3](#c-072-prolog--textfassung-22-oder-23)
-- [C-073: Querschnitt der Ringe — abgerundete Kanten?](#c-073-querschnitt-der-ringe--abgerundete-kanten)
 - [C-074: Haptik der Ringoberfläche](#c-074-haptik-der-ringoberfläche)
 - [C-075: Ist das Ringmaterial ein Metall?](#c-075-ist-das-ringmaterial-ein-metall)
 - [C-076: Abklingdauer des grünen Leuchtens](#c-076-abklingdauer-des-grünen-leuchtens)
@@ -84,7 +83,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-112: Das Wüstenkind während des Finales](#c-112-das-wüstenkind-während-des-finales)
 - [C-113: Bellbrims Sprache — Verhältnis zu C-026](#c-113-bellbrims-sprache--verhältnis-zu-c-026)
 - [C-116: Azzim tritt zu spät auf](#c-116-azzim-tritt-zu-spät-auf)
-- [C-117: Ringgewicht — Zylinderannahme statt Ringform](#c-117-ringgewicht--zylinderannahme-statt-ringform)
 - [C-118: Der Nordstrang verliert zwischen +1 und +9 nichts](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts)
 - [C-119: Wiki-Altlast — vom Autor nicht gedeckte Festlegungen](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen)
 - [C-120: Azzims zweite Seite — der dritte Konflikt fehlt wieder](#c-120-azzims-zweite-seite--der-dritte-konflikt-fehlt-wieder)
@@ -92,6 +90,9 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-122: Der Wüstenstrang zwischen +8 und +10](#c-122-der-wüstenstrang-zwischen-8-und-10)
 - [C-123: Azzims frühe Auftritte — Zahl und Zeitpunkte](#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte)
 - [C-124: Die Zwischenstation — Ort und Gruppe](#c-124-die-zwischenstation--ort-und-gruppe)
+- [C-125: Das Transportverfahren ist offen](#c-125-das-transportverfahren-ist-offen)
+- [C-126: Der Postring — was passt hinein?](#c-126-der-postring--was-passt-hinein)
+- [C-128: Fundort und Freilegung des Skir-Rings](#c-128-fundort-und-freilegung-des-skir-rings)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -115,6 +116,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-060: Girlin und der Neffe ✓](#c-060-girlin-und-der-neffe-)
 - [C-061: Navigationswissen — Schweigen gestrichen ✓](#c-061-navigationswissen-des-häuptlings)
 - [C-062: Azzims Ankunft vor Tibuns Zündung ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)
+- [C-073: Querschnitt der Ringe — flacher Armreif ✓](#c-073-querschnitt-der-ringe--flacher-armreif-)
 - [C-080: Girlins Entführung und Rettung ✗ gestrichen](#c-080-girlins-entführung-und-rettung--gestrichen)
 - [C-082: Girlins Entscheidung zur Rückreise ✓](#c-082-girlins-entscheidung-zur-rückreise-)
 - [C-086: Ton in einem Satz ✓](#c-086-ton-in-einem-satz-)
@@ -133,6 +135,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-111: Kopplung ist nicht ortsgebunden ✓](#c-111-wiederaufstellung-des-rings-nach-dem-transport--kernfrage)
 - [C-114: Girlin weiß von Anfang an vom Rückweg ✓](#c-114-girlin-weiß-von-anfang-an-dass-der-ring-ihr-rückweg-ist-)
 - [C-115: Tibuns Wanderjahre → Kaupvik-Jahre ✓](#c-115-tibuns-wanderjahre--die-stationen-fehlen)
+- [C-117: Ringgeometrie neu vermessen ✓](#c-117-ringgeometrie-neu-vermessen-)
+- [C-127: Referenzdichte 7,8 g/cm³ ✓](#c-127-referenzdichte-)
 
 ---
 
@@ -192,17 +196,19 @@ Ist die 180°-Drehung ein **simultaner Vorgang** mit dem Tausch (die Kugel wird 
 Festgelegt (C-010): **3,00 m** (ortsfeste Tor-Ringe) und **0,30 m** (tragbarer Post-Ring). Gibt es im Erbauer-System weitere Größen — und wofür? Offen.
 
 ### C-018: Widerspruch — Transport des Wüstenrings ✓
-`zeitleiste.md` (Girlins Reise) sieht vor: *„Transport des Ringes in Bellbrims Labor"* + Experimente dort. Das widerspricht **C-007/C-010**: Der 3-m-Ring ist ~8 t schwer und **faktisch untransportierbar/ortsfest**. Beide Ringe müssen 3 m sein (sonst keine Rückkehr für Girlin, C-010) — ein kleinerer Wüstenring scheidet also aus.
+`zeitleiste.md` (Girlins Reise) sieht vor: *„Transport des Ringes in Bellbrims Labor"* + Experimente dort. Das schien **C-007/C-010** zu widersprechen: Der 3-m-Ring galt als ~8 t schwer und **faktisch untransportierbar**. Beide Ringe müssen 3 m sein (sonst keine Rückkehr für Girlin, C-010) — ein kleinerer Wüstenring scheidet also aus.
+
+> **Nachtrag 02.09.2026:** Die Gewichtsprämisse ist überholt. Der Ring wiegt **~5,7 t**, nicht 8 t ([C-117 ✓](#c-117-ringgeometrie-neu-vermessen-)). Die Entscheidung selbst bleibt gültig — sie stand ohnehin auf der Verpflegung, nicht auf dem Gewicht. Das **Verfahren** ist aber zu prüfen → [C-125](#c-125-das-transportverfahren-ist-offen).
 **Entschieden (Autor, 31.08.2026): Option (b) — der Ring wird bewegt, unter enormem Aufwand.**
 
-Der Autor hat gegen die Empfehlung entschieden (Vorschlag war: Bellbrim zieht zum Ring statt umgekehrt). Damit die Entscheidung das Authentizitätsprinzip nicht bricht, gelten drei Bedingungen:
+Der Autor hat gegen die Empfehlung entschieden (Vorschlag war: Bellbrim zieht zum Ring statt umgekehrt).
 
-1. **Verfahren:** Schlitten auf **befeuchteter Piste** — historisch für weit schwerere Lasten belegt (ägyptische Obelisken, mehrere hundert Tonnen). Nicht Rollen, die im Sand versinken.
-2. **Route:** ausschließlich **Hammada** (Steinwüste) und **Serir** (Kiesebene). Über **Erg** (Dünensand) ist es unmöglich, nicht nur schwer.
-3. **Die harte Grenze ist die Verpflegung, nicht das Gewicht.** Wasser und Nahrung für hundert Männer über Monate in der Wüste ist das eigentliche Problem → [C-103](#c-103-transportlogistik-des-wüstenrings), [C-104](#c-104-wasser-als-gegenleistung--das-motiv-des-transports).
+**Was entschieden ist:**
+- **Der Ring wird bewegt**, unter enormem Aufwand.
+- **Ziel:** die **Schlucht** bei Bellbrim — Schatten, Fels, Verteidigungslage. Sie ist danach Werkstatt, Zuflucht und Finalort in einem; Beat 14 der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md) bekommt damit einen Grund, dort zu sein.
+- **Zeitraum:** Jahr **+5 bis +8**.
 
-**Ziel:** die **Schlucht** bei Bellbrim — Schatten, Fels, Verteidigungslage. Sie ist danach Werkstatt, Zuflucht und Finalort in einem; Beat 14 der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md) bekommt damit einen Grund, dort zu sein.
-**Zeitraum:** Jahr **+5 bis +8**. Bei 1–3 km am Tag ist das kein Beat, sondern ein Kapitel — ein ganzes Volk zieht ein Jahrhundertprojekt durch die Wüste. Die zehn Jahre bezahlen es.
+**Was NICHT entschieden ist · ???** Das **Verfahren** — wie der Ring bewegt wird — ist offen → [C-125](#c-125-das-transportverfahren-ist-offen). Hier standen früher „Schlitten auf befeuchteter Piste", eine Routenvorgabe (nur Hammada und Serir) und die Tagesleistung 1–3 km als Bedingungen. **Diese Angaben stammen von Claude, nicht vom Autor** ([C-119](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen)) und sind gestrichen.
 
 **Nachgezogen:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md). **Neu daraus:** [C-103](#c-103-transportlogistik-des-wüstenrings), [C-104](#c-104-wasser-als-gegenleistung--das-motiv-des-transports), [C-111](#c-111-wiederaufstellung-des-rings-nach-dem-transport--kernfrage).
 
@@ -404,7 +410,6 @@ Der [Skir](../Orte/Skirraa.md) ist bisher nur als „Bach" geführt, ohne Größ
 **Drei Befunde sprechen gegen „Bach":**
 1. Der Name **Skirraa** enthält *-aa* (dän. *å*) — das bezeichnet ein richtiges Fließgewässer, keinen Rinnsal.
 2. Der Skir soll später **Tibuns Wasserrad** antreiben ([C-002](#c-002-tibuns-elektrizitätsquelle)) — ein Mühlrad braucht echten Durchfluss.
-3. Der Ring wird durch einen Erdrutsch am **Steilufer** freigelegt ([C-008](#c-008-anzahl-und-bekanntheit-der-ringe-)) — ein Steilufer, das einen 3,81-m-Ring verbergen kann, gräbt kein Bach.
 4. Das reale Gegenstück **Uggerby Å** ist im Wiki selbst als „Hauptfluss Vendsyssels" geführt.
 
 **Dramaturgischer Nebeneffekt:** Bäume am Fundort lösen ein Physikproblem — ein Blitz braucht ein hohes Ziel. Ein flach im Boden liegender Ring auf offener Heide ist ein schlechter Einschlagpunkt; ein Baum daneben plus nasser Boden macht [Girlins](../Menschen/Nordvolk/Girlin.md) Unfall plausibel (Erdstrom statt Direkttreffer).
@@ -414,7 +419,7 @@ Der [Skir](../Orte/Skirraa.md) ist bisher nur als „Bach" geführt, ohne Größ
 Status: **???** — in Klärung.
 
 ### C-056: Prolog — Folgen des Bebens im Dorf
-Die [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#prolog) notiert zum Beben: „die Menschen haben Angst / vielleicht ist jemand vermisst oder Tiere brechen aus". Die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) führt das Beben bisher nur als Auslöser des Erdrutschs. Offen: Welche **sichtbaren Folgen** hat das Beben in [Skirraa](../Orte/Skirraa.md) — Schäden, ausgebrochenes Vieh, weitere Vermisste? Erzählwert: Girlins Verschwinden geht im allgemeinen Chaos unter, das erklärt, warum niemand Tibun glaubt. Risiko: zu viele Vermisste entwerten Girlins Fall.
+Die [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#prolog) notiert zum Beben: „die Menschen haben Angst / vielleicht ist jemand vermisst oder Tiere brechen aus". Die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) führt das Beben bisher ohne sichtbare Folgen im Dorf. Offen: Welche **sichtbaren Folgen** hat das Beben in [Skirraa](../Orte/Skirraa.md) — Schäden, ausgebrochenes Vieh, weitere Vermisste? Erzählwert: Girlins Verschwinden geht im allgemeinen Chaos unter, das erklärt, warum niemand Tibun glaubt. Risiko: zu viele Vermisste entwerten Girlins Fall.
 
 ### C-057: Prolog — warum sind Tibun und Girlin allein draußen?
 Randnotiz des Autors in der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#prolog). Damit Tibun **einziger Zeuge** sein kann, braucht es einen Grund, warum Mutter und Sohn bei aufziehendem Gewitter außerhalb des Weilers sind. Bisher unbeantwortet. Muss ein Alltagsgrund sein (Vieh holen, Torf, Bernstein am Ufer), kein Zufall — sonst wirkt die Szene konstruiert.
@@ -575,14 +580,6 @@ Die Unterschiede (2.2 → 2.3):
 
 Übernommen wurden 1, 4 und 5; 2 und 3 blieben bei 2.2. Punkt 4 trägt ohne Punkt 3 keinen Zeitbruch mehr, weil der Anker „Doch nun …" im Satz davor wieder steht.
 
-### C-073: Querschnitt der Ringe — abgerundete Kanten?
-Aus einer alten Autorennotiz: Die Ringe sollen **abgerundete Kanten** haben (weicher, eleganter — wie ein echter Ehering), für Volumenberechnungen wird aber ein **Hohlzylinder** angenommen. Beides steht bisher nirgends im Wiki; [Portalringe.md](../Technik/Portalringe.md) und [Portalring_Berechnungen.md](../Technik/Portalring_Berechnungen.md) rechnen kommentarlos mit scharfkantigem Hohlzylinder.
-
-Zu entscheiden:
-- **Ist der Querschnitt gerundet?** Passt zur Formreferenz (der Eine Ring hat einen gewölbten Mantel) und zu „keine Naht, keine Werkzeugspuren" ([C-035](#c-035-aussehen-der-ringoberfläche-)). Betrifft die Beschreibung im Erzähltext.
-- **Berechnungsvorbehalt dokumentieren:** Wenn gerundet, ist der Zylinder eine **Obergrenze** — reales Volumen und Gewicht liegen einige Prozent darunter. Die ~8 t bleiben als Hausnummer gültig, sollten aber als „Zylinderannahme" gekennzeichnet werden.
-- **Berührt [C-012](#c-012-aktivierungsverhalten-des-rings-):** Die Tausch-Kugel ist über die **Innenkante** definiert. Bei gerundetem Mantel wäre die Öffnung an den Rändern weiter als in der Mitte — zu klären wäre dann, ob der Innen-Ø der **engsten** Stelle gilt (naheliegend, weil die Rotation den engsten Kreis überstreicht).
-
 ### C-074: Haptik der Ringoberfläche
 Eine alte Autorennotiz beschreibt die Oberfläche als „silbern und **leicht rau**". Das Wiki legt nur die **Optik** fest (matt silbrig-grau, fein gerichtet — [C-035](#c-035-aussehen-der-ringoberfläche-)), nicht das Anfassen. Offen: Fühlt sich der Ring rau, seidig, kalt, warm, glatt an?
 
@@ -716,13 +713,31 @@ Idee des Autors: Kapitel jeweils mit einem Zitat eröffnen. Sammlung in [Zitate.
 Folge der Umstellung auf den **Innentausch** ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)): Die Tauschkugel hat nur noch **1,50 m Radius**. Beim flach liegenden Ring reicht sie damit nur **1,50 m über die Ringebene** — ein **Stehender** passt nicht hinein, der rohe ebenerdige Ring köpft ihn.
 
 **Entschieden (Autor):**
-- **[Girlin](../Menschen/Nordvolk/Girlin.md) stolpert in den Ring** — womöglich über den Ring selbst — und **liegt** darin. Liegend passt ein Mensch bei **jeder** Einbettungstiefe: Auf Bodenhöhe hat die Kugel nahezu den vollen Durchmesser von 3,00 m, ein Liegender misst 1,75 × 0,3 m. Die Einbettungstiefe des Skir-Rings ist damit **kein Problem mehr** — sie war es nur für Stehende.
+- **[Girlin](../Menschen/Nordvolk/Girlin.md) stolpert in den Ring** — womöglich über den Ring selbst — und **liegt** darin. Liegend passt ein Mensch bei **jeder** Einbettungstiefe: Die Kugel misst **immer 3,00 m**, und auf Höhe der Ringebene ist ihr Schnittkreis genau dieser volle Durchmesser — ein Liegender misst 1,75 × 0,3 m. Die Einbettungstiefe des Skir-Rings ist damit **kein Problem mehr** — sie war es nur für Stehende.
 - **Für den Alltagsbetrieb baut die Nutzer-Zivilisation eine Mulde** in den Ringboden, damit man **stehend** reisen kann. Das Wissen darum gehört zur Bedienung.
 
-**Die daraus folgende Betriebsregel** (dokumentiert in [Portalringe.md](../Technik/Portalringe.md)):
-> Das Kugelzentrum muss ~0,75 m über der Standfläche liegen.
+> **Gestrichen (Autor, 02.09.2026):** Hier stand die Betriebsregel *„Das Kugelzentrum muss ~0,75 m über der Standfläche liegen"* nebst festen Einbaumaßen (Mulde 0,75 m, Standfläche 2,60 m, Kopffreiheit 2,25 m, vertikal Zentrum 0,75 m über dem Gehweg). **Die 0,75 m stammten von Claude, nicht vom Autor** → [C-119](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen).
 
-Eine Regel, zwei Bauformen — flach liegend: **Mulde 0,75 m tief**; vertikal: **Zentrum 0,75 m über dem Gehweg**. Beide ergeben dieselben Maße: **2,60 m Standfläche, 2,25 m Kopffreiheit**. Kein Zufall, es ist dieselbe Geometrie.
+**Was geometrisch feststeht** (Innen-Ø 3,00 m, Breite 0,50 m, Dicke 0,15 m):
+- Liegt der Ring flach im Boden, fällt die **Ringebene mit dem Boden zusammen**; das Kugelzentrum liegt dort, wo man steht. Kopffreiheit ohne Mulde: **1,50 m** — genau der Kugelradius.
+- Jede Mulde erkauft Kopffreiheit mit Standfläche:
+  `Kopffreiheit = 1,50 m + Muldentiefe` · `Standfläche = 2 · √(1,50² − Muldentiefe²)` — beides ab der Ringebene gemessen
+
+| Mulde unter der Ringebene | Kopffreiheit | Standfläche |
+|---|---|---|
+| keine | 1,50 m | 3,00 m |
+| 0,25 m | 1,75 m | 2,96 m |
+| 0,50 m | 2,00 m | 2,83 m |
+| 0,75 m | 2,25 m | 2,60 m |
+| 1,00 m | 2,50 m | 2,24 m |
+| 1,25 m | 2,75 m | 1,66 m |
+
+**Zu entscheiden · ???**
+- Welche Muldentiefe gilt für Anlagen der Nutzer-Zivilisation — oder bleibt sie bewusst unbestimmt?
+- **Hat der Skir-Ring eine Mulde?** **Nicht entschieden.** Der Wiki-Text hat ihn zeitweise als „roh und ungemuldet" geführt — das stammte von Claude ([C-119](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen)). Die Szene, in der der Ring in Erscheinung tritt, ist noch nicht geschrieben ([C-128](#c-128-fundort-und-freilegung-des-skir-rings)); solange sie fehlt, ist auch sein Zustand offen.
+- Für [Girlins](../Menschen/Nordvolk/Girlin.md) Sturz ist die Frage folgenlos — **liegend** passt sie bei jeder Muldentiefe hinein.
+
+**Vertikale Aufstellung:** Frei stehend läge das Zentrum auf **1,65 m** (dem Außenradius), die Kugel damit von 0,15 m bis 3,15 m — im Gehen tödlich. **In der Geschichte kommt diese Aufstellung nicht vor**, beide Ringe von Plot 1 liegen flach. Einbaumaße dafür sind deshalb nicht festgelegt.
 
 **Erzählwert (Girlin):** Hätte sie **gestanden**, hätte der Ring sie geköpft. [Tibun](../Menschen/Nordvolk/Tibun.md) sieht seine Mutter verschwinden, weil sie **gestürzt** ist — derselbe Zufall, der sie ihm nimmt, hält sie am Leben. Und er kann das nie erfahren.
 
@@ -732,7 +747,7 @@ Für die Erbauer selbstverständlich. Für [Tibun](../Menschen/Nordvolk/Tibun.md
 
 **Kleiner Restpunkt:** [Girlins](../Menschen/Nordvolk/Girlin.md) Körpergröße ist nirgends festgelegt. Für den Sturz irrelevant, für spätere Szenen im Ring nicht.
 
-Berührt [C-055](#c-055-der-skir--gewässer-see-und-fundort-des-rings) (Fundort und Steilufer).
+Berührt [C-055](#c-055-der-skir--gewässer-see-und-fundort-des-rings) und [C-128](#c-128-fundort-und-freilegung-des-skir-rings) (Fundort).
 
 ### C-085: Titel für Plot 1
 Das Projekt heißt **Annular** — das ist der Name des **Universums** ([Plots/README](../Plots/README.md)), nicht der einzelnen Geschichte. Die Geschichte um [Tibun](../Menschen/Nordvolk/Tibun.md) und [Girlin](../Menschen/Nordvolk/Girlin.md) braucht deshalb einen **eigenen Titel**. Der Ordner heißt dauerhaft neutral `Plots/Plot-1/` und wird **nicht** umbenannt — der Titel lebt nur in [Plots/Plot-1/README.md](../Plots/Plot-1/README.md) und [SUMMARY.md](../SUMMARY.md).
@@ -828,7 +843,7 @@ Der Szenenordner wurde bei der Namensumstellung bewusst ausgespart (Autorenanwei
 **Entscheidung: Jahr 550 n.Chr. (Vendelzeit).** Nur intern als Referenzjahr für Authentizitätsprüfung. Im Erzähltext kein konkretes Jahr genannt. Fiktive Siedlung in der Region des späteren Haithabu (Schlei-Gebiet), inspiriert von Gudme/Lundeborg. Nordvolk = proto-skandinavische Germanen mit vollständiger heidnischer Religion und Runen.
 
 ### C-004: Material der Portalringe ✓
-**Entscheidung:** Material ist unbekannt und mystisch. Niemand in der Geschichte kann es identifizieren oder reproduzieren. AZ31 (Magnesium-Aluminium-Legierung) wird intern als Berechnungsreferenz für Dichte und Gewicht verwendet, erscheint aber nicht im Erzähltext.
+**Entscheidung:** Material ist unbekannt und mystisch. Niemand in der Geschichte kann es identifizieren oder reproduzieren. Auf Autorenebene gilt eine **Referenzdichte von 7,8 g/cm³** für Gewichtsberechnungen ([C-127 ✓](#c-127-referenzdichte-)). Sie ist kein Materialbeschluss und erscheint nie im Erzähltext.
 
 ### C-005: Van-de-Graaff-Generator ✓
 **Entscheidung:** Wird aus der Geschichte gestrichen. Tibuns Erfindung muss historisch plausibel sein. Ersatz noch offen → siehe C-002.
@@ -839,11 +854,26 @@ Der Szenenordner wurde bei der Namensumstellung bewusst ausgespart (Autorenanwei
 **Korrektur (nachträglich):** Hier stand ursprünglich „als Kind (~12)". Das war ein Überbleibsel aus der alten Altersannahme und widersprach [C-023 ✓](#c-023-zeitleiste--altersgerüst-) und der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) (15 im Prolog, 16 beim Verschwinden). Auch die Reihenfolge war falsch: Die Entdeckung kommt **vor** dem Verschwinden, nicht gleichzeitig. Dieselbe Altlast wurde in [Regeln.md](Regeln.md) bereinigt. Die Kernentscheidung (Bau erst als Erwachsener) bleibt unverändert.
 
 ### C-007: Proportionen der Portalringe ✓
-**Entscheidung:** Die Ringe folgen exakt den **Eine-Ring-Proportionen**, skaliert auf den Innendurchmesser (proportional schlank wie ein Fingerring, absolut ein Koloss). Damit gilt der proportional skalierte Maßsatz: 3-m-Ring = Außen-Ø 3,81 m, Wandstärke 0,405 m, ~8 t. Die alte „9-cm-Wand"-Variante entfällt. Folge: Der 3-m-Ring ist faktisch untransportierbar (erklärt, warum der Skir-Ring jahrtausendelang unbewegt im Boden lag).
+**Entscheidung (Autor, 02.09.2026 — ersetzt die frühere Fassung):** Der **3-m-Ring ist der Referenzring**; alle anderen Größen leiten sich aus ihm ab. Form: **flacher Armreif** ([C-073 ✓](#c-073-querschnitt-der-ringe--flacher-armreif-)).
+
+| Maß | Wert | Verhältnis zum Innen-Ø |
+|---|---|---|
+| Innen-Ø | **3,00 m** | Leitmaß |
+| Außen-Ø | 3,30 m | 1,10 : 1 |
+| Dicke (radial) | 0,15 m | 1 : 20 |
+| Breite (axial) | 0,50 m | 1 : 6 |
+| Rundungsradius | 0,03 m | 1 : 100 |
+| Volumen | 0,734556 m³ | — |
+| Gewicht (bei 7,8 g/cm³) | 5.729,5 kg | — |
+
+**Abgelöst:** Die frühere Entscheidung schrieb *„exakt die Eine-Ring-Proportionen"* fest und kam so auf Außen-Ø 3,81 m, Wand 0,405 m und ~8 t. Beide Zahlen beruhten auf Rechenfehlern ([C-117 ✓](#c-117-ringgeometrie-neu-vermessen-)); zusätzlich hat der Autor die Form bewusst vom Fingerring zum flachen Armreif gewechselt. Auch die alte „9-cm-Wand"-Variante bleibt entfallen.
+
+**Ebenfalls hinfällig:** der Zusatz *„faktisch untransportierbar"*. Bei 5,7 t ist der Ring schwer, aber bewegbar. Warum der Skir-Ring unbewegt lag, erklärt ohnehin [C-008 ✓](#c-008-anzahl-und-bekanntheit-der-ringe-): Er lag **vergraben**. → [C-125](#c-125-das-transportverfahren-ist-offen)
 
 ### C-008: Anzahl und Bekanntheit der Ringe ✓
 - **Verborgenes Paar (Lesart A):** Physisch existieren zwei Ringe (Skir + Wüstenring), weltweit sogar **viele weitere** — aber das System ist niemandem bekannt. Kopplung in C-010 geregelt.
-- **Fundort:** Der Ring liegt **am Bach Skir nahe [Skirraa](../Orte/Skirraa.md)**, seit Jahrtausenden **vergraben** (nicht in Vilund). Freigelegt durch einen **Erdrutsch am Steilufer**, ausgelöst vom ringverursachten Welt-Beben. Damit entfällt das „Bekanntheitsproblem": Der Ring war schlicht unter der Erde.
+- **Fundort:** Der Ring liegt **im Wald nahe dem Bach Skir** bei [Skirraa](../Orte/Skirraa.md) (nicht in Vilund).
+  > **Gestrichen (Autor, 02.09.2026):** *„seit Jahrtausenden vergraben, freigelegt durch einen Erdrutsch am Steilufer"*. Das stammte nicht vom Autor → [C-119](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen). **Wie der Ring in Erscheinung tritt, ist offen · ???** → [C-128](#c-128-fundort-und-freilegung-des-skir-rings)
 - **Beben:** kommt vom **Ringsystem**, weltweit gleichzeitig spürbar (Netz-Reaktion, nicht tektonisch) — ringverursacht = erlaubte Abweichung.
 - **Vorteil:** Der Bach ist Alltagsort (Wasser holen) → erklärt zwanglos, warum Tibun *und* Girlin dort sind, als der Blitz den Ring aktiviert.
 - **Ausgelagert:** Schicksal von Vilund → C-016.
@@ -856,9 +886,9 @@ Vollständige Regeln in [`portalringe.md`](../Technik/Portalringe.md). Kurz:
 - **Material (A):** Oberfläche gravierbar, Körper unzerstörbar/nicht reproduzierbar.
 - **Grünes Leuchten:** Energie *in* den Runennuten (nicht Materialeigenschaft). Kurzer Puls = erfolgreiche Kopplung; anhaltendes Glühen = Aktivierung/Teleport.
 
-**Größen:** Skir-Ring **und** Wüstenring = **3,00 m** (müssen passen, sonst keine Rückkehr für Girlin), ~8 t, ortsfest. **0,30 m** = ~8 kg, tragbar, gedacht als **Postsystem** (Pakete/Briefe) — ursprünglicher Erbauerzweck, heute vergessen (Konsistenz mit C-008 gewahrt). Weitere Größen → C-017.
+**Größen:** Skir-Ring **und** Wüstenring = **3,00 m** (müssen passen, sonst keine Rückkehr für Girlin), ~5,7 t, schwer aber bewegbar. **0,30 m** = ~5,7 kg, tragbar, gedacht als **Postsystem** (Pakete/Briefe) — ursprünglicher Erbauerzweck, heute vergessen (Konsistenz mit C-008 gewahrt). Weitere Größen → C-017.
 
-**Wandstärke:** in C-007 entschieden (0,405 m beim 3-m-Ring); der frühere „bleibt offen"-Vermerk ist überholt.
+**Maße:** in [C-007 ✓](#c-007-proportionen-der-portalringe-) entschieden (Dicke 0,15 m, Breite 0,50 m, Rundungsradius 0,03 m beim 3-m-Ring); der frühere „bleibt offen"-Vermerk ist überholt. Gewichte nach der Korrektur vom 02.09.2026 ([C-117 ✓](#c-117-ringgeometrie-neu-vermessen-)) — die früheren ~8 t / ~8 kg sind hinfällig. Zur Tragbarkeit des kleinen Rings → [C-126](#c-126-der-postring--was-passt-hinein).
 
 ### C-012: Aktivierungsverhalten des Rings ✓
 **Mechanismus — Flip + Innentausch:**
@@ -866,13 +896,13 @@ Vollständige Regeln in [`portalringe.md`](../Technik/Portalringe.md). Kurz:
 - **Tauschvolumen = INNENkante (Innentausch).** Getauscht wird die Kugel, die die **Innenkante** des Rings beschreibt: Tausch-Kugel-Ø = **Innen-Ø** = **3,00 m** beim 3-m-Ring, Radius 1,50 m. **Der Ringkörper wird nicht mitgetauscht** — er liegt vollständig außerhalb.
 - **Der Reif durchläuft Materie wie ein Geist.** Während der Drehung durchdringt der Ringkörper alles, was ihm im Weg liegt — Erdreich, Fundament, einen danebenstehenden Menschen —, **ohne es anzutasten**. Kein Pflügen, kein Pulverisieren, keine Spur. Damit ist das Problem der „durchfurchenden Materie" gelöst, das ursprünglich zum Volltausch geführt hatte (siehe **Korrektur** unten).
   - **Nur während der Drehung.** Ein ruhender Ring ist fest und schwer; sonst sänke er durch den Boden.
-  - **Innen und außen berühren sich nie.** Ein um einen Durchmesser rotierender Ring überstreicht exakt die Schale zwischen Innen- und Außenradius (1,50–1,905 m). Der Reif kommt der Tauschkugel nie näher als tangential — die Geist-Eigenschaft gilt ausschließlich für Materie *außerhalb* des Tauschvolumens. Keine Sonderregel nötig.
+  - **Innen und außen berühren sich nie.** Ein um einen Durchmesser rotierender Ring überstreicht die Schale zwischen **1,50 m und 1,665 m** — innen die Bohrung, außen der weiteste Punkt des Eckbogens. Der Reif kommt der Tauschkugel nie näher als tangential — die Geist-Eigenschaft gilt ausschließlich für Materie *außerhalb* des Tauschvolumens. Keine Sonderregel nötig.
 - **Schnittkante: messerscharf**, am **Innenrand** (1,50 m Radius). Sie fällt **genau mit der sichtbaren Ringöffnung zusammen** — die Grenze ist sichtbar und erlernbar: *Wer ganz in der Öffnung steht, reist heil; was hinausragt, wird durchtrennt.* Girlin stand vollständig innerhalb.
-- **Wer in der Schale steht (1,50–1,905 m), bleibt unverletzt** — der Reif geht durch ihn hindurch. Er reist nur nicht mit.
+- **Wer in der Schale steht (1,50–1,665 m), bleibt unverletzt** — der Reif geht durch ihn hindurch. Er reist nur nicht mit.
 - **Austausch:** Beide gepaarten Ringe (Skir + Kel Aman) drehen **gleichzeitig**. **Ganze Kugel inkl. Erdreich:** untere Halbkugel im Boden → Halbkugel Schlei-Erde ↔ Halbkugel Wüstensand (= die **Sandmulde**).
 - **Harter Tausch:** Inhalt 1:1, kompromisslos, auch bei stark verschiedenem Inhalt (Luft ↔ massiver Sand). Keine Sonderregeln, kein „Ausgleich".
 - **Der Ring bleibt liegen.** Da er nicht mitgetauscht wird, ruht er unverändert in seinem eigenen Bett; die Mulde entsteht **innerhalb** von ihm. Kein Verrutschen, keine fremde Auflage.
-- **Person/Inhalt:** frei stehend, **ohne Plattform/Halterung** (jede feste Verankerung würde mitgetauscht oder an der Kante geschnitten — Schwerkraft genügt). **Aber:** Die Kugel reicht nur **1,50 m über die Ringebene** — **stehend** reist nur, wer eine **Mulde** hat (Kugelzentrum ~0,75 m über der Standfläche); im rohen Ring reist nur, wer **liegt**. So überlebt Girlin ihren Sturz → **C-084**.
+- **Person/Inhalt:** frei stehend, **ohne Plattform/Halterung** (jede feste Verankerung würde mitgetauscht oder an der Kante geschnitten — Schwerkraft genügt). **Aber:** Die Kugel reicht nur **1,50 m über die Ringebene** — **stehend** reist nur, wer eine **Mulde** hat (Tiefe offen · **???**); im rohen Ring bleiben 1,50 m Kopffreiheit, dort reist nur, wer **liegt**. So überlebt Girlin ihren Sturz → **C-084**.
 - **Optik:** Aus dem Ring tritt **nichts aus** (vgl. C-002); grünes Glühen der Runennuten begleitet die Aktivierung (C-010).
 - **Konsistenz:** deckt Girlins Verschwinden (C-008), Paar-Mechanik & Ringgrößen (C-010).
 - **Ausgelagerte Restpunkte:** C-013 (Runen), C-014 (Karawanen-Aufmerksamkeit), C-015 (Drehung↔Tausch), C-084 (Mulde & Standfläche).
@@ -884,7 +914,7 @@ Hier stand ursprünglich der **Volltausch** nach der Außenkante (Kugel-Ø 3,81 
 **Der Autor hat auf den Innentausch umgestellt** und das Problem stattdessen direkt gelöst: Der Reif **durchdringt** Materie folgenlos. Damit entfällt der Grund, der seinerzeit gegen den Innentausch sprach.
 
 *Was der Wechsel bringt:*
-- Die Schnittkante fällt mit der **sichtbaren Ringöffnung** zusammen. Vorher lag sie 40 cm außerhalb des Reifs, im Leeren, ohne Markierung. Jetzt ist die tödliche Grenze **sichtbar und erlernbar** — für eine Kultur, die täglich reist, der Unterschied zwischen Handwerk und Glücksspiel.
+- Die Schnittkante fällt mit der **sichtbaren Ringöffnung** zusammen. Vorher lag sie außerhalb des Reifs, im Leeren, ohne Markierung. Jetzt ist die tödliche Grenze **sichtbar und erlernbar** — für eine Kultur, die täglich reist, der Unterschied zwischen Handwerk und Glücksspiel.
 - Der Reif ist **nicht mehr tödlich**: Wer in der Schale steht, wird nicht zerteilt, sondern reist bloß nicht mit.
 - Der Ring **bleibt in seinem Bett** statt auf fremdem Material aufzusetzen.
 
@@ -897,25 +927,18 @@ Hier stand ursprünglich der **Volltausch** nach der Außenkante (Kugel-Ø 3,81 
 
 **Dauer des Flips = ein Lidschlag.** Schnell, aber langsam genug, dass das Auge die Drehung *sehen* und verfolgen kann. Bewusst **kein konkreter Zeitwert** im Text — „Lidschlag" ist das Maß, und es ist zugleich epochentauglich: Eine Figur von 550 kann das denken und sagen, „Sekunde" nicht. Damit taugt der Vergleich auch für den Erzähltext (vgl. das Problem in [C-037](#c-037-ringoptik-im-erzähltext-ohne-anachronismus)).
 
-*Berechnungsreferenz (Autorenebene, wie AZ31 — erscheint nie im Text):* ein spontaner Lidschlag misst 100–150 ms. Für den 3-m-Ring ergibt das ~21 rad/s und eine **Kantengeschwindigkeit von ~40 m/s (≈ 144 km/h)**. Folgen:
+*Berechnungsreferenz (Autorenebene — erscheint nie im Text):* ein spontaner Lidschlag misst 100–150 ms. Für den 3-m-Ring ergibt das ~21 rad/s und eine **Kantengeschwindigkeit von ~35 m/s (≈ 126 km/h)**. Folgen:
 - Man sieht eine **Drehung**, keine Einzelheiten — Runen sind währenddessen nicht lesbar.
-- **Kein Windstoß nach außen**, obwohl ein 8-t-Körper mit 144 km/h schwingt: Die verdrängte Luft ist **Teil der Tauschkugel**. Dasselbe Argument, das schon die durchfurchende Materie gelöst hat. Bleibt konsistent mit „aus dem Ring tritt nichts aus".
-- Wer **neben** der Kugelkante steht, sieht den Reif mit 144 km/h vorbeirauschen — die Schnittkante wird ohne ein Wort Erklärung bedrohlich.
+- **Kein Windstoß nach außen**, obwohl ein knapp 6-t-Körper mit 126 km/h schwingt: Die verdrängte Luft ist **Teil der Tauschkugel**. Dasselbe Argument, das schon die durchfurchende Materie gelöst hat. Bleibt konsistent mit „aus dem Ring tritt nichts aus".
+- Wer **neben** der Kugelkante steht, sieht den Reif mit 126 km/h vorbeirauschen — die Schnittkante wird ohne ein Wort Erklärung bedrohlich.
 
 **Vertikale Aufstellung als zweite Betriebsart.** Der flach liegende Ring ist die Situation am [Skir](../Orte/Skirraa.md), keine Eigenschaft der Ringe. Ein Ring kann ebenso **vertikal** stehen — die Tauschkugel ändert sich dadurch **nicht**, denn eine Rotation um einen Durchmesser überstreicht dieselbe Kugel, gleich aus welcher Ausgangslage.
 
 Damit wird der **Durchgang im Gehen** möglich: Der Reisende betritt die Kugel, wird getauscht und geht am Zielort **geradeaus weiter** — ohne anzuhalten, ohne langsamer zu werden. Der Ring ist dabei nie ein „Tor", durch das man tritt; der Reisende läuft schlicht durch die Kugel hindurch, während sie ihren Inhalt wechselt.
 
-**Bedingung — der Ring darf nicht auf dem Boden aufstehen.** Stünde er auf, läge sein Zentrum bei 1,905 m und die Tauschkugel (Radius 1,50 m) schwebte von 0,405 m bis 3,405 m Höhe — sie berührte den Boden gar nicht, und jeder Durchgehende hätte die Beine außerhalb. Ausnahmslos tödlich. Der Ring muss **teilweise eingelassen** sein. Bei einem Zentrum auf ~0,75 m über Gehwegniveau:
+**Frei aufgestellt funktioniert der Ring, ist im Gehen aber nicht zu überleben.** Steht er unmittelbar auf dem Boden, liegt sein Zentrum auf 1,65 m (dem Außenradius); die Tauschkugel reicht dann von 0,15 m bis 3,15 m Höhe und berührt den Boden nicht — wer hindurchgeht, hat die Beine außerhalb. Das ist eine Folge der Geometrie, **keine Bedingung**: Niemand hindert die Nutzer daran, einen Ring so aufzustellen.
 
-| Maß | Wert |
-|---|---|
-| Standfläche am Boden (Tauschkugel) | 2,60 m Durchmesser |
-| Durchgangshöhe am Scheitel | 2,25 m |
-| Ringunterkante unter Bodenniveau | 1,16 m |
-| Zeitfenster bei 1,4 m/s Gehtempo | ~1,3 s (≈ **9 Flipdauern**) |
-
-Bei 0,8 m Schrittspreizung bleiben 1,80 m nutzbare Strecke — ein sehr komfortables Fenster.
+**In der Geschichte kommt die vertikale Aufstellung nicht vor** — beide Ringe von Plot 1 liegen flach. Konkrete Einbaumaße standen hier zuvor (Zentrum 0,75 m über dem Gehweg, Standfläche 2,60 m, Grubensohle 0,90 m, Zeitfenster im Gehen); sie beruhten auf einer erfundenen Betriebsregel und sind gestrichen → [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe), [C-119](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen).
 
 **Nebeneffekt:** Die untere Halbkugel ist dann **Fundament**. Sind beide Ringe gleich gebettet, ist der Tausch genau der „saubere, beliebig wiederholbare" Vorgang, den dieser Eintrag für das Erbauer-System ohnehin vorsieht — Ringplätze einer Hochkultur wären entsprechend gebaut.
 
@@ -985,8 +1008,8 @@ Umgesetzt: Jede Nebenfigur hat eine **eigene Datei** in einem Unterordner `Neben
 
 | Referenz | Legt fest | Ist *nicht* |
 |---|---|---|
-| Eine Ring (Jens Hansen) | Proportionen | golden |
-| AZ31 | Gewichtsberechnung | Magnesium |
+| Flacher Armreif | Proportionen | ein Schmuckstück |
+| Dichte 7,8 g/cm³ | Gewichtsberechnung | Stahl |
 | Gebürstetes Aluminium | Optik | Aluminium |
 
 Der Begriff darf **nie im Erzähltext** stehen → [C-037](#c-037-ringoptik-im-erzähltext-ohne-anachronismus). Dokumentiert in [Portalringe.md](../Technik/Portalringe.md).
@@ -997,6 +1020,18 @@ Der Begriff darf **nie im Erzähltext** stehen → [C-037](#c-037-ringoptik-im-e
 **Bewuchs ja, Angriff nein.** Moos, Flechten und Erde setzen sich wie an jedem Stein an der Oberfläche fest, liegen aber nur *auf* ihr. Zieht man den Bewuchs ab, kommt makelloses Material zum Vorschein, als wäre es gestern gefertigt.
 
 **Erzählwert:** Das Unheimliche ist nicht ein Ring *ohne* Bewuchs, sondern ein bewachsener Ring **ohne jede Spur von Alter darunter**. Die Entdeckung bleibt leise und glaubwürdig — der Schock kommt erst beim Freilegen. Löst zugleich den Konflikt zwischen „unzerstörbarer Körper" ([C-007](#c-007-proportionen-der-portalringe-)) und einem Ring, der glaubhaft in der Landschaft liegt. Dokumentiert in [Portalringe.md](../Technik/Portalringe.md).
+
+### C-073: Querschnitt der Ringe — flacher Armreif ✓
+**Entschieden (Autor, 02.09.2026).** Der Querschnitt ist ein **abgerundetes Rechteck**: flache Außenfläche, flache Bohrung, alle vier Ecken mit **0,03 m** gebrochen. Damit bleiben 0,09 m gerade Kante stehen — sichtbar gebrochen, aber nicht wulstig.
+
+Verworfen wurden auf dem Weg dorthin:
+- **Hohlzylinder** (scharfkantig) — am Referenzobjekt widerlegt, siehe [C-117 ✓](#c-117-ringgeometrie-neu-vermessen-).
+- **Ellipsentorus / voll gerundet** — die alte Wiki-Beschreibung. Macht die Öffnung an den Rändern weiter als in der Mitte und den Innen-Ø damit mehrdeutig.
+- **Stadiontorus** (halbrunde Ränder, Radius = halbe Dicke) — vom Autor als „zu rund und für einen Armreif nicht üblich" verworfen.
+
+**Folge für [C-012 ✓](#c-012-aktivierungsverhalten-des-rings-):** Die Bohrung ist über **88 % der Ringbreite** exakt zylindrisch (0,44 m von 0,50 m = Breite minus zweimal Eckradius). Der Innen-Ø von 3,00 m ist damit eindeutig, und die Tauschkugel-Kante fällt mit der sichtbaren Öffnung zusammen — genau wie C-012 es verlangt.
+
+**Nachgezogen:** [Portalringe.md](../Technik/Portalringe.md), [Portalring_Berechnungen.md](../Technik/Portalring_Berechnungen.md), [Bild-Prompts.md](Bild-Prompts.md).
 
 ### C-086: Ton in einem Satz ✓
 **Entscheidung (Autor):**
@@ -1278,12 +1313,12 @@ Der Tausch ist symmetrisch. Bei **Zündung 1** ([C-062 ✓](#c-062-azzims-ankunf
 **Offen:** Was genau Tibun in dem Moment sieht und begreift. Für ihn ist Azzims Ankunft nach zehn Jahren der **erste Beweis**, dass am anderen Ende Menschen leben · **???**
 
 ### C-103: Transportlogistik des Wüstenrings
-Folgt aus [C-018 ✓](#c-018-widerspruch--transport-des-wüstenrings-). Acht Tonnen sollen über Jahre durch die Sahara bewegt werden. Die Physik ist das kleinere Problem, die **Verpflegung** das größere.
+Folgt aus [C-018 ✓](#c-018-widerspruch--transport-des-wüstenrings-). Rund 5,7 t sollen von Jahr +5 bis +8 durch die Sahara bewegt werden ([C-117 ✓](#c-117-ringgeometrie-neu-vermessen-)). **Das Verfahren ist offen** → [C-125](#c-125-das-transportverfahren-ist-offen); die Punkte hier hängen daran.
 
 **Zu klären · ???**
-- **Entfernung** vom Fundort zur Schlucht. Bei 1–3 km am Tag und Jahr +5 bis +8 als Rahmen sind einige Dutzend bis wenige hundert Kilometer plausibel — mehr nicht.
+- **Entfernung** vom Fundort zur Schlucht. Ohne festes Verfahren gibt es keine Tagesleistung und damit auch keine Entfernungsschätzung. Die früher hier stehende Rechnung (1–3 km am Tag) beruhte auf einem nicht abgesegneten Verfahren und ist gestrichen.
 - **Wie viele Männer, wie viele Zugtiere**, und wer ernährt sie?
-- **Woher das Wasser** für die befeuchtete Piste kommt. In der Wüste ist Wasser für eine Gleitbahn ein absurder Luxus — außer der Ring liefert es selbst ([C-104](#c-104-wasser-als-gegenleistung--das-motiv-des-transports)). Dann beißt sich die Katze allerdings in den Schwanz, denn zünden können sie erst nach Bellbrims Arbeit. **Reihenfolge prüfen.**
+- **Wasser und Nahrung** für die Mannschaft über Monate in der Wüste. Das gilt unabhängig vom Verfahren.
 - **Wer trägt die Kosten** und was verlangt er dafür?
 
 ### C-104: Wasser als Gegenleistung — das Motiv des Transports
@@ -1498,23 +1533,31 @@ Die oben notierte Annahme, Azzim interessiere sich wegen des **Wassers** für de
 
 **Weiterhin offen · ???** **Wie viele** Auftritte und **in welchen Jahren** → [C-123](#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte).
 
-### C-117: Ringgewicht — Zylinderannahme statt Ringform
-**Auf Wunsch des Autors nichts geändert** (02.09.2026). In [Technik/](../Technik/) bleiben alle Zahlen und die Form unangetastet; **Berechnungen und Form werden in einer eigenen Sitzung durchgegangen.** Dieser Eintrag hält nur den Befund fest.
+### C-117: Ringgeometrie neu vermessen ✓
+**Erledigt (Autor, 02.09.2026).** Die gesamte Ringgeometrie wurde in einer eigenen Sitzung durchgerechnet und neu festgelegt. Die alten Zahlen (Außen-Ø 3,81 m, Wand 0,405 m, Breite 1,05 m, ~8 t) sind **vollständig ersetzt**.
 
-Die Angabe **~8 t** für den 3-m-Ring ([Portalringe.md](../Technik/Portalringe.md), [C-007 ✓](#c-007-proportionen-der-portalringe-)) entsteht aus der **Hohlzylinderformel**:
-π · (1,905² − 1,50²) · 1,05 = 4,549 m³ × 1,77 g/cm³ = **8.052 kg**. Dieselbe Formel steckt bereits im Referenzring (1,3478 cm³ ist exakt der Hohlzylinder).
+**Zwei Fehler steckten in der alten Rechnung:**
 
-Der Querschnitt ist im Wiki aber als **oval und voll gerundet** beschrieben (1,05 m axial × 0,405 m radial, [Bild-Prompts.md](Bild-Prompts.md)). Als **Ellipsentorus** gerechnet (Pappus):
-Querschnittsfläche π · 0,525 · 0,2025 = 0,334 m² · Hauptradius 1,50 + 0,2025 = 1,7025 m · Volumen 2π · 1,7025 · 0,334 = **3,573 m³** → **6.324 kg ≈ 6,3 t**.
+1. **Falsche Skalierungsbasis.** Skaliert wurde ab **20,0 mm** Innen-Ø. Der Eine Ring ist aber US-Größe 11 = **20,6 mm**. Alle abgeleiteten Maße waren dadurch ~3 % zu dick.
+2. **Falsche Querschnittsform.** Der Hohlzylinder ist schon am Referenzobjekt widerlegt. Jens Hansen gibt für den Filmring **~17 g** in 18ct Gelbgold an (2,7 mm dick, 7,0 mm breit, Größe 11). Als Hohlzylinder gerechnet ergäbe derselbe Ring **21–22 g** — 27 % zu schwer. Nur eine deutlich gewölbte Form trifft die 17 g; bloß gebrochene Kanten nehmen ~8 % weg, nötig wären ~22 %.
 
-Ein Fingerring ist innen zylindrisch und nur außen gewölbt — die wahre Zahl liegt also **zwischen 6,3 und 8,05 t**, näher an 7.
+**Ergebnis — der 3-m-Ring ist ab sofort der Referenzring.** Die Eine-Ring-Referenz ist damit abgelöst; Formvorbild ist der **flache Armreif** ([C-073 ✓](#c-073-querschnitt-der-ringe--flacher-armreif-), [C-007 ✓](#c-007-proportionen-der-portalringe-)):
 
-**Zu klären in der eigenen Sitzung · ???**
-- Welche **Querschnittsform** gilt verbindlich?
-- [C-073](#c-073-querschnitt-der-ringe--abgerundete-kanten) notiert *„einige Prozent darunter"* — tatsächlich sind es **bis zu 21 %**. Korrekturbedürftig.
-- Skalierungstabelle in [Portalring_Berechnungen.md](../Technik/Portalring_Berechnungen.md) und der 0,30-m-Ring (~8 kg) hängen an derselben Formel.
+| Maß | alt | neu |
+|---|---|---|
+| Innen-Ø | 3,00 m | **3,00 m** (unverändert, Leitmaß) |
+| Außen-Ø | 3,81 m | **3,30 m** |
+| Dicke (radial) | 0,405 m | **0,15 m** |
+| Breite (axial) | 1,05 m | **0,50 m** |
+| Rundungsradius | — | **0,03 m** |
+| Volumen | 4,549 m³ | **0,734556 m³** |
+| Gewicht | 8.052 kg | **5.729,5 kg** |
 
-**Für den Plot folgenlos:** 6,3 t sind so wenig zu tragen wie 8. Der Transport bleibt ein Jahresvorhaben ([C-018 ✓](#c-018-widerspruch--transport-des-wüstenrings-), [C-103](#c-103-transportlogistik-des-wüstenrings)).
+**Nachgezogen:** [Portalringe.md](../Technik/Portalringe.md), [Portalring_Berechnungen.md](../Technik/Portalring_Berechnungen.md), [Bild-Prompts.md](Bild-Prompts.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Karawanen](../Menschen/Wuestenvolk/Karawanen.md), C-007, C-010, C-012, C-018.
+
+**Neu daraus:** [C-125](#c-125-das-transportverfahren-ist-offen), [C-126](#c-126-der-postring--was-passt-hinein), [C-127](#c-127-referenzdichte-).
+
+**Altlast gestrichen (→ [C-119](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen)):** Die frühere Fassung dieser Challenge behauptete, der Ringtransport sei ein **„Jahresvorhaben"**. Das Wort stammt von Claude, nicht vom Autor. [C-018 ✓](#c-018-widerspruch--transport-des-wüstenrings-) sagt ausdrücklich das Gegenteil: *„Die harte Grenze ist die Verpflegung, nicht das Gewicht."* Die Dauer des Transports (Jahr +5 bis +8) ist eine Autorenentscheidung und hängt an Entfernung und Versorgung, nicht am Ringgewicht.
 
 ### C-118: Der Nordstrang verliert zwischen +1 und +9 nichts
 Aus [C-115](#c-115-tibuns-wanderjahre--die-stationen-fehlen) (02.09.2026): Tibuns Aufbruch aus [Kaupvik](../Orte/Kaupvik.md) ist **rein positiv** — das Modell läuft, das Material reicht, die Zieheltern bleiben lebend und im Guten zurück.
@@ -1538,6 +1581,15 @@ Damit steht: **Tibuns einziger Preis liegt in Jahr 0/+1** — die Mutter, der Un
 | Wasser ist Azzims Motiv | **gestrichen** — es bleibt Sklaverei | [C-107](#c-107-azzims-motiv--wasser-statt-sklaverei) |
 | Azzim kennt oder beansprucht den Ring | **gestrichen** — er erfährt es in der Wüste nie | [C-107](#c-107-azzims-motiv--wasser-statt-sklaverei), [C-116](#c-116-azzim-tritt-zu-spät-auf) |
 | „Azzim will zurück" im Finale | **korrigiert** — er schließt es erst in Jütland selbst | [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) |
+| Der Ringtransport sei ein „Jahresvorhaben" | **gestrichen** — Wort stammt von Claude; C-018 nennt die Verpflegung als harte Grenze, nicht das Gewicht | [C-117 ✓](#c-117-ringgeometrie-neu-vermessen-) |
+| Der 3-m-Ring sei „faktisch untransportierbar" | **gestrichen** — beruhte auf der falschen 8-t-Rechnung; er wiegt ~5,7 t | [C-007 ✓](#c-007-proportionen-der-portalringe-), [C-010 ✓](#c-010-ringsystem--kopplungsmechanik-) |
+| „Zivilisationen lernen die Ringmaße durch Tote" — die erste Generation trete aufrecht in ungemuldete Ringe | **gestrichen** — nie entschieden | Portalringe.md, [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) |
+| Der Skir-Ring sei „roh und ungemuldet" | **gestrichen** — nie entschieden; die Fundszene ist ungeschrieben | [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe), [C-128](#c-128-fundort-und-freilegung-des-skir-rings) |
+| Betriebsregel „Kugelzentrum 0,75 m über der Standfläche" nebst Mulden- und Einbaumaßen | **gestrichen** — Zahl nie entschieden | [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe), C-012, Portalringe.md |
+| Der Ring sei vergraben und werde durch einen Erdrutsch am Steilufer freigelegt | **gestrichen** — er liegt im Wald nahe dem Bach | [C-128](#c-128-fundort-und-freilegung-des-skir-rings), C-008, C-055, Skirraa, Zeitleiste, Bild-Prompts |
+| Transport per Schlitten auf befeuchteter Piste | **gestrichen** — Verfahren nie entschieden | [C-125](#c-125-das-transportverfahren-ist-offen), C-018, C-103, Zeitleiste, Kapitelstruktur |
+| Route nur über Hammada und Serir, nie Erg | **gestrichen** — nie entschieden | [C-125](#c-125-das-transportverfahren-ist-offen) |
+| Tagesleistung 1–3 km beim Transport | **gestrichen** — folgte aus dem erfundenen Verfahren | [C-103](#c-103-transportlogistik-des-wüstenrings) |
 
 **Zu tun · ???** Das **übrige Wiki ist auf denselben Fehler zu prüfen** — insbesondere alles, was in Sitzungen ohne ausdrückliche Autorenentscheidung entstanden ist. Verdachtsstellen: [C-089](#c-089-azzim--verhältnis-zum-ring-harte-regel), [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) (Abschnitt *Schicht 6*), [Kel-Aman](../Kulturen/Kel-Aman/README.md).
 
@@ -1593,3 +1645,58 @@ Aus [C-115](#c-115-tibuns-wanderjahre--die-stationen-fehlen) (02.09.2026): Auf d
 - **Was für eine Gruppe** — Händlerzug, Viehtrieb, Pilger, Gefolgschaft?
 - **Was gibt er dafür?** Arbeit, Anteil, Dienst auf Zeit?
 - Bekommt die Station eine eigene Datei unter [Orte/](../Orte/), oder bleibt sie namenlos?
+
+### C-125: Das Transportverfahren ist offen
+**Vom Autor beanstandet (02.09.2026):** *„Wie der Ring in der Wüste transportiert wird habe ich noch nicht entschieden. Wasser und Piste war auch nur eine Halluzination von dir."*
+
+Aus [C-018 ✓](#c-018-widerspruch--transport-des-wüstenrings-) sind deshalb gestrichen: **Schlitten auf befeuchteter Piste**, die **Routenvorgabe** (nur Hammada und Serir, nie Erg) und die **Tagesleistung** von 1–3 km. Alles drei war nie eine Autorenentscheidung.
+
+**Was steht:** Der Ring wird bewegt, Ziel ist die Schlucht, Zeitraum Jahr +5 bis +8.
+
+**Zu entscheiden · ???**
+- **Wie** wird ein Reif von 3,30 m Außen-Ø, 0,50 m Breite und ~5,7 t bewegt?
+- **Über welchen Untergrund** führt der Weg, und schließt das etwas aus?
+- **Wie viele Menschen und Tiere**, und wie weit am Tag? Davon hängt die Entfernung ab → [C-103](#c-103-transportlogistik-des-wüstenrings).
+- Ist das **Gewicht** überhaupt das Hindernis, oder ist es die **Sperrigkeit**, die **Entfernung** oder die **Verpflegung**?
+
+Bis das entschieden ist, darf **keine Datei ein Verfahren als Tatsache behaupten**. Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md), [Karawanen](../Menschen/Wuestenvolk/Karawanen.md), C-018, C-103.
+
+### C-126: Der Postring — was passt hinein?
+Aus [C-117 ✓](#c-117-ringgeometrie-neu-vermessen-) (02.09.2026): Der 0,30-m-Ring wiegt nach neuer Geometrie und Referenzdichte **~5,7 kg** (Außen-Ø 0,33 m, Dicke 0,015 m, Breite 0,05 m) — ein flacher Reif, den man mit beiden Händen umfassen kann — gut ein Drittel Meter außen, fingerdick, handbreit schmal.
+
+**Die Gewichtsfrage ist damit erledigt:** ~5,7 kg liegen nah an den früher angenommenen ~8 kg. Der Ring bleibt, was [C-010 ✓](#c-010-ringsystem--kopplungsmechanik-) beschreibt — eine Last, die man bewusst mitnimmt, kein Nichts in der Tasche.
+
+**Offen bleibt der Inhalt · ???**
+- Die Tauschkugel des kleinen Rings hat nur **0,30 m** Durchmesser. Was passt hinein? [C-010 ✓](#c-010-ringsystem--kopplungsmechanik-) sagt nur *„Pakete/Briefe"* — das ist nie präzisiert worden.
+- Braucht der Plot einen so kleinen Ring überhaupt, oder ist er reines Weltenbau-Detail? Berührt [C-017](#c-017-weitere-ringgrößen).
+
+### C-127: Referenzdichte ✓
+**Entschieden (Autor, 02.09.2026): Referenzdichte 7,8 g/cm³.**
+
+| | |
+|---|---|
+| Referenzdichte | **7,8 g/cm³** |
+| 3-m-Ring | **5.729,5 kg** (≈ 5,7 t) |
+| 0,30-m-Ring | **5,73 kg** |
+
+**Ausdrücklich kein Materialbeschluss.** Der Wert entspricht Stahl, aber das Material bleibt unbekannt und mystisch ([C-004 ✓](#c-004-material-der-portalringe-)). Die Zahl existiert **ausschließlich auf Autorenebene** — eine magische Konstante, damit Volumen in Gewicht umgerechnet werden kann.
+
+**Begründung des Autors:** Weder Material noch Gewicht werden im Erzähltext je benannt. **Niemand in der Welt von 550 besitzt eine Waage, die einen solchen Körper wiegen könnte** — es gibt also keine Figur, die eine Zahl nennen, und keinen Leser, der etwas nachschlagen könnte.
+
+**Nachgezogen:** Die frühere **Legierungsbezeichnung ist vollständig aus dem Wiki entfernt** — sie war nachschlagbar und lud zum Identifizieren ein, was C-004 widerspricht. Ersetzt durch die nackte Zahl in [CLAUDE.md](../CLAUDE.md), [Portalringe.md](../Technik/Portalringe.md), [Portalring_Berechnungen.md](../Technik/Portalring_Berechnungen.md), C-004, C-035, C-117.
+
+**Verworfen:** Aluminium (2,7 g/cm³ → 1,98 t). Zwei Gründe: Die Optikreferenz ist bereits *gebürstetes Aluminium* ([C-035 ✓](#c-035-aussehen-der-ringoberfläche-)) — gleiche Dichte hätte den Ring in jeder messbaren Hinsicht zu Aluminium gemacht. Und 2 t sind nicht leicht genug, um den einzigen Vorteil geringer Dichte einzulösen: den Moment, in dem der Ring **zu leicht** ist. Dafür müsste er unter eine halbe Tonne.
+
+### C-128: Fundort und Freilegung des Skir-Rings
+**Vom Autor beanstandet (02.09.2026):** *„Der Ring liegt im Wald in der Nähe des Baches."* Der zuvor im Wiki stehende **Erdrutsch am Steilufer** war nicht vom Autor gedeckt und ist gestrichen ([C-119](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen)).
+
+**Was steht:** Der Ring liegt **im Wald nahe dem Bach Skir** bei [Skirraa](../Orte/Skirraa.md), nicht in Vilund. Der Bach ist Alltagsort — das erklärt zwanglos, warum [Tibun](../Menschen/Nordvolk/Tibun.md) und [Girlin](../Menschen/Nordvolk/Girlin.md) dort sind ([C-008 ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)).
+
+**Zu entscheiden · ???**
+- **Liegt der Ring offen oder verborgen?** Hier steckt ein bisher unbemerkter Widerspruch im Wiki:
+  - [C-008 ✓](#c-008-anzahl-und-bekanntheit-der-ringe-) begründete die Unbekanntheit des Rings damit, dass er **vergraben** sei.
+  - [C-036 ✓](#c-036-altert-der-ring-patina-moos-ablagerungen-) und der Bildprompt P-001 zeigen ihn dagegen **offen im Wald liegend, von Moos und Flechten überwachsen** — genau darin liegt das Unheimliche: Bewuchs oben, makelloses Material darunter. Ein vergrabener Ring kann nicht bemoost sein.
+  - Beides zugleich geht nicht. **Der Autor entscheidet, welche Fassung gilt.**
+- **Wie tritt er in Erscheinung?** Wenn er offen liegt, braucht es keine Freilegung — dann ist die Frage, warum ihn niemand beachtet hat. Wenn er verborgen liegt, braucht es einen Auslöser.
+- **Welche Rolle spielt das Beben?** Es ist als Erwachen des Ringsystems gesetzt ([C-008 ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)) und weltweit spürbar. Ob es am Fundort etwas bewirkt, hängt an der Antwort oben → berührt [C-056](#c-056-prolog--folgen-des-bebens-im-dorf) und [C-055](#c-055-der-skir--gewässer-see-und-fundort-des-rings).
+- **Betroffen:** [Bild-Prompts P-002](Bild-Prompts.md) (Erdrutsch-Szene, bis zur Klärung nicht rendern), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Skirraa](../Orte/Skirraa.md).

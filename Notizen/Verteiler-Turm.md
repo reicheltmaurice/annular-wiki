@@ -25,7 +25,7 @@ Nur zur Einordnung, nichts davon ist entschieden. Grundlage: [Portalringe.md](..
 
 **Zwei harte Maße, die den Turm formen:**
 
-- **Mindestabstand 3,00 m.** Jeder Ring hat eine Tauschkugel von 3,00 m Durchmesser. Näher gestapelte Ringe hätten **überlappende Kugeln** — der Schacht muss also mindestens 3,00 m lichte Weite haben und die Ringe mindestens 3,00 m Abstand.
+- **Mindestabstand 3,00 m, Schachtweite 3,30 m.** Jeder Ring hat eine Tauschkugel von 3,00 m Durchmesser; näher gestapelte Ringe hätten **überlappende Kugeln**, die Ringe brauchen also mindestens **3,00 m Abstand**. Die lichte Weite des Schachts richtet sich dagegen nach dem **Ringkörper**: Außen-Ø **3,30 m** ([Portalringe.md](../Technik/Portalringe.md)).
 
 - **Das Zeitfenster schrumpft mit der Fallhöhe.** Ein Fallender muss im Moment des Flips **vollständig** in der Kugel sein. Nutzbare Strecke: 3,00 m Kugelhöhe minus ~1,75 m Körperlänge = **1,25 m**. Bei einem Flip von etwa einem Lidschlag (~0,125 s):
 

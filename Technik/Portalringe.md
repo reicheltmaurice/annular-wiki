@@ -1,18 +1,19 @@
 # Portalringe
 
-**Material**: ..................................... unbekannt/mystisch (AZ31 nur als Berechnungsreferenz)  
+**Material**: ..................................... unbekannt/mystisch (Referenzdichte 7,8 g/cm³, nur Autorenebene)  
 **Optik**: ......................................... wie gebürstetes Aluminium (reine *Optik*referenz, kein Aluminium)  
-**Durchmesser (großer Ring)**: .... 3,00 m innen  
-**Gewicht (großer Ring)**: ............. ca. 8.050 kg (≈ 8 Tonnen)  
-**Breite (axial)**: ............................. 1,05 m  
-**Wandstärke**: ................................ 0,405 m  
+**Durchmesser (großer Ring)**: .... 3,00 m innen / 3,30 m außen  
+**Gewicht (großer Ring)**: ............. ca. 5.730 kg (≈ 5,7 Tonnen)  
+**Breite (axial)**: ............................. 0,50 m  
+**Dicke (radial)**: ............................. 0,15 m  
+**Rundungsradius**: ......................... 0,03 m (alle vier Ecken)  
 
-**Formreferenz**: Der Eine Ring aus Peter Jacksons *Herr der Ringe* (Jens Hansen, 18kt Gold, US Größe 11)  
+**Formreferenz**: **flacher Armreif** — abgerundetes Rechteck im Querschnitt. Maße und Herleitung: [Portalring_Berechnungen.md](Portalring_Berechnungen.md)  
 
 ---
 
 ## Beschreibung
-Die Portalringe sehen aus wie riesige Fingerringe mit grün leuchtenden Runen an der Außenseite. Die Oberfläche ist **matt silbrig-grau, fein gerichtet — optisch wie gebürstetes Aluminium** (nur Optikreferenz, das Material ist es nicht). Kein Spiegelglanz, keine Naht, keine Guss- oder Werkzeugspuren.
+Die Portalringe sehen aus wie riesige, flache Armreife mit grün leuchtenden Runen an der Außenseite — breite Bänder mit flacher Außenfläche und gebrochenen Kanten, nicht wulstig und nicht scharfkantig. Die Oberfläche ist **matt silbrig-grau, fein gerichtet — optisch wie gebürstetes Aluminium** (nur Optikreferenz, das Material ist es nicht). Kein Spiegelglanz, keine Naht, keine Guss- oder Werkzeugspuren.
 Bei Aktivierung rotieren sie 180° um einen Durchmesser (Achse in der Ringebene) — wie eine Münze, die von Kopf auf Zahl flippt — bleiben dabei aber ortsfest und liegen danach deckungsgleich. Die Drehung dauert **einen Lidschlag**. Sie können **flach liegen oder vertikal stehen** (siehe unten).
 
 ---
@@ -30,10 +31,10 @@ Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Dre
 - **Tauschvolumen = Innenkugel.** Maßgeblich ist die **Innenkante** des Rings: Die Tausch-Kugel hat den Innendurchmesser (**3,00 m** beim 3-m-Ring, Radius 1,50 m). **Der Ringkörper wird nicht mitgetauscht** — er liegt vollständig außerhalb.
 - **Der Reif durchläuft Materie wie ein Geist.** Während der Drehung durchdringt der Ringkörper alles, was ihm im Weg liegt — Erdreich, Fundament, einen danebenstehenden Menschen —, **ohne es anzutasten**. Kein Pflügen, kein Pulverisieren, keine Spur. Deshalb braucht es kein freigeräumtes Umfeld.
   - **Nur während der Drehung.** Ein ruhender Ring ist fest und schwer wie jeder Körper; sonst sänke er durch den Boden.
-  - **Innen und außen berühren sich nie.** Ein um einen Durchmesser rotierender Ring überstreicht exakt die Schale zwischen Innen- und Außenradius (1,50–1,905 m). Der Reif kommt der Tauschkugel nie näher als tangential — die Geist-Eigenschaft gilt also ausschließlich für Materie *außerhalb* des Tauschvolumens.
+  - **Innen und außen berühren sich nie.** Ein um einen Durchmesser rotierender Ring überstreicht die Schale zwischen **1,50 m und 1,665 m** — innen die Bohrung, außen der weiteste Punkt des Eckbogens. Der Reif kommt der Tauschkugel nie näher als tangential; die Geist-Eigenschaft gilt also ausschließlich für Materie *außerhalb* des Tauschvolumens.
 - **Messerscharfe Schnittkante.** Die Kugeloberfläche trennt alles, was sie kreuzt. Sie fällt **genau mit der sichtbaren Ringöffnung zusammen** — die Grenze ist damit sichtbar und erlernbar: *Wer ganz in der Öffnung steht, reist heil; was hinausragt, wird durchtrennt.*
 - **Harter Tausch.** Der gesamte Kugelinhalt wird kompromisslos 1:1 mit der Gegenseite getauscht — auch bei stark verschiedenem Inhalt (z. B. Luft gegen massiven Sand). Beide gepaarten Ringe flippen gleichzeitig.
-- **Ganze Kugel inkl. Erdreich.** Liegt der Ring flach im Boden, steckt die untere Halbkugel im Erdreich; sie wird mitgetauscht. So entsteht am Skir-Ufer eine halbkugelförmige Mulde, gefüllt mit Wüstensand (und umgekehrt).
+- **Ganze Kugel inkl. Erdreich.** Liegt der Ring flach im Boden, steckt die untere Halbkugel im Erdreich; sie wird mitgetauscht. So entsteht am Skir eine halbkugelförmige Mulde, gefüllt mit Wüstensand (und umgekehrt).
 - **Kein Halt nötig.** Personen oder Waren stehen frei im Inneren. Eine feste Plattform ist unmöglich, da jede Verankerung mitgetauscht oder an der Kante geschnitten würde — die Schwerkraft genügt.
 - **Der Ring bleibt liegen.** Da er nicht mitgetauscht wird, ruht er unverändert in seinem eigenen Bett. Die Mulde entsteht **innerhalb** von ihm. Kein Verrutschen, keine fremde Auflage.
 
@@ -41,20 +42,40 @@ Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Dre
 
 ## Kopffreiheit und die Mulde
 
-Die Kugel reicht nur **1,50 m über die Ringebene**. Für einen **Stehenden** ist das zu wenig — der rohe, ebenerdige Ring köpft ihn. Daraus folgt die zentrale Betriebsregel:
+Die Kugel reicht nur **1,50 m über die Ringebene**. Liegt der Ring flach im Boden, fällt die Ringebene mit dem Boden zusammen — das Kugelzentrum liegt dann genau dort, wo man steht, und ein Stehender hat **1,50 m Kopffreiheit**, exakt den Kugelradius. Für einen Erwachsenen ist das zu wenig; der rohe, ebenerdige Ring köpft ihn.
 
-> **Das Kugelzentrum muss ~0,75 m über der Standfläche liegen.**
+**Deshalb baut die Nutzer-Zivilisation eine Mulde** ([C-084](../Notizen/Offene-Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe)). Wie tief, ist **noch nicht entschieden · ???** — die Tiefe erkauft Kopffreiheit mit Standfläche:
 
-Eine Regel, zwei Bauformen: beim **flach liegenden** Ring eine **Mulde** von 0,75 m unter der Ringebene, beim **vertikalen** Ring ein Zentrum 0,75 m über dem Gehweg. Beide ergeben dieselben Maße — **2,60 m Standfläche, 2,25 m Kopffreiheit**.
+<table>
+  <caption>Flach liegender 3-m-Ring — Muldentiefe unter der Ringebene</caption>
+  <thead>
+    <tr><th>Mulde</th><th>Kopffreiheit</th><th>Standfläche (Schnittkreis)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>keine</td><td>1,50 m</td><td>3,00 m</td></tr>
+    <tr><td>0,25 m</td><td>1,75 m</td><td>2,96 m</td></tr>
+    <tr><td>0,50 m</td><td>2,00 m</td><td>2,83 m</td></tr>
+    <tr><td>0,75 m</td><td>2,25 m</td><td>2,60 m</td></tr>
+    <tr><td>1,00 m</td><td>2,50 m</td><td>2,24 m</td></tr>
+    <tr><td>1,25 m</td><td>2,75 m</td><td>1,66 m</td></tr>
+  </tbody>
+</table>
 
-**Liegend gilt die Grenze nicht.** Auf Bodenhöhe hat die Kugel nahezu den vollen Durchmesser von 3,00 m; ein liegender Mensch (1,75 m lang, 0,3 m hoch) passt bei **jeder** Einbettungstiefe hinein, auch im rohen Ring ohne Mulde. So überlebt [Girlin](../Menschen/Nordvolk/Girlin.md) ihre Reise: Sie **stolpert** in den Ring — womöglich über den Ring selbst — und **liegt** darin. Stehend hätte sie der Ring geköpft.
+```
+Kopffreiheit = 1,50 m + Muldentiefe
+Standfläche  = 2 · √(1,50² − Muldentiefe²)
+
+Beides gemessen ab der Ringebene, die zugleich das Kugelzentrum ist.
+```
+
+> **Gestrichen (02.09.2026):** Hier stand die Betriebsregel *„Das Kugelzentrum muss ~0,75 m über der Standfläche liegen"* und daraus abgeleitet eine feste Mulde. Die Zahl stammte von Claude, nicht vom Autor → [C-119](../Notizen/Offene-Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen).
+
+**Liegend gilt die Grenze nicht.** Die Tauschkugel misst **immer 3,00 m** im Durchmesser, und auf Höhe der Ringebene ist ihr Schnittkreis genau dieser volle Durchmesser — der Äquator der Kugel. Ein liegender Mensch (1,75 m lang, 0,3 m hoch) passt deshalb bei **jeder** Einbettungstiefe hinein, auch im rohen Ring ohne Mulde. So überlebt [Girlin](../Menschen/Nordvolk/Girlin.md) ihre Reise: Sie **stolpert** in den Ring — womöglich über den Ring selbst — und **liegt** darin. Stehend hätte sie der Ring geköpft.
 
 **Die Mulde wandert.** Sie liegt *innerhalb* der Tauschkugel und wird deshalb mitgetauscht. Hat nur eine Seite eine Mulde, wird sie beim ersten Tausch mit dem Erdreich der Gegenseite **verfüllt** — und drüben entsteht eine. **Asymmetrische Anlagen zerstören sich selbst.** Beide Seiten müssen gleich gebaut sein, was voraussetzt, dass man die Gegenseite kennt. Für die Erbauer selbstverständlich; für jeden, der ein Ringpaar nur von einem Ende her kennt, unmöglich.
 
-**Wie eine Zivilisation das lernt:** durch Tote. Die erste Generation jedes Zyklus findet die Maße heraus, indem Menschen aufrecht in ungemuldete Ringe treten — passend dazu, dass die **Bedienung** in jedem Zyklus neu erlernt wird ([Welt](../Welt/README.md#drei-wissensebenen)).
-
 Offene Restpunkte: [C-084](../Notizen/Offene-Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe).
-- **Aus dem Ring tritt nichts aus** — kein Strahl, keine Druckwelle. Sichtbar ist allein das grüne Glühen der Runen (siehe unten). Das gilt auch für **Luft**: Der Reif schwingt zwar mit ~144 km/h Kantengeschwindigkeit, verdrängt dabei aber nur Luft, die selbst **Teil der Tauschkugel** ist.
+- **Aus dem Ring tritt nichts aus** — kein Strahl, keine Druckwelle. Sichtbar ist allein das grüne Glühen der Runen (siehe unten). Das gilt auch für **Luft**: Der Reif schwingt zwar mit ~126 km/h Kantengeschwindigkeit, verdrängt dabei aber nur Luft, die selbst **Teil der Tauschkugel** ist.
 
 ### Dauer des Flips
 
@@ -62,7 +83,7 @@ Offene Restpunkte: [C-084](../Notizen/Offene-Challenges.md#c-084-mulde-standflä
 
 „Lidschlag" ist zugleich der **epochentaugliche** Vergleich — eine Figur von 550 kann ihn denken und aussprechen, „Sekunde" nicht. Er darf deshalb im Erzähltext stehen.
 
-> **Berechnungsreferenz (Autorenebene, erscheint nie im Text):** 100–150 ms. Für den 3-m-Ring ~21 rad/s, Kantengeschwindigkeit außen ~40 m/s (≈ 144 km/h). Wer **neben** der Kugelkante steht, sieht den Reif damit vorbeirauschen.
+> **Berechnungsreferenz (Autorenebene, erscheint nie im Text):** 100–150 ms. Für den 3-m-Ring ~21 rad/s, Kantengeschwindigkeit außen ~35 m/s (≈ 126 km/h). Wer **neben** der Kugelkante steht, sieht den Reif damit vorbeirauschen.
 
 ---
 
@@ -71,26 +92,16 @@ Offene Restpunkte: [C-084](../Notizen/Offene-Challenges.md#c-084-mulde-standflä
 Ringe liegen nicht zwingend flach — das ist die Situation am [Skir](../Orte/Skirraa.md), keine Eigenschaft der Ringe. **Die Tauschkugel ist von der Aufstellung unabhängig:** Eine Rotation um einen Durchmesser überstreicht dieselbe Kugel, gleich aus welcher Ausgangslage.
 
 ### Flach liegend
-Untere Halbkugel im Erdreich, wird mitgetauscht (Sandmulde). So liegt der **Skir-Ring** und so verschwand [Girlin](../Menschen/Nordvolk/Girlin.md). Man steht darin und wartet — was eine **Mulde** voraussetzt (siehe oben). Ohne Mulde reist nur, wer **liegt**.
+**Die einzige Aufstellung, die in der Geschichte vorkommt.** Untere Halbkugel im Erdreich, wird mitgetauscht (Sandmulde). So liegt der **Skir-Ring** und so verschwand [Girlin](../Menschen/Nordvolk/Girlin.md). Stehend reist nur, wer eine **Mulde** hat (siehe oben) — ohne Mulde reist nur, wer **liegt**.
 
 ### Vertikal (eingelassen)
 Erlaubt den **Durchgang im Gehen**: Der Reisende betritt die Kugel, wird getauscht und geht am Zielort **geradeaus weiter** — ohne anzuhalten. Der Ring ist dabei nie ein „Tor", durch das man tritt; man läuft durch die Kugel, während sie ihren Inhalt wechselt.
 
-**Bedingung: Der Ring darf nicht auf dem Boden aufstehen.** Stünde er auf, läge sein Zentrum bei 1,905 m und die Tauschkugel schwebte von 0,405 m bis 3,405 m — sie berührte den Boden nicht, und jeder Durchgehende hätte die Beine außerhalb. Ausnahmslos tödlich. Er muss **teilweise eingelassen** sein.
+**In der Geschichte kommt diese Aufstellung nicht vor.** Beide Ringe von Plot 1 — Skir-Ring und Wüstenring — liegen flach. Der vertikale Fall ist reine Systemeigenschaft.
 
-<table>
-  <caption>Vertikaler 3-m-Ring, Zentrum ~0,75 m über Gehwegniveau</caption>
-  <tbody>
-    <tr><td>Standfläche am Boden (Tauschkugel)</td><td>2,60 m Ø</td></tr>
-    <tr><td>Durchgangshöhe am Scheitel</td><td>2,25 m</td></tr>
-    <tr><td>Ringunterkante unter Bodenniveau</td><td>1,16 m</td></tr>
-    <tr><td>Zeitfenster bei 1,4 m/s Gehtempo</td><td>~1,3 s (≈ 9 Flipdauern)</td></tr>
-  </tbody>
-</table>
+Frei auf dem Boden stehend liegt das Zentrum des 3-m-Rings auf **1,65 m** (dem Außenradius); die Tauschkugel reicht dann von 0,15 m bis 3,15 m Höhe und berührt den Boden nicht. Wer hindurchgeht, hat die Füße außerhalb — die Kugelgrenze trennt, was hinausragt. Niemand hindert die Nutzer daran, einen Ring so aufzustellen und auszulösen; die Gefahr folgt aus der Geometrie, nicht aus einer Vorschrift.
 
-Bei 0,8 m Schrittspreizung bleiben 1,80 m nutzbare Strecke — ein komfortables Fenster.
-
-**Nebeneffekt:** Die untere Halbkugel ist dann **Fundament**. Sind beide Ringe gleich gebettet, ist der Tausch sauber und beliebig wiederholbar — Ringplätze einer Hochkultur wären entsprechend gebaut.
+**Ob und wie tief eine Hochkultur so einen Ring einlässt, ist offen · ???** ([C-084](../Notizen/Offene-Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe)). Hier standen zuvor konkrete Einbaumaße (Zentrum 0,75 m über dem Gehweg, Grubensohle 0,90 m darunter, Zeitfenster im Gehen) — sie beruhten auf einer erfundenen Betriebsregel und sind gestrichen → [C-119](../Notizen/Offene-Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen).
 
 ---
 
@@ -113,12 +124,12 @@ Die Verbindung zweier Ringe ist nicht wählbar wie eine Adresse zur Laufzeit, so
 
 ## Größen & Zweck
 
-Es gibt nur wenige festgelegte Ringgrößen; nur Ringe gleicher Größe kuppeln (siehe Kopplung). Proportionen folgen stets dem Eine-Ring-Verhältnis, skaliert auf den jeweiligen Innendurchmesser — proportional schlank wie ein Fingerring, absolut je nach Größe ein Koloss.
+Es gibt nur wenige festgelegte Ringgrößen; nur Ringe gleicher Größe kuppeln (siehe Kopplung). Alle Größen leiten sich aus dem **3-m-Referenzring** ab: Breite 1:6, Dicke 1:20, Rundungsradius 1:100 des jeweiligen Innendurchmessers ([Berechnungen](Portalring_Berechnungen.md)).
 
 | Innen-Ø | Gewicht (Ref.) | Beweglichkeit | Zweck (Erbauer) |
 |---|---|---|---|
-| **3,00 m** | ~8 t | ortsfest, untransportierbar | Menschen & Waren. Skir- und Wüstenring. |
-| **0,30 m** | ~8 kg | tragbar, evtl. versetzbar | Kleine Pakete & Briefe — ein Postsystem. |
+| **3,00 m** | ~5,7 t | schwer, aber bewegbar | Menschen & Waren. Skir- und Wüstenring. |
+| **0,30 m** | ~5,7 kg | tragbar | Kleine Pakete & Briefe — ein Postsystem. |
 
 Weitere Größen: **???** ([C-017](../Notizen/Offene-Challenges.md)). Der Postzweck der kleinen Ringe ist die **ursprüngliche Bestimmung der Erbauer**, heute vergessen — niemand in der Welt von 550 kennt das System ([C-008](../Notizen/Offene-Challenges.md)).
 
@@ -138,7 +149,7 @@ Das Material ist mystisch und nicht identifizierbar ([C-004](../Notizen/Offene-C
 
 **Der Ring altert nicht.** Keine Korrosion, keine Patina, keine Verfärbung, keine Kratzer — auch nach Jahrtausenden im Boden nicht. Die Oberfläche bleibt matt silbrig-grau und fein gerichtet, optisch wie **gebürstetes Aluminium**.
 
-> **Optikreferenz, kein Material.** „Gebürstetes Aluminium" beschreibt nur, wie die Oberfläche *aussieht* — analog zur Formreferenz (Eine Ring) und zur Berechnungsreferenz (AZ31). Das Material bleibt unbekannt ([C-004](../Notizen/Offene-Challenges.md)). Der Begriff gehört auf die **Autorenebene** und darf so **nie im Erzähltext** stehen ([C-037](../Notizen/Offene-Challenges.md)).
+> **Optikreferenz, kein Material.** „Gebürstetes Aluminium" beschreibt nur, wie die Oberfläche *aussieht* — analog zur Formreferenz (flacher Armreif) und zur Berechnungsreferenz (Dichte 7,8 g/cm³). Das Material bleibt unbekannt ([C-004](../Notizen/Offene-Challenges.md)). Der Begriff gehört auf die **Autorenebene** und darf so **nie im Erzähltext** stehen ([C-037](../Notizen/Offene-Challenges.md)).
 
 **Bewuchs ja, Angriff nein.** Moos, Flechten und Erde setzen sich wie an jedem Stein an der Oberfläche fest — sie liegen aber nur *auf* ihr. Zieht man den Bewuchs ab, kommt makelloses Material zum Vorschein, als wäre es gestern gefertigt. Das ist das eigentliche Unheimlichkeitssignal beim Fund: nicht ein Ring ohne Bewuchs, sondern ein bewachsener Ring **ohne jede Spur von Alter darunter**.
 
@@ -162,230 +173,68 @@ Das erklärt zugleich die Mechanik: Nur die Runen glühen (Energie läuft in den
 
 ## Technische Details
 
-- [Volumenberechnung](https://rechneronline.de/pi/hohlzylinder.php)
+Vollständige Herleitung und Formeln: [Portalring_Berechnungen.md](Portalring_Berechnungen.md).
 
 <table>
-  <caption>Maße und Volumen - Referenzring (entspricht One Ring, Jens Hansen, US Größe 11)</caption>
+  <caption>Referenzring (3,00 m) — verbindliche Maße</caption>
   <tbody>
-    <tr>
-      <td>Innen-Ø (ID)</td>
-      <td>2,00 cm</td>
-      <td><em>One Ring: 2,06 cm (US Gr. 11)</em></td>
-    </tr>
-    <tr>
-      <td>Außen-Ø (AD)</td>
-      <td>2,54 cm</td>
-      <td><em>One Ring: ~2,60 cm</em></td>
-    </tr>
-    <tr>
-      <td>Ringdicke ((AD – ID) / 2)</td>
-      <td>0,27 cm</td>
-      <td><em>One Ring: 0,27 cm</em></td>
-    </tr>
-    <tr>
-      <td>Ringbreite (Höhe)</td>
-      <td>0,70 cm</td>
-      <td><em>One Ring: 0,70 cm</em></td>
-    </tr>
-    <tr>
-      <td>Volumen in m³</td>
-      <td>1,3478 × 10⁻⁶ m³</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Volumen in cm³</td>
-      <td>1,3478</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
-
-<table>
-  <caption>Maße und Volumen (proportional skaliert von Referenzring)</caption>
-  <tbody>
-    <tr>
-      <td>Innen-Ø (ID)</td>
-      <td>3,00 m</td>
-      <td>2,00 m</td>
-      <td>1,00 m</td>
-      <td>0,30 m</td>
-    </tr>
-    <tr>
-      <td>Außen-Ø (AD)</td>
-      <td>3,81 m</td>
-      <td>2,54 m</td>
-      <td>1,27 m</td>
-      <td>0,381 m</td>
-    </tr>
-    <tr>
-      <td>Ringdicke ((AD – ID) / 2)</td>
-      <td>0,405 m</td>
-      <td>0,270 m</td>
-      <td>0,135 m</td>
-      <td>0,0405 m</td>
-    </tr>
-    <tr>
-      <td>Ringbreite (axial)</td>
-      <td>1,050 m</td>
-      <td>0,700 m</td>
-      <td>0,350 m</td>
-      <td>0,105 m</td>
-    </tr>
-    <tr>
-      <td>Volumen (m³)</td>
-      <td>4,549 m³</td>
-      <td>1,348 m³</td>
-      <td>0,168 m³</td>
-      <td>0,00455 m³</td>
-    </tr>
-    <tr>
-      <td>Volumen (cm³)</td>
-      <td>4.548.952</td>
-      <td>1.347.838</td>
-      <td>168.480</td>
-      <td>4.549</td>
-    </tr>
+    <tr><td>Innen-Ø (ID)</td><td><strong>3,00 m</strong></td><td>Leitmaß, alles andere folgt daraus</td></tr>
+    <tr><td>Außen-Ø (AD)</td><td>3,30 m</td><td>ID + 2 × Dicke</td></tr>
+    <tr><td>Dicke (radial)</td><td>0,15 m</td><td>Ringkörper von innen nach außen</td></tr>
+    <tr><td>Breite (axial)</td><td>0,50 m</td><td>Breite : Dicke = 3,3 : 1</td></tr>
+    <tr><td>Rundungsradius</td><td>0,03 m</td><td>20 % der Dicke; 0,09 m gerade Kante bleiben stehen</td></tr>
+    <tr><td>Querschnittsfläche</td><td>0,074227 m²</td><td>abgerundetes Rechteck</td></tr>
+    <tr><td>Volumen</td><td>0,734556 m³</td><td>734.556 cm³</td></tr>
+    <tr><td>Größter Radius beim Flip</td><td>1,6649 m</td><td>Eckbogen, nicht AD/2</td></tr>
   </tbody>
 </table>
 
 <table>
-  <caption>Gewichte nach Material (3 Meter Ring, V = 4.548.952 cm³)</caption>
+  <caption>Maße und Volumen (aus dem Referenzring abgeleitet)</caption>
   <tbody>
-    <tr>
-      <td>Material</td>
-      <td>Dichte (g/cm³)</td>
-      <td>Gewicht (kg)</td>
-      <td>Gewicht (Tonnen)</td>
-    </tr>
-    <tr>
-      <td>AZ31 (Berechnungsreferenz)</td>
-      <td>1,77</td>
-      <td>8.051,6</td>
-      <td>8,05 t</td>
-    </tr>
-    <tr>
-      <td>Kupfer</td>
-      <td>8,9</td>
-      <td>40.485,7</td>
-      <td>40,5 t</td>
-    </tr>
-    <tr>
-      <td>Aluminium</td>
-      <td>2,7</td>
-      <td>12.282,2</td>
-      <td>12,3 t</td>
-    </tr>
-    <tr>
-      <td>Eisen</td>
-      <td>7,9</td>
-      <td>35.936,7</td>
-      <td>35,9 t</td>
-    </tr>
-    <tr>
-      <td>Stahl</td>
-      <td>7,8</td>
-      <td>35.481,8</td>
-      <td>35,5 t</td>
-    </tr>
-    <tr>
-      <td>Edelstahl</td>
-      <td>8,0</td>
-      <td>36.391,6</td>
-      <td>36,4 t</td>
-    </tr>
+    <tr><td>Innen-Ø (ID)</td><td><strong>3,00 m</strong></td><td>2,00 m</td><td>1,00 m</td><td>0,30 m</td></tr>
+    <tr><td>Außen-Ø (AD)</td><td>3,300 m</td><td>2,200 m</td><td>1,100 m</td><td>0,330 m</td></tr>
+    <tr><td>Dicke (radial)</td><td>0,150 m</td><td>0,100 m</td><td>0,050 m</td><td>0,015 m</td></tr>
+    <tr><td>Breite (axial)</td><td>0,500 m</td><td>0,333 m</td><td>0,167 m</td><td>0,050 m</td></tr>
+    <tr><td>Rundungsradius</td><td>0,030 m</td><td>0,020 m</td><td>0,010 m</td><td>0,003 m</td></tr>
+    <tr><td>Volumen (m³)</td><td>0,734556</td><td>0,217646</td><td>0,027206</td><td>0,000735</td></tr>
+    <tr><td>Volumen (cm³)</td><td>734.556</td><td>217.646</td><td>27.206</td><td>735</td></tr>
+    <tr><td>Gewicht (kg)</td><td>5.729,5</td><td>1.697,6</td><td>212,2</td><td>5,73</td></tr>
   </tbody>
 </table>
 
-## Formeln und Berechnungen
+Kanonisch sind nur **3,00 m** und **0,30 m** ([C-010](../Notizen/Offene-Challenges.md#c-010-ringsystem--kopplungsmechanik-)); 1,00 m und 2,00 m sind Rechenbeispiele ([C-017](../Notizen/Offene-Challenges.md#c-017-weitere-ringgrößen)).
 
-r = Kleiner Radius (Querschnitts- oder Rohradius)
-a = Ellipsenachse a (Halbachse)
-b = Ellipsenachse b (Halbachse)
-R = Großer Radius (Hauptradius / Mittelpunktsradius)  
-A = Flächeninhalt  
-V = Volumen  
-
-###### [Kreis](https://rechneronline.de/pi/kreis-rechner.php)
-
-r = Kleiner Radius (Querschnitts- oder Rohradius)
-
-Flächeninhalt: π · r²
-
-###### [Kreistorus](https://rechneronline.de/pi/torus.php)
-
-R = Großer Radius (Hauptradius / Mittelpunktsradius)  
-A = Flächeninhalt  
-
-Volumen: 2 · π · R · A
-
-###### [Ellipse](https://rechneronline.de/pi/ellipse.php)
-
-a = Ellipsenachse a (Halbachse)
-b = Ellipsenachse b (Halbachse)
-
-Flächeninhalt: π · a · b
-
-###### [Ellipsentorus](https://www.wolframalpha.com/input/?i=elliptic+torus)
-
-R = Großer Radius (Hauptradius / Mittelpunktsradius)
-A = Flächeninhalt  
-
-Volumen: 2 · π · R · A
-
-###### [Stadion](https://rechneronline.de/pi/stadion.php) 
-
-r = Radius des Kreises
-a = Länge des Rechtecks
-
-Flächeninhalt: r · (π · r + 2 · a)
-
-###### [Stadiontorus]()
-
-Volumen: 2 · π · R · A
-Volumen: 2 · π² · R · r² + 4 · π · R · a · r 
-
-
----
-
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th>Innendurchmesser</th>
-      <th>Volumen (cm³)</th>
-      <th>Volumen (m³)</th>
-      <th>Gewicht (g)</th>
-      <th>Gewicht (kg)</th>
-    </tr>
-  </thead>
+<table>
+  <caption>Gewichte nach Material (3-m-Ring, V = 734.556 cm³)</caption>
   <tbody>
-    <tr>
-      <td>0.30 m</td>
-      <td>4.549,0</td>
-      <td>0,004549</td>
-      <td>8.051,7</td>
-      <td>8,052</td>
-    </tr>
-    <tr>
-      <td>1.00 m</td>
-      <td>168.479,7</td>
-      <td>0,168480</td>
-      <td>298.209,1</td>
-      <td>298,209</td>
-    </tr>
-    <tr>
-      <td>2.00 m</td>
-      <td>1.347.837,5</td>
-      <td>1,347838</td>
-      <td>2.385.672,4</td>
-      <td>2.385,672</td>
-    </tr>
-    <tr>
-      <td>3.00 m</td>
-      <td>4.548.951,5</td>
-      <td>4,548952</td>
-      <td>8.051.644,2</td>
-      <td>8.051,644</td>
-    </tr>
+    <tr><td>Dichte (g/cm³)</td><td>entspricht</td><td>Gewicht (kg)</td><td>Gewicht (Tonnen)</td></tr>
+    <tr><td><strong>7,8</strong></td><td><strong>Referenzdichte (Stahl)</strong></td><td><strong>5.729,5</strong></td><td><strong>5,73 t</strong></td></tr>
+    <tr><td>2,7</td><td>Aluminium</td><td>1.983,3</td><td>1,98 t</td></tr>
+    <tr><td>7,9</td><td>Eisen</td><td>5.803,0</td><td>5,80 t</td></tr>
+    <tr><td>8,0</td><td>Edelstahl</td><td>5.876,4</td><td>5,88 t</td></tr>
+    <tr><td>8,9</td><td>Kupfer</td><td>6.537,5</td><td>6,54 t</td></tr>
   </tbody>
 </table>
+
+> **Die Dichte ist eine reine Rechengröße.** 7,8 g/cm³ ist **kein Materialbeschluss** — das Material bleibt unbekannt und mystisch ([C-004](../Notizen/Offene-Challenges.md#c-004-material-der-portalringe-)). Weder Material noch Gewicht werden im Erzähltext je benannt: Niemand in der Welt von 550 besitzt eine Waage, die einen solchen Körper wiegen könnte ([C-127 ✓](../Notizen/Offene-Challenges.md#c-127-referenzdichte-)).
+
+## Formeln
+
+Querschnitt (abgerundetes Rechteck, Breite h, Dicke t, Eckradius r):
+
+```
+A = h · t − (4 − π) · r²
+```
+
+Volumen (Rotationskörper nach Pappus, R_s = Schwerpunktradius = ID/2 + t/2):
+
+```
+V = 2 · π · R_s · A
+```
+
+Größter Radius beim Flip (Eckbogen):
+
+```
+R_flip = √((AD/2 − r)² + (h/2 − r)²) + r
+```
