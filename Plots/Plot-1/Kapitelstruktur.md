@@ -128,17 +128,42 @@ Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt wede
 
 ---
 
+## Was am 02.09.2026 entschieden wurde — Ereigniskette
+
+**Der Skizzentext oben bleibt unverändert**, auch wo er jetzt überholt ist. Im Zweifel gilt die [Zeitleiste](Zeitleiste.md).
+
+### Tibun (Norden)
+- **Beat 4 (Unfall):** Er passiert und ist gesetzt. Verletzt wird eine **Nebenfigur**. **Womit** er baut und **wie** es abläuft, bleibt offen · **???** ([C-058](../../Notizen/Offene-Challenges.md#c-058-wasserrad-unfall-und-tibuns-schuld))
+- **Beat 5 (Aufbruch):** getrieben von **Ring, Schuld, Gewissenslast und Ausschluss** durch die Dorfbewohner — nicht vom Ring allein
+- **Beats 5–10 sind keine Wanderjahre.** Skirraa↔Kaupvik = **~14 Tagesmärsche**. Es gibt **eine Zwischenstation** (Anschluss an eine Gruppe; er lernt zu überleben und zu schweigen), danach **acht Jahre Kaupvik** ([C-115 ✓](../../Notizen/Offene-Challenges.md#c-115-tibuns-wanderjahre--die-stationen-fehlen))
+- **Beat 10 (Hafenunfall):** liegt in **Jahr +4/+5**, nicht am Ende. Davor: sammeln ohne zu wissen wie. Danach: Tischmodell bauen
+- **Beat 11 (Rückkehr):** Er geht, weil das Modell **läuft** und Wissen und Bernstein reichen — **er hat recht**. Die Zieheltern bleiben **lebend** zurück ([C-059](../../Notizen/Offene-Challenges.md#c-059-tibuns-zieheltern-in-kaupvik))
+- **Neu nach Beat 11:** der **Werkstatt-Konflikt** — Warnung, Meidung, keine Vertreibung, die Wala kommt und lässt ihn gewähren, Truda hält ihn für verloren ([C-100 ✓](../../Notizen/Offene-Challenges.md#c-100-die-werkstatt-an-der-tabustelle))
+
+### Girlin (Wüste)
+- **Beat 10 (Navigationswissen) ist gestrichen.** Es gibt **kein Geheimnis** des Häuptlings. Das Hindernis hat drei Phasen: **Zugehörigkeit → Wissen → Bitte** ([C-061 ✓](../../Notizen/Offene-Challenges.md#c-061-navigationswissen-des-häuptlings))
+- **Beat 11 (Transport):** Der Clan hilft aus **Sippenpflicht** — der Neffe ist Blut des Häuptlings. **Nicht** wegen Wasser
+- **Neu nach Beat 11:** Der Clan **zieht weiter**; Girlin, Neffe und Kind **bleiben** bei Bellbrim. Ab Jahr +8 ist sie ungeschützt
+- **Beat 13 (Azzim) rückt nach vorn:** **mehrfache** Begegnungen vor dem Finale. Er **weiß nichts vom Ring** und erfährt es in der Wüste nie; sein Motiv sind **Menschen** ([C-116](../../Notizen/Offene-Challenges.md#c-116-azzim-tritt-zu-spät-auf))
+
+### Was dadurch neu offen ist
+[C-118](../../Notizen/Offene-Challenges.md#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts) (Nordstrang ohne Verlust) · [C-119](../../Notizen/Offene-Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen) (Wiki-Altlast) · [C-120](../../Notizen/Offene-Challenges.md#c-120-azzims-zweite-seite--der-dritte-konflikt-fehlt-wieder) (Azzims zweite Seite) · [C-121](../../Notizen/Offene-Challenges.md#c-121-zwei-generatoren-ungleiche-bauzeiten) (Bauzeiten) · [C-122](../../Notizen/Offene-Challenges.md#c-122-der-wüstenstrang-zwischen-8-und-10) (Wüstenstrang +8→+10) · [C-123](../../Notizen/Offene-Challenges.md#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte) (Azzims Auftritte) · [C-124](../../Notizen/Offene-Challenges.md#c-124-die-zwischenstation--ort-und-gruppe) (Zwischenstation)
+
+**Das Kapitelraster ist noch nicht angelegt** — Nummer, ein Satz, ein POV, ein Jahr je Kapitel. Zwei Perspektivfiguren: Tibun und Girlin. Romanlänge und Kapitellänge werden **nicht** vorab festgelegt · **???**
+
+---
+
 ## Abgleich mit dem bestehenden Wiki
 
 | Skizzen-Beat | Status im Wiki |
 |---|---|
 | Prolog, Erdbeben, Girlins Verschwinden | deckungsgleich mit [Zeitleiste](Zeitleiste.md) |
 | Suchtrupp, Semund + Millia, Aufbruch, Hafenstadt, Unfall → Generator-Idee | deckungsgleich |
-| Wasserrad-Unfall mit Verletztem | **neu** → [C-058](../../Notizen/Offene-Challenges.md#c-058-wasserrad-unfall-und-tibuns-schuld) |
-| Paar in Kaupvik / neue Bezugsperson | **neu**, Figuren fehlen → [C-059](../../Notizen/Offene-Challenges.md#c-059-tibuns-zieheltern-in-kaupvik) |
+| Wasserrad-Unfall mit Verletztem | **teilentschieden 02.09.2026** — er passiert, Opfer ist eine Nebenfigur; Bauart offen → [C-058](../../Notizen/Offene-Challenges.md#c-058-wasserrad-unfall-und-tibuns-schuld) |
+| Paar in Kaupvik / neue Bezugsperson | **teilentschieden 02.09.2026** — sie bleiben lebend zurück; Figuren fehlen weiter → [C-059](../../Notizen/Offene-Challenges.md#c-059-tibuns-zieheltern-in-kaupvik) |
 | Nomaden bergen den Ring und bringen ihn zu Bellbrim | **entschieden** — Transport auf Schlitten in die Schlucht, Jahr +5 bis +8 → [C-018 ✓](../../Notizen/Offene-Challenges.md#c-018-widerspruch--transport-des-wüstenrings-) |
 | Girlin und Neffe | **entschieden** — der **Neffe**, dessen Frau zuvor durchbrennt → [C-060 ✓](../../Notizen/Offene-Challenges.md#c-060-girlin-und-der-neffe-) |
-| Häuptling offenbart Navigationswissen | Grund für das Schweigen steht: **der Neffe bat ihn darum** → [C-061](../../Notizen/Offene-Challenges.md#c-061-navigationswissen-des-häuptlings) |
+| Häuptling offenbart Navigationswissen | **gestrichen 02.09.2026** — kein Geheimnis; drei Phasen statt Schweigen → [C-061 ✓](../../Notizen/Offene-Challenges.md#c-061-navigationswissen-des-häuptlings) |
 | Tibun kümmert sich um Truda | **neu** aus [Plot 1](Plot-1.md) → [C-077](../../Notizen/Offene-Challenges.md#c-077-tibun-und-truda-nach-girlins-verschwinden) |
 | Tibun mag Millia nicht | **Widerspruch** zu Beat 3 → [C-078](../../Notizen/Offene-Challenges.md#c-078-tibuns-verhältnis-zu-millia) |
 | Alpträume / Idee im Traum | **neu**, kollidiert mit [C-002](../../Notizen/Offene-Challenges.md#c-002-tibuns-elektrizitätsquelle) → [C-079](../../Notizen/Offene-Challenges.md#c-079-tibuns-alpträume--und-der-traum-als-ideenquelle) |
