@@ -37,6 +37,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - Weltweites Beben (Erwachen des Ringsystems) löst einen Erdrutsch am Steilufer der Skir aus und legt den vergrabenen Portalring frei ([C-008](../../Notizen/Offene-Challenges.md))
 - Girlin verschwindet bei Blitzschlag-Aktivierung des freigelegten Rings ([C-012](../../Notizen/Offene-Challenges.md))
 - Tibun ist einziger Zeuge
+- **Tibun untersucht die frische Mulde** und begreift, dass der Ring **schneidet**: halbierte Steine, glatt durchtrennte Wurzeln, eine Schnittfläche wie mit dem Messer. Das Wissen, mit dem er zehn Jahre später Azzim tötet, liegt ab hier beim Leser — und niemand im Dorf glaubt ihm ([C-098 ✓](../../Notizen/Offene-Challenges.md#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-))
 
 ---
 
@@ -66,6 +67,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 ### Ankunft und erste Jahre (Jahr 0 → +3)
 - Sie wacht in einer Wüste auf (Jahr 0); die [Kel Aman](../../Menschen/Wuestenvolk/Kel-Aman.md) sehen das Ereignis von Weitem und sammeln sie auf
 - **Konflikt:** Sprache und Kulturbarriere
+- **Ihr Ziel steht von der ersten Stunde an fest:** Der Ring hat sie hergebracht, der Ring ist der einzige Rückweg — ein Fußmarsch in den Norden ist für sie keine Möglichkeit, sondern eine Todesart. Sie beginnt nicht bei der Frage *ob*, sondern bei *wie* ([C-114 ✓](../../Notizen/Offene-Challenges.md#c-114-girlin-weiß-von-anfang-an-dass-der-ring-ihr-rückweg-ist-))
 - Begegnet [Bellbrim](../../Menschen/Andere/Bellbrim.md), die übersetzen kann und als Erste versteht, was der Ring ist
 - **Jahr +3 (spätestens):** Beziehung zum **Neffen des Häuptlings** beginnt ([C-060 ✓](../../Notizen/Offene-Challenges.md#c-060-girlin-und-der-neffe-)) — dessen Frau ist zuvor mit einem anderen Mann durchgebrannt
 
@@ -96,14 +98,14 @@ Entschieden 31.08.2026. Löst [C-062 ✓](../../Notizen/Offene-Challenges.md#c-0
 - Azzim greift die Schlucht an; im Kampf wird der **Wüstengenerator ausgelöst**
 - **Azzim** steht vollständig in der Kugel und wird nach Jütland geworfen
 - Gegenrichtung: **kein Mensch** — nur Sand und Gerät ([C-102](../../Notizen/Offene-Challenges.md#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet))
-- Der **Skir-Ring ist danach entladen**. Tibuns Anlage muss neu aufladen — **das ist die Uhr des ganzen Finales**
+- Der **Skir-Ring** flippt mit. **Tibuns geladener Konduktor ist davon nicht betroffen** — die Kette liegt im Dachstuhl, der Stromkreis ist offen ([C-109 ✓](../../Notizen/Offene-Challenges.md#c-109-ladezeit-des-konduktors-)). Er kann **jederzeit** zünden; die Frage ist nur, ob er die Hand frei bekommt
 
 ### Der Kampf im Norden (Minuten, kein Tag)
 - Tibun führt an diesem Tag nur einen **Testlauf** durch. Er will nicht reisen: keine Vorräte, keine Waffe, kein Abschied von [Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md)
 - Azzim fällt ihm praktisch vor die Füße. Für Tibun ist das nach zehn Jahren der **erste Beweis**, dass am anderen Ende Menschen leben — und Azzim kennt Girlin
 - Beide wollen den Ring: Tibun will Auskunft, Azzim will zurück
 - Azzim ist der Stärkere. Er **wirft Tibun in den Ring** und würgt ihn am Boden — damit steht Tibun in der Kugel, ohne es gewählt zu haben
-- **Tibun weiß, dass die Kugelgrenze schneidet.** Er hat zehn Winter die Sandmulde vor Augen gehabt: glatt durchtrennte Wurzeln, halbierte Steine ([C-098](../../Notizen/Offene-Challenges.md#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt))
+- **Tibun weiß, dass die Kugelgrenze schneidet.** Er hat zehn Winter die Sandmulde vor Augen gehabt: glatt durchtrennte Wurzeln, halbierte Steine ([C-098](../../Notizen/Offene-Challenges.md#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-))
 
 ### Zündung 2 — Tibuns Auslösung
 - Das **Bernsteinrad** lädt einen **isolierten Konduktor** ([C-099](../../Notizen/Offene-Challenges.md#c-099-der-isolierte-konduktor--ladungsspeicher-ohne-anachronismus)). Gezündet wird über eine **Kette**, die aus dem Dachstuhl der Werkstatt herabfällt und Konduktor und Ring verbindet — **punktuell, gezielt, augenblicklich**
@@ -120,7 +122,7 @@ Entschieden 31.08.2026. Löst [C-062 ✓](../../Notizen/Offene-Challenges.md#c-0
 - **Girlins Nachricht geht nicht über.** Sie kommt nicht mehr dazu, sie in den Ring zu legen — der Angriff und die beiden Zündungen überholen ihr Vorhaben. Was von ihm bleibt, ist ihre Absicht ([C-101](../../Notizen/Offene-Challenges.md#c-101-girlins-nachricht--vorhaben-ohne-ausführung))
 
 ### Schluss
-- Wiedersehen in der Schlucht, mitten im noch laufenden Kampf ([C-108](../../Notizen/Offene-Challenges.md#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft))
+- Wiedersehen in der Schlucht, mitten im noch laufenden Kampf. Girlin erkennt ihn an **Augen und Gesicht** — und daran, dass niemand sonst durch den Ring kommen könnte. Keine Sprachbarriere zwischen beiden ([C-108](../../Notizen/Offene-Challenges.md#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft))
 - Girlin **bleibt** in der Wüste. Tibun bleibt bei ihr. Der Ring ist ab jetzt **Werkzeug statt Unglück** — Tibun kann bauen, Girlin und Bellbrim haben es bewiesen
 - **Das Buch endet mit der Entscheidung, nicht mit ihrer Ausführung:**
 

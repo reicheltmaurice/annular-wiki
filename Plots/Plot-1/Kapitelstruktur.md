@@ -77,10 +77,10 @@ Die Skizze notierte hier nur *„Azzim teleportiert sich nach einem Kampf aus Ve
 
 **Zwei Zündungen, Minuten auseinander, ein durchgehender Zug.**
 
-1. **Zündung 1 (Wüste):** Azzims Angriff auf die Schlucht löst den Wüstengenerator aus. Azzim wird nach Jütland geworfen. Gegenrichtung: kein Mensch. Der Skir-Ring ist danach **entladen** — Tibuns Anlage muss neu laden, und **das ist die Uhr des Finales**.
+1. **Zündung 1 (Wüste):** Azzims Angriff auf die Schlucht löst den Wüstengenerator aus. Azzim wird nach Jütland geworfen. Gegenrichtung: kein Mensch. Der Skir-Ring flippt mit; **Tibuns geladener Konduktor bleibt unberührt**, weil die Kette oben liegt und der Stromkreis offen ist. Er kann jederzeit zünden — wenn er die Hand frei bekommt.
 2. **Der Kampf:** Tibun führte an dem Tag nur einen **Testlauf** durch — er wollte nicht reisen. Azzim ist der Stärkere, **wirft Tibun in den Ring** und würgt ihn am Boden.
 3. **Zündung 2 (Norden):** Tibun erreicht mit letzter Kraft den Auslöser — eine **Kette**, die aus dem Dachstuhl seiner Werkstatt fällt und den geladenen **Konduktor** mit dem Ring verbindet: punktuell, augenblicklich. Im selben Griff tritt er Azzim von sich weg. Die **Fallzeit der Kette ist Azzims Taumelzeit**. Azzim wird von der Kugelgrenze **zerteilt**, Tibun steht mittig und **reist**. Notwehr, kein Plan.
-4. **Wiedersehen** in der Schlucht, mitten im noch laufenden Kampf. Girlin hat sich zuvor entschieden **zu bleiben** — der Preis ist bezahlt, bevor der Sohn ankommt.
+4. **Wiedersehen** in der Schlucht, mitten im noch laufenden Kampf. Sie erkennen einander; Girlin spricht weiterhin seine Sprache. Girlin hat sich zuvor entschieden **zu bleiben** — der Preis ist bezahlt, bevor der Sohn ankommt.
 5. **Schluss:** Beide bleiben in der Wüste. Der Ring ist ab jetzt Werkzeug statt Unglück. Letzter Wortwechsel: *„Was machen wir jetzt?" — „Jetzt holen wir deine Schwester…"*
 
 **Damit erledigt:** [C-062 ✓](../../Notizen/Offene-Challenges.md#c-062-azzims-ankunft-vor-tibuns-zündung-) (wer zündet zuerst), [C-082 ✓](../../Notizen/Offene-Challenges.md#c-082-girlins-entscheidung-zur-rückreise-) (Girlins Entschluss).
@@ -111,7 +111,7 @@ Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt wede
 </td><td>
 
 - **nach Beat 5 (Sorge um den Ring-Standort):** Girlin wird **entführt** — anschließend **rettet das Nomadenvolk sie**
-  → ganzer Bogen, fehlt in Skizze und Wiki. **???** → [C-080](../../Notizen/Offene-Challenges.md#c-080-girlins-entführung-und-rettung)
+  → ganzer Bogen, fehlt in Skizze und Wiki. **???** → [C-080](../../Notizen/Offene-Challenges.md#c-080-girlins-entführung-und-rettung--gestrichen)
 - **zu Beat 7 (Beziehung):** Plot 1 kennt **keinen Neffen** — dort finden **Girlin und der Häuptling** zueinander, und es ist die **Frau des Häuptlings**, die durchbrennt. **???** → [C-060](../../Notizen/Offene-Challenges.md#c-060-girlin-und-der-neffe-)
 - **nach Beat 7:** Girlin **bekommt ein weiteres Kind**
   → fehlt in Skizze und Wiki vollständig; verändert ihre Rückkehrentscheidung grundlegend. **???** → [C-081](../../Notizen/Offene-Challenges.md#c-081-girlins-drittes-kind-in-der-wüste)
@@ -142,7 +142,7 @@ Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt wede
 | Tibun kümmert sich um Truda | **neu** aus [Plot 1](Plot-1.md) → [C-077](../../Notizen/Offene-Challenges.md#c-077-tibun-und-truda-nach-girlins-verschwinden) |
 | Tibun mag Millia nicht | **Widerspruch** zu Beat 3 → [C-078](../../Notizen/Offene-Challenges.md#c-078-tibuns-verhältnis-zu-millia) |
 | Alpträume / Idee im Traum | **neu**, kollidiert mit [C-002](../../Notizen/Offene-Challenges.md#c-002-tibuns-elektrizitätsquelle) → [C-079](../../Notizen/Offene-Challenges.md#c-079-tibuns-alpträume--und-der-traum-als-ideenquelle) |
-| Girlin wird entführt und gerettet | **neu** aus [Plot 1](Plot-1.md) → [C-080](../../Notizen/Offene-Challenges.md#c-080-girlins-entführung-und-rettung) |
+| Girlin wird entführt und gerettet | **neu** aus [Plot 1](Plot-1.md) → [C-080](../../Notizen/Offene-Challenges.md#c-080-girlins-entführung-und-rettung--gestrichen) |
 | Girlin bekommt ein weiteres Kind | Jahr +4, Vater ist der **Neffe** → [C-081](../../Notizen/Offene-Challenges.md#c-081-girlins-drittes-kind-in-der-wüste) |
 | Girlins Entschluss zur Rückreise | **umgekehrt entschieden** — sie bleibt und schickt eine Nachricht → [C-082 ✓](../../Notizen/Offene-Challenges.md#c-082-girlins-entscheidung-zur-rückreise-) |
 
