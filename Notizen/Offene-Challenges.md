@@ -501,7 +501,7 @@ Der Autor hat das Geheimnis-Konzept selbst verworfen: **Wie die Nomaden navigier
 **Verbleibende ???:** ab wann genau Girlin als „eine der Ihren" gilt, und wie die Bitte an den Clan konkret ergeht.
 
 ### C-062: Azzims Ankunft vor Tibuns Zündung ✓
-Widerspruch zwischen [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#zusammenführung-unter-dem-trennstrich) und [Zeitleiste](../Plots/Plot-1/Zeitleiste.md). Die Skizze setzt Tibun beim Zusammentreffen „**kurz vor der Vollendung**" — Azzim taucht also auf, **bevor** Tibun gezündet hat. Die Zeitleiste führt dagegen „Tibuns erste Zündung" und die Aktivierung in der Wüste als **dasselbe Ereignis** ([C-012](#c-012-aktivierungsverhalten-des-rings-)).
+Widerspruch zwischen [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#zusammenführung--entschieden-31082026) und [Zeitleiste](../Plots/Plot-1/Zeitleiste.md). Die Skizze setzt Tibun beim Zusammentreffen „**kurz vor der Vollendung**" — Azzim taucht also auf, **bevor** Tibun gezündet hat. Die Zeitleiste führt dagegen „Tibuns erste Zündung" und die Aktivierung in der Wüste als **dasselbe Ereignis** ([C-012](#c-012-aktivierungsverhalten-des-rings-)).
 
 Beides ist vereinbar, wenn die Auslösung **von der Wüstenseite** kommt (Kampf bei Bellbrim aktiviert den Wüstenring, der Skir-Ring flippt simultan mit) — dann ist Tibuns Anlage aber gar nicht die Ursache, und seine zehn Jahre Arbeit verlieren ihre dramaturgische Zahlung. Zu entscheiden: **Wer zündet zuerst** — und wenn die Wüste zuerst zündet, wofür ist Tibuns Anlage dann noch nötig?
 
