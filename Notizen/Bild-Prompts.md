@@ -31,7 +31,7 @@ Was jeder Ring-Prompt korrekt treffen muss:
     <tr>
       <td><strong>Außen-Ø</strong></td>
       <td>3,30 m</td>
-      <td><a href="../Notizen/Offene-Challenges.md">C-007</a></td>
+      <td><a href="../Notizen/Challenges.md">C-007</a></td>
     </tr>
     <tr>
       <td><strong>Innere Öffnung</strong></td>
@@ -51,12 +51,12 @@ Was jeder Ring-Prompt korrekt treffen muss:
     <tr>
       <td><strong>Optik</strong></td>
       <td>Wie gebürstetes Aluminium, matt silbrig-grau</td>
-      <td><a href="../Notizen/Offene-Challenges.md">C-035</a> — kein Spiegelglanz, kein Gold</td>
+      <td><a href="../Notizen/Challenges.md">C-035</a> — kein Spiegelglanz, kein Gold</td>
     </tr>
     <tr>
       <td><strong>Alterung</strong></td>
       <td>Keine — kein Rost, keine Patina, keine Kratzer</td>
-      <td><a href="../Notizen/Offene-Challenges.md">C-036</a></td>
+      <td><a href="../Notizen/Challenges.md">C-036</a></td>
     </tr>
     <tr>
       <td><strong>Bewuchs</strong></td>
@@ -85,7 +85,7 @@ Was jeder Ring-Prompt korrekt treffen muss:
 - **Gegenrichtung `sharp edges` → scharfkantiger Bord.** Die Kanten sind *gebrochen*, nicht scharf: `softly chamfered edges`, `small edge radius`.
 - `brushed aluminium` zieht Richtung Sci-Fi — nötigenfalls `no sci-fi, no industrial` verstärken.
 
-**Noch offen, in den Prompts vorläufig gesetzt:** Bürstrichtung umlaufend statt axial ([C-037](../Notizen/Offene-Challenges.md)); Runenform bewusst vage ([C-013](../Notizen/Offene-Challenges.md)).
+**Noch offen, in den Prompts vorläufig gesetzt:** Bürstrichtung umlaufend statt axial ([C-037](../Notizen/Challenges.md)); Runenform bewusst vage ([C-013](../Notizen/Challenges.md)).
 
 **Nutzung:** Midjourney `--ar 3:2` anhängen, NEGATIVE-Block in `--no` umbauen. DALL·E/Imagen: Fließtext unverändert.
 
@@ -147,7 +147,7 @@ Arbeitsdateien in [Bilder/](Bilder/). Formverbindlich ist der Block oben (flache
 
 ## P-002: Fundszene
 
-> **Nicht kanonisch · ???** Dieser Prompt zeigt einen Erdrutsch am Steilufer. **Der Erdrutsch ist gestrichen** ([C-128](Offene-Challenges.md#c-128-fundort-und-freilegung-des-skir-rings)) — der Ring liegt im Wald nahe dem Bach. Der Prompt bleibt als Materialarchiv stehen, bis feststeht, wie der Ring in Erscheinung tritt, und ist bis dahin **nicht zu rendern**.
+> **Nicht kanonisch · ???** Dieser Prompt zeigt einen Erdrutsch am Steilufer. **Der Erdrutsch ist gestrichen** ([C-128](Challenges.md#c-128-fundort-und-freilegung-des-skir-rings)) — der Ring liegt im Wald nahe dem Bach. Der Prompt bleibt als Materialarchiv stehen, bis feststeht, wie der Ring in Erscheinung tritt, und ist bis dahin **nicht zu rendern**.
 
 ```
 Photorealistic. Northern Jutland heathland, Vendsyssel, near the Skagerrak coast. A fresh landslide has torn open a steep stream bank, exposing a colossal ring lying flat in the slump debris.

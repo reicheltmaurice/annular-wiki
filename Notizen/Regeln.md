@@ -9,7 +9,7 @@ Neue Regeln laufend ergänzen — keine Begründungen, nur die Regel selbst.
 
 - Die einzige Abweichung von der historischen Realität sind die Portalringe — alles andere muss historisch möglich sein
 - Epoche: **550 n.Chr. (Vendelzeit)** — internes Referenzjahr, erscheint nicht im Erzähltext
-- Anachronismen sofort in `offene-challenges.md` dokumentieren
+- Anachronismen sofort in `challenges.md` dokumentieren
 - Keine Technologie, die für 550 n.Chr. nicht belegt oder plausibel herleitbar ist
 - Elektrizität nur durch Reibung/Bernstein und was in der Epoche möglich war
 
@@ -42,8 +42,8 @@ Neue Regeln laufend ergänzen — keine Begründungen, nur die Regel selbst.
 
 ## Namen
 
-- **Nordvolk:** zweigliedrige Vollnamen aus festem Elementvorrat, im Alltag Kurzformen (Erstglied + `-un` m. / `-in`,`-a` w. / `-i`). Kein Familienname, sondern Vatersname `-sun`/`-dohtar`. **Keine Götterelemente** (`Thor-`, `Tiw-`, `Ing-`) — sie unterlaufen das Epitheta-Prinzip. Muster und Elementvorrat: [C-092](Offene-Challenges.md#c-092-namenssystem-des-nordvolks)
-- **Kel Aman:** libysch-berberisch. Frauennamen umklammert ein `t`, Männernamen enden konsonantisch oder auf `-an`/`-en`, Abstammung mit `u-`/`ult-`, Gruppen mit `Kel-`. Siehe [C-090](Offene-Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)
+- **Nordvolk:** zweigliedrige Vollnamen aus festem Elementvorrat, im Alltag Kurzformen (Erstglied + `-un` m. / `-in`,`-a` w. / `-i`). Kein Familienname, sondern Vatersname `-sun`/`-dohtar`. **Keine Götterelemente** (`Thor-`, `Tiw-`, `Ing-`) — sie unterlaufen das Epitheta-Prinzip. Muster und Elementvorrat: [C-092](Challenges.md#c-092-namenssystem-des-nordvolks)
+- **Kel Aman:** libysch-berberisch. Frauennamen umklammert ein `t`, Männernamen enden konsonantisch oder auf `-an`/`-en`, Abstammung mit `u-`/`ult-`, Gruppen mit `Kel-`. Siehe [C-090](Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)
 - **Keine Sonderzeichen — überall im Wiki.** Alles wird mit deutscher Tastatur geschrieben: kein Thorn, kein Eth, keine Längenstriche über Vokalen. Stattdessen `th`, `d` und einfache Vokale.
 
 ## Schreiben

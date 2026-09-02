@@ -43,7 +43,7 @@ Nach [Girlins](Girlin.md) Toterklärung erbt [Truda](Nebenfiguren/Truda.md) das 
 
 > **Regel:** Der Kamm bleibt ein Kamm. Er wird **nie** Teil von Tibuns Erfindung — der Bernstein trägt diese Rolle bereits, und beides in einem Gegenstand wäre zu glatt.
 
-Siehe [C-095](../../Notizen/Offene-Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-).
+Siehe [C-095](../../Notizen/Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-).
 
 ---
 
@@ -64,4 +64,4 @@ Tibun ist die zentrale Figur der Handlung und treibt die Entdeckung der Portalri
 
 ## Inspiration
 
-- ??? — siehe [C-031](../../Notizen/Offene-Challenges.md)
+- ??? — siehe [C-031](../../Notizen/Challenges.md)

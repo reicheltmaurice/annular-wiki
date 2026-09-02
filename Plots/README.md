@@ -13,7 +13,7 @@ Figuren und Orte liegen **oben**, auch wenn sie derzeit nur in einer Geschichte 
 
 **Ordnernamen sind dauerhaft generisch** — `Plot-1`, `Plot-2`, … — und tragen **nie** den Werktitel. Der Titel steht ausschließlich in der `README.md` des jeweiligen Plots und in [SUMMARY.md](../SUMMARY.md). So bleibt ein Titelwechsel eine Änderung an zwei Stellen statt an hundert Links.
 
-Die [offenen Challenges](../Notizen/Offene-Challenges.md) bleiben eine **durchgehende Nummernfolge** über alle Plots hinweg — C-Nummern sind quer durchs Wiki verlinkt und dürfen nicht neu vergeben werden.
+Die [offenen Challenges](../Notizen/Challenges.md) bleiben eine **durchgehende Nummernfolge** über alle Plots hinweg — C-Nummern sind quer durchs Wiki verlinkt und dürfen nicht neu vergeben werden.
 
 ## Geschichten
 

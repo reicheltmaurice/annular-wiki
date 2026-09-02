@@ -39,7 +39,7 @@ Hofsohn von auswärts, aus der Gegend um [Tingsal](../../../Orte/Tingsal.md) —
 
 Im Prolog ([Die Entdeckung](../../../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md)) wird seine Verlobung mit [Frida](Frida.md) beim Großbauern von Skirraa verkündet — arrangiert von seinem Vater [Lanke](Lanke.md) als **Bündnis zwischen Höfen**, nicht aus Zuneigung. Als ortsfremde „bessere Partie" sticht er [Tibun](../Tibun.md) aus, ohne es zu wollen; auch ihm ist die Sache sichtlich unangenehm.
 
-Weitere Rolle im Verlauf **offen** (siehe [C-042](../../../Notizen/Offene-Challenges.md)).
+Weitere Rolle im Verlauf **offen** (siehe [C-042](../../../Notizen/Challenges.md)).
 
 ---
 

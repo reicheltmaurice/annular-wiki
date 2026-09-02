@@ -69,7 +69,7 @@
 
 ## Notizen
 
-* [Offene Challenges](Notizen/Offene-Challenges.md)
+* [Challenges](Notizen/Challenges.md)
 * [Regeln & Prüfliste](Notizen/Regeln.md)
 * [Weltenbau-Leitfaden](Notizen/Weltenbau-Leitfaden.md)
 * [Bild-Prompts](Notizen/Bild-Prompts.md)

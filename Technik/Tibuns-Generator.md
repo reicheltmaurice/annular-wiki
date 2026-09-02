@@ -1,6 +1,6 @@
 # Tibuns Generator
 
-Tibuns Apparat zur **Aktivierung der [Portalringe](Portalringe.md)**. Er erzeugt durch Reibung genug elektrische Ladung, um einen Ring zu zünden. Grundlagen des Phänomens siehe [Elektrizität](Elektrizitaet.md); Entscheidungslog: [C-002](../Notizen/Offene-Challenges.md).
+Tibuns Apparat zur **Aktivierung der [Portalringe](Portalringe.md)**. Er erzeugt durch Reibung genug elektrische Ladung, um einen Ring zu zünden. Grundlagen des Phänomens siehe [Elektrizität](Elektrizitaet.md); Entscheidungslog: [C-002](../Notizen/Challenges.md).
 
 Gebaut von [Tibun](../Menschen/Nordvolk/Tibun.md) als Erwachsenem (~25+), rein empirisch, ohne theoretisches Wissen.
 
@@ -25,7 +25,7 @@ Ein **Rad**, dessen Lauffläche ein Reibekörper aus Bernstein ist. Kein Kondukt
   </tbody>
 </table>
 
-Verworfen: Metall-/Kugelvarianten (Konduktor-Weg = Van-de-Graaff, [C-005](../Notizen/Offene-Challenges.md) gestrichen).
+Verworfen: Metall-/Kugelvarianten (Konduktor-Weg = Van-de-Graaff, [C-005](../Notizen/Challenges.md) gestrichen).
 
 ---
 
@@ -61,4 +61,4 @@ Handgekurbeltes **Tisch-Modell** (Prototyp, beweist den Funken) → große **was
 
 ## Offen
 
-**Übertragung (finaler Aufbau): ???** Wie kommt die Ladung vom Rad zum Ring? Direkte Annäherung des Rades, ein Metallstab oder eine an der Decke isoliert aufgehängte **Metallkette**. Die Kette ist als dramaturgisches Element zugelassen, auch wenn technisch ineffizient — Tibun darf als Erfinder Umwege machen. → [C-002](../Notizen/Offene-Challenges.md).
+**Übertragung (finaler Aufbau): ???** Wie kommt die Ladung vom Rad zum Ring? Direkte Annäherung des Rades, ein Metallstab oder eine an der Decke isoliert aufgehängte **Metallkette**. Die Kette ist als dramaturgisches Element zugelassen, auch wenn technisch ineffizient — Tibun darf als Erfinder Umwege machen. → [C-002](../Notizen/Challenges.md).

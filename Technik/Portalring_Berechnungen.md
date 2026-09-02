@@ -1,6 +1,6 @@
 # Größenberechnungen für Portalringe
 
-**Der 3-m-Ring ist der Referenzring.** Alle anderen Größen werden aus ihm abgeleitet, nicht umgekehrt. Die frühere Herleitung aus dem Einen Ring (Peter Jackson / Jens Hansen) ist **abgelöst** — siehe [C-007](../Notizen/Offene-Challenges.md#c-007-proportionen-der-portalringe-), [C-117](../Notizen/Offene-Challenges.md#c-117-ringgeometrie-neu-vermessen-).
+**Der 3-m-Ring ist der Referenzring.** Alle anderen Größen werden aus ihm abgeleitet, nicht umgekehrt. Die frühere Herleitung aus dem Einen Ring (Peter Jackson / Jens Hansen) ist **abgelöst** — siehe [C-007](../Notizen/Challenges.md#c-007-proportionen-der-portalringe-), [C-117](../Notizen/Challenges.md#c-117-ringgeometrie-neu-vermessen-).
 
 ---
 
@@ -74,7 +74,7 @@ Alle Längen skalieren mit dem Faktor **F = ID / 3,00 m**, das Volumen mit **F³
   </tbody>
 </table>
 
-Kanonisch sind nur **3,00 m** und **0,30 m** ([C-010](../Notizen/Offene-Challenges.md#c-010-ringsystem--kopplungsmechanik-)); 1,00 m und 2,00 m stehen als Rechenbeispiele, nicht als bestätigte Größen ([C-017](../Notizen/Offene-Challenges.md#c-017-weitere-ringgrößen)).
+Kanonisch sind nur **3,00 m** und **0,30 m** ([C-010](../Notizen/Challenges.md#c-010-ringsystem--kopplungsmechanik-)); 1,00 m und 2,00 m stehen als Rechenbeispiele, nicht als bestätigte Größen ([C-017](../Notizen/Challenges.md#c-017-weitere-ringgrößen)).
 
 ---
 
@@ -117,4 +117,4 @@ Frühere Fassungen dieser Datei rechneten den Ring als **Hohlzylinder**, skalier
 1. **Falsche Skalierungsbasis.** Skaliert wurde ab 20,0 mm Innen-Ø, der Eine Ring hat als US-Größe 11 aber 20,6 mm.
 2. **Falsche Querschnittsform.** Der Hohlzylinder ist schon am Referenzobjekt widerlegt: Jens Hansen gibt für den Filmring ~17 g in 18ct Gelbgold an, der Hohlzylinder ergäbe 21–22 g.
 
-Beides dokumentiert in [C-117](../Notizen/Offene-Challenges.md#c-117-ringgeometrie-neu-vermessen-). Die Eine-Ring-Referenz ist damit vollständig abgelöst; Formvorbild ist jetzt der flache Armreif ([C-073](../Notizen/Offene-Challenges.md#c-073-querschnitt-der-ringe--flacher-armreif-)).
+Beides dokumentiert in [C-117](../Notizen/Challenges.md#c-117-ringgeometrie-neu-vermessen-). Die Eine-Ring-Referenz ist damit vollständig abgelöst; Formvorbild ist jetzt der flache Armreif ([C-073](../Notizen/Challenges.md#c-073-querschnitt-der-ringe--flacher-armreif-)).

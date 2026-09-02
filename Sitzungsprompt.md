@@ -18,7 +18,7 @@ Lies vorher:
 - Plots/Plot-1/Kapitelstruktur.md, Abschnitt "Was am 02.09.2026
   entschieden wurde"
 - Challenges C-122, C-123, C-116, C-061, C-121, C-105, C-101, C-112
-- Notizen/Offene-Challenges.md, C-119 — die Liste meiner eigenen
+- Notizen/Challenges.md, C-119 — die Liste meiner eigenen
   Entscheidungen gegen deine früheren Erfindungen
 
 Ausgangslage (steht seit 02.09.): Der Clan setzt den Ring in Jahr +8 in

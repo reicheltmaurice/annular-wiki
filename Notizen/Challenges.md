@@ -1,4 +1,4 @@
-# Offene Challenges
+# Challenges
 
 Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 

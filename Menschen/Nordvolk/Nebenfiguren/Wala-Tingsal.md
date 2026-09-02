@@ -38,7 +38,7 @@
 
 Sitzt im regionalen Zentrum [Tingsal](../../../Orte/Tingsal.md) (Häuptlingssitz, ein Tagesmarsch von [Skirraa](../../../Orte/Skirraa.md)). **Veleda-Modell:** abgesondert, hochgeehrt, über Mittler befragt.
 
-Weiß **nichts** vom vergrabenen Ring am Bach (siehe [C-008](../../../Notizen/Offene-Challenges.md)).
+Weiß **nichts** vom vergrabenen Ring am Bach (siehe [C-008](../../../Notizen/Challenges.md)).
 
 **Rolle: ???** — bisher Möglichkeit, keine Szene.
 

@@ -26,7 +26,7 @@ Bei Aktivierung rotieren sie 180° um einen Durchmesser (Achse in der Ringebene)
 
 ## Aktivierung & Tausch
 
-Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Drehung definiert eine **Kugel**, deren Inhalt mit dem des Partnerrings ausgetauscht wird. Entscheidungslog: [C-012](../Notizen/Offene-Challenges.md#c-012-aktivierungsverhalten-des-rings-).
+Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Drehung definiert eine **Kugel**, deren Inhalt mit dem des Partnerrings ausgetauscht wird. Entscheidungslog: [C-012](../Notizen/Challenges.md#c-012-aktivierungsverhalten-des-rings-).
 
 - **Tauschvolumen = Innenkugel.** Maßgeblich ist die **Innenkante** des Rings: Die Tausch-Kugel hat den Innendurchmesser (**3,00 m** beim 3-m-Ring, Radius 1,50 m). **Der Ringkörper wird nicht mitgetauscht** — er liegt vollständig außerhalb.
 - **Der Reif durchläuft Materie wie ein Geist.** Während der Drehung durchdringt der Ringkörper alles, was ihm im Weg liegt — Erdreich, Fundament, einen danebenstehenden Menschen —, **ohne es anzutasten**. Kein Pflügen, kein Pulverisieren, keine Spur. Deshalb braucht es kein freigeräumtes Umfeld.
@@ -44,7 +44,7 @@ Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Dre
 
 Die Kugel reicht nur **1,50 m über die Ringebene**. Liegt der Ring flach im Boden, fällt die Ringebene mit dem Boden zusammen — das Kugelzentrum liegt dann genau dort, wo man steht, und ein Stehender hat **1,50 m Kopffreiheit**, exakt den Kugelradius. Für einen Erwachsenen ist das zu wenig; der rohe, ebenerdige Ring köpft ihn.
 
-**Deshalb baut die Nutzer-Zivilisation eine Mulde** ([C-084](../Notizen/Offene-Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe)). Wie tief, ist **noch nicht entschieden · ???** — die Tiefe erkauft Kopffreiheit mit Standfläche:
+**Deshalb baut die Nutzer-Zivilisation eine Mulde** ([C-084](../Notizen/Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe)). Wie tief, ist **noch nicht entschieden · ???** — die Tiefe erkauft Kopffreiheit mit Standfläche:
 
 <table>
   <caption>Flach liegender 3-m-Ring — Muldentiefe unter der Ringebene</caption>
@@ -68,13 +68,13 @@ Standfläche  = 2 · √(1,50² − Muldentiefe²)
 Beides gemessen ab der Ringebene, die zugleich das Kugelzentrum ist.
 ```
 
-> **Gestrichen (02.09.2026):** Hier stand die Betriebsregel *„Das Kugelzentrum muss ~0,75 m über der Standfläche liegen"* und daraus abgeleitet eine feste Mulde. Die Zahl stammte von Claude, nicht vom Autor → [C-119](../Notizen/Offene-Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen).
+> **Gestrichen (02.09.2026):** Hier stand die Betriebsregel *„Das Kugelzentrum muss ~0,75 m über der Standfläche liegen"* und daraus abgeleitet eine feste Mulde. Die Zahl stammte von Claude, nicht vom Autor → [C-119](../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen).
 
 **Liegend gilt die Grenze nicht.** Die Tauschkugel misst **immer 3,00 m** im Durchmesser, und auf Höhe der Ringebene ist ihr Schnittkreis genau dieser volle Durchmesser — der Äquator der Kugel. Ein liegender Mensch (1,75 m lang, 0,3 m hoch) passt deshalb bei **jeder** Einbettungstiefe hinein, auch im rohen Ring ohne Mulde. So überlebt [Girlin](../Menschen/Nordvolk/Girlin.md) ihre Reise: Sie **stolpert** in den Ring — womöglich über den Ring selbst — und **liegt** darin. Stehend hätte sie der Ring geköpft.
 
 **Die Mulde wandert.** Sie liegt *innerhalb* der Tauschkugel und wird deshalb mitgetauscht. Hat nur eine Seite eine Mulde, wird sie beim ersten Tausch mit dem Erdreich der Gegenseite **verfüllt** — und drüben entsteht eine. **Asymmetrische Anlagen zerstören sich selbst.** Beide Seiten müssen gleich gebaut sein, was voraussetzt, dass man die Gegenseite kennt. Für die Erbauer selbstverständlich; für jeden, der ein Ringpaar nur von einem Ende her kennt, unmöglich.
 
-Offene Restpunkte: [C-084](../Notizen/Offene-Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe).
+Offene Restpunkte: [C-084](../Notizen/Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe).
 - **Aus dem Ring tritt nichts aus** — kein Strahl, keine Druckwelle. Sichtbar ist allein das grüne Glühen der Runen (siehe unten). Das gilt auch für **Luft**: Der Reif schwingt zwar mit ~126 km/h Kantengeschwindigkeit, verdrängt dabei aber nur Luft, die selbst **Teil der Tauschkugel** ist.
 
 ### Dauer des Flips
@@ -101,7 +101,7 @@ Erlaubt den **Durchgang im Gehen**: Der Reisende betritt die Kugel, wird getausc
 
 Frei auf dem Boden stehend liegt das Zentrum des 3-m-Rings auf **1,65 m** (dem Außenradius); die Tauschkugel reicht dann von 0,15 m bis 3,15 m Höhe und berührt den Boden nicht. Wer hindurchgeht, hat die Füße außerhalb — die Kugelgrenze trennt, was hinausragt. Niemand hindert die Nutzer daran, einen Ring so aufzustellen und auszulösen; die Gefahr folgt aus der Geometrie, nicht aus einer Vorschrift.
 
-**Ob und wie tief eine Hochkultur so einen Ring einlässt, ist offen · ???** ([C-084](../Notizen/Offene-Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe)). Hier standen zuvor konkrete Einbaumaße (Zentrum 0,75 m über dem Gehweg, Grubensohle 0,90 m darunter, Zeitfenster im Gehen) — sie beruhten auf einer erfundenen Betriebsregel und sind gestrichen → [C-119](../Notizen/Offene-Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen).
+**Ob und wie tief eine Hochkultur so einen Ring einlässt, ist offen · ???** ([C-084](../Notizen/Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe)). Hier standen zuvor konkrete Einbaumaße (Zentrum 0,75 m über dem Gehweg, Grubensohle 0,90 m darunter, Zeitfenster im Gehen) — sie beruhten auf einer erfundenen Betriebsregel und sind gestrichen → [C-119](../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen).
 
 ---
 
@@ -131,13 +131,13 @@ Es gibt nur wenige festgelegte Ringgrößen; nur Ringe gleicher Größe kuppeln 
 | **3,00 m** | ~5,7 t | schwer, aber bewegbar | Menschen & Waren. Skir- und Wüstenring. |
 | **0,30 m** | ~5,7 kg | tragbar | Kleine Pakete & Briefe — ein Postsystem. |
 
-Weitere Größen: **???** ([C-017](../Notizen/Offene-Challenges.md)). Der Postzweck der kleinen Ringe ist die **ursprüngliche Bestimmung der Erbauer**, heute vergessen — niemand in der Welt von 550 kennt das System ([C-008](../Notizen/Offene-Challenges.md)).
+Weitere Größen: **???** ([C-017](../Notizen/Challenges.md)). Der Postzweck der kleinen Ringe ist die **ursprüngliche Bestimmung der Erbauer**, heute vergessen — niemand in der Welt von 550 kennt das System ([C-008](../Notizen/Challenges.md)).
 
 ---
 
 ## Material & Bearbeitung
 
-Das Material ist mystisch und nicht identifizierbar ([C-004](../Notizen/Offene-Challenges.md)). Für die Bearbeitung gilt:
+Das Material ist mystisch und nicht identifizierbar ([C-004](../Notizen/Challenges.md)). Für die Bearbeitung gilt:
 
 > **Die Oberfläche nimmt eine Gravur an — der Körper ist unzerstörbar.**
 
@@ -149,7 +149,7 @@ Das Material ist mystisch und nicht identifizierbar ([C-004](../Notizen/Offene-C
 
 **Der Ring altert nicht.** Keine Korrosion, keine Patina, keine Verfärbung, keine Kratzer — auch nach Jahrtausenden im Boden nicht. Die Oberfläche bleibt matt silbrig-grau und fein gerichtet, optisch wie **gebürstetes Aluminium**.
 
-> **Optikreferenz, kein Material.** „Gebürstetes Aluminium" beschreibt nur, wie die Oberfläche *aussieht* — analog zur Formreferenz (flacher Armreif) und zur Berechnungsreferenz (Dichte 7,8 g/cm³). Das Material bleibt unbekannt ([C-004](../Notizen/Offene-Challenges.md)). Der Begriff gehört auf die **Autorenebene** und darf so **nie im Erzähltext** stehen ([C-037](../Notizen/Offene-Challenges.md)).
+> **Optikreferenz, kein Material.** „Gebürstetes Aluminium" beschreibt nur, wie die Oberfläche *aussieht* — analog zur Formreferenz (flacher Armreif) und zur Berechnungsreferenz (Dichte 7,8 g/cm³). Das Material bleibt unbekannt ([C-004](../Notizen/Challenges.md)). Der Begriff gehört auf die **Autorenebene** und darf so **nie im Erzähltext** stehen ([C-037](../Notizen/Challenges.md)).
 
 **Bewuchs ja, Angriff nein.** Moos, Flechten und Erde setzen sich wie an jedem Stein an der Oberfläche fest — sie liegen aber nur *auf* ihr. Zieht man den Bewuchs ab, kommt makelloses Material zum Vorschein, als wäre es gestern gefertigt. Das ist das eigentliche Unheimlichkeitssignal beim Fund: nicht ein Ring ohne Bewuchs, sondern ein bewachsener Ring **ohne jede Spur von Alter darunter**.
 
@@ -203,7 +203,7 @@ Vollständige Herleitung und Formeln: [Portalring_Berechnungen.md](Portalring_Be
   </tbody>
 </table>
 
-Kanonisch sind nur **3,00 m** und **0,30 m** ([C-010](../Notizen/Offene-Challenges.md#c-010-ringsystem--kopplungsmechanik-)); 1,00 m und 2,00 m sind Rechenbeispiele ([C-017](../Notizen/Offene-Challenges.md#c-017-weitere-ringgrößen)).
+Kanonisch sind nur **3,00 m** und **0,30 m** ([C-010](../Notizen/Challenges.md#c-010-ringsystem--kopplungsmechanik-)); 1,00 m und 2,00 m sind Rechenbeispiele ([C-017](../Notizen/Challenges.md#c-017-weitere-ringgrößen)).
 
 <table>
   <caption>Gewichte nach Material (3-m-Ring, V = 734.556 cm³)</caption>
@@ -217,7 +217,7 @@ Kanonisch sind nur **3,00 m** und **0,30 m** ([C-010](../Notizen/Offene-Challeng
   </tbody>
 </table>
 
-> **Die Dichte ist eine reine Rechengröße.** 7,8 g/cm³ ist **kein Materialbeschluss** — das Material bleibt unbekannt und mystisch ([C-004](../Notizen/Offene-Challenges.md#c-004-material-der-portalringe-)). Weder Material noch Gewicht werden im Erzähltext je benannt: Niemand in der Welt von 550 besitzt eine Waage, die einen solchen Körper wiegen könnte ([C-127 ✓](../Notizen/Offene-Challenges.md#c-127-referenzdichte-)).
+> **Die Dichte ist eine reine Rechengröße.** 7,8 g/cm³ ist **kein Materialbeschluss** — das Material bleibt unbekannt und mystisch ([C-004](../Notizen/Challenges.md#c-004-material-der-portalringe-)). Weder Material noch Gewicht werden im Erzähltext je benannt: Niemand in der Welt von 550 besitzt eine Waage, die einen solchen Körper wiegen könnte ([C-127 ✓](../Notizen/Challenges.md#c-127-referenzdichte-)).
 
 ## Formeln
 
