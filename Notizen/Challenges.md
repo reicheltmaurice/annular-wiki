@@ -86,13 +86,17 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-118: Der Nordstrang verliert zwischen +1 und +9 nichts](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts)
 - [C-119: Wiki-Altlast — vom Autor nicht gedeckte Festlegungen](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen)
 - [C-120: Azzims zweite Seite — der dritte Konflikt fehlt wieder](#c-120-azzims-zweite-seite--der-dritte-konflikt-fehlt-wieder)
-- [C-121: Zwei Generatoren, ungleiche Bauzeiten](#c-121-zwei-generatoren-ungleiche-bauzeiten)
-- [C-122: Der Wüstenstrang zwischen +8 und +10](#c-122-der-wüstenstrang-zwischen-8-und-10)
-- [C-123: Azzims frühe Auftritte — Zahl und Zeitpunkte](#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte)
 - [C-124: Die Zwischenstation — Ort und Gruppe](#c-124-die-zwischenstation--ort-und-gruppe)
 - [C-125: Das Transportverfahren ist offen](#c-125-das-transportverfahren-ist-offen)
 - [C-126: Der Postring — was passt hinein?](#c-126-der-postring--was-passt-hinein)
 - [C-128: Fundort und Freilegung des Skir-Rings](#c-128-fundort-und-freilegung-des-skir-rings)
+- [C-129: Die Schutzlücke verschiebt sich von +8 auf +5](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5)
+- [C-130: Wie der Transport terminiert wird](#c-130-wie-der-transport-terminiert-wird)
+- [C-131: Generatorarbeit ohne Ring](#c-131-generatorarbeit-ohne-ring)
+- [C-132: Womit die Schluchtgemeinschaft auf dem Basar bezahlt](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt)
+- [C-133: Azzims Leute für den Angriff](#c-133-azzims-leute-für-den-angriff)
+- [C-134: Die Nachricht — Art und Lesbarkeit im Norden](#c-134-die-nachricht--art-und-lesbarkeit-im-norden)
+- [C-135: Der Wüstengenerator — Bauart offen](#c-135-der-wüstengenerator--bauart-offen)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -136,6 +140,9 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-114: Girlin weiß von Anfang an vom Rückweg ✓](#c-114-girlin-weiß-von-anfang-an-dass-der-ring-ihr-rückweg-ist-)
 - [C-115: Tibuns Wanderjahre → Kaupvik-Jahre ✓](#c-115-tibuns-wanderjahre--die-stationen-fehlen)
 - [C-117: Ringgeometrie neu vermessen ✓](#c-117-ringgeometrie-neu-vermessen-)
+- [C-121: Zwei Generatoren, ungleiche Bauzeiten ✗ zurückgezogen](#c-121-zwei-generatoren-ungleiche-bauzeiten--zurückgezogen)
+- [C-122: Der Wüstenstrang zwischen +8 und +10 ✓](#c-122-der-wüstenstrang-zwischen-8-und-10)
+- [C-123: Azzims frühe Auftritte — vier, entschieden ✓](#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte)
 - [C-127: Referenzdichte 7,8 g/cm³ ✓](#c-127-referenzdichte-)
 
 ---
@@ -1308,7 +1315,9 @@ Der Tausch ist symmetrisch. Bei **Zündung 1** ([C-062 ✓](#c-062-azzims-ankunf
 
 **Zu prüfen, sonst bricht das Finale:** Steht Tibuns **Anlage** im Kugelvolumen, ist sie nach Zündung 1 weg, und er kann nie zünden. Sauberste Auflösung — sie fällt aus [C-098](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-): **Weil er die Grenze kennt, hat er außerhalb gebaut.** Nur die Kette und die Zuleitung reichen hinein.
 
-**Und was geht dann tatsächlich über?** Der Ring liegt am **Bach**. Bei jeder Zündung wandern rund **14 m³ jütisches Bachwasser und Erdreich** in die Wüste — Torf, Heidekraut, kaltes Wasser. Das ist keine Wahl, sondern Mechanik, und es passiert **zweimal**. Konsequenzen → [C-104](#c-104-wasser-als-gegenleistung--das-motiv-des-transports).
+**Und was geht dann tatsächlich über?** Offen · **???**
+
+> **Gestrichen (Autor, 03.09.2026):** Die Fassung *„Der Ring liegt am Bach; bei jeder Zündung wandern rund 14 m³ jütisches Bachwasser und Erdreich in die Wüste"* stammte nicht vom Autor. **Der Ring im Norden liegt auf trockenem Grund** → [C-119](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen). Was das Kugelvolumen tatsächlich mitnimmt, ist damit unentschieden.
 
 **Offen:** Was genau Tibun in dem Moment sieht und begreift. Für ihn ist Azzims Ankunft nach zehn Jahren der **erste Beweis**, dass am anderen Ende Menschen leben · **???**
 
@@ -1324,7 +1333,7 @@ Folgt aus [C-018 ✓](#c-018-widerspruch--transport-des-wüstenrings-). Rund 5,7
 ### C-104: Wasser als Gegenleistung — das Motiv des Transports
 Kein Clan schleppt ein Weltwunder durch die Wüste, weil eine Fremde heim will. **Das Motiv muss den [Kel Aman](../Menschen/Wuestenvolk/Kel-Aman.md) gehören, nicht Girlin.**
 
-Es liegt in der Mechanik bereit: Der Skir-Ring liegt am Bach, jede Zündung schiebt rund **14 m³ Süßwasser** in die Wüste ([C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet)). Sobald [Bellbrim](../Menschen/Andere/Bellbrim.md) das begreift, ist der Ring keine Kuriosität mehr, sondern eine **Quelle** — das Wertvollste, was in einer Wüste überhaupt denkbar ist. Dafür bewegt man acht Tonnen.
+~~Es liegt in der Mechanik bereit: Der Skir-Ring liegt am Bach, jede Zündung schiebt rund 14 m³ Süßwasser in die Wüste. Sobald Bellbrim das begreift, ist der Ring eine Quelle.~~ **Gestrichen (Autor, 03.09.2026):** Der Ring im Norden liegt auf **trockenem Grund**; es geht kein Bachwasser über → [C-119](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen).
 
 **Das liefert zugleich [Azzim](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) endlich ein nachvollziehbares Motiv** → [C-107](#c-107-azzims-motiv--wasser-statt-sklaverei). Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) nennt den Wassertausch die *größte ungenutzte Konsequenz der eigenen Mechanik*; hier wird sie zum Träger des halben Wüstenstrangs.
 
@@ -1338,7 +1347,7 @@ Es liegt in der Mechanik bereit: Der Skir-Ring liegt am Bach, jede Zündung schi
 >
 > **Es gilt stattdessen:** Der Clan transportiert den Ring aus **Sippenpflicht** — der Neffe ist Blut des Häuptlings ([C-061](#c-061-navigationswissen-des-häuptlings)).
 >
-> **Die Mechanik selbst bleibt gültig:** Bei jeder Zündung gehen rund 14 m³ jütisches Bachwasser und Erdreich über ([C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet)). Was daraus folgt, ist offen — es ist nur **kein Motiv, das vor dem Finale jemand kennt**. Siehe [C-119](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen).
+> **Auch die Mechanik ist gestrichen (03.09.2026):** Es gehen **keine** 14 m³ Bachwasser über — der Ring im Norden liegt auf trockenem Grund. Was das Kugelvolumen mitnimmt, ist offen · **???** → [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet), [C-119](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen).
 
 ### C-105: Der Neffe — Name, Eigenschaften, Schweigebitte
 Der Partner Girlins steht fest ([C-060 ✓](#c-060-girlin-und-der-neffe-)), die Figur nicht. Es gibt weder Namen noch Alter noch Stellung im Clan.
@@ -1351,7 +1360,14 @@ Der Partner Girlins steht fest ([C-060 ✓](#c-060-girlin-und-der-neffe-)), die 
 - **Neu (02.09.2026):** Nach dem Transport **löst er sich mit Girlin und dem Kind vom Clan** und bleibt bei [Bellbrim](../Menschen/Andere/Bellbrim.md) — **er verliert dafür seine Sippe** ([C-061](#c-061-navigationswissen-des-häuptlings)). Das ist der teuerste Preis, den im Buch jemand außer Tibun zahlt, und derzeit die stärkste Handlung, die ihm zur Verfügung steht.
 - Im Finale bleibt Girlin **bei ihm** ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)) — er muss also stark genug sein, dass diese Entscheidung einleuchtet.
 
-**Offen · ???** Name nach dem Kel-Aman-Muster ([C-090 ✓](#c-090-kel-aman--eigenname-und-namenssystem-)), Alter, Gewerbe — und vor allem: **welche eigene Handlung ihn jetzt zur Figur macht**, nachdem die Schweigebitte weggefallen ist. Kandidat: seine Sippe für sie zu verlassen, und was ihn das kostet → berührt [C-120](#c-120-azzims-zweite-seite--der-dritte-konflikt-fehlt-wieder).
+**Handlungen entschieden (Autor, 03.09.2026) — die Lücke ist geschlossen.** Er hat jetzt vier eigene Handlungen:
+
+1. **Er löst sich in Jahr +5 vom Clan** und zieht mit Girlin und dem Kind zu [Bellbrim](../Menschen/Andere/Bellbrim.md) — er verliert dafür seine Sippe.
+2. **Er hilft, die Hilfe des Clans zu erwirken.** Wichtig: **Girlin bittet selbst** — sie ist stark und unabhängig, er bittet nicht für sie. Sein Einfluss hilft ihr; **sie arbeiten als Team**.
+3. **Er hält die vier am Leben** — Jagd, Handel, Wege. Die unspektakuläre Arbeit, die alles andere erst erlaubt.
+4. **Er verteidigt die Schlucht im Finale.** Was ihn das kostet, ist offen · **???**
+
+**Weiterhin offen · ???** Name nach dem Kel-Aman-Muster ([C-090 ✓](#c-090-kel-aman--eigenname-und-namenssystem-)), Alter, Gewerbe.
 
 ### C-106: Durchgebrannte Ehefrau bei den Kel Aman
 Aus [C-060 ✓](#c-060-girlin-und-der-neffe-): Die Frau des Neffen verlässt ihn für einen anderen Mann. Der Beat trägt zwei Figuren — aber die **Kultur dahinter fehlt vollständig**.
@@ -1383,7 +1399,7 @@ Berührt [C-089](#c-089-azzim--verhältnis-zum-ring-harte-regel) und [C-028](#c-
 > **Folge:** Die Forderung des [Weltenbau-Leitfadens](Weltenbau-Leitfaden.md) nach einem *dritten Konflikt mit zwei verständlichen Seiten* ist damit **wieder offen** — ein Sklavenjäger ist der einseitigste denkbare Gegenspieler → [C-120](#c-120-azzims-zweite-seite--der-dritte-konflikt-fehlt-wieder).
 
 ### C-108: Der Kampf in der Schlucht während Tibuns Ankunft
-Zwischen Zündung 1 und Zündung 2 liegen **Minuten** ([C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)). In der Wüste ist der Kampf also **noch nicht vorbei**, wenn Tibun aus dem Nichts in der Schlucht landet — in einer Pfütze jütischen Bachwassers, ohne Waffe, ohne Vorräte, im Hemd.
+Zwischen Zündung 1 und Zündung 2 liegen **Minuten** ([C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)). In der Wüste ist der Kampf also **noch nicht vorbei**, wenn Tibun aus dem Nichts in der Schlucht landet — ohne Waffe, ohne Vorräte, im Hemd. *(Die frühere Fassung „in einer Pfütze jütischen Bachwassers" ist gestrichen — der Ring im Norden liegt auf trockenem Grund, 03.09.2026.)*
 
 **Zu klären · ???**
 - **Wie geht der Kampf ohne Azzim weiter?** Sein Verschwinden mitten im Gefecht ist für seine Leute ein Ereignis — brechen sie ab, oder kämpfen sie weiter?
@@ -1432,7 +1448,7 @@ Die Kopplung ist eine Eigenschaft des **Ringpaares**, nicht des Standorts ([C-01
 **Bemerkenswerte Folge, noch nicht ausgeschöpft:** Damit ist die **Zielseite eines Rings verschiebbar**. Wer einen Ring bewegt, verlegt das andere Ende seiner Reise mit — für die Erbauer eine Selbstverständlichkeit, für jeden späteren Nutzer eine Macht, die niemand im Wiki bisher besitzt.
 
 **Weiterhin offen (Bauliches, nicht mehr blockierend) · ???**
-- **Wie steht der Ring am neuen Ort?** Aufgerichtet, eingegraben, auf einem Fundament? Betrifft [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe).
+- ~~**Wie steht der Ring am neuen Ort?** Aufgerichtet, eingegraben, auf einem Fundament?~~ **Entschieden (Autor, 03.09.2026): Der Ring wird niemals aufgerichtet.** Er liegt, wie jeder Ring liegt — Aufrichten wäre unnötig. Deckt sich mit den [Bild-Prompts](Bild-Prompts.md), die das aufrecht stehende „Tor" ausdrücklich ausschließen. Ob er zusätzlich eingegraben oder unterlegt wird, bleibt offen · **???** Betrifft [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe).
 - **Die Mulde entsteht von vorn.** Die Tauschkugel liegt relativ zum Ring fest, schneidet am neuen Standort also unberührtes Erdreich.
 - Der [C-018-Ausgangstext](#c-018-widerspruch--transport-des-wüstenrings-) merkt an: *Wer gräbt, macht die eigene Anlage beim ersten Auslösen zunichte.* Gilt das auch für ein Fundament?
 
@@ -1442,6 +1458,12 @@ Girlins drittes Kind ist im Finale **sechs** ([C-081](#c-081-girlins-drittes-kin
 **Das ist keine Nebenfrage.** Es reist, wer vollständig in der Kugel steht ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)). Ein sechsjähriges Kind in der Nähe eines zündenden Rings ist eine Katastrophe, die jederzeit passieren kann — und Girlin weiß das besser als jeder andere Mensch auf der Welt.
 
 **Zu klären · ???** Wo ist es, wer hat es, und **sieht es**, wie ein fremder Mann aus dem Nichts erscheint und seine Mutter umarmt? Der Ton verlangt hier Zurückhaltung ([C-086 ✓](#c-086-ton-in-einem-satz-)), nicht Grausamkeit.
+
+---
+
+**Entschieden (Autor, 03.09.2026):** Das Kind ist **bei [Bellbrim](../Menschen/Andere/Bellbrim.md)** — und es **sieht Tibuns Ankunft**. Der Schluss bekommt damit einen Zeugen, der nicht versteht, was er sieht.
+
+**Folge, noch offen · ???** Bellbrim ist damit aus dem Kampf heraus und bewacht das Kind. Ob sie im Finale überhaupt eingreift, ist damit implizit entschieden — ausgesprochen ist es nicht.
 
 ### C-113: Bellbrims Sprache — Verhältnis zu C-026
 Der Autor hat am 31.08.2026 zu [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft) festgelegt: **[Girlin](../Menschen/Nordvolk/Girlin.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md) sprechen beide die Sprache des Nordens und können sich verständigen**; Bellbrim bringt Girlin die Sprache der Wüste bei.
@@ -1529,9 +1551,11 @@ Die oben notierte Annahme, Azzim interessiere sich wegen des **Wassers** für de
 - **Er begegnet Girlin mehrfach vor dem Finale.**
 - **Was ihn abhält:** **Der Clan ist zu stark**, und **Girlin entkommt** — sie flieht und versteckt sich. Er **folgt ihr, beobachtet sie, versucht es mehrfach**; sie verschwindet immer wieder in der Schlucht. *(Vom Autor als Richtung formuliert — „so etwas in der Richtung vielleicht" — nicht als Beschluss.)* · **???**
 
-**Die Kette trägt jetzt von selbst:** Der Clan zieht nach dem Transport weiter ([C-061](#c-061-navigationswissen-des-häuptlings)). **Ab Jahr +8 ist Girlin ungeschützt** — Azzims Zögern ist Lage, nicht Autorenwille. Genau das hatte diese Challenge verlangt.
+~~**Die Kette trägt jetzt von selbst:** Der Clan zieht nach dem Transport weiter. **Ab Jahr +8 ist Girlin ungeschützt** — Azzims Zögern ist Lage, nicht Autorenwille.~~
 
-**Weiterhin offen · ???** **Wie viele** Auftritte und **in welchen Jahren** → [C-123](#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte).
+> **Korrigiert (03.09.2026):** Die Trennung vom Clan liegt in **+5**, nicht +8 ([C-061](#c-061-navigationswissen-des-häuptlings), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md)). Girlin ist also **vier Jahre früher** ohne Sippenschutz als hier angenommen. Was die Lücke stattdessen trägt, steht in [C-129](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5).
+
+**Zahl und Jahre der Auftritte sind entschieden** (03.09.2026) → [C-123](#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte). Vier Auftritte: Basar (+3/+5), Transport (+7/+8), Basar und Verfolgung zur Schlucht (+9), Angriff (+10).
 
 ### C-117: Ringgeometrie neu vermessen ✓
 **Erledigt (Autor, 02.09.2026).** Die gesamte Ringgeometrie wurde in einer eigenen Sitzung durchgerechnet und neu festgelegt. Die alten Zahlen (Außen-Ø 3,81 m, Wand 0,405 m, Breite 1,05 m, ~8 t) sind **vollständig ersetzt**.
@@ -1591,6 +1615,17 @@ Damit steht: **Tibuns einziger Preis liegt in Jahr 0/+1** — die Mutter, der Un
 | Route nur über Hammada und Serir, nie Erg | **gestrichen** — nie entschieden | [C-125](#c-125-das-transportverfahren-ist-offen) |
 | Tagesleistung 1–3 km beim Transport | **gestrichen** — folgte aus dem erfundenen Verfahren | [C-103](#c-103-transportlogistik-des-wüstenrings) |
 
+**Zweite Runde (03.09.2026):**
+
+| Behauptung | Stand | Wo sie stand |
+|---|---|---|
+| Der Transport dauere von Jahr +5 bis +8, „ein Vorhaben über Jahre, kein Beat" | **gestrichen** — Wochen bis wenige Monate; er liegt in +7/+8 | [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [C-018 ✓](#c-018-widerspruch--transport-des-wüstenrings-), [C-116](#c-116-azzim-tritt-zu-spät-auf) |
+| „Vier Jahre lang schleppt ein ganzes Volk acht Tonnen sichtbar durch die Wüste" | **gestrichen** — falsches Fenster und falsches Gewicht | [C-116](#c-116-azzim-tritt-zu-spät-auf) |
+| Bei jeder Zündung gehen rund 14 m³ jütisches Bachwasser und Erdreich über; Tibun landet in einer Pfütze | **gestrichen** — der Ring im Norden liegt auf **trockenem Grund** | [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet), [C-104](#c-104-wasser-als-gegenleistung--das-motiv-des-transports), [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft) |
+| Girlin sei „ab Jahr +8 ungeschützt", Azzims Zögern sei damit Lage | **korrigiert** — die Trennung vom Clan liegt in **+5** | [C-116](#c-116-azzim-tritt-zu-spät-auf), [C-061](#c-061-navigationswissen-des-häuptlings), [C-129](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5) |
+| Beide Stränge bauen dasselbe Gerät; die Bauzeiten seien ungleich | **gestrichen** — nie entschieden; die Challenge selbst war die Erfindung | [C-121 ✗](#c-121-zwei-generatoren-ungleiche-bauzeiten--zurückgezogen), [C-135](#c-135-der-wüstengenerator--bauart-offen) |
+| Girlins Entschluss zu bleiben falle im Fenster +8/+10 | **korrigiert** — er fällt mit der Geburt in **+4** | [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-) |
+
 **Zu tun · ???** Das **übrige Wiki ist auf denselben Fehler zu prüfen** — insbesondere alles, was in Sitzungen ohne ausdrückliche Autorenentscheidung entstanden ist. Verdachtsstellen: [C-089](#c-089-azzim--verhältnis-zum-ring-harte-regel), [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) (Abschnitt *Schicht 6*), [Kel-Aman](../Kulturen/Kel-Aman/README.md).
 
 **Regel ab hier:** Was über den Wortlaut des Autors hinausgeht, wird **`???` oder eine eigene Challenge** — nie Fließtext im Indikativ. Absicht ist nicht Handlung, Vorhaben nicht Ausführung.
@@ -1608,8 +1643,14 @@ Die Prüfliste verlangt **drei Konflikte, bei denen beide Seiten verständlich s
 
 Berührt [C-028](#c-028-azzim-u-tawan--herkunft--hintergrund), [C-029](#c-029-azzim-u-tawan--charakter-motivation--fähigkeiten).
 
-### C-121: Zwei Generatoren, ungleiche Bauzeiten
-Nach dem Stand vom 02.09.2026 bauen **beide Stränge parallel** dasselbe Gerät:
+### C-121: Zwei Generatoren, ungleiche Bauzeiten ✗ zurückgezogen
+> **Vom Autor beanstandet (03.09.2026):** *„Ich habe nie gesagt, dass sie das gleiche Gerät bauen. Wie der Generator in der Wüste aussieht oder funktioniert ist noch offen. Auch die Bauzeit, oder dass sie ungleich ist, war bei mir noch nie Thema."*
+>
+> **Die Challenge selbst beruht auf einer Erfindung.** Sie setzt voraus, dass beide Stränge dasselbe Gerät bauen und dass Bauzeiten vergleichbar sind — beides war nie entschieden. Damit ist auch die am 03.09.2026 zunächst notierte „Auflösung" (*beide bauen fünf Jahre*) hinfällig; sie wiederholte denselben Fehler. Aufgenommen in [C-119](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen). Die offene Frage nach der Bauart steht jetzt in [C-135](#c-135-der-wüstengenerator--bauart-offen).
+
+**Ursprünglicher Wortlaut (nicht gedeckt, nur zur Nachvollziehbarkeit):**
+
+~~Nach dem Stand vom 02.09.2026 bauen **beide Stränge parallel** dasselbe Gerät:~~
 - **Tibun:** Erkenntnis in Jahr +4/+5, Tischmodell läuft in +9 → **rund fünf Jahre**, allein, ohne Vorbild.
 - **[Bellbrim](../Menschen/Andere/Bellbrim.md) und Girlin:** Ring steht ab +8 in der Schlucht, Generator läuft im Finale +10 → **rund zwei Jahre**.
 
@@ -1627,6 +1668,21 @@ Das ist für zwei Jahre wenig — und es ist zugleich der Abschnitt, in dem **Az
 
 **Zu klären · ???** Welche Ereignisse diese zwei Jahre füllen, und wie sich Azzims Versuche und die Arbeit am Generator verschränken.
 
+---
+
+**Beantwortet (Autor, 03.09.2026) — und das Fenster hat sich dabei verschoben.**
+
+Beim Füllen stellte sich heraus, dass die Voraussetzungen der Challenge falsch waren: Der Transport dauert **keine drei Jahre**, und die Trennung vom Clan liegt **nicht** in +8. Die Kette steht jetzt vollständig in der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#girlins-strang-jahr-0--10-girlin-34--44--10-jahre-in-der-wüste). Kurzfassung:
+
+- **+5:** Bitte an den Clan, **Trennung vom Clan**. Girlin, der Neffe und das Kind ziehen zu [Bellbrim](../Menschen/Andere/Bellbrim.md) in die Schlucht.
+- **+5 → +7:** Die vier leben und arbeiten dort — Jagd, Weben, Landwirtschaft, Handel. **Die Arbeit am Generator beginnt**, Jahre bevor der Ring da ist. Das Kind wächst auf. Der **Basar** ist der wiederkehrende Ort, an dem sie Material holen.
+- **+7/+8:** Der Clan kommt wieder, **Girlin bricht mit ihm auf**; der Transport dauert Wochen bis wenige Monate. **+8:** Der Ring liegt in der Schlucht, der Clan zieht weiter.
+- **+8 → +10:** Vollendung des Generators; fertig erst **in +10**.
+- **+9:** Azzims dritter Auftritt auf dem Basar; sie entkommt, **er folgt ihr und findet die Schlucht**. Danach holt er Leute.
+- **+10:** Generator fertig → **Zweifel** → Entschluss bestätigt → **Angriff**.
+
+**Damit ist die Ausgangsfrage erledigt.** Was in diesen Jahren noch offen ist, steht in [C-130](#c-130-wie-der-transport-terminiert-wird), [C-131](#c-131-generatorarbeit-ohne-ring), [C-132](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt), [C-133](#c-133-azzims-leute-für-den-angriff) und [C-135](#c-135-der-wüstengenerator--bauart-offen).
+
 ### C-123: Azzims frühe Auftritte — Zahl und Zeitpunkte
 Aus [C-116](#c-116-azzim-tritt-zu-spät-auf) (02.09.2026): Dass Azzim **mehrfach** vor dem Finale auftritt und Girlin **persönlich** begegnet, ist entschieden. **Wie viele Auftritte und in welchen Jahren, ist offen.**
 
@@ -1636,6 +1692,23 @@ Der Rahmen steht: Solange der Clan sie schützt (bis +8), scheitert jeder Zugrif
 - Zahl und Jahre der Auftritte.
 - Wann **er zum ersten Mal** von ihr erfährt und warum ausgerechnet sie.
 - Ob die Formulierung des Autors — sie flieht, versteckt sich, verschwindet in der Schlucht, er folgt und beobachtet — so gilt oder nur eine Richtung war.
+
+---
+
+**Entschieden (Autor, 03.09.2026): vier Auftritte vor dem Ende, der vierte ist der Angriff selbst.**
+
+| # | Jahr | Ort | Was geschieht | Was ihn aufhält |
+|---|---|---|---|---|
+| 1 | +3 bis +5 | Basar | Zugriffsversuch | Der Clan wehrt ab |
+| 2 | +7/+8 | Transport | Er verhandelt offen mit dem Clan — er will sie kaufen oder eintauschen | Sippenpflicht schlägt Handel; er verliert den Zug |
+| 3 | +9 | Basar → Schlucht | Zugriff, sie entkommt, **er folgt ihr und findet die Schlucht** | Sie ist schneller; er hat keine Leute |
+| 4 | +10 | Schlucht | Der Angriff — zugleich das Finale | — |
+
+- **Sein Motiv ist doppelt:** ihr **Wert** als seltene Ware, und ab dem ersten Fehlschlag die **Demütigung**. Das eine erklärt den Anfang, das andere die Hartnäckigkeit über sieben Jahre. Berührt [C-120](#c-120-azzims-zweite-seite--der-dritte-konflikt-fehlt-wieder): In Auftritt 2 **redet** er und bietet einen Handel an — er ist nicht nur Räuber.
+- **Er sieht beim Transport nicht, wohin der Ring gebracht wird.** Deshalb muss er die Schlucht in +9 erst finden.
+- **Die Formulierung des Autors gilt — aber nur für Auftritt 3.** Fliehen, verstecken, verfolgt werden: ein Vorgang in +9, nicht mehrere.
+- **Wie er von ihr erfährt, bleibt offen** · **???** Als Richtung notiert, nicht beschlossen: Er bekommt Gerede mit und sucht sie dann auf dem Basar auf.
+- **Verlauf der Verhandlung in Auftritt 2 ist offen** · **???** — für das Gerüst ohne Belang.
 
 ### C-124: Die Zwischenstation — Ort und Gruppe
 Aus [C-115](#c-115-tibuns-wanderjahre--die-stationen-fehlen) (02.09.2026): Auf dem Weg nach [Kaupvik](../Orte/Kaupvik.md) gibt es **genau eine Station**, an der Tibun sich einer **Gruppe anschließt**. Dort lernt er zweierlei: ohne Sippe zu überleben, und über den Ring zu schweigen.
@@ -1700,3 +1773,77 @@ Aus [C-117 ✓](#c-117-ringgeometrie-neu-vermessen-) (02.09.2026): Der 0,30-m-Ri
 - **Wie tritt er in Erscheinung?** Wenn er offen liegt, braucht es keine Freilegung — dann ist die Frage, warum ihn niemand beachtet hat. Wenn er verborgen liegt, braucht es einen Auslöser.
 - **Welche Rolle spielt das Beben?** Es ist als Erwachen des Ringsystems gesetzt ([C-008 ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)) und weltweit spürbar. Ob es am Fundort etwas bewirkt, hängt an der Antwort oben → berührt [C-056](#c-056-prolog--folgen-des-bebens-im-dorf) und [C-055](#c-055-der-skir--gewässer-see-und-fundort-des-rings).
 - **Betroffen:** [Bild-Prompts P-002](Bild-Prompts.md) (Erdrutsch-Szene, bis zur Klärung nicht rendern), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Skirraa](../Orte/Skirraa.md).
+
+### C-129: Die Schutzlücke verschiebt sich von +8 auf +5
+Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10) (03.09.2026): Die Trennung vom Clan liegt in **Jahr +5**, nicht +8. Damit fällt die Begründung weg, die [C-116](#c-116-azzim-tritt-zu-spät-auf) und [C-061](#c-061-navigationswissen-des-häuptlings) für Azzims Zögern trugen — *„ab +8 ist sie ungeschützt"* stimmt nicht mehr.
+
+**Girlin ist von +5 bis +10 ohne Sippenschutz**, also fünf Jahre. Azzim greift in dieser Zeit erst +9 zu.
+
+**Was die Lücke stattdessen trägt** (Autor, 03.09.2026): **kein Schutz, sondern Lage.**
+- Die **Schlucht kennen sehr wenige Menschen**.
+- **Azzim ist eine Weile unterwegs** — er ist nicht ständig in der Gegend.
+- Er sieht beim Transport **nicht**, wohin der Ring gebracht wird ([C-123](#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte)).
+
+**Zu prüfen beim Kapitelraster · ???** Ob das über fünf Jahre trägt oder ob der Leser fragt, warum ein Mann mit offener Rechnung so lange nichts unternimmt. Die vier Jahre zwischen Auftritt 1 und 2 sind der dünnste Teil.
+
+### C-130: Wie der Transport terminiert wird
+Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10) (03.09.2026): Die Bitte ergeht in **+5**, der Transport findet **+7/+8** statt. Der Grund für die zwei Jahre steht: **Der Clan hat eigene Wege** — Weidewechsel, Handelszüge, Jahreszeiten. Man tut es, wenn der Zug ohnehin passt, nicht auf Zuruf.
+
+**Offen · ???** Girlin lebt ab +5 **nicht mehr beim Clan**, sondern in der Schlucht. Wie erfährt sie dann, dass der Clan kommt und es jetzt so weit ist? Mögliche Richtungen, keine davon entschieden: eine feste Abrede beim Abschied, ein Bote, ein regelmäßiger Weidezug, der ohnehin vorbeikommt, oder der Clan taucht unangekündigt auf.
+
+Berührt [C-103](#c-103-transportlogistik-des-wüstenrings) und [C-125](#c-125-das-transportverfahren-ist-offen).
+
+### C-131: Generatorarbeit ohne Ring
+Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10) (03.09.2026): [Bellbrim](../Menschen/Andere/Bellbrim.md) und [Girlin](../Menschen/Nordvolk/Girlin.md) beginnen die Arbeit am Generator in **+5** — der Ring liegt aber erst ab **+8** in der Schlucht. Drei Jahre lang bauen sie also an etwas, das sie nicht ausprobieren können.
+
+**Zu klären · ???**
+- **Was ist ohne Ring überhaupt prüfbar?** Dass Ladung entsteht, lässt sich zeigen; dass sie den Ring auslöst, nicht.
+- **Woher wissen sie, wie viel genug ist?** Girlin hat den Blitz erlebt — mehr Anhaltspunkt gibt es nicht.
+- **Wie hält man drei Jahre Arbeit ohne Rückmeldung durch?** Dramaturgisch ist das eine lange Strecke ohne Erfolgserlebnis.
+
+Berührt [C-135](#c-135-der-wüstengenerator--bauart-offen).
+
+### C-132: Womit die Schluchtgemeinschaft auf dem Basar bezahlt
+Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10) (03.09.2026): Der Basar ist ein **wiederkehrender Ort** — der Generatorbau verlangt Material, das die Schlucht nicht hergibt. Das ist zugleich der einzige Grund, warum die vier ihr Versteck verlassen, und damit der einzige Weg, auf dem Azzim sie wiederfinden kann.
+
+**Zu klären · ???**
+- **Womit bezahlen sie?** Genannt sind Jagd, Weben, Landwirtschaft und Handel als Lebensgrundlage (Autor, 03.09.2026) — was davon zu Tauschware taugt, ist offen.
+- **Welches Material** braucht der Generator überhaupt? Hängt an [C-135](#c-135-der-wüstengenerator--bauart-offen).
+- **Wer geht?** Vier Personen, davon ein Kind und eine auffällige Fremde. Wer sich zeigt, riskiert erkannt zu werden — genau das passiert in +9.
+- **Wo liegt der Basar**, und wie weit ist er von der Schlucht? Berührt [C-088 ✓](#c-088-verortung-der-wüste-).
+
+### C-133: Azzims Leute für den Angriff
+Aus [C-123](#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte) (03.09.2026): Nach dem gescheiterten Zugriff in **+9** kennt Azzim die Schlucht — aber *„eine Schlucht mit Fels nimmt man nicht allein"*. Er **holt Leute**; das kostet die Zeit bis +10.
+
+**Zu klären · ???**
+- **Woher kommen sie** — eigene Leute, gemietete Männer, Schuldner?
+- **Wie viele?** Davon hängt ab, wie der Kampf in der Schlucht aussieht ([C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft)) und wie glaubhaft es ist, dass drei Erwachsene ihn überstehen.
+- **Was kostet ihn das?** Wer Männer bezahlt, muss liefern — das erhöht den Druck auf ihn und könnte die zweite Seite liefern, die [C-120](#c-120-azzims-zweite-seite--der-dritte-konflikt-fehlt-wieder) sucht.
+- **Was wird aus ihnen** nach Azzims Tod? Sie stehen im Finale noch in der Schlucht, wenn Tibun ankommt.
+
+### C-134: Die Nachricht — Art und Lesbarkeit im Norden
+Aus [C-101](#c-101-girlins-nachricht--vorhaben-ohne-ausführung) (03.09.2026): Die Nachricht ist **fertig und wetterfest verpackt** und liegt bereit. Der Leser sieht sie, bevor die Ereignisse sie überholen.
+
+**Was sie ist, bleibt offen · ???** Vom Autor als Richtung genannt, nicht beschlossen: *„vielleicht auch nur ein Brief."*
+
+**Die härtere Frage ist die Lesbarkeit.** Wenn es ein Schriftstück ist:
+- **Girlin kann vermutlich nicht schreiben** ([C-101](#c-101-girlins-nachricht--vorhaben-ohne-ausführung)); [Bellbrim](../Menschen/Andere/Bellbrim.md) als Gelehrte schon.
+- **Wer im Norden könnte es lesen?** [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) und [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) vermutlich nicht — und [Tibun](../Menschen/Nordvolk/Tibun.md) ist zu diesem Zeitpunkt seit Jahren fort.
+- **In welcher Schrift und Sprache?** Runen kämen infrage, aber nicht Bellbrims Schrift.
+
+Denkbar ist, dass Girlin das gar nicht bedenkt — dass sie etwas schickt, ohne zu wissen, ob es ankommt oder verstanden wird. Das wäre Verzweiflung statt Planung. **Entschieden ist nichts davon.**
+
+Berührt [C-025](#c-025-girlin--charakter--fähigkeiten) (Weben ist ihr Handwerk) und [C-013](#c-013-runen--anordnung-anzahl-aussehen).
+
+### C-135: Der Wüstengenerator — Bauart offen
+**Vom Autor beanstandet (03.09.2026):** *„Ich habe nie gesagt, dass sie das gleiche Gerät bauen. Wie der Generator in der Wüste aussieht oder funktioniert ist noch offen. Auch die Bauzeit, oder dass sie ungleich ist, war bei mir noch nie Thema."*
+
+Damit ist [C-121 ✗](#c-121-zwei-generatoren-ungleiche-bauzeiten--zurückgezogen) zurückgezogen — sie beruhte selbst auf der Annahme, beide Stränge bauten dasselbe.
+
+**Was steht** (aus der Kapitelskizze des Autors, Girlin-Beat 12): *„Sie experimentieren mit Wasserfall und Wasserrad, um Strom zu erzeugen."* Mehr nicht.
+
+**Offen · ???**
+- **Wie sieht der Wüstengenerator aus, und wie funktioniert er?** Er ist **nicht** als Bernsteinrad festgelegt — Tibuns Bauweise ([C-002](#c-002-tibuns-elektrizitätsquelle), [C-099](#c-099-der-isolierte-konduktor--ladungsspeicher-ohne-anachronismus)) gilt für den Nordstrang, nicht für die Wüste.
+- **Woher kommt in der Wüste ein Wasserfall?** Die Schlucht ist als Ort mit Wasser angelegt; Menge und Verlässlichkeit sind offen.
+- **Welches Material braucht er?** Hängt mit [C-132](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt) zusammen.
+- **Speichert er, wie Tibuns Anlage, oder entlädt er direkt?** [C-020](#c-020-vorwarnung-vor-dem-flip) und die Finalmechanik hängen daran.

@@ -18,7 +18,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 - **Truda:** 7 Jahre jünger als Tibun (löst [C-030](../../Notizen/Challenges.md)).
 - **Girlin:** bei Tibuns Geburt **18**, bei Trudas Geburt **25** (Korrektur vom 31.08.2026, [C-096](../../Notizen/Challenges.md#c-096-korrektur--girlins-alter-)).
-- **Bellbrim:** tritt erst in Girlins Wüsten-Arc auf (nach Jahr 0); 40 als Richtwert beim Kennenlernen, 50 im Finale.
+- **Bellbrim:** tritt erst in Girlins Wüsten-Arc auf (nach Jahr 0); 40 als Richtwert beim Kennenlernen, 50 im Finale. Die Tabelle führt die 40 bei Jahr 0 — das Kennenlernen liegt aber in +1 bis +3, sie wäre dann 41–43 · **???**
 - **Azzim u-Tawan:** Alter offen ([C-028](../../Notizen/Challenges.md)).
 
 ---
@@ -91,39 +91,78 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - Begegnet [Bellbrim](../../Menschen/Andere/Bellbrim.md), die übersetzen kann und als Erste versteht, was der Ring ist
 - **Jahr +3 (spätestens):** Beziehung zum **Neffen des Häuptlings** beginnt ([C-060 ✓](../../Notizen/Challenges.md#c-060-girlin-und-der-neffe-)) — dessen Frau ist zuvor mit einem anderen Mann durchgebrannt
 
-### Das Kind und die Bitte (Jahr +4 → +5)
-- **Jahr +4: Girlins drittes Kind wird geboren** (Girlin 38, Kind im Finale 6) — [C-081](../../Notizen/Challenges.md#c-081-girlins-drittes-kind-in-der-wüste)
-- **Das Schweigen des Häuptlings ist gestrichen** (02.09.2026, [C-061](../../Notizen/Challenges.md#c-061-navigationswissen-des-häuptlings)). Es war der Deus-ex-Machina-Verdacht der Challenge selbst: ein Häuptling, der genau im Moment der Verzweiflung die fehlende Auskunft hat. **Wie die Nomaden navigieren, ist im Clan kein Geheimnis** — Sternnavigation ist tradiertes Handwerk, nicht Herrschaftswissen. Dass der Häuptling *dabei war*, hilft für sich genommen nichts: Wind und Wetter verändern die Dünen, „den Ort merken" trägt nicht
-- **Das Hindernis liegt woanders und hat drei Phasen** (entschieden 02.09.2026):
-  1. **Zugehörigkeit fehlt** (Jahr 0 → ~+3). Erst Fremde, dann Geduldete, dann eine der Ihren. Vorher kann sie so etwas gar nicht verlangen
-  2. **Wissen fehlt.** Ohne [Bellbrim](../../Menschen/Andere/Bellbrim.md) und den Generatorgedanken ist der Ring nur ein Ding im Sand. Erst als feststeht, dass man ihn **auslösen** kann, lohnt der Transport überhaupt
-  3. **Dann erst die Bitte** an den Clan
-- **Warum der Clan hilft: Sippenpflicht.** Nicht Wasser, nicht Lohn, nicht Heiligkeit — der **Neffe ist Blut des Häuptlings**. Man tut es für ihn, nicht für sie
-  > **Frühere Fassung gestrichen:** Der Satz *„Motiv des Clans ist nicht Girlins Heimweh, sondern Wasser"* stammte nicht vom Autor → [C-119](../../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen), [C-104](../../Notizen/Challenges.md#c-104-wasser-als-gegenleistung--das-motiv-des-transports)
+### Das Kind und der Entschluss (Jahr +3 → +5)
 
-### Der Transport (Jahr +5 → +8)
+**Umgebaut am 03.09.2026** ([C-122](../../Notizen/Challenges.md#c-122-der-wüstenstrang-zwischen-8-und-10), [C-123](../../Notizen/Challenges.md#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte)). Die frühere Fassung setzte Girlins Entschluss zu bleiben ans Ende (Jahr +8/+10) und den Transport über drei Jahre. Beides ist ersetzt.
+
+- **Jahr +3 bis +5: [Azzims](../../Menschen/Wuestenvolk/Azzim-u-Tawan.md) erster Auftritt** — auf dem **Basar**. Ein **Zugriffsversuch, den der Clan abwehrt**. Ab hier kennen sich beide als Feind
+  - Wie er von ihr erfährt, ist offen. Als Richtung notiert, nicht beschlossen: Er bekommt Gerede mit und sucht sie dann auf dem Basar auf · **???**
+  - **Sein Motiv ist doppelt:** ihr **Wert** als seltene Ware — und ab dem gescheiterten Zugriff die **Demütigung**. Das eine erklärt, warum er anfängt; das andere, warum er nicht ablässt
+- **Jahr +4: Girlins drittes Kind wird geboren** (Girlin 38, Kind im Finale 6) — [C-081](../../Notizen/Challenges.md#c-081-girlins-drittes-kind-in-der-wüste)
+- **Mit der Geburt kippt ihr Ziel** (entschieden 03.09.2026): aus *nach Hause gehen* wird *ich bleibe in meinem neuen Zuhause*. Der Entschluss aus [C-082 ✓](../../Notizen/Challenges.md#c-082-girlins-entscheidung-zur-rückreise-) fällt damit **sechs Jahre vor dem Finale**, nicht am Ende
+- **Er ist nicht endgültig.** Er **wackelt und wird bestätigt** — mehrfach, und jedes Mal teurer
+- **Damit ändert sich der Zweck des Rings.** Sie will nicht mehr selbst zurück. Sie will **eine Nachricht schicken**, damit ihre Familie weiß, dass sie lebt ([C-101](../../Notizen/Challenges.md#c-101-girlins-nachricht--vorhaben-ohne-ausführung)). **Dafür** wird der Ring geholt — nicht mehr für ihre Heimreise
+
+### Die Bitte und die Trennung (Jahr +5)
+- **Das Hindernis hatte drei Phasen** (02.09.2026, [C-061 ✓](../../Notizen/Challenges.md#c-061-navigationswissen-des-häuptlings)): Zugehörigkeit → Wissen → Bitte. Erst als feststeht, dass man den Ring **auslösen** kann, lohnt der Transport überhaupt
+- **Girlin bittet selbst.** Sie ist stark und unabhängig; der Neffe bittet nicht für sie. **Er unterstützt sie, und sein Einfluss hilft** — sie arbeiten als Team (entschieden 03.09.2026, [C-105](../../Notizen/Challenges.md#c-105-der-neffe--name-eigenschaften-schweigebitte))
+- **Warum der Clan hilft: Sippenpflicht.** Der **Neffe ist Blut des Häuptlings**. Man tut es für ihn, nicht für sie
+  > **Frühere Fassung gestrichen:** Der Satz *„Motiv des Clans ist nicht Girlins Heimweh, sondern Wasser"* stammte nicht vom Autor → [C-119](../../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen), [C-104](../../Notizen/Challenges.md#c-104-wasser-als-gegenleistung--das-motiv-des-transports)
+- **Die Trennung vom Clan liegt hier, nicht nach dem Transport** (entschieden 03.09.2026): **Girlin, der Neffe und das Kind lösen sich in Jahr +5 vom Clan** und ziehen zu [Bellbrim](../../Menschen/Andere/Bellbrim.md) in die **Schlucht**. Für den Neffen ist das der Verlust seiner Sippe — der teuerste Preis, den im Buch jemand außer Tibun zahlt
+- **Folge:** Girlin ist **ab +5 ohne Sippenschutz**, nicht erst ab +8. Was sie trotzdem vier Jahre lang schützt, ist **kein Schutz, sondern Lage**: Die **Schlucht kennen sehr wenige**, und **Azzim ist eine Weile unterwegs** (entschieden 03.09.2026)
+  > **Korrigiert:** Die Begründung *„ab Jahr +8 ist sie ungeschützt"* aus [C-116](../../Notizen/Challenges.md#c-116-azzim-tritt-zu-spät-auf) und [C-061](../../Notizen/Challenges.md#c-061-navigationswissen-des-häuptlings) ist damit überholt → [C-129](../../Notizen/Challenges.md#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5)
+
+### Die Jahre in der Schlucht (Jahr +5 → +7)
+- **Die vier leben zusammen.** [Bellbrim](../../Menschen/Andere/Bellbrim.md) lebt dort seit Jahren und war versorgt; die drei Neuen **helfen ihr** — Jagd, Weben, Landwirtschaft, Handel (entschieden 03.09.2026). Der Neffe **hält die vier am Leben** — eine seiner vier eigenen Handlungen ([C-105](../../Notizen/Challenges.md#c-105-der-neffe--name-eigenschaften-schweigebitte))
+- **Die Arbeit am Generator beginnt hier** — Jahre bevor der Ring da ist. Experimente mit **Wasserfall und Wasserrad** (Skizzen-Beat 12)
+  - **Wie der Generator in der Wüste aussieht und funktioniert, ist offen** · **???** → [C-135](../../Notizen/Challenges.md#c-135-der-wüstengenerator--bauart-offen). Er ist **nicht** als dasselbe Gerät wie Tibuns Bernsteinrad festgelegt
+  - **Offen:** was daran ohne Ring überhaupt prüfbar ist · **???** → [C-131](../../Notizen/Challenges.md#c-131-generatorarbeit-ohne-ring)
+- **Das Kind wächst auf.** Diese Jahre sind das, was Girlin später nicht aufgibt
+- **Der Basar bleibt ein wiederkehrender Ort:** Der Generatorbau verlangt Material, das die Schlucht nicht hergibt (entschieden 03.09.2026, aus Skizzen-Beat 13). Das ist der **einzige Grund, warum sie ihr Versteck verlassen** — und damit der einzige Weg, auf dem Azzim sie wiederfinden kann
+  - **Offen:** womit sie bezahlen · **???** → [C-132](../../Notizen/Challenges.md#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt)
+
+### Der Transport (Jahr +7 → +8)
+- **Der Clan kommt wieder**, und **Girlin bricht mit ihm auf**, um den Ring zu holen (entschieden 03.09.2026). Zwischen Bitte (+5) und Aufbruch liegen zwei Jahre, weil **der Clan eigene Wege hat** — Weidewechsel, Handelszüge, Jahreszeiten. Man tut es, wenn der Zug ohnehin passt, nicht auf Zuruf
+  - **Offen:** wie Girlin in der Schlucht erfährt, dass der Clan kommt · **???** → [C-130](../../Notizen/Challenges.md#c-130-wie-der-transport-terminiert-wird)
+- **Der Transport dauert Wochen bis wenige Monate**, kein Jahresvorhaben (entschieden 03.09.2026)
+  > **Frühere Fassung gestrichen:** *„Der Transport (Jahr +5 → +8)"*, *„ein Vorhaben über Jahre, kein Beat"* und *„vier Jahre lang schleppt ein ganzes Volk den Ring"* stammten nicht vom Autor → [C-119](../../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen)
 - Der 3-m-Ring wiegt rund **5,7 t** ([C-007 ✓](../../Notizen/Challenges.md#c-007-proportionen-der-portalringe-)). Er wird bewegt ([C-018 ✓](../../Notizen/Challenges.md#c-018-widerspruch--transport-des-wüstenrings-)) — **wie**, ist offen · **???** → [C-125](../../Notizen/Challenges.md#c-125-das-transportverfahren-ist-offen)
   > **Frühere Fassung gestrichen:** „auf Schlitten über befeuchtete Piste, ausschließlich über Hammada und Serir" stammte nicht vom Autor → [C-119](../../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen)
+- **[Azzims](../../Menschen/Wuestenvolk/Azzim-u-Tawan.md) zweiter Auftritt** liegt hier: Er tritt **offen auf und verhandelt mit dem Clan** — er will sie kaufen oder eintauschen. Der Clan lehnt ab; Sippenpflicht schlägt Handel. **Girlin ist dabei**, deshalb kann er ihr begegnen, ohne an sie heranzukommen
+  - **Er verliert den Zug** und sieht **nicht**, wohin der Ring gebracht wird (entschieden 03.09.2026). Deshalb muss er die Schlucht später erst finden
+  - **Offen:** Verlauf und Einzelheiten der Verhandlung — für das Gerüst ohne Belang · **???**
 - **Ziel:** die **Schlucht** bei Bellbrim — Schatten, Fels, Verteidigungslage. Sie ist danach Werkstatt, Zuflucht und Finalort in einem
-- **Motiv des Clans: Sippenpflicht** (entschieden 02.09.2026). Das Wassermotiv ist gestrichen → [C-119](../../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen)
-- Dauer: ein Vorhaben über **Jahre**, kein Beat. Woran die Dauer hängt — Entfernung, Verfahren, Verpflegung —, ist offen ([C-103](../../Notizen/Challenges.md#c-103-transportlogistik-des-wüstenrings))
-- **Nach dem Transport trennen sich die Wege** (entschieden 02.09.2026): Der Clan setzt den Ring in der Schlucht ab und **zieht weiter**. **Girlin, der Neffe und das Kind bleiben** bei Bellbrim. Es braucht keinen Bruch — die Trennung ergibt sich aus dem Weiterziehen. Für den Neffen ist es dennoch der Verlust seiner Sippe
-- **Folge für das Finale:** Solange der Clan da ist, kommt [Azzim](../../Menschen/Wuestenvolk/Azzim-u-Tawan.md) nicht an Girlin heran. **Ab Jahr +8 ist sie ungeschützt** — sein Zögern ist damit Lage, nicht Autorenwille
+- **Jahr +8: Der Ring liegt in der Schlucht.** Der Clan zieht weiter
+- **Der Ring wird nie aufgerichtet** (entschieden 03.09.2026). Er liegt, wie jeder Ring liegt — Aufrichten wäre unnötig. Damit ist die offene Frage aus [C-111 ✓](../../Notizen/Challenges.md#c-111-wiederaufstellung-des-rings-nach-dem-transport--kernfrage) beantwortet
 
-### Arbeit am Ring und Entschluss (Jahr +8 → +10)
-- Experimente mit Wasserfall und Wasserrad; Bellbrim und Girlin bauen den Wüstengenerator
-- **Girlin entscheidet sich zu bleiben** ([C-082 ✓](../../Notizen/Challenges.md#c-082-girlins-entscheidung-zur-rückreise-)). Nach zehn Jahren wählt sie das Wüstenkind und den Mann — sie hat den Preis bezahlt, **bevor** Tibun ankommt
-- Ihr letzter Antrieb ist **kein Weg, sondern ein Zeichen**: Sie will **eine Nachricht durch den Ring schicken**, damit ihre Familie weiß, dass sie lebt. **Dazu kommt es nie** — die Ereignisse überholen sie ([C-101](../../Notizen/Challenges.md#c-101-girlins-nachricht--vorhaben-ohne-ausführung))
-- Auf dem Basar treffen sie auf **Azzim u-Tawan**; Flucht in die Schlucht
+### Vollendung, Zweifel und Angriff (Jahr +8 → +10)
+- **+8 bis +10:** Bellbrim und Girlin **vollenden den Generator**. Fertig wird er erst **in +10, kurz vor dem Angriff** (entschieden 03.09.2026)
+- **Jahr +9: Azzims dritter Auftritt** — **auf dem Basar**, wo sie Material holen. Er erkennt sie, greift zu, **sie entkommt und flieht heim — und er folgt ihr**. So findet er die Schlucht (entschieden 03.09.2026)
+  - Das ist der erste Zugriff **ohne Clan**. Er begreift dabei zweierlei: dass der Schutz weg ist, und wo sie lebt
+  - **Danach holt er Leute.** Eine Schlucht mit Fels nimmt man nicht allein — das kostet die Zeit bis +10
+  - **Offen:** woher die Leute kommen, wie viele, was ihn das kostet · **???** → [C-133](../../Notizen/Challenges.md#c-133-azzims-leute-für-den-angriff)
+- **Girlins Nachricht liegt fertig und wetterfest verpackt bereit** (entschieden 03.09.2026). Der Leser sieht sie, bevor sie liegen bleibt
+  - **Offen:** was es ist — Gegenstand, Schriftstück oder beides — und wer es im Norden deuten könnte · **???** → [C-134](../../Notizen/Challenges.md#c-134-die-nachricht--art-und-lesbarkeit-im-norden)
+- **Jahr +10, Reihenfolge:** Der **Generator wird fertig** → **Girlins Zweifel kehrt zurück** → sie **bestätigt ihren Entschluss** → **Azzim greift an**
+  - **Drei Dinge treiben den Zweifel:** der **laufende Generator** (die Tür stünde offen, sie muss sie selbst zumachen), **Azzims Auftritt in +9** (ihr neues Zuhause ist nicht sicher) und das **älter werdende Kind** (je größer es wird, desto weiter rücken die beiden im Norden weg)
+  - Sie hat den Preis also **bezahlt, bevor Tibun ankommt** ([C-082 ✓](../../Notizen/Challenges.md#c-082-girlins-entscheidung-zur-rückreise-))
+- **Azzims vierter Auftritt ist der Angriff selbst** — er fällt mit dem Finale zusammen
 
-### Azzim — die früheren Auftritte (entschieden 02.09.2026, [C-116](../../Notizen/Challenges.md#c-116-azzim-tritt-zu-spät-auf))
-- **Azzim weiß nichts vom Ring** — nicht vorher, nicht beim Transport, nicht im Finale. Er erfährt es **nie** in der Wüste
-- **Sein Motiv sind Menschen:** Sklaverei. Girlin ist für ihn Ware — fremd, auffällig, ohne Sippe im Rücken, die sie rächt
+### Azzim — die vier Auftritte im Überblick (entschieden 03.09.2026, [C-123](../../Notizen/Challenges.md#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte))
+- **Azzim weiß nichts vom Ring** — nicht vorher, nicht beim Transport, nicht im Finale. Er erfährt es **nie** in der Wüste ([C-116](../../Notizen/Challenges.md#c-116-azzim-tritt-zu-spät-auf))
+- **Sein Motiv sind Menschen:** Sklaverei. Girlin ist für ihn Ware — dazu ab dem ersten Fehlschlag die **Demütigung**
   > **Gestrichen:** Wasser als Azzims Motiv war nicht vom Autor gedeckt → [C-107](../../Notizen/Challenges.md#c-107-azzims-motiv--wasser-statt-sklaverei), [C-119](../../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen)
-- **Er begegnet Girlin mehrfach vor dem Finale.** Was ihn abhält: **der Clan ist zu stark**, und Girlin entkommt — sie flieht und versteckt sich. Er folgt ihr, beobachtet sie, versucht es mehrfach; sie verschwindet immer wieder in der Schlucht
-  - **Als Richtung notiert, nicht beschlossen** — Zahl und Jahre der Auftritte offen · **???** → [C-123](../../Notizen/Challenges.md#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte)
 
----
+<table>
+<tr><th>#</th><th>Jahr</th><th>Ort</th><th>Was geschieht</th><th>Was ihn aufhält</th></tr>
+<tr><td>1</td><td>+3 bis +5</td><td>Basar</td><td>Zugriffsversuch</td><td>Der Clan wehrt ab</td></tr>
+<tr><td>2</td><td>+7/+8</td><td>Transport</td><td>Er verhandelt offen mit dem Clan</td><td>Sippenpflicht schlägt Handel; er verliert den Zug</td></tr>
+<tr><td>3</td><td>+9</td><td>Basar → Schlucht</td><td>Zugriff, sie entkommt, er folgt ihr und findet die Schlucht</td><td>Sie ist schneller; er hat keine Leute</td></tr>
+<tr><td>4</td><td>+10</td><td>Schlucht</td><td>Der Angriff — zugleich das Finale</td><td>—</td></tr>
+</table>
+
+**Überholt:** Skizzen-Beat 13 („auf dem Basar treffen sie auf Azzim") und Beat 14 („sie fliehen und verschanzen sich") lagen bisher beide in +10. Der Basar ist jetzt Auftritt 1 und 3, die Flucht in die Schlucht liegt in +9 — im Finale wird die Schlucht **verteidigt**, nicht mehr erreicht.
+
 
 ## Finale (Jahr +10) — **zwei Zündungen, ein durchgehender Zug**
 
@@ -155,8 +194,9 @@ Entschieden 31.08.2026. Löst [C-062 ✓](../../Notizen/Challenges.md#c-062-azzi
 
 ### Was zurückbleibt und was übergeht
 - Im **Norden**: Azzims zweite Hälfte an der Tabustelle, die weiterlaufende Anlage am Bach, ein Ring, der sich von allein wieder auflädt — und **niemand, der davon weiß**
-- In die **Wüste** gehen bei jeder Zündung rund **14 m³ jütisches Bachwasser und Erdreich** über. Tibun landet nicht in trockenem Sand, sondern in einer Pfütze aus seiner Heimat — vor den Augen von Leuten, für die Wasser das Wertvollste überhaupt ist
-- **Girlins Nachricht geht nicht über.** Sie kommt nicht mehr dazu, sie in den Ring zu legen — der Angriff und die beiden Zündungen überholen ihr Vorhaben. Was von ihm bleibt, ist ihre Absicht ([C-101](../../Notizen/Challenges.md#c-101-girlins-nachricht--vorhaben-ohne-ausführung))
+- In die **Wüste** geht bei jeder Zündung das Kugelvolumen der Nordseite über — **was genau, ist offen** · **???** → [C-102](../../Notizen/Challenges.md#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet)
+  > **Frühere Fassung gestrichen (03.09.2026):** *„rund 14 m³ jütisches Bachwasser und Erdreich"* und *„Tibun landet in einer Pfütze aus seiner Heimat"* stammten nicht vom Autor. **Der Ring im Norden liegt auf trockenem Grund** — es geht kein Bachwasser über → [C-119](../../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen)
+- **Girlins Nachricht geht nicht über.** Sie **liegt fertig und wetterfest verpackt bereit** (03.09.2026) — sie kommt nur nicht mehr dazu, sie in den Ring zu legen. Der Angriff und die beiden Zündungen überholen ihr Vorhaben. Der Leser sieht das Ding und sieht es liegen bleiben ([C-101](../../Notizen/Challenges.md#c-101-girlins-nachricht--vorhaben-ohne-ausführung), [C-134](../../Notizen/Challenges.md#c-134-die-nachricht--art-und-lesbarkeit-im-norden))
 
 ### Schluss
 - Wiedersehen in der Schlucht, mitten im noch laufenden Kampf. Girlin erkennt ihn an **Augen und Gesicht** — und daran, dass niemand sonst durch den Ring kommen könnte. Keine Sprachbarriere zwischen beiden ([C-108](../../Notizen/Challenges.md#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft))

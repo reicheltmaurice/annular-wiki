@@ -7,7 +7,7 @@ Aufbau der Skizze: ein **Prolog-Block**, darunter **zwei parallele Stränge** (T
 
 Chronologischer Abgleich: [Zeitleiste.md](Zeitleiste.md).
 
-> **Achtung:** Der **Skizzentext bleibt unverändert**, auch wo er inzwischen überholt ist. Was am 31.08.2026 entschieden wurde, steht im Abschnitt [Zusammenführung](#zusammenführung--entschieden-31082026) und in der [Zeitleiste](Zeitleiste.md) — im Zweifel gilt die Zeitleiste, nicht die Skizze.
+> **Achtung:** Der **Skizzentext bleibt unverändert**, auch wo er inzwischen überholt ist. Was seither entschieden wurde, steht in den Abschnitten [Zusammenführung](#zusammenführung--entschieden-31082026) (31.08.2026), [Ereigniskette](#was-am-02092026-entschieden-wurde--ereigniskette) (02.09.2026) und [Wüstenstrang](#was-am-03092026-entschieden-wurde--der-wüstenstrang) (03.09.2026) sowie in der [Zeitleiste](Zeitleiste.md) — **im Zweifel gilt die Zeitleiste, nicht die Skizze.**
 
 ---
 
@@ -52,8 +52,8 @@ Chronologischer Abgleich: [Zeitleiste.md](Zeitleiste.md).
 10. Große Verzweiflung wegen Ring-Standort — Häuptling offenbart sein Wissen zur Navigation
 11. Die Nomaden suchen den Ring und transportieren ihn zu Bellbrim
 12. Sie experimentieren mit Wasserfall und Wasserrad, um Strom zu erzeugen
-13. Auf dem Basar brauchen sie Materialien — Azzim begegnet Girlin
-14. Sie fliehen und verschanzen sich in der Schlucht / Höhle
+13. Auf dem Basar brauchen sie Materialien — Azzim begegnet Girlin *(überholt 03.09.2026: der Basar liegt jetzt in +3/+5 und +9, nicht in +10)*
+14. Sie fliehen und verschanzen sich in der Schlucht / Höhle *(überholt 03.09.2026: die Flucht liegt in +9; im Finale wird die Schlucht verteidigt)*
 15. Kampf entbrennt und spitzt sich zu
 
 </td></tr>
@@ -146,8 +146,54 @@ Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt wede
 - **Neu nach Beat 11:** Der Clan **zieht weiter**; Girlin, Neffe und Kind **bleiben** bei Bellbrim. Ab Jahr +8 ist sie ungeschützt
 - **Beat 13 (Azzim) rückt nach vorn:** **mehrfache** Begegnungen vor dem Finale. Er **weiß nichts vom Ring** und erfährt es in der Wüste nie; sein Motiv sind **Menschen** ([C-116](../../Notizen/Challenges.md#c-116-azzim-tritt-zu-spät-auf))
 
+---
+
+## Was am 03.09.2026 entschieden wurde — der Wüstenstrang
+
+**Ziel der Sitzung war das Fenster +8 bis +10.** Beim Füllen stellte sich heraus, dass die Voraussetzungen falsch waren — das Fenster hat sich verschoben. Vollständig in der [Zeitleiste](Zeitleiste.md#girlins-strang-jahr-0--10-girlin-34--44--10-jahre-in-der-wüste).
+
+### Der Entschluss fällt in +4, nicht am Ende
+Mit der **Geburt des dritten Kindes** kippt Girlins Ziel: aus *nach Hause gehen* wird *ich bleibe in meinem neuen Zuhause*. Der Entschluss ([C-082 ✓](../../Notizen/Challenges.md#c-082-girlins-entscheidung-zur-rückreise-)) liegt damit **sechs Jahre vor dem Finale**. Er ist nicht endgültig — er **wackelt und wird bestätigt**.
+
+**Folge:** Der Ring wird ab +5 nicht mehr für ihre Heimreise geholt, sondern **für die Nachricht** ([C-101](../../Notizen/Challenges.md#c-101-girlins-nachricht--vorhaben-ohne-ausführung)).
+
+### Die Trennung vom Clan liegt in +5, nicht +8
+Girlin, der Neffe und das Kind lösen sich **in Jahr +5** vom Clan und ziehen zu Bellbrim in die Schlucht. Der Clan kommt in **+7/+8** noch einmal wieder, um den Ring zu holen — **Girlin bricht mit ihm auf**. Danach zieht er endgültig weiter.
+
+**Der Transport dauert Wochen bis wenige Monate**, kein Jahresvorhaben. Das frühere Fenster +5 → +8 ist gestrichen ([C-119](../../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen)).
+
+**Der Ring wird niemals aufgerichtet** — er liegt ([C-111 ✓](../../Notizen/Challenges.md#c-111-wiederaufstellung-des-rings-nach-dem-transport--kernfrage)).
+
+### Azzim: vier Auftritte — und der Basar wandert nach vorn
+[C-123 ✓](../../Notizen/Challenges.md#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte). **Skizzen-Beat 13 und 14 sind damit überholt:** Der Basar lag bisher in +10 und löste die Flucht in die Schlucht aus. Jetzt ist er **Auftritt 1 (+3/+5) und Auftritt 3 (+9)**, die Flucht liegt in **+9** — im Finale wird die Schlucht **verteidigt**, nicht mehr erreicht.
+
+<table>
+<tr><th>#</th><th>Jahr</th><th>Ort</th><th>Was geschieht</th></tr>
+<tr><td>1</td><td>+3 bis +5</td><td>Basar</td><td>Zugriffsversuch, vom Clan abgewehrt</td></tr>
+<tr><td>2</td><td>+7/+8</td><td>Transport</td><td>Er verhandelt offen mit dem Clan; Sippenpflicht schlägt Handel</td></tr>
+<tr><td>3</td><td>+9</td><td>Basar → Schlucht</td><td>Zugriff, sie entkommt, er folgt ihr und findet die Schlucht</td></tr>
+<tr><td>4</td><td>+10</td><td>Schlucht</td><td>Der Angriff — zugleich das Finale</td></tr>
+</table>
+
+Sein Motiv ist **doppelt**: ihr **Wert** als Ware, und ab dem ersten Fehlschlag die **Demütigung**.
+
+### Der Basar wird ein Ort, kein Ereignis
+Der Generatorbau verlangt Material, das die Schlucht nicht hergibt. Das ist der **einzige Grund, warum die vier ihr Versteck verlassen** — und damit der einzige Weg, auf dem Azzim sie wiederfinden kann.
+
+### Der Neffe hat jetzt vier eigene Handlungen
+[C-105](../../Notizen/Challenges.md#c-105-der-neffe--name-eigenschaften-schweigebitte): Er löst sich vom Clan, er hilft die Hilfe des Clans zu erwirken (**Girlin bittet selbst** — sie arbeiten als Team), er hält die vier am Leben, er verteidigt die Schlucht im Finale.
+
+### Das Kind im Finale
+[C-112](../../Notizen/Challenges.md#c-112-das-wüstenkind-während-des-finales): Es ist **bei Bellbrim** und **sieht Tibuns Ankunft**.
+
+### Reihenfolge in +10
+Generator fertig → **Zweifel kehrt zurück** (laufender Generator, Azzims Auftritt in +9, das älter werdende Kind) → **Entschluss bestätigt** → **Angriff**.
+
 ### Was dadurch neu offen ist
-[C-118](../../Notizen/Challenges.md#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts) (Nordstrang ohne Verlust) · [C-119](../../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen) (Wiki-Altlast) · [C-120](../../Notizen/Challenges.md#c-120-azzims-zweite-seite--der-dritte-konflikt-fehlt-wieder) (Azzims zweite Seite) · [C-121](../../Notizen/Challenges.md#c-121-zwei-generatoren-ungleiche-bauzeiten) (Bauzeiten) · [C-122](../../Notizen/Challenges.md#c-122-der-wüstenstrang-zwischen-8-und-10) (Wüstenstrang +8→+10) · [C-123](../../Notizen/Challenges.md#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte) (Azzims Auftritte) · [C-124](../../Notizen/Challenges.md#c-124-die-zwischenstation--ort-und-gruppe) (Zwischenstation)
+[C-129](../../Notizen/Challenges.md#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5) (Schutzlücke ab +5) · [C-130](../../Notizen/Challenges.md#c-130-wie-der-transport-terminiert-wird) (Terminierung) · [C-131](../../Notizen/Challenges.md#c-131-generatorarbeit-ohne-ring) (Bau ohne Ring) · [C-132](../../Notizen/Challenges.md#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt) (Bezahlung) · [C-133](../../Notizen/Challenges.md#c-133-azzims-leute-für-den-angriff) (Azzims Leute) · [C-134](../../Notizen/Challenges.md#c-134-die-nachricht--art-und-lesbarkeit-im-norden) (Nachricht) · [C-135](../../Notizen/Challenges.md#c-135-der-wüstengenerator--bauart-offen) (Bauart des Wüstengenerators)
+
+### Was dadurch neu offen ist
+[C-118](../../Notizen/Challenges.md#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts) (Nordstrang ohne Verlust) · [C-119](../../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen) (Wiki-Altlast) · [C-120](../../Notizen/Challenges.md#c-120-azzims-zweite-seite--der-dritte-konflikt-fehlt-wieder) (Azzims zweite Seite) · [C-121 ✗](../../Notizen/Challenges.md#c-121-zwei-generatoren-ungleiche-bauzeiten--zurückgezogen) (Bauzeiten — zurückgezogen) · [C-122](../../Notizen/Challenges.md#c-122-der-wüstenstrang-zwischen-8-und-10) (Wüstenstrang +8→+10) · [C-123](../../Notizen/Challenges.md#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte) (Azzims Auftritte) · [C-124](../../Notizen/Challenges.md#c-124-die-zwischenstation--ort-und-gruppe) (Zwischenstation)
 
 **Das Kapitelraster ist noch nicht angelegt** — Nummer, ein Satz, ein POV, ein Jahr je Kapitel. Zwei Perspektivfiguren: Tibun und Girlin. Romanlänge und Kapitellänge werden **nicht** vorab festgelegt · **???**
 
