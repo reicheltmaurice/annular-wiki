@@ -3,80 +3,94 @@
 > Arbeitsdatei, kein Wiki-Inhalt — steht deshalb **nicht** in `SUMMARY.md`, genau wie
 > [Claude_Anleitungen.md](Claude_Anleitungen.md). Inhalt wird bei jeder Sitzung überschrieben.
 >
-> **Angelegt:** 02.09.2026 · **Für:** C-123 und C-122 (Wüstenstrang Jahr +8 bis +10)
+> **Angelegt:** 03.09.2026 · **Für:** das Kapitelraster
 
 ---
 
 ```
-Ich arbeite an Plots/Plot-1/ — Zeitleiste.md und Kapitelstruktur.md.
-Ziel dieser Sitzung: die letzte große Lücke der Ereigniskette schließen —
-den Wüstenstrang zwischen Jahr +8 und +10. Danach ist das Gerüst
-vollständig und das Kapitelraster kann folgen.
+Ich arbeite an Plots/Plot-1/ — jetzt das Kapitelraster.
+Das Gerüst ist seit 03.09. vollständig: die Ereigniskette beider
+Stränge steht in der Zeitleiste.
 
 Lies vorher:
-- Plots/Plot-1/Zeitleiste.md (Girlin-Strang und Finale; Stand 02.09.)
-- Plots/Plot-1/Kapitelstruktur.md, Abschnitt "Was am 02.09.2026
-  entschieden wurde"
-- Challenges C-122, C-123, C-116, C-061, C-121, C-105, C-101, C-112
-- Notizen/Challenges.md, C-119 — die Liste meiner eigenen
-  Entscheidungen gegen deine früheren Erfindungen
+- Plots/Plot-1/Zeitleiste.md (vollständig — beide Stränge und Finale)
+- Plots/Plot-1/Kapitelstruktur.md, Abschnitte "Was am 02.09.2026
+  entschieden wurde" und "Was am 03.09.2026 entschieden wurde"
+- Challenges C-129, C-118, C-120, C-110
 
-Ausgangslage (steht seit 02.09.): Der Clan setzt den Ring in Jahr +8 in
-der Schlucht ab und zieht weiter. Girlin, der Neffe und das Kind bleiben
-bei Bellbrim. Damit ist Girlin ab +8 ohne Sippenschutz. Azzim weiß nichts
-vom Ring, sein Motiv sind Menschen, und er begegnet Girlin mehrfach vor
-dem Finale.
+Ziel dieser Sitzung: das Kapitelraster anlegen.
+Pro Kapitel: eine Nummer, EIN Satz, ein POV, ein Jahr.
+Genau zwei Perspektivfiguren (Tibun, Girlin). Kapitel müssen nicht
+stur abwechseln. Romanlänge und Kapitellänge werden NICHT vorab
+festgelegt.
 
-Arbeitsweise: Interview-Format, kurze Fragen, kurze Antworten. Vorwärts
-durch die Lücken.
+Regel für das Raster: Ein Ereignis wird nur dann ein Kapitel, wenn
+sich darin EINE Sache ändert. Was nichts ändert, ist kein Kapitel.
+
+Arbeitsweise: Interview-Format, kurze Fragen, kurze Antworten.
+Vorwärts durch die Kette. Mehrfachauswahl anbieten, wo sich
+Antworten nicht ausschließen.
 
 Reihenfolge:
-1. C-123 — Azzims frühe Auftritte. Wie viele, in welchen Jahren, und
-   wann erfährt er überhaupt von Girlin? Der Rahmen steht: bis +8
-   scheitert jeder Zugriff am Clan, danach nicht mehr. Was daraus wird,
-   ist offen. Meine Formulierung vom 02.09. (sie flieht, versteckt sich,
-   verschwindet in der Schlucht, er folgt und beobachtet) war eine
-   Richtung, kein Beschluss — behandle sie als Vorschlag.
-2. C-122 — die zwei Jahre +8 bis +10. Bisher stehen darin nur:
-   Experimente mit Wasserfall und Wasserrad, Girlins Entschluss zu
-   bleiben, ihr Vorhaben der Nachricht, Basar und Flucht. Das ist für
-   zwei Jahre zu wenig. Es sollen Ereignisse hinein — und Azzims
-   Versuche gehören mit hinein.
+1. Erst den Nordstrang durchgehen, dann den Wüstenstrang — je
+   Ereignis die Frage: eigenes Kapitel oder nicht?
+2. Danach die beiden Reihen ineinanderschieben und die Erzähl-
+   reihenfolge festlegen.
 3. Dabei mitprüfen, nicht als eigene Blöcke:
-   - C-121: Bellbrim und Girlin brauchen für den Generator zwei Jahre,
-     Tibun fünf. Klärt sich das beim Füllen der zwei Jahre?
-   - C-105: Dem Neffen fehlt seit dem Streichen der Schweigebitte jede
-     eigene Handlung. Bekommt er in diesen zwei Jahren eine?
-   - C-112: Wo ist das Wüstenkind während des Finales? Es ist dann 6.
-4. Danach: die vollständige Ereigniskette beider Stränge gegenprüfen —
-   Reihenfolge, Jahre, Lücken, Widersprüche.
-
-Danach (evtl. erst in der Folgesitzung) das Kapitelraster: pro Kapitel
-eine Nummer, EIN Satz, ein POV, ein Jahr. Genau zwei Perspektivfiguren
-(Tibun, Girlin). Kapitel müssen nicht stur abwechseln. Romanlänge und
-Kapitellänge werden NICHT vorab festgelegt.
+   - C-129: Girlin ist ab +5 ohne Sippenschutz, Azzim greift erst
+     +9 zu. Trägt diese Lücke über vier Jahre, wenn man sie in
+     Kapiteln sieht?
+   - C-118: Tibun verliert zwischen +1 und +9 nichts. Trägt die
+     Mitte des Buches?
+   - C-120: der dritte Konflikt, bei dem beide Seiten verständlich
+     sind — fehlt er noch?
+   - C-110: der Schlusssatz — wissen die Figuren, was er kostet?
 
 Wichtig:
 - High-Level bleiben. Keine Namen, keine Orte, keine Details.
-- Ein Ereignis wird nur dann ein Kapitel, wenn sich darin EINE Sache
-  ändert.
 - Nichts eigenmächtig festlegen, auch nicht beim Ausformulieren ins
-  Wiki. Absicht ist nicht Handlung, Vorhaben nicht Ausführung. Was über
-  meinen Wortlaut hinausgeht, wird ??? oder eine eigene Challenge. Wenn
-  ich "vielleicht" oder "so etwas in der Richtung" sage, ist das kein
-  Beschluss.
-- Bevor du auf einer Wiki-Aussage aufbaust: prüfe, ob sie von mir stammt
-  oder von dir. Siehe C-119.
+  Wiki. Absicht ist nicht Handlung, Vorhaben nicht Ausführung. Was
+  über meinen Wortlaut hinausgeht, wird ??? oder eine eigene
+  Challenge. "Vielleicht" ist kein Beschluss.
+- Bevor du auf einer Wiki-Aussage aufbaust: prüfe, ob sie von mir
+  stammt oder von dir. Siehe C-119. Das gilt auch für Challenges
+  selbst — C-121 beruhte auf einer Erfindung.
 - Neue Challenges laufend anlegen, viele kleine statt wenige große.
-- Nicht committen.
+- Duzen. Nicht committen.
 ```
 
 ---
 
+## Stand nach der Sitzung vom 03.09.2026
+
+Die Ereigniskette beider Stränge ist lückenlos von Jahr −1 bis +10.
+
+**Girlins Strang, neu geschnitten:**
+
+| Jahr | Ereignis |
+|---|---|
+| +3/+5 | Azzim 1 — Basar, Zugriff, Clan wehrt ab |
+| +4 | Kind geboren → **Entschluss kippt: sie bleibt** |
+| +5 | Bitte an den Clan (für die Nachricht) · **Trennung vom Clan**, Umzug zu Bellbrim |
+| +5→+7 | Leben zu viert, Generatorarbeit beginnt, Kind wächst, Basar als Materialquelle |
+| +7/+8 | Clan kommt wieder, Girlin zieht mit · Azzim 2 verhandelt · Ring liegt ab +8 in der Schlucht |
+| +8→+10 | Vollendung des Generators |
+| +9 | Azzim 3 — Basar, Flucht, er folgt ihr und findet die Schlucht · holt Leute |
+| +10 | Generator fertig → Zweifel → Entschluss bestätigt → **Angriff = Azzim 4 = Finale** |
+
+**Erledigt:** C-122 ✓, C-123 ✓, C-105 (Handlungen des Neffen), C-112 ✓, C-111 (Ring wird nie
+aufgerichtet). **Zurückgezogen:** C-121 — die Challenge selbst beruhte auf einer Erfindung.
+**Neu:** C-129 bis C-135.
+
+**Gestrichene Altlasten (zweite Runde in C-119):** Transportfenster +5→+8, „ein Vorhaben über
+Jahre", die 14 m³ Bachwasser samt Pfütze, „ab +8 ungeschützt", „beide bauen dasselbe Gerät",
+Entschluss im Fenster +8/+10.
+
 ## Bewusst nicht im Prompt
 
-- **C-118** (Nordstrang verliert zwischen +1 und +9 nichts) und **C-120** (Azzims zweite Seite)
-  sind Bauentscheidungen, keine Lücken — sie dürfen auch bewusst so bleiben und würden das
-  Interview verwässern.
-- **C-120** kann in C-123 allerdings von selbst hineinlaufen: Wann Azzim zum ersten Mal von
-  Girlin erfährt, entscheidet nebenbei, wie viel Figur er wird.
+- **C-130 bis C-135** (Terminierung des Transports, Bau ohne Ring, Bezahlung auf dem Basar,
+  Azzims Leute, die Nachricht, Bauart des Wüstengenerators) sind Detailfragen unterhalb des
+  Rasters. Sie würden das Interview verwässern und können später einzeln laufen.
+- **C-129 und C-118** stehen im Prompt nur als Prüfpunkte, nicht als Aufgabe: Beide sind
+  Beobachtungen zur Tragfähigkeit, keine Lücken — sie dürfen auch bewusst so bleiben. Ob sie
+  tragen, zeigt sich erst, wenn die Kapitel nebeneinanderliegen.
