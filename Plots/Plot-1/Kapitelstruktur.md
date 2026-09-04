@@ -7,7 +7,7 @@ Aufbau der Skizze: ein **Prolog-Block**, darunter **zwei parallele Stränge** (T
 
 Chronologischer Abgleich: [Zeitleiste.md](Zeitleiste.md).
 
-> **Achtung:** Der **Skizzentext bleibt unverändert**, auch wo er inzwischen überholt ist. Was seither entschieden wurde, steht in den Abschnitten [Zusammenführung](#zusammenführung--entschieden-31082026) (31.08.2026), [Ereigniskette](#was-am-02092026-entschieden-wurde--ereigniskette) (02.09.2026) und [Wüstenstrang](#was-am-03092026-entschieden-wurde--der-wüstenstrang) (03.09.2026) sowie in der [Zeitleiste](Zeitleiste.md) — **im Zweifel gilt die Zeitleiste, nicht die Skizze.**
+> **Achtung:** Der **Skizzentext bleibt unverändert**, auch wo er inzwischen überholt ist. Was seither entschieden wurde, steht in den Abschnitten [Zusammenführung](#zusammenführung--entschieden-31082026) (31.08.2026), [Ereigniskette](#was-am-02092026-entschieden-wurde--ereigniskette) (02.09.2026) [Wüstenstrang](#was-am-03092026-entschieden-wurde--der-wüstenstrang) (03.09.2026) und [Prolog und Anfang](#was-am-04092026-entschieden-wurde--prolog-und-anfang) (04.09.2026) sowie in der [Zeitleiste](Zeitleiste.md) — **im Zweifel gilt die Zeitleiste, nicht die Skizze.**
 
 ---
 
@@ -196,6 +196,36 @@ Generator fertig → **Zweifel kehrt zurück** (laufender Generator, Azzims Auft
 [C-118](../../Notizen/Challenges.md#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts) (Nordstrang ohne Verlust) · [C-119](../../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen) (Wiki-Altlast) · [C-120](../../Notizen/Challenges.md#c-120-azzims-zweite-seite--der-dritte-konflikt-fehlt-wieder) (Azzims zweite Seite) · [C-121 ✗](../../Notizen/Challenges.md#c-121-zwei-generatoren-ungleiche-bauzeiten--zurückgezogen) (Bauzeiten — zurückgezogen) · [C-122](../../Notizen/Challenges.md#c-122-der-wüstenstrang-zwischen-8-und-10) (Wüstenstrang +8→+10) · [C-123](../../Notizen/Challenges.md#c-123-azzims-frühe-auftritte--zahl-und-zeitpunkte) (Azzims Auftritte) · [C-124](../../Notizen/Challenges.md#c-124-die-zwischenstation--ort-und-gruppe) (Zwischenstation)
 
 **Das Kapitelraster ist noch nicht angelegt** — Nummer, ein Satz, ein POV, ein Jahr je Kapitel. Zwei Perspektivfiguren: Tibun und Girlin. Romanlänge und Kapitellänge werden **nicht** vorab festgelegt · **???**
+
+---
+
+## Was am 04.09.2026 entschieden wurde — Prolog und Anfang
+
+**Der Skizzentext oben bleibt unverändert.** Der Prolog-Block dort führt drei Elemente: Fluss und Scheune, das Erdbeben, Girlins Verschwinden. Der Zuschnitt ist jetzt enger.
+
+### Der Prolog besteht aus dem Beben
+Der Prolog enthält **nur** das Beben. Das Erlebnis am Fluss und in der Scheune (Bernstein-Effekt) gehört in den **Anfang**, nicht in den Prolog.
+
+### „Das Beben und der Blitz" sind zwei Szenen
+Aufgeteilt in **„Das Beben"** und **„Der Blitz"**. Die [Zeitleiste](Zeitleiste.md#jahr-0--der-auftakt-tibun-16-girlin-34) führte beide Ereignisse schon getrennt:
+
+| Szene | Jahr | Inhalt |
+|---|---|---|
+| **Das Beben** | 0 | Weltweites Beben, das Ringsystem erwacht ([C-008 ✓](../../Notizen/Challenges.md#c-008-anzahl-und-bekanntheit-der-ringe-)). Folgen im Dorf: [C-056](../../Notizen/Challenges.md#c-056-prolog--folgen-des-bebens-im-dorf) |
+| **Der Blitz** | 0 | Gewitter, Blitzschlag-Aktivierung, Girlin verschwindet ([C-012 ✓](../../Notizen/Challenges.md#c-012-aktivierungsverhalten-des-rings-)). Tibun ist einziger Zeuge |
+
+### Der Auftakt rückt zusammen — Jahr −1 entfällt
+**Ebenfalls am 04.09.2026 entschieden** ([C-138 ✓](../../Notizen/Challenges.md#c-138-abstand-zwischen-beben-und-blitz-)): Alle drei Ereignisse liegen in **Jahr 0**, jeweils nur wenige Tage auseinander:
+
+**Beben → Bernstein-Effekt → Blitz**
+
+Der Bernstein-Effekt lag bisher in Jahr −1, ein Jahr vor dem Verschwinden. **Jahr −1 entfällt damit vollständig**, und **Tibun ist beim Bernstein-Effekt 16, nicht 15**.
+
+Die Erzählung läuft dadurch **chronologisch** — ein Rücksprung ist nicht nötig. Vollständig in der [Zeitleiste](Zeitleiste.md#jahr-0--der-auftakt-tibun-16-girlin-34).
+
+**Neu offen:** [C-139](../../Notizen/Challenges.md#c-139-erzählreihenfolge--verschränkt-oder-blockweise) (Erzählreihenfolge) · [C-140](../../Notizen/Challenges.md#c-140-wo-der-anfang-endet) (Ende des Anfangs) · [C-141](../../Notizen/Challenges.md#c-141-der-auftakt-ist-jetzt-sehr-dicht) (Dichte des Auftakts) · [C-142](../../Notizen/Challenges.md#c-142-szenen-ordner-heißen-akt-1-und-akt-2) (Ordnerstruktur)
+
+Darstellung: [Szenenliste](../../Notizen/Schaubilder/README.md) im Schaubilder-Ordner.
 
 ---
 

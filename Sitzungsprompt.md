@@ -63,7 +63,7 @@ Wichtig:
 
 ## Stand nach der Sitzung vom 03.09.2026
 
-Die Ereigniskette beider Stränge ist lückenlos von Jahr −1 bis +10.
+Die Ereigniskette beider Stränge ist lückenlos von Jahr 0 bis +10 (Jahr −1 entfällt seit 04.09.2026).
 
 **Girlins Strang, neu geschnitten:**
 

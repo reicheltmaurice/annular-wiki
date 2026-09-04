@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | **Rolle** | Jüngere Schwester von [Tibun](../Tibun.md) |
-| **Alter** | 8 (Prolog) / 9 (Girlins Verschwinden) / 19 (Finale) — **7 Jahre jünger** als Tibun, siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md) |
+| **Alter** | **9** (Auftakt und Girlins Verschwinden, Jahr 0) / 19 (Finale) — **7 Jahre jünger** als Tibun, siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md) |
 | **Herkunft** | [Skirraa](../../../Orte/Skirraa.md) |
 
 **Familie**

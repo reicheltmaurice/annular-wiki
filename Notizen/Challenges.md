@@ -99,8 +99,13 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-135: Der Wüstengenerator — Bauart offen](#c-135-der-wüstengenerator--bauart-offen)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen)
 - [C-137: Detailabschnitte ab C-099 stehen unter der falschen Überschrift](#c-137-detailabschnitte-ab-c-099-stehen-unter-der-falschen-überschrift)
+- [C-139: Erzählreihenfolge — verschränkt oder blockweise](#c-139-erzählreihenfolge--verschränkt-oder-blockweise)
+- [C-140: Wo der Anfang endet](#c-140-wo-der-anfang-endet)
+- [C-141: Der Auftakt ist jetzt sehr dicht](#c-141-der-auftakt-ist-jetzt-sehr-dicht)
+- [C-142: Szenen-Ordner heißen Akt-1 und Akt-2](#c-142-szenen-ordner-heißen-akt-1-und-akt-2)
 
 **Gelöst / Entschieden**
+- [C-138: Abstand zwischen Beben und Blitz ✓](#c-138-abstand-zwischen-beben-und-blitz-)
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
 - [C-004: Material der Portalringe ✓](#c-004-material-der-portalringe-)
 - [C-005: Van-de-Graaff-Generator ✓](#c-005-van-de-graaff-generator-)
@@ -347,7 +352,7 @@ Berührt [C-013](#c-013-runen--anordnung-anzahl-aussehen). Wird spätestens bei 
 **Klein & offen (Autorenebene):** Läuft die feine Bürstrichtung **umlaufend** (der Ringform folgend) oder **axial**? Umlaufend ist die naheliegende Lesart, festgelegt ist nichts.
 
 ### C-038: Prolog — Ortsmaßstab in Skirraa
-Die Prolog-Szene ([Die-Entdeckung.md](../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md)) spielt auf einem „Dorfplatz/Marktplatz" mit festem **Rednerpodest** und einer einberufenen **Versammlung**. [Skirraa](../Orte/Skirraa.md) ist aber ein **Weiler mit ~6 Höfen, 40–60 Menschen**. Maßstab zu groß — Verlobung müsste im kleinen Rahmen (führender Hof / Nachbarschaft) stattfinden, kein Marktplatz. Szene anpassen.
+Die Prolog-Szene (*Die-Entdeckung.md*, `annular-assets/Szenen/Prolog/Die-Entdeckung.md`) spielt auf einem „Dorfplatz/Marktplatz" mit festem **Rednerpodest** und einer einberufenen **Versammlung**. [Skirraa](../Orte/Skirraa.md) ist aber ein **Weiler mit ~6 Höfen, 40–60 Menschen**. Maßstab zu groß — Verlobung müsste im kleinen Rahmen (führender Hof / Nachbarschaft) stattfinden, kein Marktplatz. Szene anpassen.
 
 **Entschieden:** Verlobung wird **beim Großbauern** (führender Hof von [Skirraa](../Orte/Skirraa.md)) im kleinen Rahmen besiegelt — kein Marktplatz, kein Rednerpodest, keine Volksversammlung. Verlagerung nach Tingsal verworfen (bräche die Geografie: Stall-Entdeckung am selben Abend nicht mehr möglich). **Umsetzung in der Szene offen** (siehe [C-064](#c-064-prolog--dorfplatz-und-verlobungsschauplatz-nachziehen)).
 
@@ -378,7 +383,9 @@ Die Szene führt **Frida** (Liebe Tibuns), **Herik** (Sohn des Bootsbauers, Tibu
 ### C-043: Prolog — Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk
 Die Entdeckung des Bernstein-Effekts ist an Tibuns **Liebeskummer** (Fridas Verlobung mit Herik) gekoppelt: er wirft die Kette aus Wut → Funke. Dramaturgisch tragfähig, aber die Leitfrage („interessiert das einen Leser in 30 Jahren?") stellt sich: Trägt der Herzschmerz-Rahmen, oder sollte die Entdeckung an ein Motiv mit späterem Payoff gebunden werden? Entscheiden.
 
-**Entschieden:** Herzschmerz-Rahmen (Frida) **bleibt**. Zusätzlicher Payoff über [C-041](#c-041-prolog--bernstein-fundort): Der Bernstein stammt von **Girlin** — Tibun verschenkt das Muttergeschenk an Frida; **ein Jahr später** verschwindet Girlin durch dasselbe elektrische Prinzip ([C-008](#c-008-anzahl-und-bekanntheit-der-ringe-)). Der kleine Prolog-Funke wird zur stillen Vorahnung der Katastrophe; der Bernstein verknüpft Liebe (Mutter), Verlust und Technik — genau das Material, mit dem Tibun später den Ring zünden will.
+**Entschieden:** Herzschmerz-Rahmen (Frida) **bleibt**. Zusätzlicher Payoff über [C-041](#c-041-prolog--bernstein-fundort): Der Bernstein stammt von **Girlin**; **wenige Tage später** verschwindet Girlin durch dasselbe elektrische Prinzip ([C-008](#c-008-anzahl-und-bekanntheit-der-ringe-)). Der kleine Prolog-Funke wird zur stillen Vorahnung der Katastrophe; der Bernstein verknüpft Liebe (Mutter), Verlust und Technik — genau das Material, mit dem Tibun später den Ring zünden will.
+
+> **Korrigiert am 04.09.2026 (Autor):** Hier stand *Tibun verschenkt das Muttergeschenk an Frida*. Das ist falsch — **Tibun verschenkt die Kette nicht, Frida nimmt sie nicht an.** Die Kette hat er zudem **schon lange**, sie ist nicht neu. Der Payoff läuft damit über die **Abweisung**, nicht über eine Übergabe. Wie es von dort zum Funken kommt, ist offen · **???**
 
 ### C-044: Herkunft von Girlins Bernstein
 Aus [C-041](#c-041-prolog--bernstein-fundort): Girlin schenkt Tibun den Bernstein und **kennt** dessen Herkunft, verrät sie ihm aber nie. Offen: Woher stammt der Stein wirklich? Bewusst als **offener Faden** gehalten — möglicher späterer Payoff (Anknüpfung an Girlins Vorgeschichte [C-024](#c-024-girlin--herkunft--vorgeschichte) oder den Ring). Noch nichts festlegen. Klein.
@@ -545,7 +552,7 @@ Der Widerspruch war ein Scheinwiderspruch. Es zündet **nicht entweder** die Wü
 **Neu daraus:** [C-098](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-), [C-099](#c-099-der-isolierte-konduktor--ladungsspeicher-ohne-anachronismus), [C-100](#c-100-die-werkstatt-an-der-tabustelle), [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet), [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft), [C-109](#c-109-ladezeit-des-konduktors-).
 
 ### C-063: Prolog — Szene auf Autorenfassung zurückgerollt
-[Die-Entdeckung.md](../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md) steht wieder auf der **Originalfassung des Autors** („ver 2.2", Stand vor der Wiki-Überarbeitung). Die im Wiki getroffenen Prolog-Entscheidungen sind darin **nicht enthalten** — der Wortlaut bleibt bewusst der des Autors, die Kanon-Anpassungen müssen aber noch von Hand eingearbeitet werden.
+`annular-assets/Szenen/Prolog/Die-Entdeckung.md` steht wieder auf der **Originalfassung des Autors** („ver 2.2", Stand vor der Wiki-Überarbeitung). Die im Wiki getroffenen Prolog-Entscheidungen sind darin **nicht enthalten** — der Wortlaut bleibt bewusst der des Autors, die Kanon-Anpassungen müssen aber noch von Hand eingearbeitet werden.
 
 Betroffene Entscheidungen, je als eigene Challenge: [C-064](#c-064-prolog--dorfplatz-und-verlobungsschauplatz-nachziehen) (Schauplatz), [C-065](#c-065-prolog--fischerdorf-milieu-nachziehen) (Milieu), [C-066](#c-066-prolog--bernstein-herkunft-nachziehen) (Bernstein), [C-067](#c-067-prolog--rollen-von-herik-und-lanke-nachziehen) (Herik/Lanke), [C-068](#c-068-prolog--brand-und-brandblasen-nachziehen) (Feuer), [C-069](#c-069-prolog--fridas-familie-und-stiefvater) (Fridas Familie), [C-070](#c-070-prolog--dateikopf-und-versionszeile) (Dateikopf), [C-071](#c-071-prolog--tibuns-alter-und-heiratsantrag) (Alter).
 
@@ -573,7 +580,9 @@ Die Szene gibt Frida eine **zugezogene Mutter** und einen **Stiefvater** (Fische
 Die Datei beginnt mit der Zeile „Die Entdeckung (ver 2.2)" statt mit einer Markdown-Überschrift; Versionsnummer und Absatzformatierung folgen nicht der Wiki-Konvention (siehe [Regeln.md](Regeln.md)), Zeilenumbrüche fehlen zwischen Absätzen. Rein formal — Wortlaut bleibt unangetastet. Klein.
 
 ### C-071: Prolog — Tibuns Alter und Heiratsantrag
-In der Szene will Tibun **um Fridas Hand anhalten**, wird aber durchweg als „Junge" gezeichnet; [Szenen/README](../Plots/Plot-1/Szenen/README.md) führt ihn im Prolog mit **15**. Zu klären: Ist ein eigener Antrag in diesem Alter im Kanon plausibel, oder liefe eine Verbindung ohnehin über die Eltern (wie bei Lankes Bitte)? Berührt die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) (Girlins Verschwinden ein Jahr später).
+In der Szene will Tibun **um Fridas Hand anhalten**, wird aber durchweg als „Junge" gezeichnet; `annular-assets/Szenen/README.md` führt ihn mit **16**. Zu klären: Ist ein eigener Antrag in diesem Alter im Kanon plausibel, oder liefe eine Verbindung ohnehin über die Eltern (wie bei Lankes Bitte)?
+
+> **Aktualisiert am 04.09.2026:** Tibun ist in dieser Szene **16**, nicht 15 — Bernstein-Effekt und Verschwinden liegen beide in Jahr 0 ([C-138 ✓](#c-138-abstand-zwischen-beben-und-blitz-)). Die Frage bleibt, das Alter ändert sich.
 
 ### C-072: Prolog — Textfassung 2.2 oder 2.3
 Vom Autor existierten zwei alte Fassungen, **2.2** und **2.3**; sie unterscheiden sich an fünf Stellen (reiner Feinschliff, keine inhaltliche Umarbeitung). Am Abgleich mit dem Wiki-Kanon ([C-064](#c-064-prolog--dorfplatz-und-verlobungsschauplatz-nachziehen) bis [C-071](#c-071-prolog--tibuns-alter-und-heiratsantrag)) ändert die Wahl nichts — alle Diskrepanzen stehen in beiden Fassungen identisch.
@@ -836,10 +845,10 @@ Zwischen [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden und dem Finale l
 
 **Nicht umbenannt und auch nicht nötig:** Girlin, Tibun, Hadurik, Herik, Lanke passen bereits ins Muster. Einzige Dehnung ist Tibun (`th` → `t`); strenger wäre *Theubun* oder *Tebun*, der Preis bei der Hauptfigur ist dem Autor zu hoch.
 
-**Ausstehend:** Der [Prolog](../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md) trägt noch die alten Namen (Jolyl). Er wird bei der nächsten Überarbeitung nachgezogen → [C-093](#c-093-prolog--namen-nach-c-092-nachziehen).
+**Ausstehend:** Der *Prolog* (`annular-assets/Szenen/Prolog/Die-Entdeckung.md`) trägt noch die alten Namen (Jolyl). Er wird bei der nächsten Überarbeitung nachgezogen → [C-093](#c-093-prolog--namen-nach-c-092-nachziehen).
 
 ### C-093: Prolog — Namen nach C-092 nachziehen
-Der Szenenordner wurde bei der Namensumstellung bewusst ausgespart (Autorenanweisung). Im [Prolog](../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md) steht deshalb weiter **Jolyl** statt **Frida** ([C-092](#c-092-namenssystem-des-nordvolks)). Beim nächsten Überarbeitungsdurchgang nachziehen — zusammen mit den übrigen Prolog-Challenges (C-063 bis C-072).
+Der Szenenordner wurde bei der Namensumstellung bewusst ausgespart (Autorenanweisung). Im *Prolog* (`annular-assets/Szenen/Prolog/Die-Entdeckung.md`) steht deshalb weiter **Jolyl** statt **Frida** ([C-092](#c-092-namenssystem-des-nordvolks)). Beim nächsten Überarbeitungsdurchgang nachziehen — zusammen mit den übrigen Prolog-Challenges (C-063 bis C-072).
 
 **???**
 
@@ -858,7 +867,9 @@ Der Szenenordner wurde bei der Namensumstellung bewusst ausgespart (Autorenanwei
 **Entscheidung:** Wird aus der Geschichte gestrichen. Tibuns Erfindung muss historisch plausibel sein. Ersatz noch offen → siehe C-002.
 
 ### C-006: Tibuns Alter bei Erfindungen ✓
-**Entscheidung:** Tibun erfindet und baut als Erwachsener (~25+). Als Jugendlicher entdeckt er mit **15** den Bernstein-Effekt (Prolog), versteht ihn aber nicht; mit **16** erlebt er Girlins Verschwinden.
+**Entscheidung:** Tibun erfindet und baut als Erwachsener (~25+). Als Jugendlicher entdeckt er den Bernstein-Effekt, versteht ihn aber nicht.
+
+> **Korrigiert am 04.09.2026:** Hier stand *mit 15 den Bernstein-Effekt (Prolog) … mit 16 Girlins Verschwinden*. Beide Ereignisse liegen jetzt in **Jahr 0**, wenige Tage auseinander — **Tibun ist bei beidem 16**. Siehe [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#jahr-0--der-auftakt-tibun-16-girlin-34) und [C-138 ✓](#c-138-abstand-zwischen-beben-und-blitz-).
 
 **Korrektur (nachträglich):** Hier stand ursprünglich „als Kind (~12)". Das war ein Überbleibsel aus der alten Altersannahme und widersprach [C-023 ✓](#c-023-zeitleiste--altersgerüst-) und der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) (15 im Prolog, 16 beim Verschwinden). Auch die Reihenfolge war falsch: Die Entdeckung kommt **vor** dem Verschwinden, nicht gleichzeitig. Dieselbe Altlast wurde in [Regeln.md](Regeln.md) bereinigt. Die Kernentscheidung (Bau erst als Erwachsener) bleibt unverändert.
 
@@ -990,7 +1001,7 @@ Damit wird der **Durchgang im Gehen** möglich: Der Reisende betritt die Kugel, 
 
 ### C-023: Zeitleiste & Altersgerüst ✓
 Vollständiges Altersgerüst in der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) festgelegt (Jahre relativ zu Girlins Verschwinden = Jahr 0; Ankerfigur Tibun, Alter = 16 + Jahr):
-- **Prolog (Jahr −1):** Tibun **15** entdeckt den Bernstein-Effekt, versteht ihn noch nicht.
+- **Auftakt (Jahr 0):** Tibun **16** entdeckt den Bernstein-Effekt, versteht ihn noch nicht. *(Korrigiert 04.09.2026 — stand vorher als Prolog in Jahr −1 mit Tibun 15; Jahr −1 entfällt, siehe [C-138 ✓](#c-138-abstand-zwischen-beben-und-blitz-).)*
 - **Verschwinden (Jahr 0):** Tibun **16**, Girlin **34**, Semund **35**, Truda **9**.
 - **Aufbruch (Jahr +1):** Tibun **17** verlässt Skirraa (~1 Jahr nach dem Verschwinden).
 - **Wanderschaft:** ~**8 Jahre**; Erkenntnismoment + Tischmodell-Prototyp in **Kaupvik** (löst den früheren Ordnungs-Konflikt: Reise/Kaupvik → Idee → Bau).
@@ -1001,7 +1012,7 @@ Vollständiges Altersgerüst in der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) 
 Ausgelagert: Tibuns Existenzgrundlage während der 8 Reisejahre → C-034.
 
 ### C-030: Trudas Alter ✓
-[Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) ist **7 Jahre jünger** als Tibun: 8 (Prolog) / 9 (Girlins Verschwinden) / 19 (Finale). Die alte Absolutangabe „5" (unter der überholten Tibun-12-Annahme) entfällt.
+[Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) ist **7 Jahre jünger** als Tibun: **9** (Jahr 0) / 19 (Finale). *(Die frühere Angabe 8 im Prolog entfällt mit Jahr −1.)* Die alte Absolutangabe „5" (unter der überholten Tibun-12-Annahme) entfällt.
 
 ### C-033: Nebenfiguren — eigene Dateien & strukturierte Felder ✓
 Umgesetzt: Jede Nebenfigur hat eine **eigene Datei** in einem Unterordner `Nebenfiguren/` je Region (nach [charakter-template.md](../Menschen/Charakter-Template.md)), mit README-Index. Wird eine Figur wichtiger, genügt das **Verschieben** eine Ebene höher.
@@ -1205,7 +1216,7 @@ Das ist für 550 auffällig früh. Germanische Frauen heirateten nach den antike
 
 **Entscheidung (Autor): Girlin ist bei Tibuns Geburt 18.** Damit verschiebt sich ihr Alter um **+4 Jahre**:
 
-| | Prolog (−1) | Verschwinden (0) | Aufbruch (+1) | Rückkehr (+9) | Finale (+10) |
+| | Jahr 0 | Aufbruch (+1) | Rückkehr (+9) | Finale (+10) |
 |---|---|---|---|---|---|
 | **Girlin** | 33 | **34** | 35 | 43 | **44** |
 
@@ -1232,7 +1243,7 @@ Damit sind es fünf Schwangerschaften in sechzehn Ehejahren bei zwei überlebend
 
 - **Semunds Haus ist schon vor dem Ring ein Haus des Verlusts.** Als Girlin verschwindet, hat die Familie gerade erst ein Kind begraben. Das erklärt Sprachlosigkeit und Erschöpfung im Umgang mit dem Unerklärlichen — und macht [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) schnelle Wiederheirat ([C-095](#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-)) lesbar: Er hat nicht ersetzt, er hat aufgehört zu verlieren.
 - **Es verstärkt Girlins Motiv, ohne es zu erklären.** Sie hat Kinder verloren, die sie nicht zurückholen konnte. Tibun und Truda **kann** sie zurückholen — das ist der Unterschied, an dem sich ihr Wille festhält ([C-025](#c-025-girlin--charakter--fähigkeiten)).
-- **Truda war alt genug, um sich zu erinnern** (7 oder 8), Tibun ebenfalls (14 oder 15, also um die Zeit des [Prologs](../Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md)).
+- **Truda war alt genug, um sich zu erinnern** (7 oder 8), Tibun ebenfalls (14 oder 15, also um die Zeit des *Prologs* (`annular-assets/Szenen/Prolog/Die-Entdeckung.md`)).
 
 **Offen:** ob und wie es im Erzähltext sichtbar wird — ein Grab, ein Satz, ein Name, den niemand ausspricht. Der Autor hält sich die Möglichkeit offen. · **???**
 
@@ -1888,4 +1899,79 @@ Betroffen sind unter anderem [C-101](#c-101-girlins-nachricht--vorhaben-ohne-aus
 - **Trennung aufgeben:** die Zweiteilung streichen und alle Details in **einer** aufsteigenden Folge führen; offen/gelöst steht ohnehin am Titel (`✓`, `✗`) und in der Übersicht.
 
 Solange nichts entschieden ist, gilt: **maßgeblich ist die Übersicht am Kopf der Datei, nicht die Überschrift, unter der ein Abschnitt steht.**
+
+---
+
+### C-138: Abstand zwischen Beben und Blitz ✓
+
+Aus der Entscheidung vom 04.09.2026 ([Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md#was-am-04092026-entschieden-wurde--prolog-und-anfang)): Das frühere „Das Beben und der Blitz" ist in **zwei Szenen** geteilt. Beide liegen in Jahr 0.
+
+**Entschieden (Autor, 04.09.2026): Reihenfolge Beben → Bernstein-Effekt → Blitz, alles in Jahr 0, jeweils nur ein paar Tage dazwischen.**
+
+Damit **entfällt Jahr −1 vollständig.** Der Bernstein-Effekt lag bisher ein Jahr vor dem Verschwinden; jetzt liegt er dazwischen. Der gesamte Auftakt umfasst ein bis zwei Wochen.
+
+**Wichtigste Folge: Tibun ist beim Bernstein-Effekt 16, nicht 15.**
+
+**Nachgezogen:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md#jahr-0--der-auftakt-tibun-16-girlin-34), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), *Szenen-Log* (`annular-assets/Szenen/README.md`), [Regeln](Regeln.md), [C-006](#c-006-tibuns-alter-bei-erfindungen-), [C-023](#c-023-zeitleiste--altersgerüst-), [C-071](#c-071-prolog--tibuns-alter-und-heiratsantrag).
+
+**Was dadurch gewonnen ist:** Die Erzählung läuft jetzt **chronologisch** — der frühere Rücksprung von Jahr 0 nach −1 entfällt. Und der Bernstein wird zum Doppelverlust: Tibun wird von Frida abgewiesen und verliert wenige Tage später die Mutter, von der der Stein stammt ([C-043](#c-043-prolog--herzschmerz-rahmen-nutzen-fürs-gesamtwerk)).
+
+> **Hinweis:** Die vorhandene Prolog-Szene ist alt und wird ohnehin überarbeitet (Autor, 04.09.2026) — Einzelheiten daraus gelten nicht als Kanon.
+
+**Was dadurch neu offen ist:** [C-141](#c-141-der-auftakt-ist-jetzt-sehr-dicht) (Dichte des Auftakts) · [C-142](#c-142-szenen-ordner-heißen-akt-1-und-akt-2) (Ordnerstruktur).
+
+---
+
+### C-139: Erzählreihenfolge — verschränkt oder blockweise
+
+Bisher nirgends als Frage geführt, obwohl sie das Buch stärker prägt als die meisten offenen Punkte.
+
+Die [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil--zwei-parallele-stränge) zeichnet zwei **parallele Stränge** als Blöcke nebeneinander. Die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) ordnet chronologisch. Beides ist mit dem Material vereinbar — ergibt aber verschiedene Bücher:
+
+- **Blockweise:** Der Leser erfährt Tibuns zehn Jahre am Stück, dann Girlins. Jeder Strang braucht dann einen eigenen Spannungsbogen, der ohne Schnitte trägt.
+- **Verschränkt:** Im Wechsel. Nur so entsteht die Ironie, dass beide unabhängig dasselbe erfinden, ohne voneinander zu wissen. Dafür braucht jeder Schnitt einen Grund weiterzulesen.
+
+**Das sind nicht dieselben Szenen in anderer Sortierung** — die Entscheidung bestimmt mit, welche Szenen überhaupt gebraucht werden.
+
+**Zu bedenken:** Die Zählung der Szenenkandidaten (Stand 04.09.2026) ergibt insgesamt fast Gleichstand, aber eine sehr ungleiche Verteilung über die Zeit: In Jahr 0 stehen sieben Tibun-Einheiten gegen zwei bei Girlin, zwischen +5 und +8 acht Girlin-Einheiten gegen eine. Ein gleichmäßiger Wechsel ist damit nicht möglich — entweder wird er unregelmäßig, oder der Nordstrang bekommt zwischen +5 und +9 Inhalt, den er heute nicht hat ([C-118](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts)).
+
+**Offen · ???**
+
+---
+
+### C-140: Wo der Anfang endet
+
+Aus den Entscheidungen vom 04.09.2026: Der **Prolog** besteht aus dem Beben, der **Anfang** setzt mit dem Bernstein-Effekt ein — wenige Tage später, ebenfalls in Jahr 0 ([C-138 ✓](#c-138-abstand-zwischen-beben-und-blitz-)). Der **Schluss** ist der gemeinsame Block ab Zündung 1.
+
+**Offen · ???** Wo der Anfang endet und der Hauptteil beginnt, steht nirgends.
+
+Als Richtung notiert, **nicht beschlossen:** das Ende von Jahr +1 — dort sind beide Figuren in ihrer neuen Lage angekommen (Tibun in Kaupvik, Girlin bei den Kel Aman mit Bellbrim) und haben ihr Ziel gefasst.
+
+Hängt an [C-139](#c-139-erzählreihenfolge--verschränkt-oder-blockweise): Bei blockweiser Erzählung hat **jeder Strang** seinen eigenen Anfang, dann gibt es zwei davon statt einem.
+
+---
+
+### C-141: Der Auftakt ist jetzt sehr dicht
+
+Folge aus [C-138 ✓](#c-138-abstand-zwischen-beben-und-blitz-) (04.09.2026): Beben, Bernstein-Effekt und Blitz liegen alle in Jahr 0, jeweils nur wenige Tage auseinander. Der gesamte Auftakt umfasst damit **ein bis zwei Wochen** statt gut einem Jahr.
+
+**Zu prüfen · ???** Zwei Stellen werden dadurch enger, als sie es vorher waren:
+
+1. **Die Verlobung folgt dicht auf das Beben.** Das Beben ist *wie noch nie erlebt*, die Menschen haben Angst, womöglich ist jemand vermisst ([C-056](#c-056-prolog--folgen-des-bebens-im-dorf)). Wenige Tage später richtet derselbe Weiler eine Verlobungsfeier aus. Das kann tragen — ein Fest gegen die Angst ist glaubwürdig —, sollte aber bewusst so gebaut sein und nicht unbemerkt bleiben.
+2. **Der Ring liegt nur Tage frei.** Falls das Beben ihn zugänglich macht ([C-128](#c-128-fundort-und-freilegung-des-skir-rings)), bleibt kaum Zeit, dass ihn jemand entdeckt. Das ist eher ein Vorteil: Es erklärt zwanglos, warum niemand außer Tibun etwas von ihm weiß.
+
+Kein Widerspruch, nur eine Enge, die vorher nicht bestand.
+
+---
+
+### C-142: Szenen-Ordner heißen Akt-1 und Akt-2
+
+Aufgefallen am 04.09.2026: Unter `annular-assets/Szenen/` liegen bereits vier Ordner — **Prolog**, **Akt-1**, **Akt-2**, **Finale**. Drei davon sind leer; nur `Prolog/Die-Entdeckung.md` existiert.
+
+**Zwei Dinge passen nicht mehr zusammen:**
+
+1. **Die Benennung.** Die am 04.09.2026 besprochene Gliederung heißt Prolog / Anfang / Hauptteil / Schluss. Die Ordner sagen Akt-1 / Akt-2 / Finale. Beides sind Vierteilungen, aber mit verschiedenen Namen — und „Akt-1/Akt-2" legt eine Zweiteilung der Mitte nahe, die nirgends beschlossen ist.
+2. **Die Prolog-Szene liegt im falschen Ordner.** Der Prolog besteht jetzt aus dem **Beben**; `Die-Entdeckung.md` gehört damit in den **Anfang** (bzw. Akt-1). Die Datei ist an **sechs Stellen** verlinkt (SUMMARY, Szenen-README, drei Figurendateien, Challenges) — ein Verschieben zieht alle nach.
+
+**Zu klären · ???** Welche Benennung gilt, und soll die Szene verschoben werden? Hängt an [C-139](#c-139-erzählreihenfolge--verschränkt-oder-blockweise) und [C-140](#c-140-wo-der-anfang-endet): Bei blockweiser Erzählung wäre eine Aktstruktur je Strang nötig, bei verschränkter eine gemeinsame.
 

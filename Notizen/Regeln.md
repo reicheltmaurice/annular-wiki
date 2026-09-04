@@ -35,7 +35,7 @@ Neue Regeln laufend ergänzen — keine Begründungen, nur die Regel selbst.
 
 ## Charaktere
 
-- Tibun erfindet und baut als Erwachsener (~25+) — mit **15** nur die Entdeckung des Bernstein-Effekts (Prolog), mit **16** Girlins Verschwinden
+- Tibun erfindet und baut als Erwachsener (~25+) — mit **16** nur die Entdeckung des Bernstein-Effekts, wenige Tage vor Girlins Verschwinden (beides Jahr 0, geändert 04.09.2026)
 - Keine "Chosen One"-Momente ohne echte Kosten
 - Keine Erklär-Dialoge — Figuren erklären einander nichts, was sie beide wissen
 - Das Feld **Inspiration** meint **ausschließlich das Äußere** (Gesicht, Statur, Auftreten) — nie Charakter, Rolle oder Wesen der Vorlage. Aus einer Inspiration darf nichts über die Figur abgeleitet werden.

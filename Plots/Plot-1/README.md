@@ -32,6 +32,6 @@ Erzählt in **zwei parallelen Strängen** (Tibun im Norden, Girlin in der Wüste
 | [Kapitelstruktur](Kapitelstruktur.md) | Beat-Gerüst beider Stränge, Abgleich mit dem Wiki |
 | [Zeitleiste](Zeitleiste.md) | Chronologie, Jahre relativ zu Girlins Verschwinden = Jahr 0 |
 | [Plot 1 (alte Notiz)](Plot-1.md) | ältere Plotfassung des Autors, Quellsicherung |
-| [Szenen](Szenen/README.md) | geschriebene Szenen mit Status |
+| *(Szenen)* | **Am 04.09.2026 ausgelagert** nach `annular-assets/Szenen/` — geschriebene Szenen liegen nicht mehr im Wiki |
 
 Offene Punkte dieser Geschichte stehen in den [gemeinsamen Challenges](../../Notizen/Challenges.md).

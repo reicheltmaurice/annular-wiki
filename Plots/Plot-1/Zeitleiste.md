@@ -7,14 +7,16 @@ Interne Chronologie (Autorenebene). Erzählreihenfolge der Kapitel: [Kapitelstru
 Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 <table>
-<tr><th>Figur</th><th>Prolog (−1)</th><th>Verschwinden (0)</th><th>Aufbruch (+1)</th><th>Rückkehr (+9)</th><th>Finale (+10)</th></tr>
-<tr><td>Tibun</td><td>15</td><td>16</td><td>17</td><td>25</td><td>26</td></tr>
-<tr><td>Girlin</td><td>33</td><td>34</td><td>35</td><td>43</td><td>44</td></tr>
-<tr><td>Truda</td><td>8</td><td>9</td><td>10</td><td>18</td><td>19</td></tr>
-<tr><td>Semund</td><td>34</td><td>35</td><td>36</td><td>44</td><td>45</td></tr>
-<tr><td>Bellbrim</td><td>—</td><td>(40)</td><td>—</td><td>—</td><td>50</td></tr>
-<tr><td>Azzim u-Tawan</td><td>—</td><td>offen</td><td>—</td><td>—</td><td>offen</td></tr>
+<tr><th>Figur</th><th>Jahr 0 — Auftakt &amp; Verschwinden</th><th>Aufbruch (+1)</th><th>Rückkehr (+9)</th><th>Finale (+10)</th></tr>
+<tr><td>Tibun</td><td><strong>16</strong></td><td>17</td><td>25</td><td>26</td></tr>
+<tr><td>Girlin</td><td><strong>34</strong></td><td>35</td><td>43</td><td>44</td></tr>
+<tr><td>Truda</td><td><strong>9</strong></td><td>10</td><td>18</td><td>19</td></tr>
+<tr><td>Semund</td><td><strong>35</strong></td><td>36</td><td>44</td><td>45</td></tr>
+<tr><td>Bellbrim</td><td>(40)</td><td>—</td><td>—</td><td>50</td></tr>
+<tr><td>Azzim u-Tawan</td><td>offen</td><td>—</td><td>—</td><td>offen</td></tr>
 </table>
+
+> **Geändert am 04.09.2026:** Der Prolog liegt **nicht mehr in Jahr −1**. Beben, Bernstein-Effekt und Blitz liegen alle in **Jahr 0**, jeweils nur wenige Tage auseinander. Damit entfällt die Spalte „Prolog (−1)" — und **Tibun ist beim Bernstein-Effekt 16, nicht 15**. Betrifft [C-006](../../Notizen/Challenges.md#c-006-tibuns-alter-bei-erfindungen-), [C-023](../../Notizen/Challenges.md#c-023-zeitleiste--altersgerüst-) und [C-071](../../Notizen/Challenges.md#c-071-prolog--tibuns-alter-und-heiratsantrag).
 
 - **Truda:** 7 Jahre jünger als Tibun (löst [C-030](../../Notizen/Challenges.md)).
 - **Girlin:** bei Tibuns Geburt **18**, bei Trudas Geburt **25** (Korrektur vom 31.08.2026, [C-096](../../Notizen/Challenges.md#c-096-korrektur--girlins-alter-)).
@@ -27,15 +29,33 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - Bau der ersten Portalringe durch unbekannte Zivilisation
 - Der Skir-Ring liegt seit Jahrtausenden vergraben am Bach nahe [Skirraa](../../Orte/Skirraa.md) ([C-008](../../Notizen/Challenges.md))
 
-## Prolog — Jahr −1 (Tibun 15)
-- Ein Jahr vor Girlins Verschwinden
-- Tibun entdeckt zufällig die elektrischen Eigenschaften von Bernstein
-  - Szene am Fluss, unerwiderte Liebe (früher Schwarm), Feuer in der Scheune
-- Er versteht das Prinzip noch **nicht** — die Einsicht kommt erst Jahre später in Kaupvik
+## Jahr 0 — der Auftakt (Tibun 16, Girlin 34)
 
-## Jahr 0 — Girlins Verschwinden (Tibun 16, Girlin 34)
+**Entschieden am 04.09.2026:** Drei Ereignisse in dieser Reihenfolge, **jeweils nur wenige Tage auseinander** — der gesamte Auftakt umfasst damit ein bis zwei Wochen, kein Jahr.
+
+| # | Ereignis | Abstand |
+|---|---|---|
+| 1 | **Das Beben** — Erwachen des Ringsystems | — |
+| 2 | **Der Bernstein-Effekt** — Tibuns Entdeckung | wenige Tage nach dem Beben |
+| 3 | **Der Blitz** — Girlin verschwindet | wenige Tage nach dem Bernstein-Effekt |
+
+> **Frühere Fassung überholt:** Der Bernstein-Effekt lag bisher in **Jahr −1**, ein Jahr vor dem Verschwinden. Jahr −1 entfällt damit vollständig.
+
+### 1. Das Beben
 - Weltweites Beben (Erwachen des Ringsystems) ([C-008](../../Notizen/Challenges.md))
   > **Frühere Fassung gestrichen:** „löst einen Erdrutsch am Steilufer der Skir aus und legt den vergrabenen Portalring frei" stammte nicht vom Autor → [C-119](../../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen), [C-128](../../Notizen/Challenges.md#c-128-fundort-und-freilegung-des-skir-rings)
+- Die Menschen haben Angst; Folgen im Weiler offen ([C-056](../../Notizen/Challenges.md#c-056-prolog--folgen-des-bebens-im-dorf))
+- **Der Prolog besteht aus diesem Ereignis** ([Kapitelstruktur](Kapitelstruktur.md#was-am-04092026-entschieden-wurde--prolog-und-anfang))
+
+### 2. Der Bernstein-Effekt
+- Tibun entdeckt zufällig die elektrischen Eigenschaften von Bernstein
+  - Szene am Fluss, unerwiderte Liebe (früher Schwarm), Funke an der Schafschere im Wollstall
+- Er versteht das Prinzip noch **nicht** — die Einsicht kommt erst Jahre später in Kaupvik
+- **Die Kette ist nicht neu** — Tibun hat sie schon lange (Autor, 04.09.2026)
+- **Er verschenkt sie nicht: Frida nimmt sie nicht an.** Wie es dann zum Funken kommt · **???**
+- Der Bernstein selbst stammt von seiner Mutter ([C-041](../../Notizen/Challenges.md#c-041-prolog--bernstein-fundort)) — **wenige Tage, bevor sie verschwindet**
+
+### 3. Der Blitz — Girlins Verschwinden
 - Girlin verschwindet bei Blitzschlag-Aktivierung des freigelegten Rings ([C-012](../../Notizen/Challenges.md))
 - Tibun ist einziger Zeuge
 - **Tibun untersucht die frische Mulde** und begreift, dass der Ring **schneidet**: halbierte Steine, glatt durchtrennte Wurzeln, eine Schnittfläche wie mit dem Messer. Das Wissen, mit dem er zehn Jahre später Azzim tötet, liegt ab hier beim Leser — und niemand im Dorf glaubt ihm ([C-098 ✓](../../Notizen/Challenges.md#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-))

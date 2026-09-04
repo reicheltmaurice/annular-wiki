@@ -10,8 +10,6 @@
   * [Kapitelstruktur](Plots/Plot-1/Kapitelstruktur.md)
   * [Zeitleiste](Plots/Plot-1/Zeitleiste.md)
   * [Plot 1 (alte Notiz)](Plots/Plot-1/Plot-1.md)
-  * [Szenen-Log](Plots/Plot-1/Szenen/README.md)
-    * [Prolog: Die Entdeckung](Plots/Plot-1/Szenen/Prolog/Die-Entdeckung.md)
 
 ## Charaktere
 

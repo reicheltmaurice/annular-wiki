@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | **Rolle** | Mutter von Tibun |
-| **Alter** | 33 (Prolog) · **34** (Verschwinden) · 44 (Finale) — 10 Jahre in der Wüste, siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md). Bei Tibuns Geburt **18**, bei Trudas **25** |
+| **Alter** | **34** (Auftakt und Verschwinden, Jahr 0) · 44 (Finale) — 10 Jahre in der Wüste, siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md). Bei Tibuns Geburt **18**, bei Trudas **25** |
 | **Herkunft** | **Zugezogen aus einem Nachbarweiler** — dieselbe Kultur und Sprache, aber nicht dieselben Leute. Welcher Weiler und warum sie kam: ??? — siehe [C-024](../../Notizen/Challenges.md#c-024-girlin--herkunft--vorgeschichte) |
 
 **Familie**

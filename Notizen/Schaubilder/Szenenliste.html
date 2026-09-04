@@ -80,61 +80,77 @@ footer strong{color:var(--ink-2)}
 @media (max-width:640px){.wrap{padding:28px 16px 60px}.controls{position:static}
 .sz{grid-template-columns:42px 1fr;gap:10px}dl.w>div{grid-template-columns:1fr;gap:1px}select{max-width:100%}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
+
+.sprung{display:flex;align-items:center;gap:10px;margin:10px 0 3px;font-family:var(--fm);font-size:10.5px;
+letter-spacing:.08em;text-transform:uppercase;color:var(--gap)}
+.sprung::before{content:"";flex:0 0 22px;height:1px;background:var(--gap);opacity:.5}
+.sprung::after{content:"";flex:1;height:1px;background:var(--gap);opacity:.22}
+.sprung[hidden]{display:none!important}
+.sz.ist-prolog{border-left-width:5px}
 </style>
 
 <div class="wrap">
 <header>
   <div class="eyebrow">Annular · Plot 1 · Stand 04.09.2026</div>
   <h1>Was jede Szene will</h1>
-  <p class="lede">43 Szenenkandidaten aus Zeitleiste und Kapitelstruktur, gegliedert in Prolog, Anfang, Hauptteil und Schluss — als Inhaltsverzeichnis eines Buchs, das noch niemand geschrieben hat. Die Grundansicht zeigt nur, <em>was geschieht</em>; eine Ebene tiefer steht, <em>wer was will und was im Weg steht</em>.</p>
+  <p class="lede">44 Szenenkandidaten, gegliedert in Prolog, Anfang, Hauptteil und Schluss — als Inhaltsverzeichnis eines Buchs, das noch niemand geschrieben hat. Die Grundansicht zeigt nur, <em>was geschieht</em>; eine Ebene tiefer steht, <em>wer was will und was im Weg steht</em>.</p>
   <div class="facts">
-    <div class="fact"><b>43</b><span>Szenenkandidaten<br>22 Tibun · 21 Girlin</span></div>
+    <div class="fact"><b>44</b><span>Szenenkandidaten<br>23 Tibun · 21 Girlin</span></div>
     <div class="fact"><b>21</b><span>vollständig:<br>Ziel, Hindernis, Ausgang</span></div>
-    <div class="fact warn"><b>14</b><span>ohne Hindernis —<br>hier fehlt Spannung</span></div>
-    <div class="fact warn"><b>6</b><span>reine Zustände:<br>weder Ziel noch Hindernis</span></div>
+    <div class="fact warn"><b>15</b><span>ohne Hindernis —<br>hier fehlt Spannung</span></div>
+    <div class="fact warn"><b>7</b><span>reine Zustände:<br>weder Ziel noch Hindernis</span></div>
   </div>
-  <p class="laenge"><b>Grobe Größenordnung:</b> 43 Szenen zu je 1.200–2.000 Wörtern ergäben rund <b>52.000–86.000 Wörter</b>. Für Jugendbücher ab 16 sind 60.000–90.000 üblich — die Zahl liegt im Rahmen. Branchenrichtwerte, keine Festlegung; nichts davon steht im Wiki.</p>
+  <p class="laenge"><b>Grobe Größenordnung:</b> 44 Szenen zu je 1.200–2.000 Wörtern ergäben rund <b>53.000–88.000 Wörter</b>. Für Jugendbücher ab 16 sind 60.000–90.000 üblich. Branchenrichtwerte, keine Festlegung; nichts davon steht im Wiki.</p>
 </header>
 
 <div class="hinweis">
-  <p><b>Belegt ist eine Dreiteilung, keine Fünfteilung.</b> Die Kapitelstruktur nennt „einen Prolog-Block, darunter zwei parallele Stränge, abgeschlossen durch einen gemeinsamen Block“. <b>Prolog</b> und <b>Schluss</b> stehen deshalb fest. Wo der <b>Anfang</b> endet, steht nirgends — deshalb kannst du diesen Schnitt oben selbst setzen.</p>
-  <p><b>Ein Epilog ist nicht vorgesehen</b>, und zwar ausdrücklich: „Das Buch endet mit der Entscheidung, nicht mit ihrer Ausführung“ und „Der Norden nach Tibuns Verschwinden wird nicht erzählt“. Der Abschnitt steht unten trotzdem — leer, damit sichtbar bleibt, wogegen du entscheidest.</p>
-  <p><b>Diese Seite erfindet nichts.</b> Ziele und Hindernisse stehen nur da, wo das Wiki sie hergibt. Jedes <span class="offen">???</span> ist eine echte Leerstelle. Auch der Szenenzuschnitt ist eine Lesart.</p>
+  <p><b>Entschieden am 04.09.2026:</b> Der Prolog besteht aus <b>„Das Beben“</b>. Das frühere „Das Beben und der Blitz“ ist in zwei Szenen geteilt. Und der Auftakt liegt <b>vollständig in Jahr 0</b>: <b>Beben → Bernstein-Effekt → Blitz</b>, jeweils nur ein paar Tage auseinander.</p>
+  <p><b>Jahr −1 entfällt damit.</b> Der Bernstein-Effekt lag bisher ein Jahr vor dem Verschwinden — jetzt liegt er dazwischen. <b>Tibun ist dabei 16, nicht 15.</b> Die Erzählung läuft dadurch chronologisch; ein Rücksprung ist nicht mehr nötig.</p>
+  <p><b>Diese Seite erfindet nichts.</b> Ziele und Hindernisse stehen nur da, wo das Wiki sie hergibt. Jedes <span class="offen">???</span> ist eine echte Leerstelle. Der Szenenzuschnitt ist eine Lesart.</p>
 </div>
 
 <div class="controls">
   <div class="cg"><span>Reihenfolge</span>
-    <button class="chip" data-ord="chrono" aria-pressed="true">Chronologisch</button>
+    <button class="chip" data-ord="erz" aria-pressed="true">Erzählt</button>
+    <button class="chip" data-ord="chrono" aria-pressed="false">Chronologisch</button>
     <button class="chip" data-ord="block" aria-pressed="false">Blockweise</button></div>
-  <div class="cg"><span>Anfang endet nach</span><select id="grenze"><option value="2">2 · Das Beben und der Blitz (0)</option><option value="3">3 · Ankunft im Fezzan (0)</option><option value="4">4 · Die Mulde (0)</option><option value="5">5 · Sprache und Fremdheit (0)</option><option value="6">6 · Was das Dorf daraus macht (0)</option><option value="7">7 · Der Suchtrupp (0)</option><option value="8">8 · Semund und Millia (0)</option><option value="9">9 · Der Unfall (0)</option><option value="10">10 · Der Ausschluss (0)</option><option value="11">11 · Aufbruch aus Skirraa (+1)</option><option value="12">12 · Bellbrim (+1)</option><option value="13">13 · Die Zwischenstation (+1)</option><option value="14">14 · Ankunft in Kaupvik (+1)</option><option value="15">15 · Die Zieheltern (+1)</option><option value="16" selected>16 · Sammeln ohne zu wissen wie (+1)</option><option value="17">17 · Der Neffe (+3)</option><option value="18">18 · Azzim, Auftritt 1 (+3)</option><option value="19">19 · Der Erkenntnismoment (+4)</option><option value="20">20 · Das dritte Kind (+4)</option><option value="21">21 · Das Ziel kippt (+4)</option><option value="22">22 · Der Ring bekommt einen neuen Zweck (+4)</option><option value="23">23 · Die Bitte (+5)</option><option value="24">24 · Die Trennung vom Clan (+5)</option><option value="25">25 · Das Tischmodell (+5)</option><option value="26">26 · Arbeit am Generator (+5)</option><option value="27">27 · Der Basar (+5)</option><option value="28">28 · Der Transport (+7)</option><option value="29">29 · Azzim, Auftritt 2 (+7)</option><option value="30">30 · Der Ring liegt in der Schlucht (+8)</option><option value="31">31 · Vollendung des Generators (+8)</option><option value="32">32 · Aufbruch aus Kaupvik (+9)</option><option value="33">33 · Azzim, Auftritt 3 (+9)</option><option value="34">34 · Die Werkstatt an der Tabustelle (+9)</option><option value="35">35 · Die Nachricht liegt bereit (+9)</option><option value="36">36 · Der Weiler warnt und meidet (+9)</option><option value="37">37 · Die Wala lässt ihn gewähren (+9)</option><option value="38">38 · Truda hält ihn für verloren (+9)</option></select></div>
+  <div class="cg"><span>Anfang endet nach</span><select id="grenze"><option value="2">2 · Der Bernstein-Effekt (0)</option><option value="3">3 · Der Blitz (0)</option><option value="4">4 · Ankunft im Fezzan (0)</option><option value="5">5 · Die Mulde (0)</option><option value="6">6 · Sprache und Fremdheit (0)</option><option value="7">7 · Was das Dorf daraus macht (0)</option><option value="8">8 · Der Suchtrupp (0)</option><option value="9">9 · Semund und Millia (0)</option><option value="10">10 · Der Unfall (0)</option><option value="11">11 · Der Ausschluss (0)</option><option value="12">12 · Aufbruch aus Skirraa (+1)</option><option value="13">13 · Bellbrim (+1)</option><option value="14">14 · Die Zwischenstation (+1)</option><option value="15">15 · Ankunft in Kaupvik (+1)</option><option value="16">16 · Die Zieheltern (+1)</option><option value="17" selected>17 · Sammeln ohne zu wissen wie (+1)</option><option value="18">18 · Der Neffe (+3)</option><option value="19">19 · Azzim, Auftritt 1 (+3)</option><option value="20">20 · Der Erkenntnismoment (+4)</option><option value="21">21 · Das dritte Kind (+4)</option><option value="22">22 · Das Ziel kippt (+4)</option><option value="23">23 · Der Ring bekommt einen neuen Zweck (+4)</option><option value="24">24 · Die Bitte (+5)</option><option value="25">25 · Die Trennung vom Clan (+5)</option><option value="26">26 · Das Tischmodell (+5)</option><option value="27">27 · Arbeit am Generator (+5)</option><option value="28">28 · Der Basar (+5)</option><option value="29">29 · Der Transport (+7)</option><option value="30">30 · Azzim, Auftritt 2 (+7)</option><option value="31">31 · Der Ring liegt in der Schlucht (+8)</option><option value="32">32 · Vollendung des Generators (+8)</option><option value="33">33 · Aufbruch aus Kaupvik (+9)</option><option value="34">34 · Azzim, Auftritt 3 (+9)</option><option value="35">35 · Die Werkstatt an der Tabustelle (+9)</option><option value="36">36 · Die Nachricht liegt bereit (+9)</option><option value="37">37 · Der Weiler warnt und meidet (+9)</option><option value="38">38 · Die Wala lässt ihn gewähren (+9)</option><option value="39">39 · Truda hält ihn für verloren (+9)</option><option value="40">40 · Zweifel und Bestätigung (+10)</option></select></div>
   <div class="cg"><span>Strang</span>
     <button class="chip" data-str="beide" aria-pressed="true">Beide</button>
     <button class="chip" data-str="T" aria-pressed="false">Tibun</button>
     <button class="chip" data-str="G" aria-pressed="false">Girlin</button></div>
   <div class="cg"><span>Ebene</span><button class="chip" id="bw" aria-pressed="false">Ziele &amp; Hindernisse</button></div>
   <div class="cg"><span>Filter</span><button class="chip" id="bh" aria-pressed="false">Nur ohne Hindernis</button></div>
-  <span class="treffer" id="tr">43 von 43</span>
+  <span class="treffer" id="tr">44 von 44</span>
 </div>
 
 <main id="liste">
       
-<article class="sz p-t" data-jahr="-1" data-pov="T" data-chrono="1">
-        <div class="pos"><span class="pnr"></span><span class="pj">−1</span></div>
-        <div class="korpus">
-          <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Der Bernstein-Effekt</h3></div>
-          <p class="satz">Verlobungstag. Tibun wirft die Kette weg, der Funke springt an der Schafschere über.</p>
-          <dl class="w"><div><dt>Will</dt><dd>Frida für sich gewinnen</dd></div><div><dt>Hindernis</dt><dd>Fridas Verlobung mit Herik — der besseren Partie</dd></div><div><dt>Ausgang</dt><dd>Er wirft das Muttergeschenk weg. Der Funke sengt Flusen an; er versteht nichts davon.</dd></div></dl>
-          <span class="ch">C-043 · C-071 · C-039</span>
-        </div>
-      </article>      <article class="sz p-t kein-hindernis zustand" data-jahr="0" data-pov="T" data-chrono="2">
+<article class="sz p-t kein-hindernis zustand ist-prolog" data-jahr="0" data-pov="T" data-chrono="1" data-titel="Das Beben">
         <div class="pos"><span class="pnr"></span><span class="pj">0</span></div>
         <div class="korpus">
-          <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Das Beben und der Blitz</h3></div>
-          <p class="satz">Weltweites Beben. Girlin verschwindet vor seinen Augen.</p>
-          <dl class="w"><div><dt>Will</dt><dd><span class="offen">???</span></dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Girlin ist fort. Tibun ist einziger Zeuge.</dd></div></dl>
-          <span class="ch">C-057 · C-128</span>
+          <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Das Beben</h3></div>
+          <p class="satz">Ein Beben, wie es niemand kennt. Das Ringsystem erwacht.</p>
+          <dl class="w"><div><dt>Will</dt><dd><span class="offen">???</span></dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Die Menschen haben Angst. Wie der Ring dadurch zugänglich wird, ist offen.</dd></div></dl>
+          <span class="ch">C-008 ✓ · C-056 · C-128</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="0" data-pov="G" data-chrono="3">
+      </article>      <article class="sz p-t" data-jahr="0" data-pov="T" data-chrono="2" data-titel="Der Bernstein-Effekt">
+        <div class="pos"><span class="pnr"></span><span class="pj">0</span></div>
+        <div class="korpus">
+          <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Der Bernstein-Effekt</h3></div>
+          <p class="satz">Verlobungstag, wenige Tage nach dem Beben. Frida nimmt die Kette nicht an; kurz darauf springt der Funke an der Schafschere über.</p>
+          <dl class="w"><div><dt>Will</dt><dd>Frida für sich gewinnen — die Kette hat er schon lange</dd></div><div><dt>Hindernis</dt><dd>Sie nimmt die Kette nicht an; sie ist mit Herik verlobt, der besseren Partie</dd></div><div><dt>Ausgang</dt><dd>Abgewiesen. Der Funke sengt Flusen an; er versteht nichts davon. Wie es dazu kommt: ??? — die alte Szene gilt nicht als Kanon.</dd></div></dl>
+          <span class="ch">C-043 · C-071 · C-039</span>
+        </div>
+      </article>      <article class="sz p-t kein-hindernis zustand" data-jahr="0" data-pov="T" data-chrono="3" data-titel="Der Blitz">
+        <div class="pos"><span class="pnr"></span><span class="pj">0</span></div>
+        <div class="korpus">
+          <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Der Blitz</h3></div>
+          <p class="satz">Wenige Tage später: Gewitter über der Skir. Girlin verschwindet vor seinen Augen.</p>
+          <dl class="w"><div><dt>Will</dt><dd><span class="offen">???</span></dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Girlin ist fort. Tibun ist einziger Zeuge.</dd></div></dl>
+          <span class="ch">C-012 ✓ · C-057</span>
+        </div>
+      </article>      <article class="sz p-g" data-jahr="0" data-pov="G" data-chrono="4" data-titel="Ankunft im Fezzan">
         <div class="pos"><span class="pnr"></span><span class="pj">0</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Ankunft im Fezzan</h3></div>
@@ -142,7 +158,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Zurück — der Ring ist der einzige Rückweg</dd></div><div><dt>Hindernis</dt><dd>Ein Fußmarsch nach Norden ist keine Möglichkeit, sondern eine Todesart</dd></div><div><dt>Ausgang</dt><dd>Die Kel Aman nehmen sie mit.</dd></div></dl>
           <span class="ch">C-114 ✓ · C-014</span>
         </div>
-      </article>      <article class="sz p-t kein-hindernis" data-jahr="0" data-pov="T" data-chrono="4">
+      </article>      <article class="sz p-t kein-hindernis" data-jahr="0" data-pov="T" data-chrono="5" data-titel="Die Mulde">
         <div class="pos"><span class="pnr"></span><span class="pj">0</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Die Mulde</h3></div>
@@ -150,7 +166,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Begreifen, was mit der Mutter geschah</dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Er begreift: Der Ring schneidet. Dieses Wissen tötet zehn Jahre später Azzim.</dd></div></dl>
           <span class="ch">C-098 ✓</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="0" data-pov="G" data-chrono="5">
+      </article>      <article class="sz p-g" data-jahr="0" data-pov="G" data-chrono="6" data-titel="Sprache und Fremdheit">
         <div class="pos"><span class="pnr"></span><span class="pj">0</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Sprache und Fremdheit</h3></div>
@@ -158,7 +174,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Sich verständlich machen</dd></div><div><dt>Hindernis</dt><dd>Sprach- und Kulturbarriere</dd></div><div><dt>Ausgang</dt><dd><span class="offen">???</span></dd></div></dl>
           <span class="ch">C-003</span>
         </div>
-      </article>      <article class="sz p-t" data-jahr="0" data-pov="T" data-chrono="6">
+      </article>      <article class="sz p-t" data-jahr="0" data-pov="T" data-chrono="7" data-titel="Was das Dorf daraus macht">
         <div class="pos"><span class="pnr"></span><span class="pj">0</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Was das Dorf daraus macht</h3></div>
@@ -166,7 +182,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Dass man ihm glaubt, was er gesehen hat</dd></div><div><dt>Hindernis</dt><dd>Die Wala deutet den Sand als Zeichen der Götter</dd></div><div><dt>Ausgang</dt><dd>Girlin für tot erklärt, die Stelle zum Tabu. Das Verschwinden glaubt man ihm — seine Deutung nicht.</dd></div></dl>
           <span class="ch">C-094 ✓</span>
         </div>
-      </article>      <article class="sz p-t" data-jahr="0" data-pov="T" data-chrono="7">
+      </article>      <article class="sz p-t" data-jahr="0" data-pov="T" data-chrono="8" data-titel="Der Suchtrupp">
         <div class="pos"><span class="pnr"></span><span class="pj">0</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Der Suchtrupp</h3></div>
@@ -174,7 +190,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Dass Girlin gesucht wird</dd></div><div><dt>Hindernis</dt><dd>Niemand teilt seine Deutung</dd></div><div><dt>Ausgang</dt><dd>Girlin gilt als weggelaufen oder tot.</dd></div></dl>
           <span class="ch">C-095 ✓</span>
         </div>
-      </article>      <article class="sz p-t" data-jahr="0" data-pov="T" data-chrono="8">
+      </article>      <article class="sz p-t" data-jahr="0" data-pov="T" data-chrono="9" data-titel="Semund und Millia">
         <div class="pos"><span class="pnr"></span><span class="pj">0</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Semund und Millia</h3></div>
@@ -182,7 +198,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Dass der Vater an Girlin festhält — er weiß ja, dass sie lebt</dd></div><div><dt>Hindernis</dt><dd>Semund hat sie für tot erklärt</dd></div><div><dt>Ausgang</dt><dd>Für Tibun ein Verrat. Wie er zu Millia selbst steht: widersprüchlich überliefert.</dd></div></dl>
           <span class="ch">C-078 · C-046</span>
         </div>
-      </article>      <article class="sz p-t kein-hindernis zustand" data-jahr="0" data-pov="T" data-chrono="9">
+      </article>      <article class="sz p-t kein-hindernis zustand" data-jahr="0" data-pov="T" data-chrono="10" data-titel="Der Unfall">
         <div class="pos"><span class="pnr"></span><span class="pj">0</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Der Unfall</h3></div>
@@ -190,7 +206,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd><span class="offen">???</span></dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Eine Nebenfigur wird verletzt. Schwere Gewissensbisse.</dd></div></dl>
           <span class="ch">C-058</span>
         </div>
-      </article>      <article class="sz p-t" data-jahr="0" data-pov="T" data-chrono="10">
+      </article>      <article class="sz p-t" data-jahr="0" data-pov="T" data-chrono="11" data-titel="Der Ausschluss">
         <div class="pos"><span class="pnr"></span><span class="pj">0</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Der Ausschluss</h3></div>
@@ -198,7 +214,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd><span class="offen">???</span></dd></div><div><dt>Hindernis</dt><dd>Meidung durch die Dorfbewohner</dd></div><div><dt>Ausgang</dt><dd>Schuld, Gewissenslast und Ausschluss — zusammen der Antrieb zum Aufbruch.</dd></div></dl>
           <span class="ch">C-077</span>
         </div>
-      </article>      <article class="sz p-t kein-hindernis" data-jahr="1" data-pov="T" data-chrono="11">
+      </article>      <article class="sz p-t kein-hindernis" data-jahr="1" data-pov="T" data-chrono="12" data-titel="Aufbruch aus Skirraa">
         <div class="pos"><span class="pnr"></span><span class="pj">+1</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Aufbruch aus Skirraa</h3></div>
@@ -206,7 +222,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Die Mutter finden. Dazu Bernstein, Ringwissen, Mechanik</dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Er geht — fort von der Schuld und hin zum Wissen.</dd></div></dl>
           <span class="ch">C-022 ✓</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="1" data-pov="G" data-chrono="12">
+      </article>      <article class="sz p-g" data-jahr="1" data-pov="G" data-chrono="13" data-titel="Bellbrim">
         <div class="pos"><span class="pnr"></span><span class="pj">+1</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Bellbrim</h3></div>
@@ -214,7 +230,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Verstehen, was der Ring ist</dd></div><div><dt>Hindernis</dt><dd>Vandalisch ist mit ihrer Sprache verwandt, aber nicht gleich — die Verständigung braucht Monate</dd></div><div><dt>Ausgang</dt><dd>Bellbrim versteht als Erste, was der Ring ist.</dd></div></dl>
           <span class="ch">C-026 · C-113</span>
         </div>
-      </article>      <article class="sz p-t" data-jahr="1" data-pov="T" data-chrono="13">
+      </article>      <article class="sz p-t" data-jahr="1" data-pov="T" data-chrono="14" data-titel="Die Zwischenstation">
         <div class="pos"><span class="pnr"></span><span class="pj">+1</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Die Zwischenstation</h3></div>
@@ -222,7 +238,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Weiterreisen — und erfahren, was der Ring ist</dd></div><div><dt>Hindernis</dt><dd>Er fragt Fremde zum ersten Mal nach dem Ring und wird abgewiesen</dd></div><div><dt>Ausgang</dt><dd>Er lernt zu überleben, ohne Sippe. Und er lernt zu schweigen.</dd></div></dl>
           <span class="ch">C-124 · C-034 ✓</span>
         </div>
-      </article>      <article class="sz p-t kein-hindernis" data-jahr="1" data-pov="T" data-chrono="14">
+      </article>      <article class="sz p-t kein-hindernis" data-jahr="1" data-pov="T" data-chrono="15" data-titel="Ankunft in Kaupvik">
         <div class="pos"><span class="pnr"></span><span class="pj">+1</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Ankunft in Kaupvik</h3></div>
@@ -230,7 +246,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Wissen über Mechanik, und Bernstein</dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Er verdingt sich am Hafen. Acht Jahre wird er bleiben.</dd></div></dl>
           <span class="ch">C-115 ✓</span>
         </div>
-      </article>      <article class="sz p-t kein-hindernis zustand" data-jahr="1" data-pov="T" data-chrono="15">
+      </article>      <article class="sz p-t kein-hindernis zustand" data-jahr="1" data-pov="T" data-chrono="16" data-titel="Die Zieheltern">
         <div class="pos"><span class="pnr"></span><span class="pj">+1</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Die Zieheltern</h3></div>
@@ -238,7 +254,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd><span class="offen">???</span></dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Der Mann wird seine neue Bezugsperson. Namen und Gewerbe fehlen.</dd></div></dl>
           <span class="ch">C-059</span>
         </div>
-      </article>      <article class="sz p-t" data-jahr="1" data-pov="T" data-chrono="16">
+      </article>      <article class="sz p-t" data-jahr="1" data-pov="T" data-chrono="17" data-titel="Sammeln ohne zu wissen wie">
         <div class="pos"><span class="pnr"></span><span class="pj">+1</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Sammeln ohne zu wissen wie</h3></div>
@@ -246,7 +262,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Genug Bernstein für den Ring</dd></div><div><dt>Hindernis</dt><dd>Bernstein in der nötigen Menge ist nicht zu kaufen wie Brot — und das Prinzip fehlt ihm noch</dd></div><div><dt>Ausgang</dt><dd><span class="offen">???</span></dd></div></dl>
           <span class="ch">C-002</span>
         </div>
-      </article>      <article class="sz p-g kein-hindernis zustand" data-jahr="3" data-pov="G" data-chrono="17">
+      </article>      <article class="sz p-g kein-hindernis zustand" data-jahr="3" data-pov="G" data-chrono="18" data-titel="Der Neffe">
         <div class="pos"><span class="pnr"></span><span class="pj">+3</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Der Neffe</h3></div>
@@ -254,7 +270,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd><span class="offen">???</span></dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Sie kommen zusammen. Seine Frau war zuvor mit einem anderen durchgebrannt.</dd></div></dl>
           <span class="ch">C-060 ✓ · C-105 · C-106</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="3" data-pov="G" data-chrono="18">
+      </article>      <article class="sz p-g" data-jahr="3" data-pov="G" data-chrono="19" data-titel="Azzim, Auftritt 1">
         <div class="pos"><span class="pnr"></span><span class="pj">+3</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Azzim, Auftritt 1</h3></div>
@@ -262,7 +278,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Azzim will sie als Ware — sie ist selten</dd></div><div><dt>Hindernis</dt><dd>Der Clan wehrt den Zugriff ab</dd></div><div><dt>Ausgang</dt><dd>Der Zugriff scheitert. Ab hier kennen sich beide als Feind; zum Wert kommt die Demütigung.</dd></div></dl>
           <span class="ch">C-123 ✓ · C-028</span>
         </div>
-      </article>      <article class="sz p-t kein-hindernis" data-jahr="4" data-pov="T" data-chrono="19">
+      </article>      <article class="sz p-t kein-hindernis" data-jahr="4" data-pov="T" data-chrono="20" data-titel="Der Erkenntnismoment">
         <div class="pos"><span class="pnr"></span><span class="pj">+4</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Der Erkenntnismoment</h3></div>
@@ -270,7 +286,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Verstehen, wie sich genug Ladung erzeugen lässt</dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Die Einsicht: schnelle, kontinuierliche Reibung. Was er mit 15 sah, versteht er jetzt.</dd></div></dl>
           <span class="ch">C-002 · C-005 ✓</span>
         </div>
-      </article>      <article class="sz p-g kein-hindernis zustand" data-jahr="4" data-pov="G" data-chrono="20">
+      </article>      <article class="sz p-g kein-hindernis zustand" data-jahr="4" data-pov="G" data-chrono="21" data-titel="Das dritte Kind">
         <div class="pos"><span class="pnr"></span><span class="pj">+4</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Das dritte Kind</h3></div>
@@ -278,7 +294,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd><span class="offen">???</span></dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Das Kind ist da. Im Finale wird es sechs sein.</dd></div></dl>
           <span class="ch">C-081</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="4" data-pov="G" data-chrono="21">
+      </article>      <article class="sz p-g" data-jahr="4" data-pov="G" data-chrono="22" data-titel="Das Ziel kippt">
         <div class="pos"><span class="pnr"></span><span class="pj">+4</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Das Ziel kippt</h3></div>
@@ -286,7 +302,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Nach Hause — zu Tibun und Truda</dd></div><div><dt>Hindernis</dt><dd>Sie hat jetzt zwei Familien und kann nur eine haben</dd></div><div><dt>Ausgang</dt><dd>Aus „nach Hause gehen“ wird „ich bleibe“. Sechs Jahre vor dem Finale — und der Entschluss wackelt noch.</dd></div></dl>
           <span class="ch">C-082 ✓ · C-081</span>
         </div>
-      </article>      <article class="sz p-g kein-hindernis" data-jahr="4" data-pov="G" data-chrono="22">
+      </article>      <article class="sz p-g kein-hindernis" data-jahr="4" data-pov="G" data-chrono="23" data-titel="Der Ring bekommt einen neuen Zweck">
         <div class="pos"><span class="pnr"></span><span class="pj">+4</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Der Ring bekommt einen neuen Zweck</h3></div>
@@ -294,7 +310,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Dass die Familie im Norden weiß, dass sie lebt</dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Der Ring wird ab jetzt für eine Nachricht geholt, nicht für sie selbst.</dd></div></dl>
           <span class="ch">C-101 · C-134</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="5" data-pov="G" data-chrono="23">
+      </article>      <article class="sz p-g" data-jahr="5" data-pov="G" data-chrono="24" data-titel="Die Bitte">
         <div class="pos"><span class="pnr"></span><span class="pj">+5</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Die Bitte</h3></div>
@@ -302,7 +318,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Der Clan soll den Ring in die Schlucht bringen</dd></div><div><dt>Hindernis</dt><dd>Drei Phasen stehen davor: Zugehörigkeit, Wissen, Bitte</dd></div><div><dt>Ausgang</dt><dd>Der Clan sagt zu — aus Sippenpflicht gegenüber dem Neffen, nicht ihretwegen.</dd></div></dl>
           <span class="ch">C-061 ✓ · C-105</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="5" data-pov="G" data-chrono="24">
+      </article>      <article class="sz p-g" data-jahr="5" data-pov="G" data-chrono="25" data-titel="Die Trennung vom Clan">
         <div class="pos"><span class="pnr"></span><span class="pj">+5</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Die Trennung vom Clan</h3></div>
@@ -310,7 +326,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Bei Bellbrim am Ring arbeiten</dd></div><div><dt>Hindernis</dt><dd>Für den Neffen bedeutet es den Verlust seiner Sippe — der teuerste Preis außer Tibuns</dd></div><div><dt>Ausgang</dt><dd>Sie ziehen in die Schlucht. Ab hier ist Girlin ohne Sippenschutz.</dd></div></dl>
           <span class="ch">C-129 · C-105</span>
         </div>
-      </article>      <article class="sz p-t kein-hindernis" data-jahr="5" data-pov="T" data-chrono="25">
+      </article>      <article class="sz p-t kein-hindernis" data-jahr="5" data-pov="T" data-chrono="26" data-titel="Das Tischmodell">
         <div class="pos"><span class="pnr"></span><span class="pj">+5</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Das Tischmodell</h3></div>
@@ -318,7 +334,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Einen funktionierenden Generator im Kleinen</dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Das Modell läuft. Der Strang verliert in diesen Jahren nichts — kein Rückschlag, kein Gegenspieler.</dd></div></dl>
           <span class="ch">C-118 · C-099</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="5" data-pov="G" data-chrono="26">
+      </article>      <article class="sz p-g" data-jahr="5" data-pov="G" data-chrono="27" data-titel="Arbeit am Generator">
         <div class="pos"><span class="pnr"></span><span class="pj">+5</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Arbeit am Generator</h3></div>
@@ -326,7 +342,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Den Ring auslösen können</dd></div><div><dt>Hindernis</dt><dd>Der Ring ist noch gar nicht da — was ohne ihn prüfbar ist, ist offen</dd></div><div><dt>Ausgang</dt><dd><span class="offen">???</span></dd></div></dl>
           <span class="ch">C-135 · C-131</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="5" data-pov="G" data-chrono="27">
+      </article>      <article class="sz p-g" data-jahr="5" data-pov="G" data-chrono="28" data-titel="Der Basar">
         <div class="pos"><span class="pnr"></span><span class="pj">+5</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Der Basar</h3></div>
@@ -334,7 +350,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Material beschaffen</dd></div><div><dt>Hindernis</dt><dd>Sie müssen dafür das Versteck verlassen — der einzige Weg, auf dem Azzim sie finden kann</dd></div><div><dt>Ausgang</dt><dd><span class="offen">???</span></dd></div></dl>
           <span class="ch">C-132</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="7" data-pov="G" data-chrono="28">
+      </article>      <article class="sz p-g" data-jahr="7" data-pov="G" data-chrono="29" data-titel="Der Transport">
         <div class="pos"><span class="pnr"></span><span class="pj">+7</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Der Transport</h3></div>
@@ -342,7 +358,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Den Ring in die Schlucht bringen</dd></div><div><dt>Hindernis</dt><dd>5,7 Tonnen durch die Wüste — das Verfahren ist offen</dd></div><div><dt>Ausgang</dt><dd>Der Ring erreicht die Schlucht.</dd></div></dl>
           <span class="ch">C-125 · C-103 · C-130</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="7" data-pov="G" data-chrono="29">
+      </article>      <article class="sz p-g" data-jahr="7" data-pov="G" data-chrono="30" data-titel="Azzim, Auftritt 2">
         <div class="pos"><span class="pnr"></span><span class="pj">+7</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Azzim, Auftritt 2</h3></div>
@@ -350,7 +366,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Azzim will sie kaufen oder eintauschen</dd></div><div><dt>Hindernis</dt><dd>Sippenpflicht schlägt Handel</dd></div><div><dt>Ausgang</dt><dd>Der Clan lehnt ab. Er verliert den Zug und sieht nicht, wohin der Ring geht.</dd></div></dl>
           <span class="ch">C-123 ✓</span>
         </div>
-      </article>      <article class="sz p-g kein-hindernis zustand" data-jahr="8" data-pov="G" data-chrono="30">
+      </article>      <article class="sz p-g kein-hindernis zustand" data-jahr="8" data-pov="G" data-chrono="31" data-titel="Der Ring liegt in der Schlucht">
         <div class="pos"><span class="pnr"></span><span class="pj">+8</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Der Ring liegt in der Schlucht</h3></div>
@@ -358,7 +374,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd><span class="offen">???</span></dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Der Ring liegt, wie jeder Ring liegt. Aufgerichtet wird er nie.</dd></div></dl>
           <span class="ch">C-111 ✓</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="8" data-pov="G" data-chrono="31">
+      </article>      <article class="sz p-g" data-jahr="8" data-pov="G" data-chrono="32" data-titel="Vollendung des Generators">
         <div class="pos"><span class="pnr"></span><span class="pj">+8</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Vollendung des Generators</h3></div>
@@ -366,7 +382,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Den Generator fertigstellen</dd></div><div><dt>Hindernis</dt><dd>Bauart und Wirkprinzip sind offen</dd></div><div><dt>Ausgang</dt><dd>Fertig wird er erst in +10, kurz vor dem Angriff.</dd></div></dl>
           <span class="ch">C-135</span>
         </div>
-      </article>      <article class="sz p-t" data-jahr="9" data-pov="T" data-chrono="32">
+      </article>      <article class="sz p-t" data-jahr="9" data-pov="T" data-chrono="33" data-titel="Aufbruch aus Kaupvik">
         <div class="pos"><span class="pnr"></span><span class="pj">+9</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Aufbruch aus Kaupvik</h3></div>
@@ -374,7 +390,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Zurück zum Ring am Bach</dd></div><div><dt>Hindernis</dt><dd>Nichts — der Aufbruch kostet ihn ausdrücklich nichts</dd></div><div><dt>Ausgang</dt><dd>Die Zieheltern bleiben lebend zurück. Ein Abschied, kein Verlust.</dd></div></dl>
           <span class="ch">C-059 · C-118</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="9" data-pov="G" data-chrono="33">
+      </article>      <article class="sz p-g" data-jahr="9" data-pov="G" data-chrono="34" data-titel="Azzim, Auftritt 3">
         <div class="pos"><span class="pnr"></span><span class="pj">+9</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Azzim, Auftritt 3</h3></div>
@@ -382,7 +398,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Azzim will zugreifen — diesmal ist kein Clan da</dd></div><div><dt>Hindernis</dt><dd>Sie ist schneller, und er hat keine Leute</dd></div><div><dt>Ausgang</dt><dd>Sie entkommt und flieht heim — er folgt ihr und findet die Schlucht.</dd></div></dl>
           <span class="ch">C-133</span>
         </div>
-      </article>      <article class="sz p-t" data-jahr="9" data-pov="T" data-chrono="34">
+      </article>      <article class="sz p-t" data-jahr="9" data-pov="T" data-chrono="35" data-titel="Die Werkstatt an der Tabustelle">
         <div class="pos"><span class="pnr"></span><span class="pj">+9</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Die Werkstatt an der Tabustelle</h3></div>
@@ -390,7 +406,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Die Anlage bauen und den Ring zünden</dd></div><div><dt>Hindernis</dt><dd>Der Weiler warnt ihn; niemand hilft, er wird gemieden</dd></div><div><dt>Ausgang</dt><dd>Er baut überdacht über der Tabustelle weiter.</dd></div></dl>
           <span class="ch">C-100 ✓</span>
         </div>
-      </article>      <article class="sz p-g kein-hindernis" data-jahr="9" data-pov="G" data-chrono="35">
+      </article>      <article class="sz p-g kein-hindernis" data-jahr="9" data-pov="G" data-chrono="36" data-titel="Die Nachricht liegt bereit">
         <div class="pos"><span class="pnr"></span><span class="pj">+9</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Die Nachricht liegt bereit</h3></div>
@@ -398,7 +414,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Ein Zeichen in den Norden schicken</dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd>Die Nachricht liegt bereit. Was sie ist, ist offen.</dd></div></dl>
           <span class="ch">C-101 · C-134</span>
         </div>
-      </article>      <article class="sz p-t" data-jahr="9" data-pov="T" data-chrono="36">
+      </article>      <article class="sz p-t" data-jahr="9" data-pov="T" data-chrono="37" data-titel="Der Weiler warnt und meidet">
         <div class="pos"><span class="pnr"></span><span class="pj">+9</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Der Weiler warnt und meidet</h3></div>
@@ -406,7 +422,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd><span class="offen">???</span></dd></div><div><dt>Hindernis</dt><dd>Anheftendes Pech: Die anderen wollen nur nicht hineingezogen werden</dd></div><div><dt>Ausgang</dt><dd>Niemand vertreibt ihn. Wer sich dorthin begibt, ist selber schuld.</dd></div></dl>
           <span class="ch">C-100 ✓</span>
         </div>
-      </article>      <article class="sz p-t" data-jahr="9" data-pov="T" data-chrono="37">
+      </article>      <article class="sz p-t" data-jahr="9" data-pov="T" data-chrono="38" data-titel="Die Wala lässt ihn gewähren">
         <div class="pos"><span class="pnr"></span><span class="pj">+9</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Die Wala lässt ihn gewähren</h3></div>
@@ -414,7 +430,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd><span class="offen">???</span></dd></div><div><dt>Hindernis</dt><dd>Sie verlöre ihr Gesicht, wenn sie selbst mehr über den Ring wissen wollte</dd></div><div><dt>Ausgang</dt><dd>Sie deutet es wie zuvor, schärft allen den Zorn der Götter ein — und lässt ihn gewähren.</dd></div></dl>
           <span class="ch">C-050</span>
         </div>
-      </article>      <article class="sz p-t kein-hindernis" data-jahr="9" data-pov="T" data-chrono="38">
+      </article>      <article class="sz p-t kein-hindernis" data-jahr="9" data-pov="T" data-chrono="39" data-titel="Truda hält ihn für verloren">
         <div class="pos"><span class="pnr"></span><span class="pj">+9</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Truda hält ihn für verloren</h3></div>
@@ -422,7 +438,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Truda will ihn zur Vernunft bringen</dd></div><div><dt>Hindernis</dt><dd><span class="offen">???</span></dd></div><div><dt>Ausgang</dt><dd><span class="offen">???</span></dd></div></dl>
           <span class="ch">C-077 · C-047</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="10" data-pov="G" data-chrono="39">
+      </article>      <article class="sz p-g" data-jahr="10" data-pov="G" data-chrono="40" data-titel="Zweifel und Bestätigung">
         <div class="pos"><span class="pnr"></span><span class="pj">+10</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Zweifel und Bestätigung</h3></div>
@@ -430,7 +446,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Bleiben</dd></div><div><dt>Hindernis</dt><dd>Drei Dinge treiben den Zweifel: der laufende Generator, Azzims Auftritt in +9 und das älter werdende Kind</dd></div><div><dt>Ausgang</dt><dd>Sie bestätigt ihren Entschluss. Der Preis ist bezahlt, bevor der Sohn ankommt.</dd></div></dl>
           <span class="ch">C-082 ✓</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="10" data-pov="G" data-chrono="40">
+      </article>      <article class="sz p-g" data-jahr="10" data-pov="G" data-chrono="41" data-titel="Der Angriff — Zündung 1">
         <div class="pos"><span class="pnr"></span><span class="pj">+10</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Der Angriff — Zündung 1</h3></div>
@@ -438,7 +454,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Azzim will die Schlucht nehmen</dd></div><div><dt>Hindernis</dt><dd>Fels, Verteidigungslage — und der Neffe verteidigt sie</dd></div><div><dt>Ausgang</dt><dd>Im Kampf löst der Wüstengenerator aus. Azzim wird nach Jütland geworfen.</dd></div></dl>
           <span class="ch">C-102 · C-133 · C-112</span>
         </div>
-      </article>      <article class="sz p-t" data-jahr="10" data-pov="T" data-chrono="41">
+      </article>      <article class="sz p-t" data-jahr="10" data-pov="T" data-chrono="42" data-titel="Azzim vor den Füßen">
         <div class="pos"><span class="pnr"></span><span class="pj">+10</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Azzim vor den Füßen</h3></div>
@@ -446,7 +462,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Auskunft über Girlin — der erste Beweis, dass drüben Menschen leben</dd></div><div><dt>Hindernis</dt><dd>Azzim will selbst zum Ring zurück</dd></div><div><dt>Ausgang</dt><dd>Beide wollen dasselbe Ding. Es kommt zum Kampf.</dd></div></dl>
           <span class="ch">C-062 ✓</span>
         </div>
-      </article>      <article class="sz p-t" data-jahr="10" data-pov="T" data-chrono="42">
+      </article>      <article class="sz p-t" data-jahr="10" data-pov="T" data-chrono="43" data-titel="Der Kampf — Zündung 2">
         <div class="pos"><span class="pnr"></span><span class="pj">+10</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-t">Tibun</span><h3>Der Kampf — Zündung 2</h3></div>
@@ -454,7 +470,7 @@ footer strong{color:var(--ink-2)}
           <dl class="w"><div><dt>Will</dt><dd>Überleben und den Auslöser erreichen</dd></div><div><dt>Hindernis</dt><dd>Azzim ist der Stärkere</dd></div><div><dt>Ausgang</dt><dd>Die Kette fällt aus dem Dachstuhl. Azzim wird von der Kugelgrenze zerteilt, Tibun reist. Notwehr, kein Plan.</dd></div></dl>
           <span class="ch">C-099 · C-109 ✓</span>
         </div>
-      </article>      <article class="sz p-g" data-jahr="10" data-pov="G" data-chrono="43">
+      </article>      <article class="sz p-g" data-jahr="10" data-pov="G" data-chrono="44" data-titel="Wiedersehen und Schluss">
         <div class="pos"><span class="pnr"></span><span class="pj">+10</span></div>
         <div class="korpus">
           <div class="kopf"><span class="pov pov-g">Girlin</span><h3>Wiedersehen und Schluss</h3></div>
@@ -467,7 +483,7 @@ footer strong{color:var(--ink-2)}
 
 <footer>
   Quellen: <code>Plots/Plot-1/Zeitleiste.md</code>, <code>Plots/Plot-1/Kapitelstruktur.md</code>, <code>Notizen/Challenges.md</code> · Stand 04.09.2026.<br>
-  <strong>Nicht enthalten:</strong> Kapitelnummern, Kapitelgrenzen, Kapitellängen, eine entschiedene Erzählreihenfolge. Die Nummer links ist die Position in der gewählten Reihenfolge, keine Kapitelnummer.<br>
+  <strong>Nicht enthalten:</strong> Kapitelnummern, Kapitelgrenzen, Kapitellängen. Die Nummer links ist die Position in der gewählten Reihenfolge, keine Kapitelnummer.<br>
   Szenenzuschnitt, die Zuordnung der Ziele und die Anfang-Grenze sind Lesehilfen dieser Seite und stehen nicht im Wiki.
 </footer>
 </div>
@@ -476,58 +492,58 @@ footer strong{color:var(--ink-2)}
 (function(){
   var liste=document.getElementById('liste'), tr=document.getElementById('tr'), sel=document.getElementById('grenze');
   var karten=Array.prototype.slice.call(liste.querySelectorAll('.sz'));
-  var SCHLUSS=40, ord='chrono', str='beide', nurOhne=false, anfEnde=16;
+  var PRO="Das Beben", SCHLUSS=41;
+  var ord='erz', str='beide', nurOhne=false, anfEnde=17;
   var DEF={
-    prolog:['Prolog','belegt','Die Kapitelskizze führt einen eigenen Prolog-Block. Ein Jahr vor dem Verschwinden — die einzige bereits geschriebene Szene.'],
-    anfang:['Anfang','frei','Dieser Schnitt steht nirgends im Wiki. Vorgeschlagen ist das Ende von Jahr +1: Beide sind dann in ihrer neuen Lage angekommen und haben ihr Ziel gefasst. Verschieb ihn oben.'],
+    prolog:['Prolog','entschieden','Besteht aus einer Szene: dem Beben. Entschieden am 04.09.2026.'],
+    anfang:['Anfang','frei','Setzt wenige Tage nach dem Beben ein, mit dem Bernstein-Effekt. Wo er endet, steht nirgends — verschieb den Schnitt oben.'],
     haupt:['Hauptteil','belegt','Die zwei parallelen Stränge. Tibun im Norden, Girlin in der Wüste — zehn Jahre, ohne voneinander zu wissen.'],
-    schluss:['Schluss','belegt','Der gemeinsame Block, in dem die Stränge zusammenlaufen: zwei Zündungen, Minuten auseinander, ein durchgehender Zug.'],
-    epilog:['Epilog','frei','Nicht vorgesehen. Das Buch endet mit der Entscheidung, nicht mit ihrer Ausführung; der Norden nach Tibuns Verschwinden wird ausdrücklich nicht erzählt. Ein Epilog wäre eine Entscheidung gegen beides — und berührte C-110, den Schlusssatz.'],
-    tibun:['Tibun · Norden','frei','Blockweise erzählt bekommt jeder Strang seinen eigenen Bogen. Prolog, Anfang und Schluss gelten dann je Strang, nicht fürs Buch.'],
+    schluss:['Schluss','belegt','Der gemeinsame Block: zwei Zündungen, Minuten auseinander, ein durchgehender Zug.'],
+    epilog:['Epilog','frei','Nicht vorgesehen. Das Buch endet mit der Entscheidung, nicht mit ihrer Ausführung; der Norden nach Tibuns Verschwinden wird ausdrücklich nicht erzählt. Ein Epilog wäre eine Entscheidung gegen beides — und berührte C-110.'],
+    tibun:['Tibun · Norden','frei','Blockweise erzählt bekommt jeder Strang seinen eigenen Bogen.'],
     girlin:['Girlin · Wüste','frei','Der zweite Block. Sein Ende ist zugleich das Ende des Buchs.']
   };
   var baender={};
   Object.keys(DEF).forEach(function(k){
     var d=DEF[k], b=document.createElement('div');
     b.className='band'+(k==='epilog'?' epilog':'');
-    b.innerHTML='<h2>'+d[0]+'</h2><span class="q '+(d[1]==='belegt'?'belegt':'frei')+'">'+
-      (d[1]==='belegt'?'belegt':'nicht belegt')+'</span><span class="zahl"></span><p>'+d[2]+'</p>';
+    b.innerHTML='<h2>'+d[0]+'</h2><span class="q '+(d[1]==='frei'?'frei':'belegt')+'">'+d[1]+
+      '</span><span class="zahl"></span><p>'+d[2]+'</p>';
     baender[k]=b;
   });
-  function abschnitt(n){
-    if(n<=1) return 'prolog';
-    if(n<=anfEnde) return 'anfang';
-    if(n<SCHLUSS) return 'haupt';
-    return 'schluss';
-  }
+  function erzRang(k){ return k.dataset.titel===PRO ? 0 : (+k.dataset.chrono)+0.5; }
   function anwenden(){
     var sorted=karten.slice().sort(function(a,b){
       if(ord==='block'){
         var pa=a.dataset.pov==='T'?0:1, pb=b.dataset.pov==='T'?0:1;
         if(pa!==pb) return pa-pb;
+        return (+a.dataset.chrono)-(+b.dataset.chrono);
       }
-      return (+a.dataset.chrono)-(+b.dataset.chrono);
+      if(ord==='chrono') return (+a.dataset.chrono)-(+b.dataset.chrono);
+      return erzRang(a)-erzRang(b);
     });
-    Object.keys(baender).forEach(function(k){
-      var b=baender[k]; if(b.parentNode) b.parentNode.removeChild(b); b.hidden=false;
-    });
-    var n=0, gesehen={}, zaehler={};
+    Object.keys(baender).forEach(function(k){var b=baender[k]; if(b.parentNode) b.parentNode.removeChild(b);});
+    var n=0, gesehen={}, zaehler={}, pos=0;
     sorted.forEach(function(k){
       var okStr=(str==='beide')||k.dataset.pov===str;
       var okH=!nurOhne||k.classList.contains('kein-hindernis');
       var zeig=okStr&&okH;
-      k.hidden=!zeig;
-      var key = ord==='block' ? (k.dataset.pov==='T'?'tibun':'girlin') : abschnitt(+k.dataset.chrono);
+      k.hidden=!zeig; pos++;
+      var key;
+      if(ord==='block') key = k.dataset.pov==='T'?'tibun':'girlin';
+      else if(k.dataset.titel===PRO) key='prolog';
+      else if(pos<=anfEnde) key='anfang';
+      else if(pos<SCHLUSS) key='haupt';
+      else key='schluss';
       if(zeig&&!gesehen[key]){ gesehen[key]=true; liste.appendChild(baender[key]); }
       liste.appendChild(k);
       if(zeig){ n++; zaehler[key]=(zaehler[key]||0)+1; }
     });
-    if(ord!=='block'&&gesehen.schluss!==undefined){ liste.appendChild(baender.epilog); gesehen.epilog=true; }
+    if(ord!=='block'&&gesehen.schluss){ liste.appendChild(baender.epilog); gesehen.epilog=true; }
     Object.keys(baender).forEach(function(k){
       var b=baender[k];
-      if(!gesehen[k]) { if(b.parentNode) b.parentNode.removeChild(b); return; }
-      var z=b.querySelector('.zahl');
-      z.textContent = k==='epilog' ? 'keine Szene' : (zaehler[k]||0)+' Szenen';
+      if(!gesehen[k]){ if(b.parentNode) b.parentNode.removeChild(b); return; }
+      b.querySelector('.zahl').textContent = k==='epilog' ? 'keine Szene' : (zaehler[k]||0)+' Szenen';
     });
     tr.textContent=n+' von '+karten.length;
   }
@@ -540,12 +556,10 @@ footer strong{color:var(--ink-2)}
   gruppe('[data-str]',function(b){str=b.dataset.str;});
   sel.addEventListener('change',function(){anfEnde=+sel.value; anwenden();});
   var bw=document.getElementById('bw');
-  bw.addEventListener('click',function(){
-    var on=bw.getAttribute('aria-pressed')!=='true';
+  bw.addEventListener('click',function(){var on=bw.getAttribute('aria-pressed')!=='true';
     bw.setAttribute('aria-pressed',on?'true':'false'); liste.classList.toggle('zeig-w',on);});
   var bh=document.getElementById('bh');
-  bh.addEventListener('click',function(){
-    nurOhne=bh.getAttribute('aria-pressed')!=='true';
+  bh.addEventListener('click',function(){nurOhne=bh.getAttribute('aria-pressed')!=='true';
     bh.setAttribute('aria-pressed',nurOhne?'true':'false'); anwenden();});
   anwenden();
 })();
