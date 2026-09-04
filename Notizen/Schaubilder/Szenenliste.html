@@ -87,6 +87,20 @@ letter-spacing:.08em;text-transform:uppercase;color:var(--gap)}
 .sprung::after{content:"";flex:1;height:1px;background:var(--gap);opacity:.22}
 .sprung[hidden]{display:none!important}
 .sz.ist-prolog{border-left-width:5px}
+
+/* Parallel-Modus: zwei versetzte Bahnen, je 2/3 Breite */
+.bahnkopf{display:flex;justify-content:space-between;align-items:baseline;margin:0;padding:2px 0 0}
+.bahnkopf span{font-family:var(--fm);font-size:10px;letter-spacing:.1em;text-transform:uppercase}
+.bahnkopf[hidden]{display:none!important}
+#liste.par{margin-top:10px}
+#liste.par .sz.im-haupt{width:66.6667%}
+#liste.par .sz.im-haupt.p-t{align-self:flex-start}
+#liste.par .sz.im-haupt.p-g{align-self:flex-end;border-left:1px solid var(--rule);border-right:3px solid var(--g)}
+@media (max-width:760px){
+  #liste.par .sz.im-haupt{width:100%}
+  #liste.par .sz.im-haupt.p-g{border-left:3px solid var(--g);border-right:1px solid var(--rule)}
+  .bahnkopf{display:none!important}
+}
 </style>
 
 <div class="wrap">
@@ -113,8 +127,9 @@ letter-spacing:.08em;text-transform:uppercase;color:var(--gap)}
   <div class="cg"><span>Reihenfolge</span>
     <button class="chip" data-ord="erz" aria-pressed="true">Erzählt</button>
     <button class="chip" data-ord="chrono" aria-pressed="false">Chronologisch</button>
-    <button class="chip" data-ord="block" aria-pressed="false">Blockweise</button></div>
-  <div class="cg"><span>Anfang endet nach</span><select id="grenze"><option value="2">2 · Der Bernstein-Effekt (0)</option><option value="3">3 · Der Blitz (0)</option><option value="4">4 · Ankunft im Fezzan (0)</option><option value="5">5 · Die Mulde (0)</option><option value="6">6 · Sprache und Fremdheit (0)</option><option value="7">7 · Was das Dorf daraus macht (0)</option><option value="8">8 · Der Suchtrupp (0)</option><option value="9">9 · Semund und Millia (0)</option><option value="10">10 · Der Unfall (0)</option><option value="11">11 · Der Ausschluss (0)</option><option value="12">12 · Aufbruch aus Skirraa (+1)</option><option value="13">13 · Bellbrim (+1)</option><option value="14">14 · Die Zwischenstation (+1)</option><option value="15">15 · Ankunft in Kaupvik (+1)</option><option value="16">16 · Die Zieheltern (+1)</option><option value="17" selected>17 · Sammeln ohne zu wissen wie (+1)</option><option value="18">18 · Der Neffe (+3)</option><option value="19">19 · Azzim, Auftritt 1 (+3)</option><option value="20">20 · Der Erkenntnismoment (+4)</option><option value="21">21 · Das dritte Kind (+4)</option><option value="22">22 · Das Ziel kippt (+4)</option><option value="23">23 · Der Ring bekommt einen neuen Zweck (+4)</option><option value="24">24 · Die Bitte (+5)</option><option value="25">25 · Die Trennung vom Clan (+5)</option><option value="26">26 · Das Tischmodell (+5)</option><option value="27">27 · Arbeit am Generator (+5)</option><option value="28">28 · Der Basar (+5)</option><option value="29">29 · Der Transport (+7)</option><option value="30">30 · Azzim, Auftritt 2 (+7)</option><option value="31">31 · Der Ring liegt in der Schlucht (+8)</option><option value="32">32 · Vollendung des Generators (+8)</option><option value="33">33 · Aufbruch aus Kaupvik (+9)</option><option value="34">34 · Azzim, Auftritt 3 (+9)</option><option value="35">35 · Die Werkstatt an der Tabustelle (+9)</option><option value="36">36 · Die Nachricht liegt bereit (+9)</option><option value="37">37 · Der Weiler warnt und meidet (+9)</option><option value="38">38 · Die Wala lässt ihn gewähren (+9)</option><option value="39">39 · Truda hält ihn für verloren (+9)</option><option value="40">40 · Zweifel und Bestätigung (+10)</option></select></div>
+    <button class="chip" data-ord="block" aria-pressed="false">Blockweise</button>
+    <button class="chip" data-ord="par" aria-pressed="false">Parallel</button></div>
+  <div class="cg"><span>Anfang endet nach</span><select id="grenze"><option value="2">2 · Der Bernstein-Effekt (0)</option><option value="3" selected>3 · Der Blitz (0)</option><option value="4">4 · Ankunft im Fezzan (0)</option><option value="5">5 · Die Mulde (0)</option><option value="6">6 · Sprache und Fremdheit (0)</option><option value="7">7 · Was das Dorf daraus macht (0)</option><option value="8">8 · Der Suchtrupp (0)</option><option value="9">9 · Semund und Millia (0)</option><option value="10">10 · Der Unfall (0)</option><option value="11">11 · Der Ausschluss (0)</option><option value="12">12 · Aufbruch aus Skirraa (+1)</option><option value="13">13 · Bellbrim (+1)</option><option value="14">14 · Die Zwischenstation (+1)</option><option value="15">15 · Ankunft in Kaupvik (+1)</option><option value="16">16 · Die Zieheltern (+1)</option><option value="17">17 · Sammeln ohne zu wissen wie (+1)</option><option value="18">18 · Der Neffe (+3)</option><option value="19">19 · Azzim, Auftritt 1 (+3)</option><option value="20">20 · Der Erkenntnismoment (+4)</option><option value="21">21 · Das dritte Kind (+4)</option><option value="22">22 · Das Ziel kippt (+4)</option><option value="23">23 · Der Ring bekommt einen neuen Zweck (+4)</option><option value="24">24 · Die Bitte (+5)</option><option value="25">25 · Die Trennung vom Clan (+5)</option><option value="26">26 · Das Tischmodell (+5)</option><option value="27">27 · Arbeit am Generator (+5)</option><option value="28">28 · Der Basar (+5)</option><option value="29">29 · Der Transport (+7)</option><option value="30">30 · Azzim, Auftritt 2 (+7)</option><option value="31">31 · Der Ring liegt in der Schlucht (+8)</option><option value="32">32 · Vollendung des Generators (+8)</option><option value="33">33 · Aufbruch aus Kaupvik (+9)</option><option value="34">34 · Azzim, Auftritt 3 (+9)</option><option value="35">35 · Die Werkstatt an der Tabustelle (+9)</option><option value="36">36 · Die Nachricht liegt bereit (+9)</option><option value="37">37 · Der Weiler warnt und meidet (+9)</option><option value="38">38 · Die Wala lässt ihn gewähren (+9)</option><option value="39">39 · Truda hält ihn für verloren (+9)</option><option value="40">40 · Zweifel und Bestätigung (+10)</option></select></div>
   <div class="cg"><span>Strang</span>
     <button class="chip" data-str="beide" aria-pressed="true">Beide</button>
     <button class="chip" data-str="T" aria-pressed="false">Tibun</button>
@@ -122,6 +137,10 @@ letter-spacing:.08em;text-transform:uppercase;color:var(--gap)}
   <div class="cg"><span>Ebene</span><button class="chip" id="bw" aria-pressed="false">Ziele &amp; Hindernisse</button></div>
   <div class="cg"><span>Filter</span><button class="chip" id="bh" aria-pressed="false">Nur ohne Hindernis</button></div>
   <span class="treffer" id="tr">44 von 44</span>
+</div>
+
+<div class="bahnkopf" id="bk" hidden>
+  <span class="pov-t">Tibun · Norden</span><span class="pov-g">Girlin · Wüste</span>
 </div>
 
 <main id="liste">
@@ -491,9 +510,10 @@ letter-spacing:.08em;text-transform:uppercase;color:var(--gap)}
 <script>
 (function(){
   var liste=document.getElementById('liste'), tr=document.getElementById('tr'), sel=document.getElementById('grenze');
+  var bk=document.getElementById('bk');
   var karten=Array.prototype.slice.call(liste.querySelectorAll('.sz'));
   var PRO="Das Beben", SCHLUSS=41;
-  var ord='erz', str='beide', nurOhne=false, anfEnde=17;
+  var ord='erz', str='beide', nurOhne=false, anfEnde=3;
   var DEF={
     prolog:['Prolog','entschieden','Besteht aus einer Szene: dem Beben. Entschieden am 04.09.2026.'],
     anfang:['Anfang','frei','Setzt wenige Tage nach dem Beben ein, mit dem Bernstein-Effekt. Wo er endet, steht nirgends — verschieb den Schnitt oben.'],
@@ -522,6 +542,9 @@ letter-spacing:.08em;text-transform:uppercase;color:var(--gap)}
       if(ord==='chrono') return (+a.dataset.chrono)-(+b.dataset.chrono);
       return erzRang(a)-erzRang(b);
     });
+    var parallel = ord==='par' && str==='beide';
+    liste.classList.toggle('par', parallel);
+    bk.hidden = true;
     Object.keys(baender).forEach(function(k){var b=baender[k]; if(b.parentNode) b.parentNode.removeChild(b);});
     var n=0, gesehen={}, zaehler={}, pos=0;
     sorted.forEach(function(k){
@@ -535,7 +558,9 @@ letter-spacing:.08em;text-transform:uppercase;color:var(--gap)}
       else if(pos<=anfEnde) key='anfang';
       else if(pos<SCHLUSS) key='haupt';
       else key='schluss';
-      if(zeig&&!gesehen[key]){ gesehen[key]=true; liste.appendChild(baender[key]); }
+      k.classList.toggle('im-haupt', key==='haupt');
+      if(zeig&&!gesehen[key]){ gesehen[key]=true; liste.appendChild(baender[key]);
+        if(parallel&&key==='haupt'){ bk.hidden=false; liste.appendChild(bk); } }
       liste.appendChild(k);
       if(zeig){ n++; zaehler[key]=(zaehler[key]||0)+1; }
     });
