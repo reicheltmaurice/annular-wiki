@@ -4,6 +4,22 @@
 > tatsächlichen Stand von Annular umgeschrieben. Zweck: sichtbar machen, was für die Welt noch fehlt —
 > und was davon das **Schreiben blockiert** und was nicht.
 
+> Ich möchte aber noch einmal klar formulieren, was mein aktuelles Ziel ist, an dem ich hart arbeiten möchte.
+> - Ich will die Rahmenhandlung festzurren.
+> - Ich will einen Überblick über die Geschehnisse, damit ich abschätzen kann, ob die Geschichte komplett ist, oder etwas Wichtiges fehlt, oder ich zu viele unwichtige Szenen habe oder wo vielleicht noch Spannung fehlt.
+> - Ich will diesen Überblick nutzen um abschätzen zu können, wie viele Szenen habe ich und in wie viele Kapitel sollte ich diese packen. Damit könnte ich schon eine Prognose zur Buchlänge wagen.
+> - Ich will diesen Überblick nutzen um besser entscheiden zu können, ob ich das Buch in Kapitel oder sogar nur in Szenen aufteile.
+> - Ich will diesen Überblick nutzen um besser entscheiden zu können, in welcher Reihenfolge ich die Szenen/Kapitel erzählen möchte. Erst alles von Tibun und dann Girlin, oder abwechselnd oder gemischt? Vielleicht geordnet nach Jahr oder Jahreszeit?
+> - Diese Übersicht soll nicht sehr detailliert sein. Nur auf dem High-Level. Nur ein Stichpunkt oder Satz pro Szene/Kapitel. Damit ich schnell weiß worum es geht und das ganze hin und her formatieren kann.
+> - Ebenso wie ein Inhaltsverzeichnis eines schon fertigen Buches oder Filmes ohne je eine Szene gedreht oder geschrieben zu haben.
+> 
+> Ich habe mal von der Schneeflockenmethode gelesen. Kurz: Man fängt mit einem Satz an der die Handlung des Buches beschreibt, dann erweitert man diesen zu 3 Sätzen. Dann nimmt man jeden dieser 3 Sätze und macht Absätze draus. Und so wächst das Buch wie eine Schneeflocke. Schau dir diese Methode gerne mal an.
+> So ähnlich möchte ich es handhaben. Ich habe die Idee gehabt (1 Satz). Nun erweitere ich das in Kapitel oder Szenen. Dann "zoome" ich weiter rein in die Geschehnisse und entscheide die Rahmenbedingungen für diese Szenen (Wetter, Personen, Ausgang, Geruch). Dann "zoome" ich wieder weiter rein und schreibe die Szene. Und wenn ich wieder ganz heraus "zoome" sehe ich eine wunderschöne Schneeflocke.
+> 
+> Natürlich ist nichts davon in Stein gemeisselt und kann sich jeden Tag ändern. Die Szenenfolge und auch die Geschehnisse. Vielleicht schreibe ich mal eine Szene und plötzlich kommt mir der Gedanke, dass eine der Personen plötzlich stirbt, dann muss ich alles überarbeiten. Das macht nichts und ist so gewollt. Aber dann sehe ich auch direkt und schnell welchen Einfluss so eine Änderung auf die Gesamthandlung hätte.
+> 
+> Was sagst du dazu? Challenge mich und meine Ansichten ruhig. Ich habe noch nie ein Buch geschrieben oder veröffentlicht. Vielleicht ergeben meine Gedanken überhaupt keinen Sinn.
+
 **Frist: erste vollständige Szene nach dem Prolog bis Ende Februar 2027 — 1.200–1.800 Wörter.**
 **Weltenbau-Ende: 31. Oktober 2026.**
 Alles unten ist diesem Satz untergeordnet.
@@ -65,7 +81,7 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 - [ ] **Alltag im Norden:** Was isst man im Februar? Wie wird geheizt? Wie oft isst man Fleisch?
 - [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet ([C-097 ✓](Challenges.md#c-097-girlins-kinderfolge--die-neun-jahre-lücke-)): Girlin und Semund haben **drei Kinder verloren**, das letzte kurz vor ihrem Verschwinden — Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. **Offen:** wer bei der Geburt des Wüstenkindes hilft (Jahr +4), und was bei einer Wunde geschieht.
 
-### Schicht 3 — Die Ordnung  ← **größte Lücke**
+### Schicht 3 — Die Ordnung ← **größte Lücke**
 - [~] **Recht.** Der Erbfall Girlin ist vollständig geklärt ([C-095](Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-)): Die **Wala** erklärt sie für tot, Semund darf nach **einem Winter** neu binden, **Truda** erbt das Kleingut, **Millia** übernimmt Webstuhl und Herd, **Tibun** nimmt sich den Webkamm. Offen bleibt nur, was gilt, wenn eine für tot Erklärte **zurückkommt** — gehört ans Finale. Das Thing als **Verfahren** fehlt weiter.
 - [ ] **Wirtschaft und Preise.** Was ist ein Ballen Wolle wert? Wovon lebt Tibun acht Jahre unterwegs?
 - [ ] **Wie überlebt ein 17-Jähriger allein auf dem Ochsenweg?** Ohne Sippe ist er in dieser Epoche weitgehend schutzlos. Er braucht einen sozialen Mechanismus: Gastrecht, Anschluss an einen Händlerzug, Dienstverhältnis, Gefolgschaft. Ohne den bricht die Wanderschaft die Authentizitätsregel härter als jeder falsche Gegenstand.
@@ -81,9 +97,9 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 ### Schicht 5 — Die Blickpunkte
 - [x] Vier ausgearbeitete Orte plus Bildmaterial.
 - [ ] **Die Wüstenseite hat keinen einzigen konkreten Ort.** Basar, Stadt, Schlucht, Bellbrims Werkstatt existieren als Wörter. Girlin verbringt dort zehn Jahre — die Hälfte des Buches spielt an Orten, die es noch nicht gibt.
-- [ ] **Sprichwörter, Aberglauben, Redensarten** — in `Kulturen/Nordvolk` ausdrücklich als „noch nicht ausgearbeitet" markiert. Genau das trägt später jeden Dialog.
+- [ ] **Sprichwörter, Aberglauben, Redensarten** — in `Kulturen/Nordvolk` ausdrücklich als "noch nicht ausgearbeitet" markiert. Genau das trägt später jeden Dialog.
 
-### Schicht 6 — Die Folgen des Wunders  *(im ursprünglichen Leitfaden nicht enthalten)*
+### Schicht 6 — Die Folgen des Wunders *(im ursprünglichen Leitfaden nicht enthalten)*
 
 Diese Schicht ist neu und für Annular die wichtigste. Der Ring ist bislang als **Gerät** durchdacht,
 noch nicht als **Ereignis in einer Gesellschaft**.
@@ -101,10 +117,10 @@ noch nicht als **Ereignis in einer Gesellschaft**.
 Dein Authentizitätsprinzip lautet: *einzige Abweichung sind die Portalringe, alles andere folgt dem
 historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält es **nicht** ein.
 
-**Stand 31.08.2026: der Kernvorwurf ist erledigt.** Ort ([C-088](Challenges.md#c-088-verortung-der-wüste-)), Sprachfamilie und Namen ([C-090](Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)) und Bewaffnung ([C-091](Challenges.md#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)) sind entschieden. Offen bleiben Religion, Bräuche und Orte — die Punkte unten gelten weiter.
+**Stand 31.08.2026: Der Kernvorwurf ist erledigt.** Ort ([C-088](Challenges.md#c-088-verortung-der-wüste-)), Sprachfamilie und Namen ([C-090](Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)) und Bewaffnung ([C-091](Challenges.md#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)) sind entschieden. Offen bleiben Religion, Bräuche und Orte — die Punkte unten gelten weiter.
 
 - [ ] **Wo liegt die Wüste? ???** Ohne diese Entscheidung ist keine Kulturarbeit im Süden möglich. Ernsthafte Kandidaten für 550 n.Chr.:
-  - **Sahara / Fezzan** — die Garamanten: reale Wüstenkultur mit Fernhandel und Bewässerungstunneln, in dieser Zeit im Niedergang. Passt zur „vergessenen Hochkultur"-Stimmung.
+  - **Sahara / Fezzan** — die Garamanten: reale Wüstenkultur mit Fernhandel und Bewässerungstunneln, in dieser Zeit im Niedergang. Passt zur "vergessenen Hochkultur"-Stimmung.
   - **Arabische Halbinsel** — dicht belegt, Kamelnomaden, Karawanenhandel, eine Generation vor dem Islam.
   - **Syrische Wüste** — Randzone von Byzanz. Vorteil: Es gibt dort Menschen, die Griechisch oder Latein können, also einen **historisch plausiblen Sprachweg** zu einer Germanin.
   - **Zentralasien / Sogdien** — die Vermittlerkultur schlechthin, mehrsprachige Fernhändler. Löst Bellbrim fast von selbst.
@@ -118,7 +134,7 @@ historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält
 
 ## Prüfliste
 
-Nicht „sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die ich ihr nicht gestellt habe?**
+Nicht "sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die ich ihr nicht gestellt habe?**
 
 - [ ] **1 · Alltagstest.** Ein gewöhnlicher Tag eines gewöhnlichen Menschen in Skirraa, von morgens bis abends. Nicht Tibun — ein Knecht.
 - [ ] **2 · Die drei unbequemen Fragen.** Was passiert mit den Toten? Wovon lebt man im Winter? Was kostet ein Ballen Wolle?
@@ -237,7 +253,7 @@ Die nüchterne Rechnung: 2,5 Stunden pro Woche sind als Ungeübter etwa 500 Wör
 
 > **Das erste Buch sollte nicht der Roman sein.**
 
-Deine eigene `CLAUDE.md` lässt es ausdrücklich zu: *„Jede einzelne Geschichte soll als Buch oder
+Deine eigene `CLAUDE.md` lässt es ausdrücklich zu: *"Jede einzelne Geschichte soll als Buch oder
 Szenensammlung enden."* Nimm die Sammlung. 30.000–40.000 Wörter, acht bis zwölf Szenen aus dem
 Annular-Universum. Das ergibt drei Dinge auf einmal:
 
@@ -253,7 +269,7 @@ Annular-Universum. Das ergibt drei Dinge auf einmal:
 | 2030–2035 | Plot 1 als Roman |
 | danach | weitere Geschichten im Universum |
 
-### Der Punkt, an dem „lieber still" dich etwas kostet
+### Der Punkt, an dem "lieber still" dich etwas kostet
 
 Irgendwann muss ein fremder Mensch den Text lesen und ehrlich sein. Ohne Rückmeldung von außen
 lernt man Prosa nicht — egal, wie viele Jahre man schreibt. Eine Schreibwerkstatt oder eine kleine
@@ -262,7 +278,7 @@ in diesem Plan, an der Zurückgezogenheit echten Fortschritt kostet.
 
 ### Regeln, die bleiben
 
-- **Nie für eine Veröffentlichung bezahlen.** Selfpublishing mit offenen Karten ist für eine Szenensammlung völlig in Ordnung. Ein „Verlag", der dein Manuskript lobt und dann Geld will, ist keiner.
+- **Nie für eine Veröffentlichung bezahlen.** Selfpublishing mit offenen Karten ist für eine Szenensammlung völlig in Ordnung. Ein "Verlag", der dein Manuskript lobt und dann Geld will, ist keiner.
 - **Regelmäßigkeit schlägt Menge.** Drei Stunden pro Woche über zehn Jahre schlagen zwanzig Stunden pro Woche über ein Jahr, und zwar nicht knapp.
 - **Die ISBN ist Verwaltung, kein Ziel.** Ein Nachmittag Papierkram. Das Werk ist das Ziel.
 - **Nicht nach Wikipedia schielen.** Ein Artikel ist eine Folge, nie ein Plan. Der Katalogeintrag ist das, was sicher erreichbar ist — und das haltbarere von beidem.

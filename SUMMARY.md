@@ -73,6 +73,7 @@
   * [Challenge-Board (Artifact)](Notizen/Schaubilder/Challenges-Board.html)
   * [Figurennetz (Artifact)](Notizen/Schaubilder/Figurennetz.html)
   * [Kapitelraster (Artifact)](Notizen/Schaubilder/Kapitelraster.html)
+  * [Szenenliste (Artifact)](Notizen/Schaubilder/Szenenliste.html)
 * [Challenges](Notizen/Challenges.md)
 * [Regeln & Prüfliste](Notizen/Regeln.md)
 * [Weltenbau-Leitfaden](Notizen/Weltenbau-Leitfaden.md)

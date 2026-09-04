@@ -12,6 +12,7 @@ Interaktive Übersichtsseiten (**Artifacts**), die den Wiki-Bestand visuell zusa
 | [Challenge-Board](Challenges-Board.html) — *Challenges nach Thema* | Die 92 offenen Challenges nach Sachgebiet und Art der Arbeit, mit Suche und Filter | [Challenges](../Challenges.md) | 04.09.2026 | [öffnen](https://claude.ai/code/artifact/c6322d49-0449-4c58-ba58-709daf014c86) |
 | [Figurennetz](Figurennetz.html) — *Wer wen kennt* | Beziehungsnetz beider Stränge; zeigt die Rollen, die noch keine Figur sind | [Menschen/](../../Menschen/README.md), [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md), [Challenges](../Challenges.md) | 04.09.2026 | [öffnen](https://claude.ai/code/artifact/5522a52c-8128-4238-9c3b-71df314cae64) |
 | [Kapitelraster](Kapitelraster.html) — *Vor dem Kapitelraster* | Das Material für ein Raster: 43 Beat-Einheiten mit POV und Jahr, Nummern offen | [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../../Plots/Plot-1/Kapitelstruktur.md) | 04.09.2026 | [öffnen](https://claude.ai/code/artifact/cc1d621a-e67f-4d29-b4c5-7f41ca7bab0d) |
+| [Szenenliste](Szenenliste.html) — *Was jede Szene will* | 43 Szenenkandidaten mit Ziel, Hindernis, Ausgang; gegliedert in Prolog / Anfang / Hauptteil / Schluss, umsortierbar nach Reihenfolge und Strang | [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../../Plots/Plot-1/Kapitelstruktur.md) | 04.09.2026 | [öffnen](https://claude.ai/code/artifact/425e137d-9af9-4cbb-9871-ed77ed74df6c) |
 
 ## Wie das funktioniert
 
@@ -28,5 +29,6 @@ Nach jeder Sitzung, in der Entscheidungen gefallen sind. Betroffen ist:
 - das **Challenge-Board**, sobald Challenges dazukommen, gelöst oder gestrichen werden
 - das **Figurennetz**, sobald Figuren Namen bekommen, dazukommen oder wegfallen
 - das **Kapitelraster-Material**, sobald Beats dazukommen — und vollständig, sobald das echte Raster angelegt ist
+- die **Szenenliste**, sobald Ziele oder Hindernisse entschieden werden (jedes `???` dort ist eine offene Stelle)
 
 Beide tragen ihr Standdatum sichtbar im Kopf bzw. Fuß.
