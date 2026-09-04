@@ -97,6 +97,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-133: Azzims Leute für den Angriff](#c-133-azzims-leute-für-den-angriff)
 - [C-134: Die Nachricht — Art und Lesbarkeit im Norden](#c-134-die-nachricht--art-und-lesbarkeit-im-norden)
 - [C-135: Der Wüstengenerator — Bauart offen](#c-135-der-wüstengenerator--bauart-offen)
+- [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen)
+- [C-137: Detailabschnitte ab C-099 stehen unter der falschen Überschrift](#c-137-detailabschnitte-ab-c-099-stehen-unter-der-falschen-überschrift)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -1038,7 +1040,7 @@ Verworfen wurden auf dem Weg dorthin:
 
 **Folge für [C-012 ✓](#c-012-aktivierungsverhalten-des-rings-):** Die Bohrung ist über **88 % der Ringbreite** exakt zylindrisch (0,44 m von 0,50 m = Breite minus zweimal Eckradius). Der Innen-Ø von 3,00 m ist damit eindeutig, und die Tauschkugel-Kante fällt mit der sichtbaren Öffnung zusammen — genau wie C-012 es verlangt.
 
-**Nachgezogen:** [Portalringe.md](../Technik/Portalringe.md), [Portalring_Berechnungen.md](../Technik/Portalring_Berechnungen.md), [Bild-Prompts.md](Bild-Prompts.md).
+**Nachgezogen:** [Portalringe.md](../Technik/Portalringe.md), Portalring_Berechnungen.md *(am 04.09.2026 in [Portalringe.md](../Technik/Portalringe.md) aufgegangen)*, [Bild-Prompts.md](Bild-Prompts.md).
 
 ### C-086: Ton in einem Satz ✓
 **Entscheidung (Autor):**
@@ -1577,7 +1579,7 @@ Die oben notierte Annahme, Azzim interessiere sich wegen des **Wassers** für de
 | Volumen | 4,549 m³ | **0,734556 m³** |
 | Gewicht | 8.052 kg | **5.729,5 kg** |
 
-**Nachgezogen:** [Portalringe.md](../Technik/Portalringe.md), [Portalring_Berechnungen.md](../Technik/Portalring_Berechnungen.md), [Bild-Prompts.md](Bild-Prompts.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Karawanen](../Menschen/Wuestenvolk/Karawanen.md), C-007, C-010, C-012, C-018.
+**Nachgezogen:** [Portalringe.md](../Technik/Portalringe.md), Portalring_Berechnungen.md *(am 04.09.2026 in [Portalringe.md](../Technik/Portalringe.md) aufgegangen)*, [Bild-Prompts.md](Bild-Prompts.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Karawanen](../Menschen/Wuestenvolk/Karawanen.md), C-007, C-010, C-012, C-018.
 
 **Neu daraus:** [C-125](#c-125-das-transportverfahren-ist-offen), [C-126](#c-126-der-postring--was-passt-hinein), [C-127](#c-127-referenzdichte-).
 
@@ -1756,7 +1758,7 @@ Aus [C-117 ✓](#c-117-ringgeometrie-neu-vermessen-) (02.09.2026): Der 0,30-m-Ri
 
 **Begründung des Autors:** Weder Material noch Gewicht werden im Erzähltext je benannt. **Niemand in der Welt von 550 besitzt eine Waage, die einen solchen Körper wiegen könnte** — es gibt also keine Figur, die eine Zahl nennen, und keinen Leser, der etwas nachschlagen könnte.
 
-**Nachgezogen:** Die frühere **Legierungsbezeichnung ist vollständig aus dem Wiki entfernt** — sie war nachschlagbar und lud zum Identifizieren ein, was C-004 widerspricht. Ersetzt durch die nackte Zahl in [CLAUDE.md](../CLAUDE.md), [Portalringe.md](../Technik/Portalringe.md), [Portalring_Berechnungen.md](../Technik/Portalring_Berechnungen.md), C-004, C-035, C-117.
+**Nachgezogen:** Die frühere **Legierungsbezeichnung ist vollständig aus dem Wiki entfernt** — sie war nachschlagbar und lud zum Identifizieren ein, was C-004 widerspricht. Ersetzt durch die nackte Zahl in [CLAUDE.md](../CLAUDE.md), [Portalringe.md](../Technik/Portalringe.md), Portalring_Berechnungen.md *(am 04.09.2026 in [Portalringe.md](../Technik/Portalringe.md) aufgegangen)*, C-004, C-035, C-117.
 
 **Verworfen:** Aluminium (2,7 g/cm³ → 1,98 t). Zwei Gründe: Die Optikreferenz ist bereits *gebürstetes Aluminium* ([C-035 ✓](#c-035-aussehen-der-ringoberfläche-)) — gleiche Dichte hätte den Ring in jeder messbaren Hinsicht zu Aluminium gemacht. Und 2 t sind nicht leicht genug, um den einzigen Vorteil geringer Dichte einzulösen: den Moment, in dem der Ring **zu leicht** ist. Dafür müsste er unter eine halbe Tonne.
 
@@ -1847,3 +1849,43 @@ Damit ist [C-121 ✗](#c-121-zwei-generatoren-ungleiche-bauzeiten--zurückgezoge
 - **Woher kommt in der Wüste ein Wasserfall?** Die Schlucht ist als Ort mit Wasser angelegt; Menge und Verlässlichkeit sind offen.
 - **Welches Material braucht er?** Hängt mit [C-132](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt) zusammen.
 - **Speichert er, wie Tibuns Anlage, oder entlädt er direkt?** [C-020](#c-020-vorwarnung-vor-dem-flip) und die Finalmechanik hängen daran.
+
+---
+
+### C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen
+
+Aufgefallen beim Nachrechnen der Ringmaße (04.09.2026). [Portalringe.md](../Technik/Portalringe.md) gibt als Berechnungsreferenz für die Flipdauer eine **Spanne** an — *100–150 ms* — nennt dazu aber nur **ein** Zahlenpaar: *„~21 rad/s, Kantengeschwindigkeit außen ~35 m/s (≈ 126 km/h)"*.
+
+Diese Werte gehören zum **langsamen Rand** der Spanne:
+
+```
+150 ms → 20,9 rad/s → 34,9 m/s ≈ 126 km/h   (die genannten Zahlen)
+100 ms → 31,4 rad/s → 52,3 m/s ≈ 188 km/h
+```
+
+Gerechnet mit R_flip = 1,6649 m und einer halben Umdrehung (π) in der jeweiligen Zeit.
+
+**Warum das zählt:** Die 126 km/h stehen auch in [Aktivierung & Tausch](../Technik/Portalringe.md#aktivierung--tausch) als Begründung dafür, dass der Reif nur Luft verdrängt, die selbst zur Tauschkugel gehört. Solange die Spanne offen ist, ist diese Zahl nicht belastbar — sie kann um die Hälfte danebenliegen.
+
+**Zu klären · ???**
+- Gilt eine **feste** Dauer statt einer Spanne? Welche?
+- Oder bleibt die Spanne, und die abgeleiteten Werte werden als Spanne geführt (21–31 rad/s, 126–188 km/h)?
+
+Beides ist eine Festlegung des Autors. Bis dahin bleibt die Zahl im Wiki unverändert stehen — sie wird hier nur als ungeprüft markiert.
+
+---
+
+### C-137: Detailabschnitte ab C-099 stehen unter der falschen Überschrift
+
+Aufgefallen beim Sortieren der Challenges nach Thema (04.09.2026). Diese Datei trennt die Detailabschnitte in `## Offen` und `## Gelöst / Entschieden`. **Bis C-098 stimmt die Zuordnung. Ab C-099 stehen alle Einträge unter `## Gelöst / Entschieden`** — auch die offenen.
+
+Betroffen sind unter anderem [C-101](#c-101-girlins-nachricht--vorhaben-ohne-ausführung), [C-105](#c-105-der-neffe--name-eigenschaften-schweigebitte), [C-112](#c-112-das-wüstenkind-während-des-finales), [C-125](#c-125-das-transportverfahren-ist-offen) und [C-129](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5) bis [C-135](#c-135-der-wüstengenerator--bauart-offen).
+
+**Die Übersicht oben ist korrekt** — sie führt alle diese Einträge unter „Offen". Nur die Detailabschnitte sitzen falsch. Wer nach unten scrollt statt die Übersicht zu lesen, hält offene Punkte für erledigt.
+
+**Zu klären · ???** Zwei Wege, beide zulässig:
+- **Nachsortieren:** die offenen Detailabschnitte zurück unter `## Offen` verschieben. Erhält die Trennung, bricht aber die durchgehend aufsteigende Nummernfolge in beiden Blöcken auf.
+- **Trennung aufgeben:** die Zweiteilung streichen und alle Details in **einer** aufsteigenden Folge führen; offen/gelöst steht ohnehin am Titel (`✓`, `✗`) und in der Übersicht.
+
+Solange nichts entschieden ist, gilt: **maßgeblich ist die Übersicht am Kopf der Datei, nicht die Überschrift, unter der ein Abschnitt steht.**
+

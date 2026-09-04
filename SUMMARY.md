@@ -59,7 +59,6 @@
 
 * [Übersicht](Technik/README.md)
 * [Portalringe](Technik/Portalringe.md)
-* [Portalring-Berechnungen](Technik/Portalring_Berechnungen.md)
 * [Elektrizität](Technik/Elektrizitaet.md)
 * [Tibuns Generator](Technik/Tibuns-Generator.md)
 
@@ -69,6 +68,11 @@
 
 ## Notizen
 
+* [Schaubilder](Notizen/Schaubilder/README.md)
+  * [Zeitgerüst (Artifact)](Notizen/Schaubilder/Zeitgeruest.html)
+  * [Challenge-Board (Artifact)](Notizen/Schaubilder/Challenges-Board.html)
+  * [Figurennetz (Artifact)](Notizen/Schaubilder/Figurennetz.html)
+  * [Kapitelraster (Artifact)](Notizen/Schaubilder/Kapitelraster.html)
 * [Challenges](Notizen/Challenges.md)
 * [Regeln & Prüfliste](Notizen/Regeln.md)
 * [Weltenbau-Leitfaden](Notizen/Weltenbau-Leitfaden.md)

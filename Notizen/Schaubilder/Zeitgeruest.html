@@ -1,0 +1,1117 @@
+<title>Zehn Jahre, zwei Stränge</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+
+<style>
+:root{
+  --paper:#E8EAE7;
+  --card:#F6F7F4;
+  --card-2:#F0F1EE;
+  --ink:#1C2124;
+  --ink-2:#4E565A;
+  --ink-3:#7B8388;
+  --rule:#D1D4CE;
+  --rule-2:#BFC3BC;
+  --nord:#2F5D66;
+  --nord-tint:#DDE8E9;
+  --sand:#8F6216;
+  --sand-tint:#EDE4D2;
+  --gap:#9C3F38;
+  --gap-tint:#EEDFDC;
+  --shadow:0 1px 2px rgba(28,33,36,.06);
+
+  --f-display:"Spectral","Iowan Old Style",Georgia,serif;
+  --f-body:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;
+  --f-mono:"IBM Plex Mono","SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#14181A;
+    --card:#1C2124;
+    --card-2:#191E20;
+    --ink:#E6E8E4;
+    --ink-2:#A6AEB1;
+    --ink-3:#79817F;
+    --rule:#2C3336;
+    --rule-2:#3A4346;
+    --nord:#7CB8C0;
+    --nord-tint:#1B2E32;
+    --sand:#D2A153;
+    --sand-tint:#2C2214;
+    --gap:#DB8279;
+    --gap-tint:#31201E;
+    --shadow:0 1px 2px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#14181A;
+  --card:#1C2124;
+  --card-2:#191E20;
+  --ink:#E6E8E4;
+  --ink-2:#A6AEB1;
+  --ink-3:#79817F;
+  --rule:#2C3336;
+  --rule-2:#3A4346;
+  --nord:#7CB8C0;
+  --nord-tint:#1B2E32;
+  --sand:#D2A153;
+  --sand-tint:#2C2214;
+  --gap:#DB8279;
+  --gap-tint:#31201E;
+  --shadow:0 1px 2px rgba(0,0,0,.3);
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:var(--f-body);
+  font-size:15px;
+  line-height:1.55;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1140px;margin:0 auto;padding:44px 24px 80px}
+
+/* ---------- Kopf ---------- */
+.eyebrow{
+  font-family:var(--f-mono);
+  font-size:11px;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--ink-3);
+}
+h1{
+  font-family:var(--f-display);
+  font-weight:600;
+  font-size:clamp(30px,5vw,46px);
+  line-height:1.08;
+  letter-spacing:-.015em;
+  margin:.28em 0 .3em;
+  text-wrap:balance;
+}
+.lede{
+  font-family:var(--f-display);
+  font-size:17px;
+  line-height:1.6;
+  color:var(--ink-2);
+  max-width:62ch;
+  margin:0;
+}
+.lede em{color:var(--ink)}
+
+.facts{
+  display:flex;
+  flex-wrap:wrap;
+  gap:0;
+  margin:34px 0 0;
+  border-top:1px solid var(--rule);
+  border-bottom:1px solid var(--rule);
+}
+.fact{
+  flex:1 1 160px;
+  padding:16px 20px 15px;
+  border-left:1px solid var(--rule);
+}
+.fact:first-child{border-left:0;padding-left:0}
+.fact b{
+  display:block;
+  font-family:var(--f-mono);
+  font-size:26px;
+  font-weight:500;
+  line-height:1.1;
+  font-variant-numeric:tabular-nums;
+  letter-spacing:-.02em;
+}
+.fact span{
+  display:block;
+  margin-top:5px;
+  font-size:12.5px;
+  color:var(--ink-2);
+  line-height:1.4;
+}
+.fact.warn b{color:var(--gap)}
+
+/* ---------- Befunde ---------- */
+.befunde{margin:38px 0 0}
+.befunde h2, .tl-head h2, .legende h2{
+  font-family:var(--f-display);
+  font-weight:600;
+  font-size:20px;
+  letter-spacing:-.01em;
+  margin:0 0 4px;
+}
+.befunde p.sub, .tl-head p.sub{
+  margin:0 0 16px;
+  font-size:13.5px;
+  color:var(--ink-3);
+}
+.bef-list{
+  list-style:none;
+  margin:0;
+  padding:0;
+  display:grid;
+  gap:1px;
+  background:var(--rule);
+  border:1px solid var(--rule);
+}
+.bef-list li{
+  background:var(--card);
+  padding:13px 16px;
+  display:grid;
+  grid-template-columns:78px 1fr;
+  gap:16px;
+  align-items:baseline;
+}
+.bef-list .where{
+  font-family:var(--f-mono);
+  font-size:11px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:var(--ink-3);
+  white-space:nowrap;
+}
+.bef-list strong{font-weight:600}
+.bef-list .note{color:var(--ink-2);font-size:13.5px;display:block;margin-top:2px}
+
+/* ---------- Steuerung ---------- */
+.controls{
+  display:flex;
+  flex-wrap:wrap;
+  gap:22px;
+  align-items:center;
+  margin:14px 0 26px;
+  padding:12px 0;
+  border-top:1px solid var(--rule);
+  border-bottom:1px solid var(--rule);
+}
+.cgroup{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.cgroup > span{
+  font-family:var(--f-mono);
+  font-size:11px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  color:var(--ink-3);
+}
+button.chip{
+  font-family:var(--f-body);
+  font-size:13px;
+  font-weight:500;
+  color:var(--ink-2);
+  background:transparent;
+  border:1px solid var(--rule-2);
+  border-radius:2px;
+  padding:5px 11px;
+  cursor:pointer;
+  transition:background .12s,color .12s,border-color .12s;
+}
+button.chip:hover{color:var(--ink);border-color:var(--ink-3)}
+button.chip[aria-pressed="true"]{
+  background:var(--ink);
+  border-color:var(--ink);
+  color:var(--paper);
+}
+button.chip:focus-visible{outline:2px solid var(--nord);outline-offset:2px}
+
+/* ---------- Zeitachse ---------- */
+.tl{
+  display:grid;
+  grid-template-columns:1fr 96px 1fr;
+  align-items:stretch;
+}
+.row{display:contents}
+
+.axis{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  position:relative;
+}
+.axis .line{width:1px;background:var(--rule-2);flex:1 1 auto;min-height:10px}
+.node{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:2px;
+  padding:6px 0;
+  flex:0 0 auto;
+}
+.node .yr{
+  font-family:var(--f-mono);
+  font-size:15px;
+  font-weight:500;
+  font-variant-numeric:tabular-nums;
+  background:var(--paper);
+  border:1px solid var(--rule-2);
+  border-radius:999px;
+  width:46px;
+  height:46px;
+  display:grid;
+  place-items:center;
+  letter-spacing:-.02em;
+}
+.node .age{
+  font-family:var(--f-mono);
+  font-size:10.5px;
+  color:var(--ink-3);
+  white-space:nowrap;
+  letter-spacing:.02em;
+}
+.row.finale .node .yr{
+  border-color:var(--ink);
+  border-width:2px;
+  font-weight:500;
+}
+
+.cell{
+  padding:10px 0 10px;
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+  min-width:0;
+}
+.cell.left{padding-right:20px;align-items:flex-end}
+.cell.right{padding-left:20px;align-items:flex-start}
+
+.card{
+  background:var(--card);
+  border:1px solid var(--rule);
+  border-radius:2px;
+  box-shadow:var(--shadow);
+  padding:12px 14px 13px;
+  width:100%;
+  max-width:440px;
+  position:relative;
+  transition:opacity .18s;
+}
+.cell.left .card{border-right:3px solid var(--nord)}
+.cell.right .card{border-left:3px solid var(--sand)}
+.card.s-teil{
+  background-origin:border-box;
+  background-clip:border-box;
+  background-size:3px 100%;
+  background-repeat:no-repeat;
+}
+.cell.left .card.s-teil{
+  border-right-color:transparent;
+  background-image:repeating-linear-gradient(180deg,var(--nord) 0 5px,transparent 5px 10px);
+  background-position:right center;
+}
+.cell.right .card.s-teil{
+  border-left-color:transparent;
+  background-image:repeating-linear-gradient(180deg,var(--sand) 0 5px,transparent 5px 10px);
+  background-position:left center;
+}
+.card.s-luecke{
+  background:var(--card-2);
+  border-style:dashed;
+}
+.cell.left .card.s-luecke{border-right:3px dashed var(--gap)}
+.cell.right .card.s-luecke{border-left:3px dashed var(--gap)}
+
+.card h3{
+  font-family:var(--f-display);
+  font-weight:600;
+  font-size:16.5px;
+  line-height:1.25;
+  margin:0 0 5px;
+  letter-spacing:-.005em;
+  text-wrap:balance;
+}
+.card .span{
+  font-family:var(--f-mono);
+  font-size:10.5px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  color:var(--ink-3);
+  display:block;
+  margin-bottom:4px;
+}
+.card ul{margin:0;padding:0 0 0 16px}
+.card li{font-size:13.5px;color:var(--ink-2);margin:3px 0;line-height:1.5}
+.card li strong{color:var(--ink);font-weight:600}
+.card p{margin:0;font-size:13.5px;color:var(--ink-2)}
+
+.cs{display:flex;flex-wrap:wrap;gap:4px;margin-top:9px}
+.c{
+  font-family:var(--f-mono);
+  font-size:10.5px;
+  font-weight:500;
+  letter-spacing:.02em;
+  padding:2px 5px;
+  border-radius:2px;
+  border:1px solid transparent;
+  white-space:nowrap;
+  cursor:help;
+}
+.c.open{background:var(--gap-tint);color:var(--gap);border-color:color-mix(in srgb,var(--gap) 28%,transparent)}
+.c.done{background:transparent;color:var(--ink-3);border-color:var(--rule-2)}
+
+.leer{
+  width:100%;
+  max-width:440px;
+  border:1px dashed var(--rule-2);
+  border-radius:2px;
+  padding:11px 14px;
+  font-family:var(--f-mono);
+  font-size:11.5px;
+  letter-spacing:.06em;
+  color:var(--ink-3);
+  text-transform:uppercase;
+  background:transparent;
+}
+.leer.hart{
+  border-color:color-mix(in srgb,var(--gap) 45%,transparent);
+  color:var(--gap);
+  background:var(--gap-tint);
+}
+.leer small{
+  display:block;
+  font-family:var(--f-body);
+  font-size:12px;
+  letter-spacing:0;
+  text-transform:none;
+  color:var(--ink-2);
+  margin-top:3px;
+}
+.leer.hart small{color:var(--gap)}
+
+/* Spaltenköpfe */
+.tl-labels{
+  display:grid;
+  grid-template-columns:1fr 96px 1fr;
+  align-items:end;
+  margin-bottom:6px;
+}
+.tl-labels div{padding-bottom:8px}
+.lab{
+  font-family:var(--f-mono);
+  font-size:11px;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+}
+.lab.n{color:var(--nord);text-align:right;padding-right:20px}
+.lab.w{color:var(--sand);padding-left:20px}
+.lab.mid{text-align:center;color:var(--ink-3);font-size:10px;letter-spacing:.1em}
+
+/* Filterzustände */
+.tl[data-fokus="nord"] .cell.right,
+.tl[data-fokus="wueste"] .cell.left{opacity:.2}
+.tl[data-offen="1"] .card:not(.hat-offen){opacity:.22}
+
+/* Legende */
+.legende{
+  margin-top:46px;
+  padding-top:22px;
+  border-top:1px solid var(--rule);
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(210px,1fr));
+  gap:20px 28px;
+}
+.legende h2{grid-column:1/-1;margin-bottom:8px}
+.leg-item{display:flex;gap:10px;align-items:flex-start;font-size:13px;color:var(--ink-2)}
+.leg-swatch{flex:0 0 auto;width:14px;height:34px;margin-top:2px;border-radius:1px}
+.sw-fest{background:var(--nord)}
+.sw-teil{background-image:repeating-linear-gradient(180deg,var(--sand) 0 5px,transparent 5px 10px);background-color:transparent}
+.sw-luecke{border:1px dashed var(--gap);background:var(--gap-tint)}
+.leg-item b{color:var(--ink);font-weight:600;display:block}
+
+footer{
+  margin-top:38px;
+  padding-top:18px;
+  border-top:1px solid var(--rule);
+  font-size:12.5px;
+  color:var(--ink-3);
+  line-height:1.6;
+}
+footer code{font-family:var(--f-mono);font-size:11.5px;color:var(--ink-2)}
+
+@media (max-width:900px){
+  .wrap{padding:30px 16px 60px}
+  .tl, .tl-labels{grid-template-columns:64px 1fr}
+  .tl-labels .lab.n, .tl-labels .lab.w{display:none}
+  .tl-labels .lab.mid{text-align:left}
+  .row{display:grid;grid-template-columns:64px 1fr;grid-auto-flow:row}
+  .axis{grid-row:1 / span 2;grid-column:1}
+  .cell.left{grid-column:2;grid-row:1;align-items:stretch;padding:8px 0 4px}
+  .cell.right{grid-column:2;grid-row:2;align-items:stretch;padding:4px 0 12px}
+  .cell.left .card, .cell.right .card, .leer{max-width:none}
+  .cell.left .card{border-right:1px solid var(--rule);border-left:3px solid var(--nord)}
+  .cell.left .card.s-teil{
+    border-right-color:var(--rule);
+    border-left-color:transparent;
+    background-position:left center;
+  }
+  .cell.left .card.s-luecke{border-right:1px dashed var(--rule);border-left:3px dashed var(--gap)}
+  .node .yr{width:40px;height:40px;font-size:13.5px}
+  .node .age{font-size:9.5px}
+  .strang{display:inline-block}
+}
+.strang{
+  display:none;
+  font-family:var(--f-mono);
+  font-size:10px;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  margin-bottom:4px;
+}
+.cell.left .strang{color:var(--nord)}
+.cell.right .strang{color:var(--sand)}
+
+@media (prefers-reduced-motion: reduce){
+  *{transition:none !important;animation:none !important}
+}
+</style>
+
+<div class="wrap">
+
+  <header>
+    <div class="eyebrow">Plot 1 · Tibun &amp; Girlin · Titel ???</div>
+    <h1>Zehn Jahre, zwei Stränge</h1>
+    <p class="lede">Das Zeitgerüst aus <em>Zeitleiste.md</em> und <em>Kapitelstruktur.md</em>, Jahr für Jahr nebeneinandergelegt. Jahr 0 ist Girlins Verschwinden; das interne Referenzjahr ist 550 n.Chr. Was hier als Leerfeld steht, hat im Wiki keinen eigenen Beat — <em>nicht</em>, dass in dem Jahr nichts geschieht.</p>
+
+    <div class="facts">
+      <div class="fact"><b>90</b><span>offene Challenges<br>(45 entschieden)</span></div>
+      <div class="fact"><b>1</b><span>geschriebene Szene:<br>Prolog, Status Entwurf</span></div>
+      <div class="fact warn"><b>5</b><span>Jahre ohne eigenen Beat<br>im Nordstrang</span></div>
+      <div class="fact"><b>—</b><span>Kapitelraster:<br>noch nicht angelegt</span></div>
+    </div>
+  </header>
+
+  <section class="befunde">
+    <h2>Wo der Text fehlt, nicht nur die Entscheidung</h2>
+    <p class="sub">Vier Befunde, die sich aus dem Nebeneinander ergeben.</p>
+    <ul class="bef-list">
+      <li>
+        <span class="where">+5 → +9</span>
+        <span><strong>Der Nordstrang hat vier Jahre mit einem einzigen Beat.</strong>
+        <span class="note">Tibun baut das Tischmodell und sammelt Bernstein. Kein Verlust, kein Gegenspieler, keine Zäsur — der Aufbruch in +9 kostet ihn ausdrücklich nichts. Der Wüstenstrang hat im selben Fenster Trennung vom Clan, Transport, Azzim. Notiert als C-118.</span></span>
+      </li>
+      <li>
+        <span class="where">Figuren</span>
+        <span><strong>Zwei tragende Figuren haben keinen Namen und keine Datei.</strong>
+        <span class="note">Der Neffe des Häuptlings — Girlins Partner, Vater ihres dritten Kindes, Verteidiger der Schlucht (C-105) — und Tibuns Zieheltern in Kaupvik, seine Bezugsperson über acht Jahre (C-059). Beide tragen ganze Strangabschnitte.</span></span>
+      </li>
+      <li>
+        <span class="where">Technik</span>
+        <span><strong>Der Wüstengenerator ist unbestimmt.</strong>
+        <span class="note">Er läuft über fünf Jahre Handlung und löst Zündung 1 aus, aber Bauart und Wirkprinzip sind offen (C-135), ebenso was daran ohne Ring überhaupt prüfbar war (C-131). Auf der Nordseite steht mit Bernsteinrad und Konduktor deutlich mehr.</span></span>
+      </li>
+      <li>
+        <span class="where">Gerüst</span>
+        <span><strong>Zwischen Beat und Szene fehlt die Ebene.</strong>
+        <span class="note">Kapitelraster — Nummer, ein Satz, ein POV, ein Jahr — ist nicht angelegt; Romanlänge und Kapitellänge sind bewusst nicht vorab festgelegt. Solange das fehlt, lässt sich Umfang je Jahr nicht bemessen.</span></span>
+      </li>
+    </ul>
+  </section>
+
+  <section class="tl-head" style="margin-top:38px">
+    <h2>Jahr für Jahr</h2>
+    <p class="sub">Karten stehen im Jahr, in dem sie beginnen; Spannen sind über der Überschrift ausgewiesen.</p>
+  </section>
+
+  <div class="controls">
+    <div class="cgroup">
+      <span>Ansicht</span>
+      <button class="chip" id="f-alles" aria-pressed="true">Alles</button>
+      <button class="chip" id="f-offen" aria-pressed="false">Nur mit offenen Punkten</button>
+    </div>
+    <div class="cgroup">
+      <span>Strang</span>
+      <button class="chip" data-fokus="beide" aria-pressed="true">Beide</button>
+      <button class="chip" data-fokus="nord" aria-pressed="false">Norden</button>
+      <button class="chip" data-fokus="wueste" aria-pressed="false">Wüste</button>
+    </div>
+  </div>
+
+  <div class="tl-labels">
+    <div class="lab n">Tibun · Norden · Skirraa &amp; Kaupvik</div>
+    <div class="lab mid">Jahr</div>
+    <div class="lab w">Girlin · Wüste · Fezzan</div>
+  </div>
+
+  <div class="tl" id="tl" data-fokus="beide" data-offen="0">
+
+    <!-- ================= JAHR −1 ================= -->
+    <div class="row">
+      <div class="cell left">
+        <article class="card hat-offen">
+          <span class="strang">Norden</span>
+          <h3>Der Bernstein-Effekt</h3>
+          <ul>
+            <li>Szene am Fluss, unerwiderte Liebe, Feuer in der Scheune</li>
+            <li>Tibun entdeckt die elektrischen Eigenschaften von Bernstein — <strong>versteht das Prinzip aber noch nicht</strong></li>
+            <li>Einzige geschriebene Szene des Buchs: <em>Die Entdeckung</em>, Status Entwurf</li>
+          </ul>
+          <div class="cs">
+            <span class="c open" title="Prolog — warum sind Tibun und Girlin allein draußen?">C-057</span>
+            <span class="c open" title="Prolog — Ortsmaßstab in Skirraa">C-038</span>
+            <span class="c open" title="Prolog — Funke entzündet Wolle">C-039</span>
+            <span class="c open" title="Prolog — Fischerdorf vs. Heide-Weiler">C-040</span>
+            <span class="c open" title="Prolog — Bernstein-Fundort">C-041</span>
+            <span class="c open" title="Prolog — Nebenfiguren Frida, Herik, Lanke">C-042</span>
+            <span class="c open" title="Prolog — Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk">C-043</span>
+            <span class="c open" title="Prolog-Nachzüge C-063 bis C-072: Dorfplatz, Milieu, Bernsteinherkunft, Rollen, Brand, Fridas Familie, Dateikopf, Alter, Textfassung">C-063 – C-072</span>
+            <span class="c open" title="Prolog — Namen nach C-092 nachziehen">C-093</span>
+          </div>
+        </article>
+      </div>
+      <div class="axis">
+        <div class="line"></div>
+        <div class="node"><div class="yr">−1</div><div class="age">T 15 · G 33</div></div>
+        <div class="line"></div>
+      </div>
+      <div class="cell right">
+        <div class="leer">Noch kein Strang<small>Girlin lebt in Skirraa. Ihr Strang beginnt mit dem Verschwinden.</small></div>
+      </div>
+    </div>
+
+    <!-- ================= JAHR 0 ================= -->
+    <div class="row">
+      <div class="cell left">
+        <article class="card hat-offen">
+          <span class="strang">Norden</span>
+          <h3>Das Beben und der Blitz</h3>
+          <ul>
+            <li>Weltweites Beben — das Ringsystem erwacht</li>
+            <li>Girlin verschwindet bei Blitzschlag-Aktivierung des freigelegten Rings; <strong>Tibun ist einziger Zeuge</strong></li>
+            <li><strong>Offen:</strong> Fundort und Freilegung des Skir-Rings — die frühere Erdrutsch-Fassung ist gestrichen</li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Anzahl und Bekanntheit der Ringe — entschieden">C-008 ✓</span>
+            <span class="c done" title="Aktivierungsverhalten des Rings — entschieden">C-012 ✓</span>
+            <span class="c open" title="Fundort und Freilegung des Skir-Rings">C-128</span>
+            <span class="c open" title="Der Skir — Gewässer, See und Fundort des Rings">C-055</span>
+          </div>
+        </article>
+        <article class="card">
+          <span class="strang">Norden</span>
+          <h3>Die Mulde — und was das Dorf daraus macht</h3>
+          <ul>
+            <li>Tibun untersucht die frische Mulde: halbierte Steine, glatt durchtrennte Wurzeln. <strong>Er begreift, dass der Ring schneidet</strong> — das Wissen, mit dem er zehn Jahre später Azzim tötet</li>
+            <li>Der Sand liegt für alle sichtbar an der Skir: das Verschwinden glaubt man ihm, <strong>seine Deutung nicht</strong></li>
+            <li>Die wandernde Wala erklärt den Sand zum Zeichen, Girlin für tot, die Stelle zum Tabu</li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Woher Tibun die Schnittwirkung der Kugelgrenze kennt — entschieden">C-098 ✓</span>
+            <span class="c done" title="Der Sand an der Skir — was das Dorf sieht und wie es deutet — entschieden">C-094 ✓</span>
+          </div>
+        </article>
+      </div>
+      <div class="axis">
+        <div class="line"></div>
+        <div class="node"><div class="yr">0</div><div class="age">T 16 · G 34</div></div>
+        <div class="line"></div>
+      </div>
+      <div class="cell right">
+        <article class="card hat-offen">
+          <span class="strang">Wüste</span>
+          <h3>Ankunft im Fezzan</h3>
+          <ul>
+            <li>Girlin wacht in der Wüste auf; die Kel Aman sehen das Ereignis von Weitem und sammeln sie auf</li>
+            <li>Konflikt: Sprache und Kulturbarriere</li>
+            <li><strong>Ihr Ziel steht von der ersten Stunde fest:</strong> der Ring ist der einzige Rückweg. Sie beginnt bei <em>wie</em>, nicht bei <em>ob</em></li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Girlin weiß von Anfang an, dass der Ring ihr Rückweg ist — entschieden">C-114 ✓</span>
+            <span class="c done" title="Verortung der Wüste — entschieden">C-088 ✓</span>
+            <span class="c open" title="Karawanen-Aufmerksamkeit bei Girlins Ankunft">C-014</span>
+            <span class="c open" title="Girlin — Herkunft &amp; Vorgeschichte">C-024</span>
+            <span class="c open" title="Girlin — Charakter &amp; Fähigkeiten">C-025</span>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <!-- ================= JAHR +1 ================= -->
+    <div class="row">
+      <div class="cell left">
+        <article class="card s-teil hat-offen">
+          <span class="strang">Norden</span>
+          <span class="span">0 → +1</span>
+          <h3>Nach dem Verschwinden</h3>
+          <ul>
+            <li>Suchtrupp; Girlin gilt als weggelaufen oder tot</li>
+            <li>Semund bindet sich <strong>rasch</strong> an Millia — für Tibun Verrat, denn er <em>weiß</em>, dass sie lebt</li>
+            <li><strong>Der Unfall:</strong> Tibun baut etwas und verletzt eine Nebenfigur. Dass es geschieht, steht fest — <strong>womit und wie, ist offen</strong></li>
+            <li>Wirkung dreifach: Schuld, Gewissenslast, Ausschluss durch die Dorfbewohner</li>
+            <li><strong>Fehlt ganz:</strong> Tibun und die 9-jährige Truda; die Alpträume aus der alten Plotfassung</li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Verschwundene für tot erklärt — Wiederheirat und Erbe — entschieden">C-095 ✓</span>
+            <span class="c open" title="Wasserrad-Unfall und Tibuns Schuld — Bauart und Ablauf offen">C-058</span>
+            <span class="c open" title="Tibun und Truda nach Girlins Verschwinden">C-077</span>
+            <span class="c open" title="Tibuns Verhältnis zu Millia — Widerspruch zwischen Skizze und Plot 1">C-078</span>
+            <span class="c open" title="Tibuns Alpträume — und der Traum als Ideenquelle">C-079</span>
+          </div>
+        </article>
+        <article class="card hat-offen">
+          <span class="strang">Norden</span>
+          <h3>Aufbruch und die eine Zwischenstation</h3>
+          <ul>
+            <li>Rund ein Jahr nach dem Verschwinden verlässt Tibun Skirraa</li>
+            <li><strong>Die Reise dauert Wochen, nicht Jahre</strong> — Skirraa ↔ Kaupvik sind ~14 Tagesmärsche über den Ochsenweg</li>
+            <li>Genau eine Zwischenstation: Anschluss an eine Gruppe. Er lernt, ohne Sippe zu überleben — und nach der <strong>ersten Absage</strong> lernt er zu schweigen</li>
+            <li><strong>Offen:</strong> wo diese Station liegt und was für eine Gruppe es ist</li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Tibuns Wanderjahre — die Stationen fehlen — entschieden">C-115 ✓</span>
+            <span class="c done" title="Tibuns Lebensgrundlage während der Wanderschaft — entschieden">C-034 ✓</span>
+            <span class="c open" title="Die Zwischenstation — Ort und Gruppe">C-124</span>
+          </div>
+        </article>
+        <article class="card s-teil hat-offen">
+          <span class="strang">Norden</span>
+          <span class="span">+1 → +4</span>
+          <h3>Hafenjahre in Kaupvik</h3>
+          <ul>
+            <li>Hafenarbeit; er kommt bei einem Paar unter und arbeitet mit dem Mann zusammen — <strong>neue Bezugsperson</strong></li>
+            <li>Sammeln und Handeln von Bernstein — noch ohne zu wissen, wie es geht</li>
+            <li><strong>Die Zieheltern existieren als Rolle, nicht als Figuren:</strong> keine Namen, keine Dateien</li>
+          </ul>
+          <div class="cs">
+            <span class="c open" title="Tibuns Zieheltern in Kaupvik — Figuren fehlen">C-059</span>
+          </div>
+        </article>
+      </div>
+      <div class="axis">
+        <div class="line"></div>
+        <div class="node"><div class="yr">+1</div><div class="age">T 17 · G 35</div></div>
+        <div class="line"></div>
+      </div>
+      <div class="cell right">
+        <article class="card s-teil hat-offen">
+          <span class="strang">Wüste</span>
+          <span class="span">+1 → +3</span>
+          <h3>Sprache, Bellbrim, der Neffe</h3>
+          <ul>
+            <li>Leben bei den Kel Aman; Sprach- und Kulturbarriere</li>
+            <li>Begegnung mit <strong>Bellbrim</strong>, die übersetzen kann und als Erste versteht, was der Ring ist</li>
+            <li>Spätestens +3: Beziehung zum <strong>Neffen des Häuptlings</strong> beginnt — dessen Frau ist zuvor mit einem anderen durchgebrannt</li>
+            <li><strong>Der Neffe hat keinen Namen und keine Datei</strong>, obwohl er den Strang bis ins Finale trägt</li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Girlin und der Neffe — entschieden">C-060 ✓</span>
+            <span class="c open" title="Der Neffe — Name, Eigenschaften, Schweigebitte">C-105</span>
+            <span class="c open" title="Durchgebrannte Ehefrau bei den Kel Aman">C-106</span>
+            <span class="c open" title="Bellbrim — historische Plausibilität &amp; Herkunft">C-026</span>
+            <span class="c open" title="Bellbrim — Vorgeschichte, Familie &amp; Fähigkeiten">C-027</span>
+            <span class="c open" title="Bellbrims Sprache — Verhältnis zu C-026">C-113</span>
+            <span class="c open" title="Kel Aman — kulturelle Tiefe">C-003</span>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <!-- ================= JAHR +2 ================= -->
+    <div class="row">
+      <div class="cell left">
+        <div class="leer">Kein eigener Beat<small>Fällt in die Hafenjahre +1 → +4.</small></div>
+      </div>
+      <div class="axis">
+        <div class="line"></div>
+        <div class="node"><div class="yr">+2</div><div class="age">T 18 · G 36</div></div>
+        <div class="line"></div>
+      </div>
+      <div class="cell right">
+        <div class="leer">Kein eigener Beat<small>Fällt in die Spanne +1 → +3.</small></div>
+      </div>
+    </div>
+
+    <!-- ================= JAHR +3 ================= -->
+    <div class="row">
+      <div class="cell left">
+        <div class="leer">Kein eigener Beat<small>Fällt in die Hafenjahre +1 → +4.</small></div>
+      </div>
+      <div class="axis">
+        <div class="line"></div>
+        <div class="node"><div class="yr">+3</div><div class="age">T 19 · G 37</div></div>
+        <div class="line"></div>
+      </div>
+      <div class="cell right">
+        <article class="card s-teil hat-offen">
+          <span class="strang">Wüste</span>
+          <span class="span">+3 → +5</span>
+          <h3>Azzim, Auftritt 1 — der Basar</h3>
+          <ul>
+            <li><strong>Zugriffsversuch, den der Clan abwehrt.</strong> Ab hier kennen sich beide als Feind</li>
+            <li>Sein Motiv ist doppelt: ihr <strong>Wert</strong> als seltene Ware — und ab dem Fehlschlag die <strong>Demütigung</strong></li>
+            <li><strong>Er weiß nichts vom Ring</strong> und erfährt es in der Wüste nie</li>
+            <li><strong>Offen:</strong> wie er überhaupt von ihr erfährt — Gerede aufgeschnappt ist notierte Richtung, nicht Beschluss</li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Azzims frühe Auftritte — Zahl und Zeitpunkte — entschieden">C-123 ✓</span>
+            <span class="c open" title="Azzim u-Tawan — Herkunft &amp; Hintergrund, Alter offen">C-028</span>
+            <span class="c open" title="Azzim u-Tawan — Charakter, Motivation &amp; Fähigkeiten">C-029</span>
+            <span class="c open" title="Azzims zweite Seite — der dritte Konflikt fehlt wieder">C-120</span>
+            <span class="c open" title="Azzim tritt zu spät auf">C-116</span>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <!-- ================= JAHR +4 ================= -->
+    <div class="row">
+      <div class="cell left">
+        <article class="card hat-offen">
+          <span class="strang">Norden</span>
+          <span class="span">+4 / +5</span>
+          <h3>Der Erkenntnismoment</h3>
+          <ul>
+            <li>Arbeitsunfall an einer <strong>Bootsziehwinde</strong> im Hafen</li>
+            <li>Daraus die Einsicht: <strong>schnelle, kontinuierliche Reibung = viel Ladung</strong>. Was er mit 15 sah, versteht er erst jetzt</li>
+            <li>Der Van-de-Graaff ist als Anachronismus gestrichen; gemeint ist das <strong>rotierende Bernsteinrad</strong></li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Van-de-Graaff-Generator — gestrichen">C-005 ✓</span>
+            <span class="c open" title="Tibuns Elektrizitätsquelle">C-002</span>
+          </div>
+        </article>
+      </div>
+      <div class="axis">
+        <div class="line"></div>
+        <div class="node"><div class="yr">+4</div><div class="age">T 20 · G 38</div></div>
+        <div class="line"></div>
+      </div>
+      <div class="cell right">
+        <article class="card hat-offen">
+          <span class="strang">Wüste</span>
+          <h3>Das dritte Kind — und das Ziel kippt</h3>
+          <ul>
+            <li>Girlins drittes Kind wird geboren; Vater ist der Neffe. Im Finale ist es <strong>6</strong></li>
+            <li><strong>Aus „nach Hause gehen" wird „ich bleibe in meinem neuen Zuhause"</strong> — der Entschluss fällt sechs Jahre vor dem Finale, nicht am Ende</li>
+            <li>Er ist nicht endgültig: er <strong>wackelt und wird bestätigt</strong>, jedes Mal teurer</li>
+            <li>Damit ändert sich der Zweck des Rings: nicht mehr Heimreise, sondern <strong>eine Nachricht</strong></li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Girlins Entscheidung zur Rückreise — umgekehrt entschieden">C-082 ✓</span>
+            <span class="c open" title="Girlins drittes Kind in der Wüste">C-081</span>
+            <span class="c open" title="Girlins Nachricht — Vorhaben ohne Ausführung">C-101</span>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <!-- ================= JAHR +5 ================= -->
+    <div class="row">
+      <div class="cell left">
+        <article class="card s-luecke hat-offen">
+          <span class="strang">Norden</span>
+          <span class="span">+5 → +9 · vier Jahre, ein Beat</span>
+          <h3>Das Tischmodell</h3>
+          <ul>
+            <li>Bau des Prototyps vom Bernsteinrad-Generator, weiter Bernstein sammeln</li>
+            <li>Bernstein in der nötigen Menge ist nicht zu kaufen wie Brot — <strong>das Sammeln selbst kostet die Jahre</strong></li>
+            <li><strong>Der Strang verliert in diesen Jahren nichts.</strong> Kein Rückschlag, kein Gegenspieler, kein Preis — der Aufbruch in +9 kostet ausdrücklich nichts</li>
+          </ul>
+          <div class="cs">
+            <span class="c open" title="Der Nordstrang verliert zwischen +1 und +9 nichts">C-118</span>
+            <span class="c open" title="Tibuns Zieheltern in Kaupvik">C-059</span>
+            <span class="c open" title="Der isolierte Konduktor — Ladungsspeicher ohne Anachronismus">C-099</span>
+          </div>
+        </article>
+      </div>
+      <div class="axis">
+        <div class="line"></div>
+        <div class="node"><div class="yr">+5</div><div class="age">T 21 · G 39</div></div>
+        <div class="line"></div>
+      </div>
+      <div class="cell right">
+        <article class="card hat-offen">
+          <span class="strang">Wüste</span>
+          <h3>Die Bitte und die Trennung</h3>
+          <ul>
+            <li>Drei Phasen bis zur Hilfe: <strong>Zugehörigkeit → Wissen → Bitte.</strong> Erst als feststeht, dass man den Ring auslösen kann, lohnt der Transport</li>
+            <li><strong>Girlin bittet selbst.</strong> Der Neffe bittet nicht für sie — sein Einfluss hilft, sie arbeiten als Team</li>
+            <li>Der Clan hilft aus <strong>Sippenpflicht</strong>: der Neffe ist Blut des Häuptlings. Man tut es für ihn, nicht für sie</li>
+            <li>Girlin, Neffe und Kind lösen sich vom Clan und ziehen zu Bellbrim in die Schlucht. Für den Neffen der Verlust seiner Sippe — <strong>der teuerste Preis außer Tibuns</strong></li>
+            <li><strong>Ab hier ohne Sippenschutz</strong> — vier Jahre lang schützt sie kein Schutz, sondern Lage</li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Navigationswissen des Häuptlings — Schweigen gestrichen">C-061 ✓</span>
+            <span class="c open" title="Die Schutzlücke verschiebt sich von +8 auf +5">C-129</span>
+            <span class="c open" title="Der Neffe — Name, Eigenschaften, Schweigebitte">C-105</span>
+          </div>
+        </article>
+        <article class="card s-teil hat-offen">
+          <span class="strang">Wüste</span>
+          <span class="span">+5 → +7</span>
+          <h3>Die Jahre in der Schlucht</h3>
+          <ul>
+            <li>Die vier leben zusammen; die Neuen helfen Bellbrim — Jagd, Weben, Landwirtschaft, Handel</li>
+            <li><strong>Die Arbeit am Generator beginnt hier</strong> — Jahre bevor der Ring da ist. Experimente mit Wasserfall und Wasserrad</li>
+            <li>Der Basar bleibt wiederkehrender Ort: Material, das die Schlucht nicht hergibt. <strong>Der einzige Grund, das Versteck zu verlassen</strong> — und Azzims einziger Weg zu ihnen</li>
+            <li><strong>Offen:</strong> Bauart des Wüstengenerators, was ohne Ring prüfbar ist, womit sie bezahlen</li>
+          </ul>
+          <div class="cs">
+            <span class="c open" title="Der Wüstengenerator — Bauart offen">C-135</span>
+            <span class="c open" title="Generatorarbeit ohne Ring">C-131</span>
+            <span class="c open" title="Womit die Schluchtgemeinschaft auf dem Basar bezahlt">C-132</span>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <!-- ================= JAHR +6 ================= -->
+    <div class="row">
+      <div class="cell left">
+        <div class="leer hart">Kein eigener Beat<small>Nur die Spanne +5 → +9. Drittes Jahr in Folge ohne eigene Handlung.</small></div>
+      </div>
+      <div class="axis">
+        <div class="line"></div>
+        <div class="node"><div class="yr">+6</div><div class="age">T 22 · G 40</div></div>
+        <div class="line"></div>
+      </div>
+      <div class="cell right">
+        <div class="leer">Kein eigener Beat<small>Fällt in die Schluchtjahre +5 → +7.</small></div>
+      </div>
+    </div>
+
+    <!-- ================= JAHR +7 ================= -->
+    <div class="row">
+      <div class="cell left">
+        <div class="leer hart">Kein eigener Beat<small>Nur die Spanne +5 → +9.</small></div>
+      </div>
+      <div class="axis">
+        <div class="line"></div>
+        <div class="node"><div class="yr">+7</div><div class="age">T 23 · G 41</div></div>
+        <div class="line"></div>
+      </div>
+      <div class="cell right">
+        <article class="card s-teil hat-offen">
+          <span class="strang">Wüste</span>
+          <span class="span">+7 / +8</span>
+          <h3>Der Transport</h3>
+          <ul>
+            <li>Der Clan kommt wieder — <strong>Girlin bricht mit ihm auf</strong>. Zwischen Bitte und Aufbruch liegen zwei Jahre, weil der Clan eigene Wege hat: Weidewechsel, Handelszüge, Jahreszeiten</li>
+            <li><strong>Wochen bis wenige Monate</strong>, kein Jahresvorhaben. Der 3-m-Ring wiegt rund 5,7 t</li>
+            <li><strong>Azzim, Auftritt 2:</strong> Er verhandelt offen mit dem Clan, will sie kaufen. Sippenpflicht schlägt Handel — <strong>er verliert den Zug</strong> und sieht nicht, wohin der Ring geht</li>
+            <li><strong>Offen:</strong> das Transportverfahren; wie Girlin in der Schlucht überhaupt erfährt, dass der Clan kommt</li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Widerspruch — Transport des Wüstenrings — entschieden">C-018 ✓</span>
+            <span class="c done" title="Proportionen der Portalringe — entschieden">C-007 ✓</span>
+            <span class="c open" title="Das Transportverfahren ist offen">C-125</span>
+            <span class="c open" title="Transportlogistik des Wüstenrings">C-103</span>
+            <span class="c open" title="Wie der Transport terminiert wird">C-130</span>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <!-- ================= JAHR +8 ================= -->
+    <div class="row">
+      <div class="cell left">
+        <div class="leer hart">Kein eigener Beat<small>Nur die Spanne +5 → +9. Im Wüstenstrang liegen hier Transport und Ringankunft.</small></div>
+      </div>
+      <div class="axis">
+        <div class="line"></div>
+        <div class="node"><div class="yr">+8</div><div class="age">T 24 · G 42</div></div>
+        <div class="line"></div>
+      </div>
+      <div class="cell right">
+        <article class="card">
+          <span class="strang">Wüste</span>
+          <h3>Der Ring liegt in der Schlucht</h3>
+          <ul>
+            <li>Ziel erreicht: Schatten, Fels, Verteidigungslage. Ab jetzt Werkstatt, Zuflucht und Finalort in einem</li>
+            <li>Der Clan zieht endgültig weiter</li>
+            <li><strong>Der Ring wird nie aufgerichtet.</strong> Er liegt, wie jeder Ring liegt</li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Wiederaufstellung des Rings nach dem Transport — entschieden">C-111 ✓</span>
+          </div>
+        </article>
+        <article class="card s-teil hat-offen">
+          <span class="strang">Wüste</span>
+          <span class="span">+8 → +10</span>
+          <h3>Vollendung des Generators</h3>
+          <ul>
+            <li>Bellbrim und Girlin bauen weiter — <strong>fertig wird er erst in +10, kurz vor dem Angriff</strong></li>
+            <li><strong>Offen bleibt das Gerät selbst:</strong> Bauart und Wirkprinzip sind nicht festgelegt, und es ist ausdrücklich <em>nicht</em> dasselbe wie Tibuns Bernsteinrad</li>
+          </ul>
+          <div class="cs">
+            <span class="c open" title="Der Wüstengenerator — Bauart offen">C-135</span>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <!-- ================= JAHR +9 ================= -->
+    <div class="row">
+      <div class="cell left">
+        <article class="card hat-offen">
+          <span class="strang">Norden</span>
+          <h3>Rückkehr an die Tabustelle</h3>
+          <ul>
+            <li>Aufbruch aus Kaupvik: das Tischmodell <strong>läuft</strong>, Wissen und Bernstein reichen — <strong>er hat damit recht</strong>. Die Zieheltern bleiben lebend zurück, ein Abschied, kein Verlust</li>
+            <li>Rückkehr direkt zum Ring am Bach. Bau der großen Wasseranlage unter einer <strong>überdachten Werkstatt über der Tabustelle</strong></li>
+            <li>Das Dorf <strong>warnt und meidet ihn, vertreibt ihn aber nicht</strong>: wer sich dorthin begibt, ist selber schuld — anheftendes Pech, keine Strafe</li>
+            <li>Die Wala sieht es sich an und <strong>lässt ihn gewähren</strong>. Semund duldet ihn, fern vom Ring. Truda und neugierige Kinder sind die einzige Verbindung zum Weiler</li>
+            <li><strong>Truda weiß, was er tut, und hält ihn für verloren</strong> — ihre Rolle ist noch nicht ausgearbeitet</li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Die Werkstatt an der Tabustelle — entschieden">C-100 ✓</span>
+            <span class="c open" title="Tibun und Truda nach Girlins Verschwinden">C-077</span>
+            <span class="c open" title="Tibuns Zieheltern in Kaupvik">C-059</span>
+            <span class="c open" title="Wandernde Wala — offene Felder">C-050</span>
+            <span class="c open" title="Truda — offene Felder">C-047</span>
+          </div>
+        </article>
+      </div>
+      <div class="axis">
+        <div class="line"></div>
+        <div class="node"><div class="yr">+9</div><div class="age">T 25 · G 43</div></div>
+        <div class="line"></div>
+      </div>
+      <div class="cell right">
+        <article class="card hat-offen">
+          <span class="strang">Wüste</span>
+          <h3>Azzim, Auftritt 3 — er findet die Schlucht</h3>
+          <ul>
+            <li>Auf dem Basar, wo sie Material holen: er erkennt sie und greift zu. <strong>Sie entkommt und flieht heim — er folgt ihr</strong></li>
+            <li>Erster Zugriff ohne Clan. Er begreift zweierlei: <strong>der Schutz ist weg, und er weiß jetzt, wo sie lebt</strong></li>
+            <li>Danach holt er Leute — eine Schlucht mit Fels nimmt man nicht allein. Das kostet die Zeit bis +10</li>
+            <li><strong>Offen:</strong> woher die Leute kommen, wie viele, was ihn das kostet</li>
+          </ul>
+          <div class="cs">
+            <span class="c open" title="Azzims Leute für den Angriff">C-133</span>
+          </div>
+        </article>
+        <article class="card hat-offen">
+          <span class="strang">Wüste</span>
+          <h3>Die Nachricht liegt bereit</h3>
+          <ul>
+            <li>Fertig und wetterfest verpackt. <strong>Der Leser sieht sie, bevor sie liegen bleibt</strong></li>
+            <li><strong>Offen:</strong> was es ist — Gegenstand, Schriftstück oder beides — und wer es im Norden deuten könnte</li>
+          </ul>
+          <div class="cs">
+            <span class="c open" title="Girlins Nachricht — Vorhaben ohne Ausführung">C-101</span>
+            <span class="c open" title="Die Nachricht — Art und Lesbarkeit im Norden">C-134</span>
+            <span class="c open" title="Der Postring — was passt hinein?">C-126</span>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <!-- ================= JAHR +10 — FINALE ================= -->
+    <div class="row finale">
+      <div class="cell left">
+        <article class="card hat-offen">
+          <span class="strang">Norden</span>
+          <span class="span">Finale · Zündung 2</span>
+          <h3>Der Kampf an der Skir</h3>
+          <ul>
+            <li>Tibun führt an diesem Tag nur einen <strong>Testlauf</strong> durch. Keine Vorräte, keine Waffe, kein Abschied von Truda</li>
+            <li>Azzim fällt ihm vor die Füße — nach zehn Jahren <strong>der erste Beweis, dass am anderen Ende Menschen leben</strong>. Und dieser kennt Girlin</li>
+            <li>Azzim begreift erst hier, was ihn geworfen hat, und schließt es <strong>selbst</strong></li>
+            <li>Azzim ist der Stärkere: er <strong>wirft Tibun in den Ring</strong> und würgt ihn am Boden</li>
+            <li>Mit letzter Kraft lässt Tibun die <strong>Kette aus dem Dachstuhl</strong> fallen — Konduktor an Ring, punktuell, augenblicklich — und tritt Azzim im selben Griff weg. <strong>Die Fallzeit der Kette ist Azzims Taumelzeit</strong></li>
+            <li>Azzim wird von der Kugelgrenze zerteilt. Tibun steht mittig und reist. <strong>Notwehr, kein Plan</strong></li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Azzims Ankunft vor Tibuns Zündung — entschieden">C-062 ✓</span>
+            <span class="c done" title="Ladezeit des Konduktors — entschieden">C-109 ✓</span>
+            <span class="c open" title="Der isolierte Konduktor — Ladungsspeicher ohne Anachronismus">C-099</span>
+            <span class="c open" title="Vorwarnung vor dem Flip?">C-020</span>
+            <span class="c open" title="Was bei Zündung 1 aus dem Norden verschwindet">C-102</span>
+          </div>
+        </article>
+      </div>
+      <div class="axis">
+        <div class="line"></div>
+        <div class="node"><div class="yr">+10</div><div class="age">T 26 · G 44</div></div>
+        <div class="line"></div>
+      </div>
+      <div class="cell right">
+        <article class="card hat-offen">
+          <span class="strang">Wüste</span>
+          <span class="span">Finale · Zündung 1</span>
+          <h3>Der Angriff auf die Schlucht</h3>
+          <ul>
+            <li>Reihenfolge: <strong>Generator fertig → Zweifel kehrt zurück → Entschluss bestätigt → Angriff</strong></li>
+            <li>Drei Dinge treiben den Zweifel: der laufende Generator (die Tür stünde offen), Azzims Auftritt in +9, das älter werdende Kind</li>
+            <li><strong>Girlin hat den Preis bezahlt, bevor der Sohn ankommt</strong></li>
+            <li>Azzims vierter Auftritt ist der Angriff. Im Kampf wird der Wüstengenerator ausgelöst: <strong>Azzim wird nach Jütland geworfen</strong>, in der Gegenrichtung kommt kein Mensch</li>
+            <li>Das Kind ist bei Bellbrim und <strong>sieht Tibuns Ankunft</strong>. Der Neffe verteidigt die Schlucht</li>
+            <li><strong>Girlins Nachricht geht nicht über</strong> — der Angriff überholt ihr Vorhaben. Der Leser sieht das Ding liegen bleiben</li>
+          </ul>
+          <div class="cs">
+            <span class="c done" title="Aktivierungsverhalten des Rings — Gleichzeitigkeit entschieden">C-012 ✓</span>
+            <span class="c open" title="Der Kampf in der Schlucht während Tibuns Ankunft">C-108</span>
+            <span class="c open" title="Das Wüstenkind während des Finales">C-112</span>
+            <span class="c open" title="Was bei Zündung 1 aus dem Norden verschwindet">C-102</span>
+            <span class="c open" title="Azzims Leute für den Angriff">C-133</span>
+          </div>
+        </article>
+        <article class="card hat-offen">
+          <span class="strang">Wüste</span>
+          <span class="span">Schluss</span>
+          <h3>Wiedersehen, mitten im Kampf</h3>
+          <ul>
+            <li>Girlin erkennt ihn an Augen und Gesicht — und daran, dass niemand sonst durch den Ring kommen könnte. Keine Sprachbarriere zwischen beiden</li>
+            <li>Beide bleiben in der Wüste. <strong>Der Ring ist ab jetzt Werkzeug statt Unglück</strong></li>
+            <li>Das Buch endet mit der Entscheidung, nicht ihrer Ausführung:<br><em>„Was machen wir jetzt?" — „Jetzt holen wir deine Schwester…"</em></li>
+            <li><strong>Offen:</strong> Wissen beide, was der Satz kostet? Der Ring <em>tauscht</em> — man kann niemanden rufen, der nicht schon dort steht</li>
+            <li>Der Norden nach Tibuns Verschwinden wird nicht erzählt — Stoff für eine weitere Geschichte im Universum</li>
+          </ul>
+          <div class="cs">
+            <span class="c open" title="Der Schlusssatz — wissen die Figuren, was er kostet?">C-110</span>
+            <span class="c open" title="Titel für Plot 1">C-085</span>
+          </div>
+        </article>
+      </div>
+    </div>
+
+  </div>
+
+  <section class="legende">
+    <h2>Legende</h2>
+    <div class="leg-item">
+      <div class="leg-swatch sw-fest"></div>
+      <div><b>Durchgehende Kante</b>Entschieden. Steht so in der Zeitleiste.</div>
+    </div>
+    <div class="leg-item">
+      <div class="leg-swatch sw-teil"></div>
+      <div><b>Gestrichelte Kante</b>Teilentschieden. Der Beat steht, Ausführung oder Figuren fehlen.</div>
+    </div>
+    <div class="leg-item">
+      <div class="leg-swatch sw-luecke"></div>
+      <div><b>Rot gestrichelt</b>Erzählerische Lücke — Jahre ohne eigenen Beat oder ohne Konflikt.</div>
+    </div>
+    <div class="leg-item">
+      <div class="leg-swatch" style="background:transparent;border:1px solid var(--rule-2)"></div>
+      <div><b>C-Nummern</b>Rot = offen, grau = entschieden. Zeiger zum Vollständigen in Challenges.md.</div>
+    </div>
+  </section>
+
+  <footer>
+    Quellen: <code>Plots/Plot-1/Zeitleiste.md</code>, <code>Plots/Plot-1/Kapitelstruktur.md</code>, <code>Plots/Plot-1/Szenen/README.md</code>, <code>Notizen/Challenges.md</code> · Stand 04.09.2026.<br>
+    Diese Seite fasst nur zusammen, was im Wiki steht — sie legt nichts fest. Wo die Zeitleiste und die Kapitelskizze auseinandergehen, gilt die Zeitleiste.
+  </footer>
+
+</div>
+
+<script>
+(function(){
+  var tl = document.getElementById('tl');
+
+  var fAlles = document.getElementById('f-alles');
+  var fOffen = document.getElementById('f-offen');
+  function setOffen(on){
+    tl.setAttribute('data-offen', on ? '1' : '0');
+    fOffen.setAttribute('aria-pressed', on ? 'true' : 'false');
+    fAlles.setAttribute('aria-pressed', on ? 'false' : 'true');
+  }
+  fAlles.addEventListener('click', function(){ setOffen(false); });
+  fOffen.addEventListener('click', function(){ setOffen(true); });
+
+  var fokusBtns = Array.prototype.slice.call(document.querySelectorAll('[data-fokus]'));
+  fokusBtns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      fokusBtns.forEach(function(b){ b.setAttribute('aria-pressed', b === btn ? 'true' : 'false'); });
+      tl.setAttribute('data-fokus', btn.getAttribute('data-fokus'));
+    });
+  });
+})();
+</script>

@@ -1,0 +1,404 @@
+<title>Challenges nach Thema</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+
+<style>
+:root{
+  --paper:#E8EAE7;
+  --card:#F6F7F4;
+  --card-2:#F0F1EE;
+  --ink:#1C2124;
+  --ink-2:#4E565A;
+  --ink-3:#7B8388;
+  --rule:#D1D4CE;
+  --rule-2:#BFC3BC;
+  --nord:#2F5D66;
+  --sand:#8F6216;
+  --oliv:#5F6E36;
+  --oliv-tint:#E4E8D6;
+  --gap:#9C3F38;
+  --gap-tint:#EEDFDC;
+  --neutral-tint:#E4E6E2;
+  --shadow:0 1px 2px rgba(28,33,36,.05);
+  --f-display:"Spectral","Iowan Old Style",Georgia,serif;
+  --f-body:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;
+  --f-mono:"IBM Plex Mono","SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#14181A; --card:#1C2124; --card-2:#191E20;
+    --ink:#E6E8E4; --ink-2:#A6AEB1; --ink-3:#79817F;
+    --rule:#2C3336; --rule-2:#3A4346;
+    --nord:#7CB8C0; --sand:#D2A153;
+    --oliv:#A3B36C; --oliv-tint:#242B18;
+    --gap:#DB8279; --gap-tint:#31201E;
+    --neutral-tint:#242A2C;
+    --shadow:0 1px 2px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#14181A; --card:#1C2124; --card-2:#191E20;
+  --ink:#E6E8E4; --ink-2:#A6AEB1; --ink-3:#79817F;
+  --rule:#2C3336; --rule-2:#3A4346;
+  --nord:#7CB8C0; --sand:#D2A153;
+  --oliv:#A3B36C; --oliv-tint:#242B18;
+  --gap:#DB8279; --gap-tint:#31201E;
+  --neutral-tint:#242A2C;
+  --shadow:0 1px 2px rgba(0,0,0,.3);
+}
+
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1180px;margin:0 auto;padding:44px 24px 80px}
+
+.eyebrow{font-family:var(--f-mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:var(--f-display);font-weight:600;font-size:clamp(30px,5vw,44px);line-height:1.08;letter-spacing:-.015em;margin:.28em 0 .3em;text-wrap:balance}
+.lede{font-family:var(--f-display);font-size:17px;line-height:1.6;color:var(--ink-2);max-width:64ch;margin:0}
+.lede em{color:var(--ink)}
+
+/* Verteilung nach Arbeitsart */
+.verteilung{margin:32px 0 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:18px 0}
+.bar{display:flex;height:12px;border-radius:2px;overflow:hidden;gap:2px}
+.bar span{display:block}
+.bar .b-ent{background:var(--gap)}
+.bar .b-nach{background:var(--oliv)}
+.bar .b-aus{background:var(--rule-2)}
+.bar-legende{display:flex;flex-wrap:wrap;gap:22px;margin-top:12px}
+.bl{display:flex;gap:9px;align-items:baseline;font-size:13px;color:var(--ink-2)}
+.bl i{width:9px;height:9px;border-radius:1px;flex:0 0 auto;transform:translateY(1px)}
+.bl b{font-family:var(--f-mono);font-weight:500;color:var(--ink);font-variant-numeric:tabular-nums}
+.bl .i-ent{background:var(--gap)}
+.bl .i-nach{background:var(--oliv)}
+.bl .i-aus{background:var(--rule-2)}
+
+/* Befunde */
+.befunde{margin:34px 0 0}
+h2.sec{font-family:var(--f-display);font-weight:600;font-size:20px;letter-spacing:-.01em;margin:0 0 4px}
+p.sub{margin:0 0 16px;font-size:13.5px;color:var(--ink-3)}
+.bef{list-style:none;margin:0;padding:0;display:grid;gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.bef li{background:var(--card);padding:13px 16px;display:grid;grid-template-columns:64px 1fr;gap:16px;align-items:baseline}
+.bef .n{font-family:var(--f-mono);font-size:19px;font-weight:500;font-variant-numeric:tabular-nums;color:var(--gap);letter-spacing:-.02em}
+.bef strong{font-weight:600}
+.bef .note{display:block;margin-top:2px;font-size:13.5px;color:var(--ink-2)}
+
+/* Steuerung */
+.controls{display:flex;flex-wrap:wrap;gap:20px;align-items:center;margin:26px 0 8px;padding:12px 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);position:sticky;top:0;background:var(--paper);z-index:5}
+.cgroup{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.cgroup > span{font-family:var(--f-mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3)}
+button.chip{font-family:var(--f-body);font-size:13px;font-weight:500;color:var(--ink-2);background:transparent;border:1px solid var(--rule-2);border-radius:2px;padding:5px 11px;cursor:pointer;transition:background .12s,color .12s,border-color .12s}
+button.chip:hover{color:var(--ink);border-color:var(--ink-3)}
+button.chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--paper)}
+button.chip:focus-visible,input:focus-visible{outline:2px solid var(--nord);outline-offset:2px}
+input[type="search"]{font-family:var(--f-body);font-size:13px;padding:5px 10px;border:1px solid var(--rule-2);border-radius:2px;background:var(--card);color:var(--ink);width:200px}
+input[type="search"]::placeholder{color:var(--ink-3)}
+.treffer{font-family:var(--f-mono);font-size:11.5px;color:var(--ink-3);font-variant-numeric:tabular-nums}
+
+/* Gruppen */
+.gruppe{margin-top:34px;scroll-margin-top:76px}
+.gruppe-kopf{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;padding-bottom:8px;border-bottom:2px solid var(--ink)}
+.gruppe-kopf h3{font-family:var(--f-display);font-weight:600;font-size:22px;margin:0;letter-spacing:-.01em}
+.gruppe-kopf .zahl{font-family:var(--f-mono);font-size:12px;color:var(--ink-3);font-variant-numeric:tabular-nums}
+.gruppe > p.warum{margin:10px 0 14px;font-size:14px;color:var(--ink-2);max-width:72ch}
+.gruppe > p.warum strong{color:var(--ink);font-weight:600}
+
+.karten{display:grid;grid-template-columns:repeat(auto-fill,minmax(268px,1fr));gap:10px}
+.k{background:var(--card);border:1px solid var(--rule);border-radius:2px;box-shadow:var(--shadow);padding:11px 13px 12px;display:flex;flex-direction:column;gap:5px;border-left:3px solid var(--rule-2)}
+.k.a-ent{border-left-color:var(--gap)}
+.k.a-nach{border-left-color:var(--oliv)}
+.k.a-aus{border-left-color:var(--rule-2)}
+.k-kopf{display:flex;align-items:baseline;gap:8px;justify-content:space-between}
+.k-nr{font-family:var(--f-mono);font-size:11.5px;font-weight:500;color:var(--ink-3);letter-spacing:.02em;flex:0 0 auto}
+.k-art{font-family:var(--f-mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;padding:2px 5px;border-radius:2px;white-space:nowrap;flex:0 0 auto}
+.a-ent .k-art{background:var(--gap-tint);color:var(--gap)}
+.a-nach .k-art{background:var(--oliv-tint);color:var(--oliv)}
+.a-aus .k-art{background:var(--neutral-tint);color:var(--ink-3)}
+.k h4{font-family:var(--f-body);font-weight:600;font-size:14px;line-height:1.3;margin:0;letter-spacing:-.005em}
+.k p{margin:0;font-size:13px;color:var(--ink-2);line-height:1.48}
+.k .strangtag{font-family:var(--f-mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;margin-top:1px}
+.k .strangtag.n{color:var(--nord)}
+.k .strangtag.w{color:var(--sand)}
+
+.k[hidden]{display:none !important}
+.gruppe[hidden]{display:none !important}
+
+/* Fuss */
+footer{margin-top:46px;padding-top:18px;border-top:1px solid var(--rule);font-size:12.5px;color:var(--ink-3);line-height:1.6}
+footer code{font-family:var(--f-mono);font-size:11.5px;color:var(--ink-2)}
+footer strong{color:var(--ink-2)}
+
+@media (max-width:640px){
+  .wrap{padding:28px 16px 60px}
+  .controls{position:static}
+  input[type="search"]{width:100%}
+}
+@media (prefers-reduced-motion: reduce){*{transition:none !important}}
+</style>
+
+<div class="wrap">
+
+<header>
+  <div class="eyebrow">Annular · Notizen/Challenges.md · Stand 04.09.2026</div>
+  <h1>Challenges nach Thema</h1>
+  <p class="lede">Die 92 offenen Einträge, nach Sachgebiet sortiert statt nach Nummer — und danach getrennt, <em>welche Art Arbeit</em> sie verlangen. 41 der 92 verlangen gar keine Entscheidung von dir — sie sind Text, der einer längst getroffenen Entscheidung hinterherhinkt, oder Felder zum Füllen.</p>
+
+  <div class="verteilung">
+    <div class="bar" role="img" aria-label="Verteilung: 51 Entscheidungen, 15 Nachzüge, 26 Ausarbeitungen">
+      <span class="b-ent" style="flex:51"></span>
+      <span class="b-nach" style="flex:15"></span>
+      <span class="b-aus" style="flex:26"></span>
+    </div>
+    <div class="bar-legende">
+      <div class="bl"><i class="i-ent"></i><span><b>51</b> Entscheidung — <span style="color:var(--ink-3)">nur du kannst sie treffen</span></span></div>
+      <div class="bl"><i class="i-nach"></i><span><b>15</b> Nachzug — <span style="color:var(--ink-3)">entschieden, aber Text oder Wiki fehlen</span></span></div>
+      <div class="bl"><i class="i-aus"></i><span><b>26</b> Ausarbeitung — <span style="color:var(--ink-3)">Felder füllen, Recherche, Steckbriefe</span></span></div>
+    </div>
+  </div>
+</header>
+
+<section class="befunde">
+  <h2 class="sec">Drei Befunde aus der Sortierung</h2>
+  <p class="sub">Was in der Nummernfolge nicht auffällt.</p>
+  <ul class="bef">
+    <li><span class="n">15</span><span><strong>Der Prolog ist eine einzige Arbeitssitzung, keine 15 Fragen.</strong>
+      <span class="note">C-063 bis C-072 plus C-093 und die zurückgerollten C-038 bis C-043 sagen alle dasselbe: Die Szene steht auf deiner Fassung 2.3, die Wiki-Entscheidungen sind darin nicht umgesetzt. Ein Durchgang durch <code>Die-Entdeckung.md</code> schließt sie zusammen — und senkt die offene Zahl auf 77.</span></span></li>
+    <li><span class="n">10</span><span><strong>Zehn Nebenfiguren-Steckbriefe hängen an derselben Frage.</strong>
+      <span class="note">C-045 bis C-053 und C-009 fragen nach Alter, Herkunft, Fähigkeiten — aber die eigentliche Frage ist bei den meisten: <em>Tritt die Figur nach dem Prolog überhaupt noch auf?</em> Solange das offen ist, füllt jedes Feld Papier ohne Nutzen.</span></span></li>
+    <li><span class="n">9</span><span><strong>Der Wüstenstrang hat neun Folgefragen aus einer einzigen Sitzung.</strong>
+      <span class="note">C-129 bis C-135 sowie C-125 und C-130 stammen alle aus dem Umbau vom 02./03.09.2026. Sie sind noch frisch und hängen aneinander — Transportverfahren, Terminierung, Bezahlung, Azzims Leute, Generatorbauart. Wer den Wüstenstrang schreibt, braucht sie als Block.</span></span></li>
+  </ul>
+</section>
+
+<div class="controls">
+  <div class="cgroup">
+    <span>Art</span>
+    <button class="chip" data-art="alle" aria-pressed="true">Alle</button>
+    <button class="chip" data-art="ent" aria-pressed="false">Entscheidung</button>
+    <button class="chip" data-art="nach" aria-pressed="false">Nachzug</button>
+    <button class="chip" data-art="aus" aria-pressed="false">Ausarbeitung</button>
+  </div>
+  <div class="cgroup">
+    <span>Suche</span>
+    <input type="search" id="suche" placeholder="Azzim, Ring, Prolog …" aria-label="Challenges durchsuchen">
+    <span class="treffer" id="treffer">90 von 90</span>
+  </div>
+</div>
+
+<main id="board">
+
+  <!-- ============ PROLOG NACHZUG ============ -->
+  <section class="gruppe" data-g="prolog-nachzug">
+    <div class="gruppe-kopf"><h3>Prolog — die Szene nachziehen</h3><span class="zahl">15 Einträge · 15 Nachzüge</span></div>
+    <p class="warum">Die einzige geschriebene Szene des Buchs steht auf deiner Originalfassung. <strong>Alle Entscheidungen darin sind längst getroffen</strong> — sie stehen nur nicht im Text. Das ist ein Redigierdurchgang, keine Entscheidungsarbeit.</p>
+    <div class="karten">
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-063</span><span class="k-art">Nachzug</span></div><h4>Szene auf Autorenfassung zurückgerollt</h4><p>Der Sammeleintrag: <code>Die-Entdeckung.md</code> steht auf ver 2.2/2.3, die Wiki-Entscheidungen sind nicht eingearbeitet. Alle folgenden Karten hängen hieran.</p></article>
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-064</span><span class="k-art">Nachzug</span></div><h4>Dorfplatz und Verlobungsschauplatz</h4><p>Szene: Marktplatz mit Rednerpodest und Versammlung. Entschieden ist: Verlobung beim Großbauern, im kleinen Rahmen.</p></article>
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-065</span><span class="k-art">Nachzug</span></div><h4>Fischerdorf-Milieu</h4><p>Szene: Fischer und Bootsbauer als tragende Berufe. Entschieden ist: gestrichen, Skirraa bleibt Heide-Weiler mit Tierzucht.</p></article>
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-066</span><span class="k-art">Nachzug</span></div><h4>Bernstein-Herkunft</h4><p>Szene: Tibun findet den Stein im Flussbett. Entschieden ist: Geschenk seiner Mutter, Herkunft bleibt ihm verborgen.</p></article>
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-067</span><span class="k-art">Nachzug</span></div><h4>Rollen von Herik und Lanke</h4><p>Szene: Lanke ist Bootsbauer aus dem Dorf, Herik Tibuns Jugendfreund. Entschieden ist: Hofsohn von auswärts, die bessere Partie.</p></article>
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-068</span><span class="k-art">Nachzug</span></div><h4>Brand und Brandblasen</h4><p>Szene: Wolle fängt Feuer, Tibun trägt Brandblasen davon. Entschieden ist: nur kurzes Ansengen an der eisernen Schafschere.</p></article>
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-070</span><span class="k-art">Nachzug</span></div><h4>Dateikopf und Versionszeile</h4><p>Die Datei beginnt mit „Die Entdeckung (ver 2.2)" statt einer Markdown-Überschrift; Formatierung folgt nicht der Wiki-Konvention.</p></article>
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-093</span><span class="k-art">Nachzug</span></div><h4>Namen nach C-092</h4><p>Im Prolog steht weiter <em>Jolyl</em> statt <em>Frida</em>. Der Szenenordner wurde bei der Namensumstellung bewusst ausgespart.</p></article>
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-038</span><span class="k-art">Nachzug</span></div><h4>Ortsmaßstab in Skirraa</h4><p>Entschieden, durch die Rückrollung wieder offen: kein Marktplatz, kein Podest, keine Volksversammlung im Weiler.</p></article>
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-039</span><span class="k-art">Nachzug</span></div><h4>Funke entzündet Wolle</h4><p>Entschieden: Der Funke springt an die Schafschere, sengt Flusen an. Tibun erschrickt heftig — er weiß, wie brennbar der Stall ist.</p></article>
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-040</span><span class="k-art">Nachzug</span></div><h4>Fischerdorf vs. Heide-Weiler</h4><p>Entschieden: Tibuns Hof ist ein Schaf- und Wollhof abseits des Weilers. Stammt aus deiner Originalszene von 2015.</p></article>
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-041</span><span class="k-art">Nachzug</span></div><h4>Bernstein-Fundort</h4><p>Entschieden: Der Stein kommt von Girlin. In Jütland ist Bernstein ohnehin Strandgut, kein Flussfund.</p></article>
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-042</span><span class="k-art">Nachzug</span></div><h4>Nebenfiguren Frida, Herik, Lanke</h4><p>Entschieden: alle drei bleiben, mit eigenen Dateien. Die Restfelder liegen in C-051 bis C-053.</p></article>
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-043</span><span class="k-art">Nachzug</span></div><h4>Herzschmerz-Rahmen</h4><p>Entschieden: bleibt. Zusätzlicher Payoff — Tibun verschenkt das Muttergeschenk an Frida, kurz bevor er die Mutter verliert.</p></article>
+      <article class="k a-nach"><div class="k-kopf"><span class="k-nr">C-072</span><span class="k-art">Nachzug</span></div><h4>Textfassung 2.2 oder 2.3</h4><p>Entschieden: Basis ist 2.3, zwei Stellen bleiben in der 2.2-Formulierung. In der Szene bereits umgesetzt.</p></article>
+    </div>
+  </section>
+
+  <!-- ============ PROLOG OFFEN ============ -->
+  <section class="gruppe" data-g="prolog-offen">
+    <div class="gruppe-kopf"><h3>Prolog — noch zu entscheiden</h3><span class="zahl">4 Einträge · 4 Entscheidungen</span></div>
+    <p class="warum">Was am Prolog wirklich noch offen ist. <strong>C-057 ist die tragende Frage</strong> — ohne sie steht die Prämisse der ganzen Geschichte auf wackligem Grund.</p>
+    <div class="karten">
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-057</span><span class="k-art">Entscheidung</span></div><h4>Warum sind Tibun und Girlin allein draußen?</h4><p>Damit Tibun einziger Zeuge sein kann, braucht es einen Grund, warum Mutter und Sohn bei aufziehendem Gewitter außerhalb des Weilers sind. Deine eigene Randnotiz.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-056</span><span class="k-art">Entscheidung</span></div><h4>Folgen des Bebens im Dorf</h4><p>Die Skizze notiert „Angst / vielleicht ist jemand vermisst oder Tiere brechen aus". Was davon gilt?</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-069</span><span class="k-art">Entscheidung</span></div><h4>Fridas Familie und Stiefvater</h4><p>Die Szene gibt ihr eine zugezogene Mutter und einen Stiefvater, der die Verlobung arrangiert. Das Wiki kennt beides nicht.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-071</span><span class="k-art">Entscheidung</span></div><h4>Tibuns Alter und Heiratsantrag</h4><p>Er will um Fridas Hand anhalten, wird aber als Junge gezeichnet — mit 15. Passt ein eigener Antrag in dieses Alter?</p></article>
+    </div>
+  </section>
+
+  <!-- ============ RING & TECHNIK ============ -->
+  <section class="gruppe" data-g="technik">
+    <div class="gruppe-kopf"><h3>Ringe, Technik, Kosmologie</h3><span class="zahl">19 Einträge · 16 Entscheidungen · 3 Ausarbeitungen</span></div>
+    <p class="warum">Das größte Gebiet. Vieles davon ist <strong>Autorenebene und erscheint nie im Erzähltext</strong> — die entscheidenden sind die, an denen eine Figur etwas wahrnehmen oder tun muss.</p>
+    <div class="karten">
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-002</span><span class="k-art">Entscheidung</span></div><h4>Tibuns Elektrizitätsquelle</h4><p>Bernsteinrad und Erkenntnismoment an der Bootsziehwinde stehen. Offen bleibt die Ausgestaltung des Geräts als Ersatz für den gestrichenen Van-de-Graaff.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-135</span><span class="k-art">Entscheidung</span></div><h4>Der Wüstengenerator — Bauart offen</h4><p>Von dir beanstandet: nie gesagt, dass beide Stränge dasselbe Gerät bauen. Aussehen, Funktion und Bauzeit sind offen.</p><span class="strangtag w">Wüste</span></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-131</span><span class="k-art">Entscheidung</span></div><h4>Generatorarbeit ohne Ring</h4><p>Bellbrim und Girlin bauen ab +5, der Ring kommt erst +8. Was ist in diesen drei Jahren überhaupt prüfbar?</p><span class="strangtag w">Wüste</span></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-099</span><span class="k-art">Entscheidung</span></div><h4>Der isolierte Konduktor</h4><p>Bernsteinrad lädt, Kette aus dem Dachstuhl zündet. Offen ist, was der Bau dafür braucht — und was er nicht sein darf, um kein Anachronismus zu werden.</p><span class="strangtag n">Norden</span></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-102</span><span class="k-art">Entscheidung</span></div><h4>Was bei Zündung 1 aus dem Norden verschwindet</h4><p>Der Tausch ist symmetrisch. Kein Mensch reist in die Gegenrichtung — aber Sand und Gerät. Was genau?</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-037</span><span class="k-art">Entscheidung</span></div><h4>Ringoptik ohne Anachronismus</h4><p>Matt silbrig-grau wie gebürstetes Aluminium — aber womit vergleicht das eine Figur von 550? Silber, Zinn und Bronze glänzen alle.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-074</span><span class="k-art">Entscheidung</span></div><h4>Haptik der Ringoberfläche</h4><p>Eine alte Notiz sagt „leicht rau". Ein Material, das nicht altert, sich aber rau anfühlt, ist ein interessanter Widerspruch — rau heißt sonst verwittert.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-075</span><span class="k-art">Entscheidung</span></div><h4>Ist das Ringmaterial ein Metall?</h4><p>„Ein Metall, das ich nicht kenne" ist eine völlig andere Figurenreaktion als „das ist gar nichts, was ich kenne".</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-076</span><span class="k-art">Entscheidung</span></div><h4>Abklingdauer des grünen Leuchtens</h4><p>Nicht Kosmetik: Wenn die Karawane das Leuchten nachts über die Wüste sehen soll, muss es lang genug stehen. Hängt an C-014.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-136</span><span class="k-art">Entscheidung</span></div><h4>Flipdauer und Kantengeschwindigkeit</h4><p>Die Spanne 100–150 ms nennt nur ein Zahlenpaar (~21 rad/s, 126 km/h) — das gilt für 150 ms. Bei 100 ms wären es 31,4 rad/s und 188 km/h.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-020</span><span class="k-art">Entscheidung</span></div><h4>Vorwarnung vor dem Flip?</h4><p>Kündigt der Ring sich an? Bei Tibuns Bauweise sitzt die Rampe am Konduktor, nicht am Ring — eine pulsende Vorwarnung gäbe es dann nicht.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-013</span><span class="k-art">Entscheidung</span></div><h4>Runen — Anordnung, Anzahl, Aussehen</h4><p>Spannung zu C-010: Die Kopplung verlangt identische Runenkonfiguration. Sollen die Runen sichtbar verschieden sein, muss „identisch" neu definiert werden.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-084</span><span class="k-art">Entscheidung</span></div><h4>Mulde, Standfläche und die rohen Ringe</h4><p>Die Tauschkugel misst 3,00 m. Girlin stolpert in den Ring und liegt darin — liegend passt ein Mensch bei jeder Einbettungstiefe.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-128</span><span class="k-art">Entscheidung</span></div><h4>Fundort und Freilegung des Skir-Rings</h4><p>Steht: Der Ring liegt im Wald nahe dem Bach. Der Erdrutsch am Steilufer war nicht gedeckt und ist gestrichen.</p><span class="strangtag n">Norden</span></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-126</span><span class="k-art">Entscheidung</span></div><h4>Der Postring — was passt hinein?</h4><p>Der 0,30-m-Ring wiegt ~5,7 kg. Die Gewichtsfrage ist erledigt; offen ist, was durch eine so kleine Kugel überhaupt reisen kann.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-015</span><span class="k-art">Entscheidung</span></div><h4>Verhältnis Drehung ↔ Tausch</h4><p>Dreht der Ring simultan mit dem Tausch oder danach? Praktisch entschärft, seit der Reif Materie folgenlos durchdringt.</p></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-017</span><span class="k-art">Ausarbeitung</span></div><h4>Weitere Ringgrößen</h4><p>Festgelegt sind 3,00 m und 0,30 m. Gibt es im Erbauer-System weitere Größen — und wofür?</p></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-019</span><span class="k-art">Ausarbeitung</span></div><h4>Ursache von Erwachen und Zusammenbruch</h4><p>Feste Periode, Auslöser oder grundsätzlich unergründlich? Berührt die Erbauer-Regel — hier ist Nichtwissen die sichere Seite.</p></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-011</span><span class="k-art">Ausarbeitung</span></div><h4>Kreis oder Spirale?</h4><p>Wiederholt sich jeder Zyklus identisch, oder bleibt etwas erhalten? Kreis ist thematisch rein, aber emotional flach — Spirale gibt dem Ganzen Richtung.</p></article>
+    </div>
+  </section>
+
+  <!-- ============ WÜSTENSTRANG ============ -->
+  <section class="gruppe" data-g="wueste">
+    <div class="gruppe-kopf"><h3>Wüstenstrang — Handlung</h3><span class="zahl">13 Einträge · 13 Entscheidungen</span></div>
+    <p class="warum">Neun davon stammen aus dem Umbau vom 02./03.09.2026 und hängen aneinander. <strong>Der Strang ist inhaltlich der reichere</strong> — er hat dafür die meisten frischen Folgefragen.</p>
+    <div class="karten">
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-125</span><span class="k-art">Entscheidung</span></div><h4>Das Transportverfahren ist offen</h4><p>Von dir beanstandet: Schlitten und befeuchtete Piste waren nicht gedeckt und sind gestrichen. 5,7 t müssen anders bewegt werden.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-103</span><span class="k-art">Entscheidung</span></div><h4>Transportlogistik des Wüstenrings</h4><p>Zahl der Menschen und Tiere, Wasser, Zeitbedarf. Hängt vollständig an C-125 — ohne Verfahren keine Logistik.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-130</span><span class="k-art">Entscheidung</span></div><h4>Wie der Transport terminiert wird</h4><p>Girlin lebt ab +5 in der Schlucht, nicht mehr beim Clan. Wie erfährt sie, dass der Clan kommt und es jetzt so weit ist?</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-132</span><span class="k-art">Entscheidung</span></div><h4>Womit die Schluchtgemeinschaft bezahlt</h4><p>Der Basar ist der einzige Grund, das Versteck zu verlassen — und Azzims einziger Weg zu ihnen. Womit kaufen vier Menschen in einer Schlucht Material?</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-133</span><span class="k-art">Entscheidung</span></div><h4>Azzims Leute für den Angriff</h4><p>Eine Schlucht mit Fels nimmt man nicht allein. Woher kommen die Leute, wie viele, was kostet ihn das?</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-129</span><span class="k-art">Entscheidung</span></div><h4>Die Schutzlücke verschiebt sich auf +5</h4><p>Girlin ist fünf Jahre ohne Sippenschutz, Azzim greift erst +9 zu. Was hält ihn so lange auf — Lage allein?</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-134</span><span class="k-art">Entscheidung</span></div><h4>Die Nachricht — Art und Lesbarkeit</h4><p>Gegenstand, Schriftstück oder beides? Und wer im Norden könnte es deuten? Als Richtung genannt: „vielleicht auch nur ein Brief."</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-101</span><span class="k-art">Entscheidung</span></div><h4>Girlins Nachricht — Vorhaben ohne Ausführung</h4><p>Sie kommt nie dazu. Die Nachricht ist ihr Antrieb in den letzten Monaten, keine Handlung im Finale — der Leser sieht sie liegen bleiben.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-112</span><span class="k-art">Entscheidung</span></div><h4>Das Wüstenkind während des Finales</h4><p>Sechs Jahre alt, bei Bellbrim, sieht Tibuns Ankunft. Keine Nebenfrage: Wer vollständig in der Kugel steht, reist.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-108</span><span class="k-art">Entscheidung</span></div><h4>Der Kampf während Tibuns Ankunft</h4><p>Zwischen beiden Zündungen liegen Minuten — der Kampf in der Schlucht läuft noch, wenn Tibun aus dem Nichts erscheint.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-081</span><span class="k-art">Entscheidung</span></div><h4>Girlins drittes Kind</h4><p>Geboren +4, im Finale sechs. Es verändert ihre Rückkehr vollständig: Sie hat zwei Familien und kann nur eine haben.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-116</span><span class="k-art">Entscheidung</span></div><h4>Azzim tritt zu spät auf</h4><p>Entschieden: frühere Auftritte kommen hinein, vier insgesamt. Die Ausgestaltung der ersten drei ist noch dünn.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-014</span><span class="k-art">Entscheidung</span></div><h4>Karawanen-Aufmerksamkeit bei der Ankunft</h4><p>Kein aufgewirbelter Sand mehr. Deine Idee: Es ist Nacht, und das grüne Leuchten ist weithin über die Wüste sichtbar.</p></article>
+    </div>
+  </section>
+
+  <!-- ============ NORDSTRANG ============ -->
+  <section class="gruppe" data-g="norden">
+    <div class="gruppe-kopf"><h3>Nordstrang — Handlung</h3><span class="zahl">6 Einträge · 6 Entscheidungen</span></div>
+    <p class="warum">Auffällig wenige — und das ist selbst der Befund. <strong>Die dünnen Jahre +5 bis +9 werfen kaum Fragen auf, weil in ihnen kaum etwas geschieht.</strong> C-118 hält das fest.</p>
+    <div class="karten">
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-118</span><span class="k-art">Entscheidung</span></div><h4>Der Nordstrang verliert zwischen +1 und +9 nichts</h4><p>Tibuns einziger Preis liegt in Jahr 0/+1 — Mutter, Unfall, Ausschluss. Danach kostet ihn acht Jahre lang nichts mehr.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-058</span><span class="k-art">Entscheidung</span></div><h4>Der Unfall und Tibuns Schuld</h4><p>Dass er geschieht und eine Nebenfigur verletzt, steht. Womit er baut — Wasserrad oder Turm — ist deine offene Frage.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-124</span><span class="k-art">Entscheidung</span></div><h4>Die Zwischenstation — Ort und Gruppe</h4><p>Genau eine Station auf dem Weg nach Kaupvik. Dort lernt er, ohne Sippe zu überleben, und nach der ersten Absage zu schweigen.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-077</span><span class="k-art">Entscheidung</span></div><h4>Tibun und Truda nach dem Verschwinden</h4><p>Ein 16-Jähriger, der der 9-jährigen Schwester die Mutter ersetzt — und sie ein Jahr später mit 10 zurücklässt. Der Haken steckt im Aufbruch.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-078</span><span class="k-art">Entscheidung</span></div><h4>Tibuns Verhältnis zu Millia</h4><p>Direkter Widerspruch: Plot 1 sagt „mag sie nicht", die Skizze sagt „hat nichts gegen sie, verurteilt aber den Vater".</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-079</span><span class="k-art">Entscheidung</span></div><h4>Alpträume — und der Traum als Ideenquelle</h4><p>Zwei Fragen in einer Notiz. Die Alpträume tragen; der Traum als Ideenquelle kollidiert mit dem Hafenunfall aus C-002.</p></article>
+    </div>
+  </section>
+
+  <!-- ============ FIGUREN SUBSTANZ ============ -->
+  <section class="gruppe" data-g="figuren-substanz">
+    <div class="gruppe-kopf"><h3>Figuren — Substanz fehlt</h3><span class="zahl">11 Einträge · 4 Entscheidungen · 7 Ausarbeitungen</span></div>
+    <p class="warum">Figuren, die Handlung tragen, aber nicht ausgearbeitet sind. <strong>C-105 und C-059 sind die dringendsten</strong> — beide tragen ganze Strangabschnitte und existieren nur als Rolle.</p>
+    <div class="karten">
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-105</span><span class="k-art">Entscheidung</span></div><h4>Der Neffe — Name, Eigenschaften</h4><p>Girlins Partner, Vater des dritten Kindes, Verteidiger der Schlucht. Weder Name noch Alter noch Stellung im Clan. Mit der gestrichenen Schweigebitte verlor er seine einzige eigene Handlung.</p><span class="strangtag w">Wüste</span></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-059</span><span class="k-art">Entscheidung</span></div><h4>Tibuns Zieheltern in Kaupvik</h4><p>Acht Jahre Bezugspersonen. Teilentschieden: Sie bleiben lebend zurück. Offen: Namen, Gewerbe, Herkunft, ab wann er bei ihnen wohnt.</p><span class="strangtag n">Norden</span></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-120</span><span class="k-art">Entscheidung</span></div><h4>Azzims zweite Seite</h4><p>Die Prüfliste verlangt drei Konflikte, bei denen beide Seiten verständlich sind. Zwei stehen — Azzim ist derzeit wieder reiner Antagonist.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-113</span><span class="k-art">Entscheidung</span></div><h4>Bellbrims Sprache</h4><p>Festgelegt ist, dass Girlin und Bellbrim sich verstehen. Das ist enger als der bisherige Stand, der ihr Vandalisch nur als verwandt führte.</p></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-024</span><span class="k-art">Ausarbeitung</span></div><h4>Girlin — Herkunft &amp; Vorgeschichte</h4><p>Zugezogen, nicht in Skirraa geboren. Der Rest ihrer Vorgeschichte fehlt — relevant, weil sie einen eigenen Arc trägt.</p></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-025</span><span class="k-art">Ausarbeitung</span></div><h4>Girlin — Charakter &amp; Fähigkeiten</h4><p>Willensstark und zäh — aber ihr Wille gilt ihren Kindern, nicht einem Ort. Sie will nicht „heim", sie will Tibun und Truda.</p></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-026</span><span class="k-art">Ausarbeitung</span></div><h4>Bellbrim — historische Plausibilität</h4><p>Was heißt „Wissenschaftlerin" für 550 n.Chr. konkret? Mehrsprachig und blasshäutig ist gesetzt, die Herkunft nicht.</p></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-027</span><span class="k-art">Ausarbeitung</span></div><h4>Bellbrim — Vorgeschichte &amp; Fähigkeiten</h4><p>Was genau kann sie — Mechanik, Naturkunde, Schrift? Und wie wurde sie das?</p></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-028</span><span class="k-art">Ausarbeitung</span></div><h4>Azzim — Herkunft &amp; Hintergrund</h4><p>Alter, Herkunft, Familie, Vorgeschichte offen. Früherer Hook: ein abtrünniger Kel Aman, der die Bräuche seines Volks bricht.</p></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-029</span><span class="k-art">Ausarbeitung</span></div><h4>Azzim — Charakter &amp; Mittel</h4><p>Was treibt ihn über Sklaverei hinaus, und warum lässt er gerade von Girlin nicht ab?</p></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-089</span><span class="k-art">Ausarbeitung</span></div><h4>Azzim — Verhältnis zum Ring</h4><p>Harte Regel: Der Ring ist niemals sein Motiv, er weiß bis zuletzt nichts davon. Was bleibt, ist die Schlusspointe im Norden.</p></article>
+    </div>
+  </section>
+
+  <!-- ============ STECKBRIEFE ============ -->
+  <section class="gruppe" data-g="steckbriefe">
+    <div class="gruppe-kopf"><h3>Nebenfiguren — Steckbriefe unvollständig</h3><span class="zahl">10 Einträge · 10 Ausarbeitungen</span></div>
+    <p class="warum">Alle fragen nach denselben Feldern: Alter, Herkunft, Fähigkeiten, Inspiration. <strong>Die eigentliche Frage steht davor: Tritt die Figur nach dem Prolog überhaupt noch auf?</strong> Wird die verneint, erledigen sich mehrere von selbst.</p>
+    <div class="karten">
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-047</span><span class="k-art">Ausarbeitung</span></div><h4>Truda</h4><p>Alter geklärt. Offen ist vor allem, ob sie eine eigene Entwicklung bekommt — sie ist die einzige Verbindung zum Weiler in +9/+10.</p><span class="strangtag n">Norden</span></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-045</span><span class="k-art">Ausarbeitung</span></div><h4>Semund</h4><p>Frühes Leben, Fähigkeiten, Inspiration auf <code>???</code>. Story-Funktion steht: führt den Hof, bindet sich rasch an Millia, duldet Tibun später.</p><span class="strangtag n">Norden</span></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-046</span><span class="k-art">Ausarbeitung</span></div><h4>Millia</h4><p>Alter, Herkunft, Fähigkeiten offen. Funktion geklärt: Girlins frühere Freundin, Semunds schneller Ersatz.</p><span class="strangtag n">Norden</span></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-050</span><span class="k-art">Ausarbeitung</span></div><h4>Wandernde Wala</h4><p>Sie erklärt den Sand zum Zeichen und die Stelle zum Tabu, und sie lässt Tibun später gewähren — trotzdem ohne eigene Szene.</p><span class="strangtag n">Norden</span></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-049</span><span class="k-art">Ausarbeitung</span></div><h4>Wala von Tingsal</h4><p>Sesshafte Seherin, Zwillingsschwester der wandernden. Ihre Rolle ist reine Möglichkeit ohne Szene.</p><span class="strangtag n">Norden</span></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-048</span><span class="k-art">Ausarbeitung</span></div><h4>Hadurik</h4><p>Häuptling von Tingsal. Alter, Familie, Fähigkeiten offen; Rolle als regionale Autorität ist gesetzt.</p><span class="strangtag n">Norden</span></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-009</span><span class="k-art">Ausarbeitung</span></div><h4>Häuptling von Tingsal</h4><p>Der Sitz und die Funktion stehen, der Name Hadurik auch. Was die Rolle in der Handlung tut, ist offen.</p><span class="strangtag n">Norden</span></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-051</span><span class="k-art">Ausarbeitung</span></div><h4>Frida</h4><p>Alter, Fähigkeiten, Vatersname offen. Wichtigste Frage: Tritt sie nach dem Prolog noch auf?</p><span class="strangtag n">Norden</span></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-052</span><span class="k-art">Ausarbeitung</span></div><h4>Herik</h4><p>Dieselbe Lage wie bei Frida — Felder offen, Auftritt nach dem Prolog ungeklärt.</p><span class="strangtag n">Norden</span></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-053</span><span class="k-art">Ausarbeitung</span></div><h4>Lanke</h4><p>Reine Funktionsfigur des Prologs. Gut möglich, dass hier alles bewusst offen bleibt — das entscheidest nur du.</p><span class="strangtag n">Norden</span></article>
+    </div>
+  </section>
+
+  <!-- ============ WELT & KULTUR ============ -->
+  <section class="gruppe" data-g="welt">
+    <div class="gruppe-kopf"><h3>Welt, Kultur, Sprache</h3><span class="zahl">7 Einträge · 4 Entscheidungen · 3 Ausarbeitungen</span></div>
+    <p class="warum">Weltenbau, der erst zählt, sobald eine Szene ihn braucht. <strong>C-087 ist die Ausnahme</strong> — die Zeitrechnung betrifft jede einzelne Zeitangabe im Text.</p>
+    <div class="karten">
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-087</span><span class="k-art">Entscheidung</span></div><h4>Zeitrechnung im Erzähltext</h4><p>Entschieden: Gezählt wird in Wintern. Offen bleibt die Wüstenseite — Girlin kennt dort keinen Winter, ihr Maß löst sich mit der Zeit auf.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-055</span><span class="k-art">Entscheidung</span></div><h4>Der Skir — Gewässer und Fundort</h4><p>Bisher nur „Bach". Drei Befunde sprechen dagegen, unter anderem das <em>-aa</em> im Namen Skirraa: ein richtiges Fließgewässer.</p><span class="strangtag n">Norden</span></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-106</span><span class="k-art">Entscheidung</span></div><h4>Durchgebrannte Ehefrau bei den Kel Aman</h4><p>Der Beat trägt zwei Figuren, aber die Kultur dahinter fehlt vollständig: Was bedeutet das in diesem Volk?</p><span class="strangtag w">Wüste</span></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-044</span><span class="k-art">Entscheidung</span></div><h4>Herkunft von Girlins Bernstein</h4><p>Sie kennt sie und verrät sie nie. Bewusst als offener Faden gehalten — offen ist, ob er je aufgelöst wird.</p></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-003</span><span class="k-art">Ausarbeitung</span></div><h4>Kel Aman — kulturelle Tiefe</h4><p>Kultur, Religion, Redewendungen, soziale Struktur, Verhältnis zu Sesshaften. Vorlage sind die Garamanten.</p><span class="strangtag w">Wüste</span></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-054</span><span class="k-art">Ausarbeitung</span></div><h4>Tingsal — Halle &amp; Thinggeschehen</h4><p>Aufbau der Halle und Ablauf eines Things. Relevant, sobald eine Szene dort spielt — bisher spielt keine.</p><span class="strangtag n">Norden</span></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-092</span><span class="k-art">Ausarbeitung</span></div><h4>Namenssystem des Nordvolks</h4><p>Entschieden: zweigliedrig aus festem Vorrat. Die Anwendung auf alle bestehenden Namen ist der offene Rest.</p><span class="strangtag n">Norden</span></article>
+    </div>
+  </section>
+
+  <!-- ============ WERKEBENE ============ -->
+  <section class="gruppe" data-g="werk">
+    <div class="gruppe-kopf"><h3>Werkebene und Wiki-Hygiene</h3><span class="zahl">7 Einträge · 4 Entscheidungen · 3 Ausarbeitungen</span></div>
+    <p class="warum">Fragen über dem Text. <strong>C-110 ist die einzige davon, die im Buch selbst steht</strong> — der letzte Satz hängt daran.</p>
+    <div class="karten">
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-110</span><span class="k-art">Entscheidung</span></div><h4>Der Schlusssatz — wissen sie, was er kostet?</h4><p>Der Ring tauscht. Man kann niemanden rufen, der nicht schon dort steht — Truda müsste im Augenblick der Zündung genau dort sein. Leichthin gesagt naiv, bewusst gesagt der beste Satz des Buchs.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-085</span><span class="k-art">Entscheidung</span></div><h4>Titel für Plot 1</h4><p>Muss Zweisträngigkeit, zehn Jahre Trennung und die doppelte Erfindung tragen — und den Ring gerade nicht, der gehört dem Universum.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-083</span><span class="k-art">Entscheidung</span></div><h4>Zitate als Kapitel-Motti</h4><p>Noch nicht entschieden, ob überhaupt. Motti sind ein Versprechen: durchgehalten oder gar nicht.</p></article>
+      <article class="k a-ent"><div class="k-kopf"><span class="k-nr">C-137</span><span class="k-art">Entscheidung</span></div><h4>Detailabschnitte ab C-099 falsch einsortiert</h4><p>Alle Einträge ab C-099 stehen unter „Gelöst / Entschieden" — auch die offenen. Nachsortieren oder die Zweiteilung ganz aufgeben?</p></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-119</span><span class="k-art">Ausarbeitung</span></div><h4>Wiki-Altlast</h4><p>Der laufende Eintrag für Festlegungen, die nie von dir stammten. Wird bei jedem Fund fortgeschrieben.</p></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-031</span><span class="k-art">Ausarbeitung</span></div><h4>Tibun — Inspiration/Besetzung</h4><p>Autorenebene, keine Story-Frage.</p></article>
+      <article class="k a-aus"><div class="k-kopf"><span class="k-nr">C-032</span><span class="k-art">Ausarbeitung</span></div><h4>Girlin — Inspiration/Besetzung</h4><p>Autorenebene, keine Story-Frage.</p></article>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  Quelle: <code>Notizen/Challenges.md</code>, Abschnitt „Offen" der Übersicht · Stand 04.09.2026. Die 45 gelösten Einträge sind hier nicht aufgeführt.<br>
+  <strong>Befund zur Datei:</strong> Ab C-099 stehen alle Detailabschnitte unter der Überschrift „Gelöst / Entschieden" — auch die offenen. Bis C-098 stimmt die Trennung, und die Übersicht am Dateikopf ist korrekt. Als C-137 dokumentiert.<br>
+  Die Zuordnung zu Themen und Arbeitsarten ist eine Lesehilfe dieser Seite und steht nicht im Wiki — sie legt nichts fest.
+</footer>
+
+</div>
+
+<script>
+(function(){
+  var board = document.getElementById('board');
+  var karten = Array.prototype.slice.call(board.querySelectorAll('.k'));
+  var gruppen = Array.prototype.slice.call(board.querySelectorAll('.gruppe'));
+  var suche = document.getElementById('suche');
+  var treffer = document.getElementById('treffer');
+  var artBtns = Array.prototype.slice.call(document.querySelectorAll('[data-art]'));
+  var art = 'alle';
+
+  karten.forEach(function(k){
+    k.dataset.text = k.textContent.toLowerCase();
+  });
+
+  function anwenden(){
+    var q = suche.value.trim().toLowerCase();
+    var n = 0;
+    karten.forEach(function(k){
+      var passtArt = (art === 'alle') || k.classList.contains('a-' + art);
+      var passtText = !q || k.dataset.text.indexOf(q) !== -1;
+      var zeigen = passtArt && passtText;
+      k.hidden = !zeigen;
+      if (zeigen) n++;
+    });
+    gruppen.forEach(function(g){
+      var sichtbar = g.querySelectorAll('.k:not([hidden])').length;
+      g.hidden = sichtbar === 0;
+    });
+    treffer.textContent = n + ' von ' + karten.length;
+  }
+
+  artBtns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      art = btn.getAttribute('data-art');
+      artBtns.forEach(function(b){ b.setAttribute('aria-pressed', b === btn ? 'true' : 'false'); });
+      anwenden();
+    });
+  });
+  suche.addEventListener('input', anwenden);
+  anwenden();
+})();
+</script>

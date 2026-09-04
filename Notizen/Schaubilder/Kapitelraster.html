@@ -1,0 +1,646 @@
+<title>Vor dem Kapitelraster</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+
+<style>
+:root{
+  --paper:#E8EAE7; --card:#F6F7F4; --ink:#1C2124; --ink-2:#4E565A; --ink-3:#7B8388;
+  --rule:#D1D4CE; --rule-2:#BFC3BC;
+  --nord:#2F5D66; --sand:#8F6216;
+  --chart-t:#048DA0; --chart-g:#A46E02;
+  --gap:#9C3F38; --gap-tint:#EEDFDC;
+  --shadow:0 1px 2px rgba(28,33,36,.05);
+  --f-display:"Spectral","Iowan Old Style",Georgia,serif;
+  --f-body:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;
+  --f-mono:"IBM Plex Mono","SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#14181A; --card:#1C2124; --ink:#E6E8E4; --ink-2:#A6AEB1; --ink-3:#79817F;
+    --rule:#2C3336; --rule-2:#3A4346;
+    --nord:#7CB8C0; --sand:#D2A153;
+    --chart-t:#0097AC; --chart-g:#B37904;
+    --gap:#DB8279; --gap-tint:#31201E;
+    --shadow:0 1px 2px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#14181A; --card:#1C2124; --ink:#E6E8E4; --ink-2:#A6AEB1; --ink-3:#79817F;
+  --rule:#2C3336; --rule-2:#3A4346;
+  --nord:#7CB8C0; --sand:#D2A153;
+  --chart-t:#0097AC; --chart-g:#B37904;
+  --gap:#DB8279; --gap-tint:#31201E;
+  --shadow:0 1px 2px rgba(0,0,0,.3);
+}
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1000px;margin:0 auto;padding:44px 24px 80px}
+.eyebrow{font-family:var(--f-mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:var(--f-display);font-weight:600;font-size:clamp(30px,5vw,44px);line-height:1.08;letter-spacing:-.015em;margin:.28em 0 .3em;text-wrap:balance}
+.lede{font-family:var(--f-display);font-size:17px;line-height:1.6;color:var(--ink-2);max-width:64ch;margin:0}
+.lede em{color:var(--ink)}
+h2.sec{font-family:var(--f-display);font-weight:600;font-size:21px;letter-spacing:-.01em;margin:0 0 4px}
+p.sub{margin:0 0 16px;font-size:13.5px;color:var(--ink-3)}
+
+.hinweis{margin:30px 0 0;border:1px solid var(--gap);border-left-width:3px;background:var(--gap-tint);padding:15px 18px;border-radius:2px}
+.hinweis b{color:var(--gap)}
+.hinweis p{margin:0;font-size:14px;color:var(--ink-2);line-height:1.55}
+.hinweis p + p{margin-top:8px}
+
+.vorfragen{margin:38px 0 0}
+.vf{list-style:none;margin:0;padding:0;display:grid;gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.vf li{background:var(--card);padding:14px 16px;display:grid;grid-template-columns:26px 1fr;gap:14px;align-items:baseline}
+.vf .i{font-family:var(--f-mono);font-size:13px;color:var(--ink-3);font-variant-numeric:tabular-nums}
+.vf strong{font-weight:600}
+.vf .note{display:block;margin-top:3px;font-size:13.5px;color:var(--ink-2)}
+.vf .st{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.06em;padding:2px 5px;border-radius:2px;background:var(--gap-tint);color:var(--gap);margin-left:6px;white-space:nowrap}
+
+figure.chart{margin:40px 0 0;padding:0}
+figure.chart .rahmen{overflow-x:auto;border:1px solid var(--rule);background:var(--card);border-radius:2px;padding:16px}
+figure.chart svg{display:block;width:100%;min-width:600px;height:auto;color:var(--ink-2)}
+.leg{display:flex;flex-wrap:wrap;gap:20px;margin:0 0 12px;padding-bottom:12px;border-bottom:1px solid var(--rule)}
+.leg span{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--ink-2)}
+.leg i{width:14px;height:10px;border-radius:2px;flex:0 0 auto}
+.leg .i-t{background:var(--chart-t)}
+.leg .i-g{background:var(--chart-g)}
+figcaption{margin-top:10px;font-size:13px;color:var(--ink-3);line-height:1.5;max-width:74ch}
+
+.jahr{margin-top:26px}
+.jahr-kopf{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;padding-bottom:7px;border-bottom:1px solid var(--rule-2)}
+.jz{font-family:var(--f-mono);font-size:20px;font-weight:500;letter-spacing:-.02em;font-variant-numeric:tabular-nums;min-width:44px}
+.alter{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.06em;color:var(--ink-3);text-transform:uppercase}
+.anz{margin-left:auto;font-family:var(--f-mono);font-size:10.5px;color:var(--ink-3)}
+.jahr.leer .jz{opacity:.4}
+.nix{margin:9px 0 0;font-size:13px;color:var(--ink-3);font-style:italic}
+
+ul.beats{list-style:none;margin:9px 0 0;padding:0;display:flex;flex-direction:column;gap:6px}
+li.beat{display:grid;grid-template-columns:52px 1fr;gap:14px;align-items:start;background:var(--card);border:1px solid var(--rule);border-radius:2px;padding:10px 13px;box-shadow:var(--shadow)}
+li.beat.p-t{border-left:3px solid var(--chart-t)}
+li.beat.p-g{border-left:3px solid var(--chart-g)}
+.nr{display:block;height:26px;border:1px dashed var(--rule-2);border-radius:2px;margin-top:1px}
+.zeile1{display:flex;align-items:baseline;gap:9px;flex-wrap:wrap}
+.pov{font-family:var(--f-mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;flex:0 0 auto}
+.pov-t{color:var(--chart-t)}
+.pov-g{color:var(--chart-g)}
+li.beat h4{font-family:var(--f-body);font-weight:600;font-size:14.5px;margin:0;line-height:1.25}
+li.beat p{margin:3px 0 0;font-size:13.5px;color:var(--ink-2);line-height:1.5}
+.ch{display:inline-block;margin-top:6px;font-family:var(--f-mono);font-size:10.5px;color:var(--ink-3)}
+
+footer{margin-top:46px;padding-top:18px;border-top:1px solid var(--rule);font-size:12.5px;color:var(--ink-3);line-height:1.6}
+footer code{font-family:var(--f-mono);font-size:11.5px;color:var(--ink-2)}
+footer strong{color:var(--ink-2)}
+@media (max-width:640px){
+  .wrap{padding:28px 16px 60px}
+  li.beat{grid-template-columns:38px 1fr;gap:10px}
+}
+@media (prefers-reduced-motion: reduce){*{transition:none !important}}
+</style>
+
+<div class="wrap">
+
+<header>
+  <div class="eyebrow">Annular · Plot 1 · Stand 04.09.2026</div>
+  <h1>Vor dem Kapitelraster</h1>
+  <p class="lede">Das Raster selbst gibt es nicht — <em>Kapitelstruktur.md</em> hält fest, dass es noch nicht angelegt ist. Was es gibt, ist das Material dafür: <em>43 Beat-Einheiten</em> aus beiden Strängen, mit POV und Jahr. Die Nummernfelder bleiben leer; Kapitelgrenzen zu ziehen ist deine Entscheidung.</p>
+</header>
+
+<div class="hinweis">
+  <p><b>Diese Seite legt kein Raster fest.</b> Sie ordnet nur, was in Zeitleiste und Kapitelstruktur schon steht. Auch die <b>Zerlegung in Einheiten ist eine Lesart</b>, keine Vorgabe: Wo eine Einheit endet und die nächste beginnt, habe ich beim Sortieren entschieden — verschiebe die Grenzen, fasse zusammen, teile auf.</p>
+  <p>Eine Einheit ist <b>kein Kapitel</b>. Ein Kapitel kann mehrere Einheiten fassen oder eine über zwei Kapitel strecken. Das entscheidet sich erst, wenn die drei Fragen unten beantwortet sind.</p>
+</div>
+
+<section class="vorfragen">
+  <h2 class="sec">Drei Fragen stehen vor dem Raster</h2>
+  <p class="sub">Solange sie offen sind, lässt sich keine Kapitelnummer vergeben.</p>
+  <ul class="vf">
+    <li><span class="i">1</span><span><strong>Verschränkt oder blockweise erzählt?</strong><span class="st">???</span>
+      <span class="note">Die Kapitelskizze zeichnet zwei <em>parallele Stränge</em> als Blöcke nebeneinander, die Zeitleiste ordnet chronologisch. Beides ist mit dem Material vereinbar, ergibt aber völlig verschiedene Bücher: Blockweise erfährt der Leser Tibuns zehn Jahre am Stück und dann Girlins; verschränkt springt er im Wechsel. Nur bei der Verschränkung entsteht die Ironie, dass beide dasselbe erfinden, ohne voneinander zu wissen.</span></span></li>
+    <li><span class="i">2</span><span><strong>Roman- und Kapitellänge</strong><span class="st">bewusst nicht vorab</span>
+      <span class="note">In der Kapitelstruktur ausdrücklich nicht vorab festgelegt. Ohne eine ungefähre Kapitelzahl lässt sich nicht sagen, ob 43 Einheiten für 20 Kapitel reichen oder für 60 zu wenig sind.</span></span></li>
+    <li><span class="i">3</span><span><strong>Erzählperspektive und Zeitrechnung</strong><span class="st">???</span>
+      <span class="note">Zwei Perspektivfiguren stehen fest — Tibun und Girlin. Person und Zeitform sind offen. Dazu C-087: Gezählt wird in <em>Wintern</em>, aber die Wüstenseite hat keinen Winter; wovon Girlin ihre Jahre abzählt, ist noch nicht entschieden. Jede Kapitel-Zeitangabe hängt daran.</span></span></li>
+  </ul>
+</section>
+
+<figure class="chart">
+  <h2 class="sec" style="margin-bottom:6px">Wie sich die Einheiten auf die Stränge verteilen</h2>
+  <p class="sub">Beat-Einheiten je Jahr, nach Perspektivfigur.</p>
+  <div class="leg">
+    <span><i class="i-t"></i>Tibun · Norden</span>
+    <span><i class="i-g"></i>Girlin · Wüste</span>
+  </div>
+  <div class="rahmen">
+    <svg viewBox="0 0 680 400" role="img" aria-label="Beat-Einheiten je Jahr, nach Perspektivfigur. Tibun links, Girlin rechts. Jahr 0 hat sieben Tibun-Einheiten gegen zwei bei Girlin; die Jahre +5 bis +8 haben eine Tibun-Einheit gegen acht bei Girlin; Jahr +9 hat fünf gegen zwei.">
+      <text x="380" y="24" text-anchor="end" font-family="IBM Plex Mono, monospace" font-size="10.5" letter-spacing="1.2" fill="var(--chart-t)">TIBUN</text>
+      <text x="420" y="24" text-anchor="start" font-family="IBM Plex Mono, monospace" font-size="10.5" letter-spacing="1.2" fill="var(--chart-g)">GIRLIN</text>
+            <line x1="380.0" y1="50" x2="380.0" y2="372" stroke="currentColor" opacity=".13"></line>
+      <text x="380.0" y="42" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="10" fill="currentColor" opacity=".5">0</text>
+      <line x1="300.0" y1="50" x2="300.0" y2="372" stroke="currentColor" opacity=".13"></line>
+      <text x="300.0" y="42" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="10" fill="currentColor" opacity=".5">2</text>
+      <line x1="220.0" y1="50" x2="220.0" y2="372" stroke="currentColor" opacity=".13"></line>
+      <text x="220.0" y="42" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="10" fill="currentColor" opacity=".5">4</text>
+      <line x1="140.0" y1="50" x2="140.0" y2="372" stroke="currentColor" opacity=".13"></line>
+      <text x="140.0" y="42" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="10" fill="currentColor" opacity=".5">6</text>
+      <line x1="500.0" y1="50" x2="500.0" y2="372" stroke="currentColor" opacity=".13"></line>
+      <text x="500.0" y="42" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="10" fill="currentColor" opacity=".5">2</text>
+      <line x1="580.0" y1="50" x2="580.0" y2="372" stroke="currentColor" opacity=".13"></line>
+      <text x="580.0" y="42" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="10" fill="currentColor" opacity=".5">4</text>
+      <line x1="420" y1="50" x2="420" y2="372" stroke="currentColor" opacity=".13"></line>
+      <text x="420" y="42" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="10" fill="currentColor" opacity=".5">0</text>
+            <g><title>Jahr −1: 1 Einheiten Tibun, 0 Einheiten Girlin</title>
+        <path d="M 380,64 L 344.0,64 Q 340.0,64 340.0,68 L 340.0,76 Q 340.0,80 344.0,80 L 380,80 Z" fill="var(--chart-t)"></path>
+        <text x="332.0" y="72.0" text-anchor="end" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">1</text>
+        <text x="428" y="72.0" text-anchor="start" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor" opacity=".38">0</text>
+        <text x="400" y="72.0" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11.5" font-weight="500" fill="currentColor">−1</text>
+        </g>
+      <g><title>Jahr 0: 7 Einheiten Tibun, 2 Einheiten Girlin</title>
+        <path d="M 380,90 L 104.0,90 Q 100.0,90 100.0,94 L 100.0,102 Q 100.0,106 104.0,106 L 380,106 Z" fill="var(--chart-t)"></path>
+        <path d="M 420,90 L 496.0,90 Q 500.0,90 500.0,94 L 500.0,102 Q 500.0,106 496.0,106 L 420,106 Z" fill="var(--chart-g)"></path>
+        <text x="92.0" y="98.0" text-anchor="end" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">7</text>
+        <text x="508.0" y="98.0" text-anchor="start" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">2</text>
+        <text x="400" y="98.0" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11.5" font-weight="500" fill="currentColor">0</text>
+        </g>
+      <g><title>Jahr +1: 5 Einheiten Tibun, 1 Einheiten Girlin</title>
+        <path d="M 380,116 L 184.0,116 Q 180.0,116 180.0,120 L 180.0,128 Q 180.0,132 184.0,132 L 380,132 Z" fill="var(--chart-t)"></path>
+        <path d="M 420,116 L 456.0,116 Q 460.0,116 460.0,120 L 460.0,128 Q 460.0,132 456.0,132 L 420,132 Z" fill="var(--chart-g)"></path>
+        <text x="172.0" y="124.0" text-anchor="end" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">5</text>
+        <text x="468.0" y="124.0" text-anchor="start" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">1</text>
+        <text x="400" y="124.0" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11.5" font-weight="500" fill="currentColor">+1</text>
+        </g>
+      <g><title>Jahr +2: 0 Einheiten Tibun, 0 Einheiten Girlin</title>
+        <text x="372" y="150.0" text-anchor="end" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor" opacity=".38">0</text>
+        <text x="428" y="150.0" text-anchor="start" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor" opacity=".38">0</text>
+        <text x="400" y="150.0" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11.5" font-weight="500" fill="currentColor">+2</text>
+        </g>
+      <g><title>Jahr +3: 0 Einheiten Tibun, 2 Einheiten Girlin</title>
+        <path d="M 420,168 L 496.0,168 Q 500.0,168 500.0,172 L 500.0,180 Q 500.0,184 496.0,184 L 420,184 Z" fill="var(--chart-g)"></path>
+        <text x="372" y="176.0" text-anchor="end" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor" opacity=".38">0</text>
+        <text x="508.0" y="176.0" text-anchor="start" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">2</text>
+        <text x="400" y="176.0" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11.5" font-weight="500" fill="currentColor">+3</text>
+        </g>
+      <g><title>Jahr +4: 1 Einheiten Tibun, 3 Einheiten Girlin</title>
+        <path d="M 380,194 L 344.0,194 Q 340.0,194 340.0,198 L 340.0,206 Q 340.0,210 344.0,210 L 380,210 Z" fill="var(--chart-t)"></path>
+        <path d="M 420,194 L 536.0,194 Q 540.0,194 540.0,198 L 540.0,206 Q 540.0,210 536.0,210 L 420,210 Z" fill="var(--chart-g)"></path>
+        <text x="332.0" y="202.0" text-anchor="end" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">1</text>
+        <text x="548.0" y="202.0" text-anchor="start" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">3</text>
+        <text x="400" y="202.0" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11.5" font-weight="500" fill="currentColor">+4</text>
+        </g>
+      <g><title>Jahr +5: 1 Einheiten Tibun, 4 Einheiten Girlin</title>
+        <path d="M 380,220 L 344.0,220 Q 340.0,220 340.0,224 L 340.0,232 Q 340.0,236 344.0,236 L 380,236 Z" fill="var(--chart-t)"></path>
+        <path d="M 420,220 L 576.0,220 Q 580.0,220 580.0,224 L 580.0,232 Q 580.0,236 576.0,236 L 420,236 Z" fill="var(--chart-g)"></path>
+        <text x="332.0" y="228.0" text-anchor="end" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">1</text>
+        <text x="588.0" y="228.0" text-anchor="start" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">4</text>
+        <text x="400" y="228.0" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11.5" font-weight="500" fill="currentColor">+5</text>
+        </g>
+      <g><title>Jahr +6: 0 Einheiten Tibun, 0 Einheiten Girlin</title>
+        <text x="372" y="254.0" text-anchor="end" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor" opacity=".38">0</text>
+        <text x="428" y="254.0" text-anchor="start" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor" opacity=".38">0</text>
+        <text x="400" y="254.0" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11.5" font-weight="500" fill="currentColor">+6</text>
+        </g>
+      <g><title>Jahr +7: 0 Einheiten Tibun, 2 Einheiten Girlin</title>
+        <path d="M 420,272 L 496.0,272 Q 500.0,272 500.0,276 L 500.0,284 Q 500.0,288 496.0,288 L 420,288 Z" fill="var(--chart-g)"></path>
+        <text x="372" y="280.0" text-anchor="end" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor" opacity=".38">0</text>
+        <text x="508.0" y="280.0" text-anchor="start" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">2</text>
+        <text x="400" y="280.0" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11.5" font-weight="500" fill="currentColor">+7</text>
+        </g>
+      <g><title>Jahr +8: 0 Einheiten Tibun, 2 Einheiten Girlin</title>
+        <path d="M 420,298 L 496.0,298 Q 500.0,298 500.0,302 L 500.0,310 Q 500.0,314 496.0,314 L 420,314 Z" fill="var(--chart-g)"></path>
+        <text x="372" y="306.0" text-anchor="end" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor" opacity=".38">0</text>
+        <text x="508.0" y="306.0" text-anchor="start" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">2</text>
+        <text x="400" y="306.0" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11.5" font-weight="500" fill="currentColor">+8</text>
+        </g>
+      <g><title>Jahr +9: 5 Einheiten Tibun, 2 Einheiten Girlin</title>
+        <path d="M 380,324 L 184.0,324 Q 180.0,324 180.0,328 L 180.0,336 Q 180.0,340 184.0,340 L 380,340 Z" fill="var(--chart-t)"></path>
+        <path d="M 420,324 L 496.0,324 Q 500.0,324 500.0,328 L 500.0,336 Q 500.0,340 496.0,340 L 420,340 Z" fill="var(--chart-g)"></path>
+        <text x="172.0" y="332.0" text-anchor="end" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">5</text>
+        <text x="508.0" y="332.0" text-anchor="start" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">2</text>
+        <text x="400" y="332.0" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11.5" font-weight="500" fill="currentColor">+9</text>
+        </g>
+      <g><title>Jahr +10: 2 Einheiten Tibun, 3 Einheiten Girlin</title>
+        <path d="M 380,350 L 304.0,350 Q 300.0,350 300.0,354 L 300.0,362 Q 300.0,366 304.0,366 L 380,366 Z" fill="var(--chart-t)"></path>
+        <path d="M 420,350 L 536.0,350 Q 540.0,350 540.0,354 L 540.0,362 Q 540.0,366 536.0,366 L 420,366 Z" fill="var(--chart-g)"></path>
+        <text x="292.0" y="358.0" text-anchor="end" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">2</text>
+        <text x="548.0" y="358.0" text-anchor="start" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11" fill="currentColor">3</text>
+        <text x="400" y="358.0" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Mono, monospace" font-size="11.5" font-weight="500" fill="currentColor">+10</text>
+        </g>
+    </svg>
+  </div>
+  <figcaption><strong>Insgesamt steht es fast unentschieden — 22 zu 21.</strong> Die Verteilung über die Zeit ist es nicht: In Jahr 0 kommen sieben Tibun-Einheiten auf zwei bei Girlin, zwischen +5 und +8 stehen acht Girlin-Einheiten gegen eine einzige, und in +9 dreht es sich mit fünf zu zwei wieder um. Eine gleichmäßig abwechselnde Verschränkung ist mit diesem Material nicht möglich — entweder wird der Wechsel unregelmäßig, oder der Nordstrang bekommt zwischen +5 und +9 Inhalt, den er heute nicht hat (C-118).</figcaption>
+</figure>
+
+<section style="margin-top:44px">
+  <h2 class="sec">Das Material, Jahr für Jahr</h2>
+  <p class="sub">43 Einheiten in chronologischer Ordnung. Das leere Feld links ist die Kapitelnummer — sie vergibst du.</p>
+    
+    <section class="jahr">
+      <div class="jahr-kopf"><span class="jz">−1</span><span class="alter">Tibun 15 · Girlin 33</span><span class="anz">1 Einheiten</span></div>
+      <ul class="beats">
+        <li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Der Bernstein-Effekt</h4></div>
+            <p>Verlobungstag. Tibun wirft die Kette, der Funke springt an der Schafschere über. Er versteht das Prinzip nicht.</p>
+            <span class="ch">C-057 · C-063–C-072</span>
+          </div>
+        </li>
+      </ul>
+    </section>
+    <section class="jahr">
+      <div class="jahr-kopf"><span class="jz">0</span><span class="alter">Tibun 16 · Girlin 34</span><span class="anz">9 Einheiten</span></div>
+      <ul class="beats">
+        <li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Das Beben und der Blitz</h4></div>
+            <p>Weltweites Beben. Girlin verschwindet vor seinen Augen. Tibun ist einziger Zeuge.</p>
+            <span class="ch">C-128</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Ankunft im Fezzan</h4></div>
+            <p>Sie wacht in der Wüste auf. Die Kel Aman sehen das Ereignis von Weitem und sammeln sie auf.</p>
+            <span class="ch">C-014</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Die Mulde</h4></div>
+            <p>Halbierte Steine, glatt durchtrennte Wurzeln. Er begreift, dass der Ring schneidet.</p>
+            <span class="ch">C-098 ✓</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Sprache und Fremdheit</h4></div>
+            <p>Kulturbarriere. Ihr Ziel steht von der ersten Stunde fest: Der Ring ist der einzige Rückweg.</p>
+            <span class="ch">C-114 ✓ · C-003</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Was das Dorf daraus macht</h4></div>
+            <p>Der Sand liegt sichtbar an der Skir. Die Wala erklärt ihn zum Zeichen, Girlin für tot, die Stelle zum Tabu.</p>
+            <span class="ch">C-094 ✓</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Der Suchtrupp</h4></div>
+            <p>Girlin gilt als weggelaufen oder tot. Niemand glaubt Tibuns Deutung.</p>
+            <span class="ch">C-095 ✓</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Semund und Millia</h4></div>
+            <p>Der Vater bindet sich rasch neu. Für Tibun Verrat — denn er weiß, dass sie lebt.</p>
+            <span class="ch">C-078 · C-046</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Der Unfall</h4></div>
+            <p>Er baut etwas und verletzt eine Nebenfigur. Womit und wie, ist offen.</p>
+            <span class="ch">C-058</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Der Ausschluss</h4></div>
+            <p>Schuld, Gewissenslast und Meidung durch den Weiler. Zusammen der Antrieb zum Aufbruch.</p>
+            <span class="ch">C-077</span>
+          </div>
+        </li>
+      </ul>
+    </section>
+    <section class="jahr">
+      <div class="jahr-kopf"><span class="jz">+1</span><span class="alter">Tibun 17 · Girlin 35</span><span class="anz">6 Einheiten</span></div>
+      <ul class="beats">
+        <li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Aufbruch aus Skirraa</h4></div>
+            <p>Rund ein Jahr nach dem Verschwinden. Er geht nicht nur zu etwas hin, sondern auch von etwas weg.</p>
+            <span class="ch">C-022 ✓</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Bellbrim</h4></div>
+            <p>Die Vandalin kann übersetzen und versteht als Erste, was der Ring ist.</p>
+            <span class="ch">C-026 · C-027 · C-113</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Die Zwischenstation</h4></div>
+            <p>Anschluss an eine Gruppe. Erste Absage auf die Frage nach dem Ring — er lernt zu schweigen.</p>
+            <span class="ch">C-124 · C-034 ✓</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Ankunft in Kaupvik</h4></div>
+            <p>Hafenarbeit an der Schlei. Rund acht Jahre wird er bleiben.</p>
+            <span class="ch">C-115 ✓</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Die Zieheltern</h4></div>
+            <p>Er kommt bei einem Paar unter. Der Mann wird seine neue Bezugsperson.</p>
+            <span class="ch">C-059</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Sammeln ohne zu wissen wie</h4></div>
+            <p>Bernstein durch Handel und eigenes Sammeln — das Prinzip fehlt ihm noch.</p>
+            <span class="ch">C-002</span>
+          </div>
+        </li>
+      </ul>
+    </section>
+    <section class="jahr leer">
+      <div class="jahr-kopf"><span class="jz">+2</span><span class="alter">Tibun 18 · Girlin 36</span></div>
+      <p class="nix">Kein eigener Beat — beide Stränge laufen in Spannen weiter.</p>
+    </section>
+    <section class="jahr">
+      <div class="jahr-kopf"><span class="jz">+3</span><span class="alter">Tibun 19 · Girlin 37</span><span class="anz">2 Einheiten</span></div>
+      <ul class="beats">
+        <li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Der Neffe</h4></div>
+            <p>Beziehung zum Neffen des Häuptlings. Dessen Frau ist zuvor mit einem anderen durchgebrannt.</p>
+            <span class="ch">C-060 ✓ · C-105 · C-106</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Azzim, Auftritt 1</h4></div>
+            <p>Basar. Zugriffsversuch, vom Clan abgewehrt. Ab hier kennen sich beide als Feind.</p>
+            <span class="ch">C-123 ✓ · C-028 · C-029</span>
+          </div>
+        </li>
+      </ul>
+    </section>
+    <section class="jahr">
+      <div class="jahr-kopf"><span class="jz">+4</span><span class="alter">Tibun 20 · Girlin 38</span><span class="anz">4 Einheiten</span></div>
+      <ul class="beats">
+        <li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Der Erkenntnismoment</h4></div>
+            <p>Arbeitsunfall an der Bootsziehwinde: schnelle Reibung, viel Ladung. Was er mit 15 sah, versteht er jetzt.</p>
+            <span class="ch">C-002 · C-005 ✓</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Das dritte Kind</h4></div>
+            <p>Geboren in der Wüste. Im Finale ist es sechs.</p>
+            <span class="ch">C-081</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Das Ziel kippt</h4></div>
+            <p>Aus „nach Hause gehen“ wird „ich bleibe“. Sechs Jahre vor dem Finale — und der Entschluss wackelt noch.</p>
+            <span class="ch">C-082 ✓</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Der Ring bekommt einen neuen Zweck</h4></div>
+            <p>Nicht mehr ihre Heimreise. Eine Nachricht, damit die Familie weiß, dass sie lebt.</p>
+            <span class="ch">C-101 · C-134</span>
+          </div>
+        </li>
+      </ul>
+    </section>
+    <section class="jahr">
+      <div class="jahr-kopf"><span class="jz">+5</span><span class="alter">Tibun 21 · Girlin 39</span><span class="anz">5 Einheiten</span></div>
+      <ul class="beats">
+        <li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Die Bitte</h4></div>
+            <p>Zugehörigkeit → Wissen → Bitte. Girlin bittet selbst; der Neffe unterstützt sie.</p>
+            <span class="ch">C-061 ✓ · C-105</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Die Trennung vom Clan</h4></div>
+            <p>Die drei ziehen zu Bellbrim in die Schlucht. Für den Neffen der Verlust seiner Sippe.</p>
+            <span class="ch">C-129</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Das Tischmodell</h4></div>
+            <p>Vier Jahre Bau und Bernstein. Der Strang verliert in dieser Zeit nichts.</p>
+            <span class="ch">C-118 · C-099</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Arbeit am Generator</h4></div>
+            <p>Wasserfall und Wasserrad — Jahre bevor der Ring da ist. Bauart offen.</p>
+            <span class="ch">C-135 · C-131</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Der Basar</h4></div>
+            <p>Material, das die Schlucht nicht hergibt. Der einzige Grund, das Versteck zu verlassen.</p>
+            <span class="ch">C-132</span>
+          </div>
+        </li>
+      </ul>
+    </section>
+    <section class="jahr leer">
+      <div class="jahr-kopf"><span class="jz">+6</span><span class="alter">Tibun 22 · Girlin 40</span></div>
+      <p class="nix">Kein eigener Beat — beide Stränge laufen in Spannen weiter.</p>
+    </section>
+    <section class="jahr">
+      <div class="jahr-kopf"><span class="jz">+7</span><span class="alter">Tibun 23 · Girlin 41</span><span class="anz">2 Einheiten</span></div>
+      <ul class="beats">
+        <li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Der Transport</h4></div>
+            <p>Der Clan kommt wieder, Girlin bricht mit ihm auf. 5,7 t, Wochen bis Monate. Verfahren offen.</p>
+            <span class="ch">C-125 · C-103 · C-130</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Azzim, Auftritt 2</h4></div>
+            <p>Er verhandelt offen mit dem Clan. Sippenpflicht schlägt Handel — er verliert den Zug.</p>
+            <span class="ch">C-123 ✓</span>
+          </div>
+        </li>
+      </ul>
+    </section>
+    <section class="jahr">
+      <div class="jahr-kopf"><span class="jz">+8</span><span class="alter">Tibun 24 · Girlin 42</span><span class="anz">2 Einheiten</span></div>
+      <ul class="beats">
+        <li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Der Ring liegt in der Schlucht</h4></div>
+            <p>Der Clan zieht weiter. Aufgerichtet wird der Ring nie.</p>
+            <span class="ch">C-111 ✓</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Vollendung des Generators</h4></div>
+            <p>Bellbrim und Girlin bauen weiter. Fertig wird er erst in +10.</p>
+            <span class="ch">C-135</span>
+          </div>
+        </li>
+      </ul>
+    </section>
+    <section class="jahr">
+      <div class="jahr-kopf"><span class="jz">+9</span><span class="alter">Tibun 25 · Girlin 43</span><span class="anz">7 Einheiten</span></div>
+      <ul class="beats">
+        <li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Aufbruch aus Kaupvik</h4></div>
+            <p>Das Modell läuft, Wissen und Bernstein reichen. Die Zieheltern bleiben lebend zurück.</p>
+            <span class="ch">C-059</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Azzim, Auftritt 3</h4></div>
+            <p>Basar, Zugriff, sie entkommt — und er folgt ihr. So findet er die Schlucht.</p>
+            <span class="ch">C-133</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Die Werkstatt an der Tabustelle</h4></div>
+            <p>Rückkehr zum Ring am Bach. Bau der großen Wasseranlage unter einem Dach.</p>
+            <span class="ch">C-100 ✓</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Die Nachricht liegt bereit</h4></div>
+            <p>Fertig und wetterfest verpackt. Der Leser sieht sie, bevor sie liegen bleibt.</p>
+            <span class="ch">C-101 · C-134</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Der Weiler warnt und meidet</h4></div>
+            <p>Niemand hilft, niemand vertreibt ihn. Wer sich dorthin begibt, ist selber schuld.</p>
+            <span class="ch">C-100 ✓</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Die Wala lässt ihn gewähren</h4></div>
+            <p>Sie sieht es sich an und deutet es wie zuvor — und schärft allen den Zorn der Götter ein.</p>
+            <span class="ch">C-050</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Truda hält ihn für verloren</h4></div>
+            <p>Er sagt ihr, was er tut. Sie und die neugierigen Kinder sind seine einzige Verbindung zum Weiler.</p>
+            <span class="ch">C-077 · C-047</span>
+          </div>
+        </li>
+      </ul>
+    </section>
+    <section class="jahr">
+      <div class="jahr-kopf"><span class="jz">+10</span><span class="alter">Tibun 26 · Girlin 44</span><span class="anz">5 Einheiten</span></div>
+      <ul class="beats">
+        <li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Zweifel und Bestätigung</h4></div>
+            <p>Generator fertig → der Zweifel kehrt zurück → sie bestätigt ihren Entschluss. Der Preis ist bezahlt.</p>
+            <span class="ch">C-082 ✓</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Der Angriff — Zündung 1</h4></div>
+            <p>Azzims vierter Auftritt. Im Kampf löst der Wüstengenerator aus; Azzim wird nach Jütland geworfen.</p>
+            <span class="ch">C-102 · C-133 · C-112</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Azzim vor den Füßen</h4></div>
+            <p>Tibun führte nur einen Testlauf durch. Nach zehn Jahren der erste Beweis, dass drüben Menschen leben.</p>
+            <span class="ch">C-062 ✓</span>
+          </div>
+        </li>
+<li class="beat p-t">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-t">Tibun</span><h4>Der Kampf — Zündung 2</h4></div>
+            <p>Die Kette fällt aus dem Dachstuhl. Azzim wird von der Kugelgrenze zerteilt, Tibun reist. Notwehr.</p>
+            <span class="ch">C-099 · C-109 ✓</span>
+          </div>
+        </li>
+<li class="beat p-g">
+          <span class="nr" aria-label="Kapitelnummer offen"></span>
+          <div class="inhalt">
+            <div class="zeile1"><span class="pov pov-g">Girlin</span><h4>Wiedersehen und Schluss</h4></div>
+            <p>Mitten im laufenden Kampf. „Was machen wir jetzt?“ — „Jetzt holen wir deine Schwester…“</p>
+            <span class="ch">C-108 · C-110</span>
+          </div>
+        </li>
+      </ul>
+    </section>
+</section>
+
+<footer>
+  Quellen: <code>Plots/Plot-1/Zeitleiste.md</code>, <code>Plots/Plot-1/Kapitelstruktur.md</code>, <code>Notizen/Challenges.md</code> · Stand 04.09.2026.<br>
+  <strong>Nicht enthalten:</strong> Kapitelnummern, Kapitelgrenzen, eine Reihenfolge der Stränge, Kapitellängen. Nichts davon ist entschieden, und nichts davon wird hier vorweggenommen.<br>
+  Die Zerlegung in Einheiten und ihre Zuordnung zu Jahren ist eine Lesehilfe dieser Seite und steht nicht im Wiki.
+</footer>
+
+</div>

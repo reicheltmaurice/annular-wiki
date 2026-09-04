@@ -8,7 +8,7 @@
 **Dicke (radial)**: ............................. 0,15 m  
 **Rundungsradius**: ......................... 0,03 m (alle vier Ecken)  
 
-**Formreferenz**: **flacher Armreif** — abgerundetes Rechteck im Querschnitt. Maße und Herleitung: [Portalring_Berechnungen.md](Portalring_Berechnungen.md)  
+**Formreferenz**: **flacher Armreif** — abgerundetes Rechteck im Querschnitt. Maße und Herleitung: [Anhang](#anhang-maße-und-herleitung)  
 
 ---
 
@@ -124,7 +124,7 @@ Die Verbindung zweier Ringe ist nicht wählbar wie eine Adresse zur Laufzeit, so
 
 ## Größen & Zweck
 
-Es gibt nur wenige festgelegte Ringgrößen; nur Ringe gleicher Größe kuppeln (siehe Kopplung). Alle Größen leiten sich aus dem **3-m-Referenzring** ab: Breite 1:6, Dicke 1:20, Rundungsradius 1:100 des jeweiligen Innendurchmessers ([Berechnungen](Portalring_Berechnungen.md)).
+Es gibt nur wenige festgelegte Ringgrößen; nur Ringe gleicher Größe kuppeln (siehe Kopplung). Alle Größen leiten sich aus dem **3-m-Referenzring** ab: Breite 1:6, Dicke 1:20, Rundungsradius 1:100 des jeweiligen Innendurchmessers ([Anhang](#anhang-maße-und-herleitung)).
 
 | Innen-Ø | Gewicht (Ref.) | Beweglichkeit | Zweck (Erbauer) |
 |---|---|---|---|
@@ -171,9 +171,15 @@ Das erklärt zugleich die Mechanik: Nur die Runen glühen (Energie läuft in den
 
 ---
 
-## Technische Details
+---
 
-Vollständige Herleitung und Formeln: [Portalring_Berechnungen.md](Portalring_Berechnungen.md).
+## Anhang: Maße und Herleitung
+
+**Autorenebene.** Nichts aus diesem Abschnitt erscheint im Erzähltext — keine Figur von 550 kann diese Größen messen oder benennen. Der **3-m-Ring ist der Referenzring**; alle anderen Größen werden aus ihm abgeleitet, nicht umgekehrt. Die frühere Herleitung aus dem Einen Ring ist abgelöst ([C-007](../Notizen/Challenges.md#c-007-proportionen-der-portalringe-), [C-117](../Notizen/Challenges.md#c-117-ringgeometrie-neu-vermessen-)).
+
+### Referenzring (3,00 m)
+
+Form: **flacher Armreif** — abgerundetes Rechteck im Querschnitt, alle vier Ecken mit gleichem Radius gebrochen ([C-073 ✓](../Notizen/Challenges.md#c-073-querschnitt-der-ringe--flacher-armreif-)).
 
 <table>
   <caption>Referenzring (3,00 m) — verbindliche Maße</caption>
@@ -188,6 +194,21 @@ Vollständige Herleitung und Formeln: [Portalring_Berechnungen.md](Portalring_Be
     <tr><td>Größter Radius beim Flip</td><td>1,6649 m</td><td>Eckbogen, nicht AD/2</td></tr>
   </tbody>
 </table>
+
+### Ableitungsverhältnisse
+
+Jedes Maß hängt am Innendurchmesser:
+
+| Maß | Verhältnis zum Innen-Ø |
+|---|---|
+| Breite (axial) | 1 : 6 |
+| Dicke (radial) | 1 : 20 |
+| Rundungsradius | 1 : 100 |
+| Außen-Ø | 1,10 : 1 |
+
+Alle Längen skalieren mit dem Faktor **F = ID / 3,00 m**, das Volumen mit **F³**.
+
+### Alle Größen
 
 <table>
   <caption>Maße und Volumen (aus dem Referenzring abgeleitet)</caption>
@@ -205,6 +226,8 @@ Vollständige Herleitung und Formeln: [Portalring_Berechnungen.md](Portalring_Be
 
 Kanonisch sind nur **3,00 m** und **0,30 m** ([C-010](../Notizen/Challenges.md#c-010-ringsystem--kopplungsmechanik-)); 1,00 m und 2,00 m sind Rechenbeispiele ([C-017](../Notizen/Challenges.md#c-017-weitere-ringgrößen)).
 
+### Gewichte nach Dichte
+
 <table>
   <caption>Gewichte nach Material (3-m-Ring, V = 734.556 cm³)</caption>
   <tbody>
@@ -219,22 +242,41 @@ Kanonisch sind nur **3,00 m** und **0,30 m** ([C-010](../Notizen/Challenges.md#c
 
 > **Die Dichte ist eine reine Rechengröße.** 7,8 g/cm³ ist **kein Materialbeschluss** — das Material bleibt unbekannt und mystisch ([C-004](../Notizen/Challenges.md#c-004-material-der-portalringe-)). Weder Material noch Gewicht werden im Erzähltext je benannt: Niemand in der Welt von 550 besitzt eine Waage, die einen solchen Körper wiegen könnte ([C-127 ✓](../Notizen/Challenges.md#c-127-referenzdichte-)).
 
-## Formeln
+### Formeln
 
-Querschnitt (abgerundetes Rechteck, Breite h, Dicke t, Eckradius r):
+**Querschnitt** — abgerundetes Rechteck (Breite h, Dicke t, Eckradius r):
 
 ```
 A = h · t − (4 − π) · r²
 ```
 
-Volumen (Rotationskörper nach Pappus, R_s = Schwerpunktradius = ID/2 + t/2):
+Der Term `(4 − π) · r²` ist das Material, das die vier gebrochenen Ecken wegnehmen.
+
+**Volumen** — Rotationskörper nach Pappus:
 
 ```
-V = 2 · π · R_s · A
+V = 2 · π · R_s · A          mit R_s = ID/2 + t/2
 ```
 
-Größter Radius beim Flip (Eckbogen):
+`R_s` ist der Schwerpunktradius des Querschnitts. Er liegt exakt in der Mitte der Dicke, weil das abgerundete Rechteck symmetrisch zur radialen Mittellinie ist.
 
+**Kontrollrechnung 3-m-Ring:**
 ```
-R_flip = √((AD/2 − r)² + (h/2 − r)²) + r
+A = 0,50 · 0,15 − (4 − π) · 0,03²  = 0,075 − 0,000773 = 0,074227 m²
+V = 2π · 1,575 · 0,074227           = 0,734556 m³
+m = 0,734556 · 7.800 kg/m³          = 5.729,5 kg
 ```
+
+**Größter Radius beim Flip** (Eckbogen, nicht Außen-Ø/2):
+```
+R_flip = √((AD/2 − r)² + (h/2 − r)²) + r  = 1,6649 m
+```
+
+### Nicht mehr gültig
+
+Frühere Fassungen dieser Datei rechneten den Ring als **Hohlzylinder**, skaliert aus den Proportionen des Einen Rings (Innen-Ø 20,0 mm, Wand 2,7 mm, Breite 7,0 mm) — Ergebnis: 4,549 m³ und ~8.052 kg. Diese Zahlen sind **überholt**. Zwei Fehler steckten darin:
+
+1. **Falsche Skalierungsbasis.** Skaliert wurde ab 20,0 mm Innen-Ø, der Eine Ring hat als US-Größe 11 aber 20,6 mm.
+2. **Falsche Querschnittsform.** Der Hohlzylinder ist schon am Referenzobjekt widerlegt: Jens Hansen gibt für den Filmring ~17 g in 18ct Gelbgold an, der Hohlzylinder ergäbe 21–22 g.
+
+Beides dokumentiert in [C-117](../Notizen/Challenges.md#c-117-ringgeometrie-neu-vermessen-). Die Eine-Ring-Referenz ist damit vollständig abgelöst; Formvorbild ist jetzt der flache Armreif ([C-073](../Notizen/Challenges.md#c-073-querschnitt-der-ringe--flacher-armreif-)).

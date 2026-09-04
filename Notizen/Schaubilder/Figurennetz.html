@@ -1,0 +1,314 @@
+<title>Wer wen kennt</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+
+<style>
+:root{
+  --paper:#E8EAE7;
+  --card:#F6F7F4;
+  --ink:#1C2124;
+  --ink-2:#4E565A;
+  --ink-3:#7B8388;
+  --rule:#D1D4CE;
+  --rule-2:#BFC3BC;
+  --nord:#2F5D66;
+  --nord-tint:#DDE8E9;
+  --sand:#8F6216;
+  --sand-tint:#EDE4D2;
+  --gap:#9C3F38;
+  --gap-tint:#EEDFDC;
+  --shadow:0 1px 2px rgba(28,33,36,.05);
+  --f-display:"Spectral","Iowan Old Style",Georgia,serif;
+  --f-body:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;
+  --f-mono:"IBM Plex Mono","SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#14181A; --card:#1C2124;
+    --ink:#E6E8E4; --ink-2:#A6AEB1; --ink-3:#79817F;
+    --rule:#2C3336; --rule-2:#3A4346;
+    --nord:#7CB8C0; --nord-tint:#1B2E32;
+    --sand:#D2A153; --sand-tint:#2C2214;
+    --gap:#DB8279; --gap-tint:#31201E;
+    --shadow:0 1px 2px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#14181A; --card:#1C2124;
+  --ink:#E6E8E4; --ink-2:#A6AEB1; --ink-3:#79817F;
+  --rule:#2C3336; --rule-2:#3A4346;
+  --nord:#7CB8C0; --nord-tint:#1B2E32;
+  --sand:#D2A153; --sand-tint:#2C2214;
+  --gap:#DB8279; --gap-tint:#31201E;
+  --shadow:0 1px 2px rgba(0,0,0,.3);
+}
+
+*{box-sizing:border-box}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1000px;margin:0 auto;padding:44px 24px 80px}
+
+.eyebrow{font-family:var(--f-mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3)}
+h1{font-family:var(--f-display);font-weight:600;font-size:clamp(30px,5vw,44px);line-height:1.08;letter-spacing:-.015em;margin:.28em 0 .3em;text-wrap:balance}
+.lede{font-family:var(--f-display);font-size:17px;line-height:1.6;color:var(--ink-2);max-width:64ch;margin:0}
+.lede em{color:var(--ink)}
+
+h2.sec{font-family:var(--f-display);font-weight:600;font-size:21px;letter-spacing:-.01em;margin:0 0 4px}
+p.sub{margin:0 0 16px;font-size:13.5px;color:var(--ink-3)}
+
+/* Diagramm */
+figure.netz{margin:34px 0 0;padding:0}
+figure.netz .rahmen{overflow-x:auto;border:1px solid var(--rule);background:var(--card);border-radius:2px;padding:18px 16px}
+figure.netz svg{display:block;width:100%;min-width:720px;height:auto}
+figcaption{margin-top:10px;font-size:13px;color:var(--ink-3);line-height:1.5;max-width:72ch}
+
+.legende{display:flex;flex-wrap:wrap;gap:18px 26px;margin-top:14px;padding-top:14px;border-top:1px solid var(--rule)}
+.li{display:flex;gap:9px;align-items:center;font-size:12.5px;color:var(--ink-2)}
+.li svg{flex:0 0 auto}
+
+/* Befunde */
+.befunde{margin:44px 0 0}
+.bef{list-style:none;margin:0;padding:0;display:grid;gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.bef li{background:var(--card);padding:13px 16px;display:grid;grid-template-columns:56px 1fr;gap:16px;align-items:baseline}
+.bef .n{font-family:var(--f-mono);font-size:19px;font-weight:500;font-variant-numeric:tabular-nums;color:var(--gap);letter-spacing:-.02em}
+.bef strong{font-weight:600}
+.bef .note{display:block;margin-top:2px;font-size:13.5px;color:var(--ink-2)}
+
+/* Figurentabellen */
+.gruppe{margin-top:40px}
+.gruppe-kopf{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;padding-bottom:8px;border-bottom:2px solid var(--ink)}
+.gruppe-kopf h3{font-family:var(--f-display);font-weight:600;font-size:21px;margin:0;letter-spacing:-.01em}
+.gruppe-kopf .zahl{font-family:var(--f-mono);font-size:12px;color:var(--ink-3)}
+.gruppe > p.warum{margin:10px 0 14px;font-size:14px;color:var(--ink-2);max-width:72ch}
+.gruppe > p.warum strong{color:var(--ink);font-weight:600}
+
+.tab{width:100%;border-collapse:collapse;font-size:13.5px}
+.tab th{text-align:left;font-family:var(--f-mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3);font-weight:400;padding:0 10px 7px 0;border-bottom:1px solid var(--rule)}
+.tab td{padding:9px 10px 9px 0;border-bottom:1px solid var(--rule);vertical-align:top;color:var(--ink-2)}
+.tab td:first-child{color:var(--ink);font-weight:600;white-space:nowrap}
+.tab .zone{font-family:var(--f-mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;white-space:nowrap}
+.tab .zone.n{color:var(--nord)}
+.tab .zone.w{color:var(--sand)}
+.tab .cs{white-space:nowrap}
+.tab .c{font-family:var(--f-mono);font-size:10.5px;font-weight:500;padding:2px 5px;border-radius:2px;border:1px solid transparent;background:var(--gap-tint);color:var(--gap);margin-right:3px}
+.tab .c.done{background:transparent;color:var(--ink-3);border-color:var(--rule-2)}
+.tab tr.ohne td:first-child{color:var(--gap)}
+.tab tr.ohne td:first-child::before{content:"◇ ";font-weight:400}
+
+footer{margin-top:46px;padding-top:18px;border-top:1px solid var(--rule);font-size:12.5px;color:var(--ink-3);line-height:1.6}
+footer code{font-family:var(--f-mono);font-size:11.5px;color:var(--ink-2)}
+
+@media (max-width:640px){
+  .wrap{padding:28px 16px 60px}
+  .tab .cs{white-space:normal}
+}
+@media (prefers-reduced-motion: reduce){*{transition:none !important}}
+</style>
+
+<div class="wrap">
+
+<header>
+  <div class="eyebrow">Annular · Plot 1 · Stand 04.09.2026</div>
+  <h1>Wer wen kennt</h1>
+  <p class="lede">Das Beziehungsnetz beider Stränge. Die beiden Hälften des Buchs teilen <em>keine einzige Figur</em> — bis Azzim im Finale von der einen in die andere geworfen wird. Vier Figuren im Netz haben keinen Namen; drei davon tragen Handlung.</p>
+</header>
+
+<figure class="netz">
+  <div class="rahmen">
+    <svg viewBox="0 0 880 600" role="img" aria-label="Beziehungsnetz von Plot 1: Im Norden Tibun mit Semund, Millia, Truda, den namenlosen Zieheltern und der wandernden Wala; in der Wüste Girlin mit Bellbrim, dem namenlosen Neffen, dem namenlosen dritten Kind und dem namenlosen Häuptling. Tibun und Girlin sind zehn Jahre lang getrennt. Azzim sitzt auf der Grenze und ist die einzige Figur, die beide Zonen berührt.">
+      <defs>
+        <marker id="pfeil" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+          <polygon points="0,1 8,4 0,7" fill="currentColor"></polygon>
+        </marker>
+      </defs>
+
+      <!-- Zonentrennung -->
+      <line x1="0" y1="300" x2="880" y2="300" stroke="currentColor" stroke-width="1" stroke-dasharray="2 6" opacity=".35"></line>
+      <text x="0" y="24" font-family="IBM Plex Mono, monospace" font-size="11" letter-spacing="1.6" fill="var(--nord)">NORDEN · JÜTLAND</text>
+      <text x="0" y="333" font-family="IBM Plex Mono, monospace" font-size="11" letter-spacing="1.6" fill="var(--sand)">WÜSTE · FEZZAN</text>
+
+      <!-- ===== Kanten Norden ===== -->
+      <g stroke="currentColor" stroke-width="1.2" opacity=".55" fill="none">
+        <line x1="200" y1="70" x2="260" y2="70"></line>
+        <line x1="400" y1="70" x2="460" y2="70"></line>
+        <line x1="330" y1="91" x2="330" y2="169"></line>
+        <line x1="480" y1="91" x2="390" y2="169"></line>
+        <line x1="200" y1="190" x2="260" y2="190"></line>
+        <line x1="460" y1="190" x2="400" y2="190"></line>
+      </g>
+      <g font-family="IBM Plex Sans, sans-serif" font-size="10.5" fill="currentColor" opacity=".72" text-anchor="middle">
+        <text x="230" y="63">bindet sich neu</text>
+        <text x="430" y="63">Vater</text>
+        <text x="322" y="132" text-anchor="end">Vater —</text>
+        <text x="322" y="146" text-anchor="end">Tibun verurteilt ihn</text>
+        <text x="455" y="145" text-anchor="start">Geschwister</text>
+        <text x="230" y="183">acht Jahre</text>
+        <text x="430" y="183">duldet ihn</text>
+      </g>
+
+      <!-- ===== Achse Tibun – Girlin ===== -->
+      <line x1="330" y1="211" x2="330" y2="389" stroke="var(--gap)" stroke-width="2" stroke-dasharray="7 6"></line>
+      <g font-family="IBM Plex Sans, sans-serif" font-size="11" fill="var(--gap)" font-weight="600" text-anchor="end">
+        <text x="318" y="252">Mutter und Sohn —</text>
+        <text x="318" y="266">zehn Jahre ohne</text>
+        <text x="318" y="280">Kontakt</text>
+      </g>
+
+      <!-- ===== Kanten Wüste ===== -->
+      <g stroke="currentColor" stroke-width="1.2" opacity=".55" fill="none">
+        <line x1="260" y1="410" x2="200" y2="410"></line>
+        <line x1="330" y1="431" x2="330" y2="509"></line>
+        <line x1="260" y1="530" x2="200" y2="530"></line>
+        <line x1="400" y1="530" x2="460" y2="530"></line>
+        <line x1="280" y1="431" x2="175" y2="509"></line>
+      </g>
+      <g font-family="IBM Plex Sans, sans-serif" font-size="10.5" fill="currentColor" opacity=".72" text-anchor="middle">
+        <text x="230" y="403">übersetzt</text>
+        <text x="337" y="475" text-anchor="start">Partner ab +3</text>
+        <text x="230" y="523">Vater</text>
+        <text x="430" y="523">Blut → Sippenpflicht</text>
+        <text x="196" y="462" text-anchor="end">Mutter</text>
+      </g>
+
+      <!-- ===== Azzim: die einzige Brücke ===== -->
+      <g stroke="var(--gap)" stroke-width="1.6" fill="none" color="var(--gap)">
+        <polyline points="750,279 750,250 370,250 370,215" marker-end="url(#pfeil)" stroke="var(--gap)"></polyline>
+        <polyline points="750,321 750,410 404,410" marker-end="url(#pfeil)" stroke="var(--gap)"></polyline>
+      </g>
+      <g font-family="IBM Plex Sans, sans-serif" font-size="10.5" fill="var(--gap)" text-anchor="middle">
+        <text x="560" y="243">wird ihm vor die Füße geworfen — Finale</text>
+        <text x="580" y="403">verfolgt sie — vier Auftritte, +3 bis +10</text>
+      </g>
+
+      <!-- ===== Knoten ===== -->
+      <!-- Norden -->
+      <g>
+        <rect x="60" y="49" width="140" height="42" rx="2" fill="var(--nord-tint)" stroke="currentColor" stroke-width="1" opacity=".95"></rect>
+        <text x="130" y="70" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Sans, sans-serif" font-size="13" font-weight="600" fill="currentColor">Millia</text>
+      </g>
+      <g>
+        <rect x="260" y="49" width="140" height="42" rx="2" fill="var(--nord-tint)" stroke="currentColor" stroke-width="1"></rect>
+        <text x="330" y="70" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Sans, sans-serif" font-size="13" font-weight="600" fill="currentColor">Semund</text>
+      </g>
+      <g>
+        <rect x="460" y="49" width="140" height="42" rx="2" fill="var(--nord-tint)" stroke="currentColor" stroke-width="1"></rect>
+        <text x="530" y="70" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Sans, sans-serif" font-size="13" font-weight="600" fill="currentColor">Truda</text>
+      </g>
+      <g>
+        <rect x="60" y="169" width="140" height="42" rx="2" fill="none" stroke="var(--gap)" stroke-width="1.4" stroke-dasharray="5 4"></rect>
+        <text x="130" y="185" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="12.5" font-weight="600" fill="var(--gap)">Die Zieheltern</text>
+        <text x="130" y="200" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="9.5" letter-spacing=".8" fill="var(--gap)">OHNE NAMEN</text>
+      </g>
+      <g>
+        <rect x="260" y="169" width="140" height="42" rx="2" fill="var(--nord-tint)" stroke="var(--nord)" stroke-width="2.5"></rect>
+        <text x="330" y="190" text-anchor="middle" dominant-baseline="central" font-family="Spectral, Georgia, serif" font-size="16" font-weight="600" fill="currentColor">Tibun</text>
+      </g>
+      <g>
+        <rect x="460" y="169" width="140" height="42" rx="2" fill="var(--nord-tint)" stroke="currentColor" stroke-width="1"></rect>
+        <text x="530" y="185" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="12.5" font-weight="600" fill="currentColor">Wandernde Wala</text>
+        <text x="530" y="200" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="9.5" letter-spacing=".8" fill="currentColor" opacity=".6">JAHR 0 UND +9</text>
+      </g>
+
+      <!-- Grenze -->
+      <g>
+        <rect x="680" y="279" width="140" height="42" rx="2" fill="var(--sand-tint)" stroke="var(--gap)" stroke-width="2"></rect>
+        <text x="750" y="295" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="13" font-weight="600" fill="currentColor">Azzim u-Tawan</text>
+        <text x="750" y="310" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="9.5" letter-spacing=".8" fill="var(--gap)">DIE EINZIGE BRÜCKE</text>
+      </g>
+
+      <!-- Wüste -->
+      <g>
+        <rect x="60" y="389" width="140" height="42" rx="2" fill="var(--sand-tint)" stroke="currentColor" stroke-width="1"></rect>
+        <text x="130" y="410" text-anchor="middle" dominant-baseline="central" font-family="IBM Plex Sans, sans-serif" font-size="13" font-weight="600" fill="currentColor">Bellbrim</text>
+      </g>
+      <g>
+        <rect x="260" y="389" width="140" height="42" rx="2" fill="var(--sand-tint)" stroke="var(--sand)" stroke-width="2.5"></rect>
+        <text x="330" y="410" text-anchor="middle" dominant-baseline="central" font-family="Spectral, Georgia, serif" font-size="16" font-weight="600" fill="currentColor">Girlin</text>
+      </g>
+      <g>
+        <rect x="60" y="509" width="140" height="42" rx="2" fill="none" stroke="var(--gap)" stroke-width="1.4" stroke-dasharray="5 4"></rect>
+        <text x="130" y="525" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="12.5" font-weight="600" fill="var(--gap)">Das dritte Kind</text>
+        <text x="130" y="540" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="9.5" letter-spacing=".8" fill="var(--gap)">OHNE NAMEN</text>
+      </g>
+      <g>
+        <rect x="260" y="509" width="140" height="42" rx="2" fill="none" stroke="var(--gap)" stroke-width="1.4" stroke-dasharray="5 4"></rect>
+        <text x="330" y="525" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="12.5" font-weight="600" fill="var(--gap)">Der Neffe</text>
+        <text x="330" y="540" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="9.5" letter-spacing=".8" fill="var(--gap)">OHNE NAMEN</text>
+      </g>
+      <g>
+        <rect x="460" y="509" width="140" height="42" rx="2" fill="none" stroke="var(--gap)" stroke-width="1.4" stroke-dasharray="5 4"></rect>
+        <text x="530" y="525" text-anchor="middle" font-family="IBM Plex Sans, sans-serif" font-size="12.5" font-weight="600" fill="var(--gap)">Der Häuptling</text>
+        <text x="530" y="540" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="9.5" letter-spacing=".8" fill="var(--gap)">OHNE NAMEN</text>
+      </g>
+    </svg>
+  </div>
+
+  <figcaption>Nur Figuren mit Handlungsfunktion im laufenden Plot. Die Prolog-Figuren und die Tingsal-Figuren hängen nicht an diesem Netz — sie stehen unten in der Tabelle.</figcaption>
+
+  <div class="legende">
+    <div class="li"><svg width="26" height="14" aria-hidden="true"><rect x="1" y="2" width="24" height="10" rx="1" fill="none" stroke="currentColor" stroke-width="2.5"></rect></svg><span>Perspektivfigur</span></div>
+    <div class="li"><svg width="26" height="14" aria-hidden="true"><rect x="1" y="2" width="24" height="10" rx="1" fill="none" stroke="currentColor"></rect></svg><span>Figur mit eigener Wiki-Datei</span></div>
+    <div class="li"><svg width="26" height="14" aria-hidden="true"><rect x="1" y="2" width="24" height="10" rx="1" fill="none" stroke="var(--gap)" stroke-width="1.4" stroke-dasharray="5 4"></rect></svg><span>Rolle ohne Namen und ohne Datei</span></div>
+    <div class="li"><svg width="26" height="14" aria-hidden="true"><line x1="1" y1="7" x2="25" y2="7" stroke="var(--gap)" stroke-width="2" stroke-dasharray="7 6"></line></svg><span>Getrennte Verbindung</span></div>
+  </div>
+</figure>
+
+<section class="befunde">
+  <h2 class="sec">Was das Netz zeigt</h2>
+  <p class="sub">Drei Dinge, die in den einzelnen Figurendateien nicht sichtbar sind.</p>
+  <ul class="bef">
+    <li><span class="n">0</span><span><strong>Die Stränge teilen keine einzige Figur.</strong>
+      <span class="note">Zehn Jahre lang gibt es keinen Menschen, der beide Seiten kennt. Azzim wird die Brücke — und ausgerechnet er weiß nichts vom Ring, bis er im Norden liegt. Das trägt die Konstruktion, macht aber jede Parallelmontage zwischen den Strängen zu einer reinen Leserverbindung.</span></span></li>
+    <li><span class="n">4</span><span><strong>Vier Figuren im Netz haben keinen Namen.</strong>
+      <span class="note">Die Zieheltern tragen acht Jahre Nordstrang, der Neffe trägt den halben Wüstenstrang und verteidigt die Schlucht im Finale, das Kind ist der Grund, warum Girlin bleibt, und der Häuptling entscheidet über den Ringtransport. Vier tragende Rollen, null Zeilen Figurendatei.</span></span></li>
+    <li><span class="n">2</span><span><strong>Der ganze Wüstenstrang hat zwei Figurendateien.</strong>
+      <span class="note">Bellbrim und Azzim — und Azzims Datei besteht fast nur aus <code>???</code>. <code>Menschen/Wuestenvolk/Nebenfiguren/</code> ist leer. Der Norden hat für dieselbe Erzählmenge elf Dateien, von denen mehrere Figuren betreffen, die nur im Prolog auftreten.</span></span></li>
+  </ul>
+</section>
+
+<section class="gruppe">
+  <div class="gruppe-kopf"><h3>Im Netz</h3><span class="zahl">13 Figuren · 4 ohne Datei</span></div>
+  <p class="warum">Figuren mit Funktion in der laufenden Handlung. <strong>Alle 13 Wiki-Dateien stehen auf Status <code>???</code></strong> — keine einzige Figur gilt als in Arbeit oder final.</p>
+  <table class="tab">
+    <thead><tr><th>Figur</th><th>Zone</th><th>Funktion</th><th>Offen</th></tr></thead>
+    <tbody>
+      <tr><td>Tibun</td><td><span class="zone n">Norden</span></td><td>Perspektivfigur. Einziger Zeuge, baut zehn Jahre am Generator.</td><td class="cs"><span class="c">C-031</span></td></tr>
+      <tr><td>Girlin</td><td><span class="zone w">Wüste</span></td><td>Perspektivfigur. Will erst heim, entscheidet sich in +4 zu bleiben.</td><td class="cs"><span class="c">C-024</span><span class="c">C-025</span><span class="c">C-032</span></td></tr>
+      <tr><td>Semund</td><td><span class="zone n">Norden</span></td><td>Vater. Erklärt Girlin für tot, bindet sich rasch neu, duldet Tibun später.</td><td class="cs"><span class="c">C-045</span><span class="c">C-078</span></td></tr>
+      <tr><td>Truda</td><td><span class="zone n">Norden</span></td><td>Schwester. 9 beim Verschwinden, einzige Verbindung zum Weiler in +9/+10.</td><td class="cs"><span class="c">C-047</span><span class="c">C-077</span></td></tr>
+      <tr><td>Millia</td><td><span class="zone n">Norden</span></td><td>Girlins frühere Freundin, Semunds neue Partnerin.</td><td class="cs"><span class="c">C-046</span><span class="c">C-078</span></td></tr>
+      <tr><td>Wandernde Wala</td><td><span class="zone n">Norden</span></td><td>Erklärt den Sand zum Zeichen und die Stelle zum Tabu; lässt Tibun in +9 gewähren.</td><td class="cs"><span class="c">C-050</span></td></tr>
+      <tr class="ohne"><td>Die Zieheltern</td><td><span class="zone n">Norden</span></td><td>Kaupvik, Jahr +1 bis +9. Tibuns Bezugsperson nach dem Bruch mit dem Vater.</td><td class="cs"><span class="c">C-059</span></td></tr>
+      <tr><td>Bellbrim</td><td><span class="zone w">Wüste</span></td><td>Vandalin, mehrsprachig. Übersetzt, versteht als Erste den Ring, baut den Generator mit.</td><td class="cs"><span class="c">C-026</span><span class="c">C-027</span><span class="c">C-113</span></td></tr>
+      <tr><td>Azzim u-Tawan</td><td><span class="zone w">Wüste</span></td><td>Antagonist. Vier Auftritte, Motiv sind Menschen. Wird im Finale nach Jütland geworfen.</td><td class="cs"><span class="c">C-028</span><span class="c">C-029</span><span class="c">C-120</span></td></tr>
+      <tr class="ohne"><td>Der Neffe</td><td><span class="zone w">Wüste</span></td><td>Girlins Partner ab +3. Löst sich vom Clan, hält die vier am Leben, verteidigt die Schlucht.</td><td class="cs"><span class="c">C-105</span></td></tr>
+      <tr class="ohne"><td>Das dritte Kind</td><td><span class="zone w">Wüste</span></td><td>Geboren +4, im Finale 6. Der Grund, warum Girlin bleibt. Sieht Tibuns Ankunft.</td><td class="cs"><span class="c">C-081</span><span class="c">C-112</span></td></tr>
+      <tr class="ohne"><td>Der Häuptling</td><td><span class="zone w">Wüste</span></td><td>Onkel des Neffen. Der Clan holt den Ring aus Sippenpflicht ihm gegenüber.</td><td class="cs"><span class="c">C-061 ✓</span></td></tr>
+      <tr><td>Hadurik</td><td><span class="zone n">Norden</span></td><td>Häuptling von Tingsal. Datei vorhanden, aber ohne Auftritt im Plot.</td><td class="cs"><span class="c">C-009</span><span class="c">C-048</span></td></tr>
+    </tbody>
+  </table>
+</section>
+
+<section class="gruppe">
+  <div class="gruppe-kopf"><h3>Am Rand</h3><span class="zahl">6 Figuren</span></div>
+  <p class="warum">Figuren, die im Netz nicht hängen. <strong>Bei den ersten dreien ist dieselbe Frage offen: Treten sie nach dem Prolog noch auf?</strong> Wird sie verneint, sind ihre Steckbrief-Challenges erledigt statt auszufüllen.</p>
+  <table class="tab">
+    <thead><tr><th>Figur</th><th>Zone</th><th>Wo sie steht</th><th>Offen</th></tr></thead>
+    <tbody>
+      <tr><td>Frida</td><td><span class="zone n">Norden</span></td><td>Tibuns unerwiderte Jugendliebe im Prolog. Verlobt sich mit Herik — der Auslöser der Bernstein-Szene.</td><td class="cs"><span class="c">C-051</span><span class="c">C-069</span></td></tr>
+      <tr><td>Herik</td><td><span class="zone n">Norden</span></td><td>Fridas Verlobter, Hofsohn von auswärts, die bessere Partie.</td><td class="cs"><span class="c">C-052</span></td></tr>
+      <tr><td>Lanke</td><td><span class="zone n">Norden</span></td><td>Heriks Vater. Reine Funktionsfigur des Prologs.</td><td class="cs"><span class="c">C-053</span></td></tr>
+      <tr><td>Wala von Tingsal</td><td><span class="zone n">Norden</span></td><td>Sesshafte Seherin, Zwillingsschwester der wandernden. Bisher ohne Szene.</td><td class="cs"><span class="c">C-049</span></td></tr>
+      <tr class="ohne"><td>Die Gruppe der Zwischenstation</td><td><span class="zone n">Norden</span></td><td>Jahr +1. Bei ihr lernt Tibun, ohne Sippe zu überleben — und zu schweigen.</td><td class="cs"><span class="c">C-124</span></td></tr>
+      <tr class="ohne"><td>Die frühere Frau des Neffen</td><td><span class="zone w">Wüste</span></td><td>Brennt vor Girlins Ankunft mit einem anderen durch. Nie auf der Bühne, aber Voraussetzung der Beziehung.</td><td class="cs"><span class="c">C-106</span></td></tr>
+    </tbody>
+  </table>
+</section>
+
+<footer>
+  Quellen: <code>Menschen/</code> (13 Figurendateien), <code>Plots/Plot-1/Zeitleiste.md</code>, <code>Plots/Plot-1/Kapitelstruktur.md</code>, <code>Notizen/Challenges.md</code> · Stand 04.09.2026.<br>
+  Girlins <strong>drei verstorbene Kinder</strong> (C-097 ✓) und die <strong>Kel Aman als Volk</strong> stehen nicht im Netz — sie sind Hintergrund, keine handelnden Figuren.<br>
+  Die Einteilung in „im Netz" und „am Rand" ist eine Lesehilfe dieser Seite und steht nicht im Wiki — sie legt nichts fest.
+</footer>
+
+</div>
