@@ -1,0 +1,38 @@
+#!/usr/bin/env python3
+"""Prueft Notizen/Challenges.md gegen sich selbst.
+
+Challenges.md ist eine reine Arbeitsdatei des Autors -- das Wiki und die
+Schaubilder haengen nicht daran (Regeln.md, "Verwiesen wird nur in eine
+Richtung"). Dieses Skript prueft nur die Datei selbst:
+
+  - jeder Detailtitel traegt genau einen Statusmarker am Ende (sonst bricht
+    sein Anker, siehe Regeln.md)
+  - Marker und Uebersicht sagen dasselbe
+  - kein Eintrag steht im Detailteil, ohne in der Uebersicht zu stehen
+
+Aufruf aus dem Wurzelverzeichnis:  python3 tools/pruefe_challenges.py
+"""
+
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import wiki
+from wiki import lies_challenges, pruefe_marker
+
+
+def main():
+    if not wiki.CHALLENGES.exists():
+        print("%s gibt es nicht -- nichts zu pruefen." % wiki.CHALLENGES.name)
+        return
+    ch = lies_challenges()
+    offen = sum(1 for d in ch.values() if not d["geloest"])
+    print("%d Challenges (%d offen / %d entschieden)" % (len(ch), offen, len(ch) - offen))
+    warnungen = pruefe_marker(ch)
+    for w in warnungen:
+        print("  Hinweis: " + w)
+    print("keine Abweichung" if not warnungen else "%d Abweichungen" % len(warnungen))
+
+
+if __name__ == "__main__":
+    main()

@@ -2,7 +2,7 @@
 
 Kosmologie, Geographie, übergreifende Weltregeln.
 
-**Epoche: 550 n.Chr. (Vendelzeit)** — C-001 entschieden.
+**Epoche: 550 n.Chr. (Vendelzeit)** — entschieden.
 
 ---
 
@@ -11,7 +11,7 @@ Kosmologie, Geographie, übergreifende Weltregeln.
 Das [Ringsystem](../Technik/Portalringe.md) ist nicht statisch, sondern folgt einem **zyklischen Rhythmus** über Jahrtausende. Dieser Kreislauf ist der namensgebende Kern der Welt: *Annular* = ringförmig. Die Geschichte der Menschheit dreht sich wie ein Reif, ohne Anfang und Ende.
 
 **Der Zyklus:**
-1. **Erwachen** — Das System aktiviert sich weltweit gleichzeitig (spürbar als globales [Beben](../Notizen/Challenges.md), C-008).
+1. **Erwachen** — Das System aktiviert sich weltweit gleichzeitig (spürbar als globales Beben).
 2. **Aufstieg** — Die Menschheit entdeckt die Ringe neu, lernt ihren Gebrauch, gewöhnt sich an sie: Handelsreisen, Postsystem. Über Jahrhunderte bis Jahrtausende wächst eine Kultur, die auf dem Ringnetz beruht.
 3. **Zusammenbruch** — Das System erlischt. Die abhängige Kultur muss ohne die Ringe zurechtkommen.
 4. **Vergessen** — Über Jahrtausende der Stille geraten die Ringe in Vergessenheit.
@@ -30,7 +30,7 @@ Wichtig für die Konsistenz — was die Menschheit über die Ringe weiß, ist ge
 | **Bedienung** (Aktivierung, Runenkopplung, Reisen, Post) | Wird in jedem aktiven Zyklus **neu erlernt** |
 | **Material, Erbauer, ursprünglicher Zweck** | **Für immer unauffindbar** — in *jedem* Zyklus, auch in Hochkulturphasen |
 
-Die Erbauer liegen vor aller überlieferbaren Zeit. Keine Kultur dringt je zu Herkunft, Wesen oder Entwurfsgedanken vor. Das Material ist nicht analysierbar und nicht reproduzierbar (C-004). So nutzt jede Kultur den *Gebrauch*, ohne das *Wesen* zu verstehen.
+Die Erbauer liegen vor aller überlieferbaren Zeit. Keine Kultur dringt je zu Herkunft, Wesen oder Entwurfsgedanken vor. Das Material ist nicht analysierbar und nicht reproduzierbar. So nutzt jede Kultur den *Gebrauch*, ohne das *Wesen* zu verstehen.
 
 ---
 
@@ -43,5 +43,5 @@ Die Erbauer liegen vor aller überlieferbaren Zeit. Keine Kultur dringt je zu He
 
 ## Offen (Autorenebene, nicht zwingend im Text)
 
-- **Kreis oder Spirale?** → **???** ([C-011](../Notizen/Challenges.md))
-- **Ursache** von Erwachen und Zusammenbruch → **???** — feste Periode, ausgelöst, oder grundsätzlich unergründlich? ([C-019](../Notizen/Challenges.md))
+- **Kreis oder Spirale?** → **???**
+- **Ursache** von Erwachen und Zusammenbruch → **???** — feste Periode, ausgelöst, oder grundsätzlich unergründlich?

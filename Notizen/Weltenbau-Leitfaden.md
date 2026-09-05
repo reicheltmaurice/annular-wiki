@@ -64,25 +64,25 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 - [x] Grundabweichung: die Portalringe. Sauber definiert und diszipliniert eingehalten.
 - [x] Folgekette: für die Ringe gezogen.
 - [x] Absage: keine Erbauer-Auflösung, keine Götternamen, keine Technik außerhalb der Epoche.
-- [x] **Ton in einem Satz** — entschieden 31.08.2026, [C-086](Challenges.md#c-086-ton-in-einem-satz-): *Zwei Menschen, getrennt durch ein Wunder, das niemand erklären kann — zehn Jahre Suche in einer harten Welt, hell im Ausgang.* Steht in [Plots/Plot-1/README.md](../Plots/Plot-1/README.md).
+- [x] **Ton in einem Satz** — entschieden 31.08.2026: *Zwei Menschen, getrennt durch ein Wunder, das niemand erklären kann — zehn Jahre Suche in einer harten Welt, hell im Ausgang.* Steht in [Plots/Plot-1/README.md](../Plots/Plot-1/README.md).
 
 ### Schicht 1 — Der Rahmen
 - [x] Kosmologie, Zyklus, Wissensebenen.
 - [x] Nordgeografie mit realen Ankern und Tagesmärschen.
-- [x] **Wo liegt die Wüste?** Entschieden 31.08.2026: **Fezzan / Garamanten** ([C-088](Challenges.md#c-088-verortung-der-wüste-)). Damit ist die zweite Abweichung von der Realität beseitigt.
-- [~] **Zeitrechnung im Text.** Norden entschieden 31.08.2026: **gezählt wird in Wintern** ([C-087](Challenges.md#c-087-zeitrechnung-im-erzähltext-)). Offen bleiben Girlins Maß in der Wüste und die Zählmarke innerhalb des Jahres.
+- [x] **Wo liegt die Wüste?** Entschieden 31.08.2026: **Fezzan / Garamanten**. Damit ist die zweite Abweichung von der Realität beseitigt.
+- [~] **Zeitrechnung im Text.** Norden entschieden 31.08.2026: **gezählt wird in Wintern**. Offen bleiben Girlins Maß in der Wüste und die Zählmarke innerhalb des Jahres.
 - [ ] **Jahreszeiten als Taktgeber.** Im Norden bestimmt der Winter alles: Schafe, Vorräte, Reisen, Tod. Bisher spielt Wetter nur im Prolog eine Rolle.
 
 ### Schicht 2 — Das Leben
 - [x] Nordvolk-Religion (Epitheta-Prinzip — die stärkste Einzelentscheidung im Wiki).
 - [x] Skirraa: Höfe, Herde, Wolle, Unfreie.
-- [ ] **Namensmuster Nordvolk** → [C-092](Challenges.md#c-092-namenssystem-des-nordvolks-). Tibun, Girlin, Truda, Semund, Millia, Hadurik, Frida, Herik, Lanke folgen keinem erkennbaren System. Germanische Namen der Epoche sind überwiegend zweigliedrig (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen. Entweder du legst ein Bildungsmuster fest, oder du erklärst die Namen ausdrücklich zur bewussten Ausnahme vom Authentizitätsprinzip. Beides ist vertretbar — nur unentschieden bleiben ist es nicht.
-- [x] **Kel-Aman-Namen:** entschieden 31.08.2026 ([C-090](Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)) — libysch-berberisches Muster, Volksname **Kel Aman**, alle Altnamen im Wiki umbenannt.
+- [ ] **Namensmuster Nordvolk**. Tibun, Girlin, Truda, Semund, Millia, Hadurik, Frida, Herik, Lanke folgen keinem erkennbaren System. Germanische Namen der Epoche sind überwiegend zweigliedrig (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen. Entweder du legst ein Bildungsmuster fest, oder du erklärst die Namen ausdrücklich zur bewussten Ausnahme vom Authentizitätsprinzip. Beides ist vertretbar — nur unentschieden bleiben ist es nicht.
+- [x] **Kel-Aman-Namen:** entschieden 31.08.2026 — libysch-berberisches Muster, Volksname **Kel Aman**, alle Altnamen im Wiki umbenannt.
 - [ ] **Alltag im Norden:** Was isst man im Februar? Wie wird geheizt? Wie oft isst man Fleisch?
-- [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet ([C-097 ✓](Challenges.md#c-097-girlins-kinderfolge--die-neun-jahre-lücke-)): Girlin und Semund haben **drei Kinder verloren**, das letzte kurz vor ihrem Verschwinden — Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. **Offen:** wer bei der Geburt des Wüstenkindes hilft (Jahr +4), und was bei einer Wunde geschieht.
+- [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet: Girlin und Semund haben **drei Kinder verloren**, das letzte kurz vor ihrem Verschwinden — Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. **Offen:** wer bei der Geburt des Wüstenkindes hilft (Jahr +4), und was bei einer Wunde geschieht.
 
 ### Schicht 3 — Die Ordnung ← **größte Lücke**
-- [~] **Recht.** Der Erbfall Girlin ist vollständig geklärt ([C-095](Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-)): Die **Wala** erklärt sie für tot, Semund darf nach **einem Winter** neu binden, **Truda** erbt das Kleingut, **Millia** übernimmt Webstuhl und Herd, **Tibun** nimmt sich den Webkamm. Offen bleibt nur, was gilt, wenn eine für tot Erklärte **zurückkommt** — gehört ans Finale. Das Thing als **Verfahren** fehlt weiter.
+- [~] **Recht.** Der Erbfall Girlin ist vollständig geklärt: Die **Wala** erklärt sie für tot, Semund darf nach **einem Winter** neu binden, **Truda** erbt das Kleingut, **Millia** übernimmt Webstuhl und Herd, **Tibun** nimmt sich den Webkamm. Offen bleibt nur, was gilt, wenn eine für tot Erklärte **zurückkommt** — gehört ans Finale. Das Thing als **Verfahren** fehlt weiter.
 - [ ] **Wirtschaft und Preise.** Was ist ein Ballen Wolle wert? Wovon lebt Tibun acht Jahre unterwegs?
 - [ ] **Wie überlebt ein 17-Jähriger allein auf dem Ochsenweg?** Ohne Sippe ist er in dieser Epoche weitgehend schutzlos. Er braucht einen sozialen Mechanismus: Gastrecht, Anschluss an einen Händlerzug, Dienstverhältnis, Gefolgschaft. Ohne den bricht die Wanderschaft die Authentizitätsregel härter als jeder falsche Gegenstand.
 - [ ] **Gewalt.** Wer trägt Waffen, wer darf töten, was kostet ein Totschlag?
@@ -104,9 +104,9 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 Diese Schicht ist neu und für Annular die wichtigste. Der Ring ist bislang als **Gerät** durchdacht,
 noch nicht als **Ereignis in einer Gesellschaft**.
 
-- [x] **Der Ring frisst eine Frau vor Zeugen. Was tut das Dorf?** Entschieden 31.08.2026 ([C-094](Challenges.md#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-)): Die wandernde Wala erklärt den Sand zum Zeichen der Götter, Girlin für tot und die Stelle zum Tabu — **gemieden aus Todesangst, nicht bewacht**. Genau deshalb kann Tibun dort zehn Winter arbeiten, und jeder Gang dorthin ist ein Tabubruch.
+- [x] **Der Ring frisst eine Frau vor Zeugen. Was tut das Dorf?** Entschieden 31.08.2026: Die wandernde Wala erklärt den Sand zum Zeichen der Götter, Girlin für tot und die Stelle zum Tabu — **gemieden aus Todesangst, nicht bewacht**. Genau deshalb kann Tibun dort zehn Winter arbeiten, und jeder Gang dorthin ist ein Tabubruch.
 - [ ] **Wer will den Ring außer Tibun?** Der Häuptling in Tingsal? Die Wala? Ein Nachbarweiler? Ein Ding, das Menschen verschwinden lässt, ist der wichtigste Gegenstand der Region. Der Kampf darum fehlt — und er wäre besseres Material als der Antagonist, den du hast.
-- [x] **Die Sandmulde ist ein sichtbares Wunder.** Widerspruch aufgelöst 31.08.2026 ([C-094](Challenges.md#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-)): Das Dorf glaubt das **Ereignis** — nur nicht Tibuns **Deutung**. Der Sand beweist ein Wunder, nicht dass Girlin lebt.
+- [x] **Die Sandmulde ist ein sichtbares Wunder.** Widerspruch aufgelöst 31.08.2026: Das Dorf glaubt das **Ereignis** — nur nicht Tibuns **Deutung**. Der Sand beweist ein Wunder, nicht dass Girlin lebt.
 - [ ] **Und umgekehrt:** In der Wüste erscheint gleichzeitig eine Halbkugel jütisches Erdreich — Torf, Heidekraut, kaltes Wasser. Vermutlich der eigentliche Grund, warum die Kel Aman überhaupt zur Fundstelle kommen und Girlin finden.
 - [ ] **Der Ring liegt an einem Bach.** Damit wird bei jeder Zündung Wasser mitgetauscht — die Tauschkugel fasst gefüllt rund 14 Kubikmeter. In einer Wüste ist ein wiederholbarer Übergang, der Wasser liefert, das Wertvollste, was überhaupt denkbar ist. Sobald Tibun am Ende zuverlässig zünden kann, existiert eine Wasserbrücke nach Süden. Das ist die größte ungenutzte Konsequenz deiner eigenen Mechanik — und ein deutlich größeres Motiv für einen Antagonisten als Sklavenhandel.
 
@@ -117,16 +117,16 @@ noch nicht als **Ereignis in einer Gesellschaft**.
 Dein Authentizitätsprinzip lautet: *einzige Abweichung sind die Portalringe, alles andere folgt dem
 historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält es **nicht** ein.
 
-**Stand 31.08.2026: Der Kernvorwurf ist erledigt.** Ort ([C-088](Challenges.md#c-088-verortung-der-wüste-)), Sprachfamilie und Namen ([C-090](Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)) und Bewaffnung ([C-091](Challenges.md#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)) sind entschieden. Offen bleiben Religion, Bräuche und Orte — die Punkte unten gelten weiter.
+**Stand 31.08.2026: Der Kernvorwurf ist erledigt.** Ort, Sprachfamilie und Namen und Bewaffnung sind entschieden. Offen bleiben Religion, Bräuche und Orte — die Punkte unten gelten weiter.
 
 - [ ] **Wo liegt die Wüste? ???** Ohne diese Entscheidung ist keine Kulturarbeit im Süden möglich. Ernsthafte Kandidaten für 550 n.Chr.:
   - **Sahara / Fezzan** — die Garamanten: reale Wüstenkultur mit Fernhandel und Bewässerungstunneln, in dieser Zeit im Niedergang. Passt zur "vergessenen Hochkultur"-Stimmung.
   - **Arabische Halbinsel** — dicht belegt, Kamelnomaden, Karawanenhandel, eine Generation vor dem Islam.
   - **Syrische Wüste** — Randzone von Byzanz. Vorteil: Es gibt dort Menschen, die Griechisch oder Latein können, also einen **historisch plausiblen Sprachweg** zu einer Germanin.
   - **Zentralasien / Sogdien** — die Vermittlerkultur schlechthin, mehrsprachige Fernhändler. Löst Bellbrim fast von selbst.
-- [x] **Krummsäbel gestrichen** (31.08.2026, [C-091](Challenges.md#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)): gerade Klingen, Speere, Bogen. (Kamele in der Sahara sind unproblematisch — zu dieser Zeit längst etabliert.)
-- [~] **Sprache.** Grundhaltung entschieden ([C-025](Challenges.md#c-025-girlin--charakter--fähigkeiten-)): **Girlin lernt aktiv** — keine Verweigerung, sie arbeitet an ihrer Lage. Bellbrims Vandalisch ist mit ihrer Sprache verwandt, aber nicht gleich ([C-026](Challenges.md#c-026-bellbrim--historische-plausibilität--herkunft-)), die Barriere bleibt also erhalten. **Offen:** wie lange sie sprachlos bleibt und was das mit ihr macht — vom Autor vertagt, bis der Plot steht.
-- [x] **Girlin.** Steht seit 31.08.2026 ([C-024](Challenges.md#c-024-girlin--herkunft--vorgeschichte-), [C-025](Challenges.md#c-025-girlin--charakter--fähigkeiten-), [C-096](Challenges.md#c-096-korrektur--girlins-alter-)): zugezogen aus einem Nachbarweiler, Wolle und Weben, 34 beim Verschwinden. **Ihr Wille gilt ihren Kindern, nicht einem Ort** — sie will nicht heim, sie will sie erreichen und dann in der Wüste bleiben. Daraus fällt der Kernkonflikt des Finales von selbst.
+- [x] **Krummsäbel gestrichen** (31.08.2026): gerade Klingen, Speere, Bogen. (Kamele in der Sahara sind unproblematisch — zu dieser Zeit längst etabliert.)
+- [~] **Sprache.** Grundhaltung entschieden: **Girlin lernt aktiv** — keine Verweigerung, sie arbeitet an ihrer Lage. Bellbrims Vandalisch ist mit ihrer Sprache verwandt, aber nicht gleich, die Barriere bleibt also erhalten. **Offen:** wie lange sie sprachlos bleibt und was das mit ihr macht — vom Autor vertagt, bis der Plot steht.
+- [x] **Girlin.** Steht seit 31.08.2026: zugezogen aus einem Nachbarweiler, Wolle und Weben, 34 beim Verschwinden. **Ihr Wille gilt ihren Kindern, nicht einem Ort** — sie will nicht heim, sie will sie erreichen und dann in der Wüste bleiben. Daraus fällt der Kernkonflikt des Finales von selbst.
 - [ ] **Azzim u-Tawan.** Rein einseitiger Gegenspieler. Deine eigene Regel verlangt Konflikte, bei denen man beide Seiten versteht. Gib ihm ein Motiv, das man nachvollziehen kann — Wasser, Schutz seiner Leute, Angst vor dem Ring.
 - [~] **Ablage:** `Kulturen/Kel-Aman/README.md` ist neu geschrieben (Verortung, Bewaffnung, offene Punkte). Die inhaltliche Überschneidung von `allgemein.md`, `Karawanen.md` und `Kel-Aman.md` in `Menschen/Wuestenvolk/` besteht weiter.
 
@@ -141,7 +141,7 @@ Nicht "sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die i
 - [ ] **3 · Bruchtest.** Bereits bestanden: Die Ringmechanik erzeugt Folgen, die du nicht geplant hattest (wandernde Mulde, Kopffreiheit).
 - [ ] **4 · Ortstest.** Für die Nordorte bestanden. Für die Wüste noch nicht — dort gibt es keine Orte.
 - [ ] **5 · Konflikttest.** Drei Konflikte, bei denen beide Seiten verständlich sind. Semund gegen Tibun trägt bereits. Azzim noch nicht. Ein dritter fehlt.
-- [~] **6 · Namenstest.** Für den Süden **bestanden** ([C-090](Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)). Für den Norden liegt das Muster als Vorschlag vor und wartet auf Bestätigung → [C-092](Challenges.md#c-092-namenssystem-des-nordvolks-).
+- [~] **6 · Namenstest.** Für den Süden **bestanden**. Für den Norden liegt das Muster als Vorschlag vor und wartet auf Bestätigung.
 - [ ] **7 · Überraschungstest.** Bestanden, für die Technik. Für die Gesellschaften noch offen.
 
 ---
@@ -214,9 +214,9 @@ Es sind Entscheidungen, keine Recherchen. Neun Sitzungen genügen:
 |---|---|
 | 1 | Challenges nur nach A/B/C sortieren — nicht beantworten |
 | 3–4 | **Wo liegt die Wüste?** Der einzige Punkt, der wirklich Lesen erfordert |
-| ~~1~~ | ~~Der Sand an der Skir~~ — erledigt 31.08.2026 ([C-094](Challenges.md#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-)) |
-| ~~1~~ | ~~Semunds Wiederheirat~~ — Grundlage steht ([C-095](Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-)), nur noch Frist und Beurkundung offen |
-| ~~2~~ | ~~Girlin: Herkunft und Charakter~~ — erledigt 31.08.2026 ([C-024](Challenges.md#c-024-girlin--herkunft--vorgeschichte-)/[C-025](Challenges.md#c-025-girlin--charakter--fähigkeiten-)) |
+| ~~1~~ | ~~Der Sand an der Skir~~ — erledigt 31.08.2026 |
+| ~~1~~ | ~~Semunds Wiederheirat~~ — Grundlage steht, nur noch Frist und Beurkundung offen |
+| ~~2~~ | ~~Girlin: Herkunft und Charakter~~ — erledigt 31.08.2026 |
 
 Dazu ab sofort ein **fester Termin, wöchentlich, gleicher Tag, gleiche Uhrzeit.**
 
@@ -295,4 +295,4 @@ in diesem Plan, an der Zurückgezogenheit echten Fortschritt kostet.
 
 | Datum | Std. | Woran gearbeitet |
 |---|---|---|
-| 31.08.2026 | ??? | Schicht 0 abgeschlossen (Ton, C-086). Wüste verortet: Fezzan/Garamanten (C-088), Bellbrim als Vandalin (C-026). Namenssysteme für beide Völker (C-090, C-092), sechs Figuren umbenannt. Sand an der Skir und das Wala-Tabu (C-094). Erbrecht und Wiederheirat (C-095). Girlin: Herkunft, Charakter, Alterskorrektur, Kinderfolge (C-024, C-025, C-096, C-097). **Alle vier A-Entscheidungen getroffen.** |
+| 31.08.2026 | ??? | Schicht 0 abgeschlossen (Ton). Wüste verortet: Fezzan/Garamanten, Bellbrim als Vandalin. Namenssysteme für beide Völker, sechs Figuren umbenannt. Sand an der Skir und das Wala-Tabu. Erbrecht und Wiederheirat. Girlin: Herkunft, Charakter, Alterskorrektur, Kinderfolge. **Alle vier A-Entscheidungen getroffen.** |

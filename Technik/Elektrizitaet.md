@@ -27,5 +27,5 @@ Die elektrische Ladung ist nur der **Auslöser** der Aktivierung, nicht ihre Ene
 
 ## Was nicht vorkommt
 
-- **Van-de-Graaff-Generator:** verworfen ([C-005](../Notizen/Challenges.md)) — historisch nicht plausibel für Tibun. Ersatz ist das rotierende Bernsteinrad ([Generator](Tibuns-Generator.md)).
+- **Van-de-Graaff-Generator:** verworfen — historisch nicht plausibel für Tibun. Ersatz ist das rotierende Bernsteinrad ([Generator](Tibuns-Generator.md)).
 - **Leidener Flasche / Kondensator:** verworfen (Anachronismus, Prinzip erst 1745). Statt eines gebauten Speichers dient der Ringkörper selbst als natürlicher Speicher.

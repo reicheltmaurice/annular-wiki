@@ -14,9 +14,9 @@ Handelssiedlung und Hafen an der Schlei. Der Name bedeutet „Handelsbucht".
 - Von [Skirraa](Skirraa.md) trennen es **rund 14 Tagesmärsche** (gut zwei Wochen) auf dem **direkten Weg** über den Heerweg (Ochsenweg) — die Strecke, die Tibun beim **Rückweg** nimmt. Hin- und Reiseverlauf: **???** Er kommt als völliger Fremder an; niemand kennt Skirraa.
 
 ## Bedeutung für die Geschichte
-- **Endpunkt und Wendepunkt** von Tibuns Reise (siehe [C-022](../Notizen/Challenges.md)): der weiteste Punkt — von hier kehrt er **direkt nach Skirraa zurück**, um den Generator zu bauen. Der genaue Reiseverlauf bis hierher: **???**
+- **Endpunkt und Wendepunkt** von Tibuns Reise: der weiteste Punkt — von hier kehrt er **direkt nach Skirraa zurück**, um den Generator zu bauen. Der genaue Reiseverlauf bis hierher: **???**
 - Was er auf der Reise sucht: Bernstein, bessere Mechanik **und** Wissen über den Portalring — getrieben von der Suche nach seiner verschwundenen Mutter (siehe [Zeitleiste](../Plots/Plot-1/Zeitleiste.md))
-- Schauplatz seines Erkenntnismoments am Hafen (Bootsziehwinde, siehe [C-002](../Notizen/Challenges.md)) — der Auslöser für den Generatorbau
+- Schauplatz seines Erkenntnismoments am Hafen (Bootsziehwinde) — der Auslöser für den Generatorbau
 
 ## Authentizität
 - Boote kommen um 550 **ohne Segel** an — reine Ruderfahrt entlang der Küste. Das begrenzt Reichweite und Frachtmenge des Fernhandels.

@@ -24,7 +24,7 @@ def fehler(text):
 
 SZENE = re.compile(
     r"^### (?P<nr>\d+) · (?P<titel>.+?)\n"
-    r"\n> \*\*POV:\*\* (?P<pov>\S+) · \*\*Jahr (?P<jahr>[+\d]+)\*\* · \*\*Challenges:\*\* (?P<ch>.+?)\n"
+    r"\n> \*\*POV:\*\* (?P<pov>\S+) · \*\*Jahr (?P<jahr>[+\d]+)\*\* · \*\*Offen:\*\* (?P<offen>.+?)\n"
     r"\n(?P<satz>.+?)\n"
     r"\n- \*\*Will:\*\* (?P<will>.+?)\n"
     r"- \*\*Hindernis:\*\* (?P<hindernis>.+?)\n"
@@ -56,7 +56,12 @@ def lies_szenen(md):
         s["jahr_zahl"] = int(s["jahr"].lstrip("+"))
         if s["pov"] not in ("Tibun", "Girlin"):
             fehler("unbekannter POV %r in Szene %d" % (s["pov"], i))
-        s["cs"] = [int(n) for n in re.findall(r"C-(\d{3})", s["ch"])]
+        # "Offen" nennt die Sachen im Klartext, "—" heisst: nichts offen.
+        # Seit 05.09.2026 stehen hier keine C-Nummern mehr -- die Szenenliste
+        # haengt damit nicht mehr an Challenges.md.
+        s["punkte"] = [] if s["offen"].strip() == "—" else [
+            x.strip() for x in s["offen"].split(" · ") if x.strip()
+        ]
 
     titel = [s["titel"] for s in szenen]
     doppelt = {t for t in titel if titel.count(t) > 1}
@@ -106,7 +111,10 @@ def kennzahlen(szenen):
     ohne_h = [s for s in szenen if offen(s["hindernis"])]
     zustand = [s for s in ohne_h if offen(s["will"])]
     kein_w = [s for s in szenen if keins(s["hindernis"])]
+    punkte = {p for s in szenen for p in s["punkte"]}       # verschiedene offene Sachen
+    ohne_p = [s for s in szenen if not s["punkte"]]
     return {
+        "PUNKTE": len(punkte), "OHNE_PUNKT": len(ohne_p),
         "N": len(szenen),
         "T": sum(1 for s in szenen if s["pov"] == "Tibun"),
         "G": sum(1 for s in szenen if s["pov"] == "Girlin"),
@@ -128,6 +136,12 @@ def lies_challenges():
     Detailtitel -- so festgelegt in C-137. Ein Marker im Titel wuerde ausserdem
     den Anker aendern und bestehende Links brechen.
     """
+    if not CHALLENGES.exists():
+        # Challenges.md ist ein Werkzeug des Autors, kein Wiki-Bestandteil -- fehlt
+        # sie, laufen die Generatoren ohne Titel und ohne Statusabgleich weiter.
+        sys.stderr.write("Hinweis: %s fehlt -- Challenge-Titel und Statusabgleich "
+                         "entfallen.\n" % CHALLENGES.name)
+        return {}
     c = CHALLENGES.read_text(encoding="utf-8")
     if "## Alle Challenges nach Nummer" not in c:
         fehler("Challenges.md: Abschnitt 'Alle Challenges nach Nummer' fehlt")
@@ -196,22 +210,13 @@ def anker(ueberschrift):
     return t.replace(" ", "-")
 
 
-def pruefe_status(szenen, challenges):
-    """Meldet Unstimmigkeiten rund um den Challenge-Status. Bricht nicht ab."""
+def pruefe_marker(challenges):
+    """Prueft Challenges.md gegen sich selbst: Marker am Titel vs. Uebersicht.
+
+    Reine Hygiene der Arbeitsdatei -- die Schaubilder haengen nicht daran.
+    Bricht nicht ab, sondern meldet.
+    """
     warnungen = []
-    for s in szenen:
-        for nr in s["cs"]:
-            if nr not in challenges:
-                warnungen.append("Szene %d (%s) nennt C-%03d -- gibt es nicht" % (s["pos"], s["titel"], nr))
-                continue
-            hat_haken = ("C-%03d ✓" % nr) in s["ch"]
-            if hat_haken != challenges[nr]["geloest"]:
-                warnungen.append(
-                    "Szene %d (%s): C-%03d steht als %s, laut Challenges-Uebersicht ist es %s"
-                    % (s["pos"], s["titel"], nr,
-                       "gelöst" if hat_haken else "offen",
-                       "gelöst" if challenges[nr]["geloest"] else "offen")
-                )
     for nr, d in sorted(challenges.items()):
         passt = d["marker"] in ("✓", "✗") if d["geloest"] else d["marker"] == "○"
         if not passt:
@@ -219,6 +224,8 @@ def pruefe_status(szenen, challenges):
                 "C-%03d: Uebersicht sagt %s, der Detailtitel trägt %s"
                 % (nr, "gelöst" if d["geloest"] else "offen", d["marker"])
             )
+        if not d["gelistet"]:
+            warnungen.append("C-%03d: steht im Detailteil, fehlt aber in der Uebersicht" % nr)
     return warnungen
 
 

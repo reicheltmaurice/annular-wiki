@@ -2,7 +2,7 @@
 
 *„Die Leute des Wassers" — berberisch `kel` „die von…" + `aman` „Wasser".*
 
-> **Achtung — der Rest dieser Seite stammt aus der Zeit vor der Verortung.** Seit [C-088 ✓](../../Notizen/Challenges.md#c-088-verortung-der-wüste-) liegt die Wüste im **Fezzan** (Garamanten, zentrale Sahara), seit [C-090 ✓](../../Notizen/Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-) heißt das Volk **Kel Aman** und die Namen folgen einem libysch-berberischen Muster. Alles Übrige hier ist daran noch zu prüfen — insbesondere Religion und Bräuche ([C-003](../../Notizen/Challenges.md#c-003-kel-aman--kulturelle-tiefe-)). Neuer Stand: [Kulturen/Kel Aman](../../Kulturen/Kel-Aman/README.md).
+> **Achtung — der Rest dieser Seite stammt aus der Zeit vor der Verortung.** Seit der Verortung liegt die Wüste im **Fezzan** (Garamanten, zentrale Sahara), seit der Namensentscheidung heißt das Volk **Kel Aman** und die Namen folgen einem libysch-berberischen Muster. Alles Übrige hier ist daran noch zu prüfen — insbesondere Religion und Bräuche. Neuer Stand: [Kulturen/Kel Aman](../../Kulturen/Kel-Aman/README.md).
 
 ---
 
@@ -10,7 +10,7 @@
 
 - **Eigenname:** **Kel Aman** — „die Leute des Wassers“. Kein Schmuckname: Das Volk lebt von den **Foggara**, unterirdischen Bewässerungstunneln. Wer das Wasser hält, hält alles.
 - **Fremdbezeichnung:** Von Sesshaften und Händlern schlicht „die Wüstenleute“.
-- **Einzahl:** ein *Amani* / eine *Tamanit* (weibliche Form nach dem `t…t`-Muster, [C-090 ✓](../../Notizen/Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)) · **???** — vom Autor zu bestätigen.
+- **Einzahl:** ein *Amani* / eine *Tamanit* (weibliche Form nach dem `t…t`-Muster) · **???** — vom Autor zu bestätigen.
 
 ---
 
@@ -53,7 +53,7 @@
 ### 4. Karawanenstruktur
 
 - Familienbasiert: Mehrere Familien ziehen gemeinsam, jede mit 10–20 Kamelen.
-- Schutz: Bewaffnete „Sturmwächter“ laufen seitlich der Karawane mit **Speeren, Wurfspießen und geraden, einschneidigen Klingen**; dazu Bogen und leichte Reiter. Krummsäbel gestrichen — für 550 zu früh ([C-091 ✓](../../Notizen/Challenges.md#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)).
+- Schutz: Bewaffnete „Sturmwächter“ laufen seitlich der Karawane mit **Speeren, Wurfspießen und geraden, einschneidigen Klingen**; dazu Bogen und leichte Reiter. Krummsäbel gestrichen — für 550 zu früh.
 - Tempo: 30–40 km am Tag, streng nach Sternbildern navigiert.
 
 ---
@@ -66,7 +66,6 @@
   - Frauen: **Timrat**, **Tamellat**, *Tazerit* (umklammerndes `t`)
   - Abstammung statt Familienname: `u-` „Sohn des“, `ult-` „Tochter des“ — z. B. *Masin u-Gulan*
   - Gruppen: `Kel-` „die von…“ — z. B. *Kel Garama*
-  - Vollständig: [C-090 ✓](../../Notizen/Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)
 
 ---
 
@@ -85,5 +84,5 @@
 - Girlin könnte von den Kel Aman gerettet werden, nachdem sie durch den Ring in der Wüste landet.
 - Die Kel Aman könnten den Ring für heilig halten wegen seiner grünen Runen → Konflikt, ob er transportiert oder angebetet wird.
 - Azzim u-Tawan könnte ein abtrünniger Kel Aman sein, der ihre Bräuche verraten hat.
-- **Nicht mehr gültig:** Der Ring darf niemals Azzims Motiv sein — er weiß bis zum Ende nichts von ihm ([C-089](../../Notizen/Challenges.md#c-089-azzim--verhältnis-zum-ring-harte-regel-)).
+- **Nicht mehr gültig:** Der Ring darf niemals Azzims Motiv sein — er weiß bis zum Ende nichts von ihm.
 - Bellbrim könnte später von Kel-Aman-Wissen profitieren (alte Sternkarten, verborgene Wasserstellen).

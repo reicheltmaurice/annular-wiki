@@ -18,7 +18,7 @@ Regionales Zentrum des Nordvolks. Name aus *ting* (Thing/Versammlung) + *sal* (H
 - Die wandernde Wala (Zwillingsschwester) zieht durchs Hinterland und kommt gelegentlich nach Skirraa
 
 ## Offen
-- **???** — Ausarbeitung der Halle und des Thinggeschehens (siehe [C-054](../Notizen/Challenges.md))
+- **???** — Ausarbeitung der Halle und des Thinggeschehens
 
 ---
 

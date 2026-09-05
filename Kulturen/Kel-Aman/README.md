@@ -4,7 +4,7 @@ Nomadisches Wüstenvolk im Wüstenstrang von [Plot 1](../../Plots/Plot-1/README.
 
 ## Verortung
 
-**Entschieden ([C-088](../../Notizen/Challenges.md#c-088-verortung-der-wüste-)): der [Fezzan](https://de.wikipedia.org/wiki/Fessan)** — Kernland der **Garamanten** in der zentralen Sahara (heute Südwest-Libyen), um 550 n.Chr. eine Hochkultur im Niedergang.
+**Entschieden: der [Fezzan](https://de.wikipedia.org/wiki/Fessan)** — Kernland der **Garamanten** in der zentralen Sahara (heute Südwest-Libyen), um 550 n.Chr. eine Hochkultur im Niedergang.
 
 Prägend und für Szenen nutzbar:
 
@@ -17,12 +17,12 @@ Prägend und für Szenen nutzbar:
 
 ## Entschieden
 
-- **Bewaffnung:** gerade, einschneidige Klingen, Speere, Wurfspieße, Bogen, leichte Reiter. **Keine Krummsäbel** — für 550 zu früh ([C-091 ✓](../../Notizen/Challenges.md#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)).
+- **Bewaffnung:** gerade, einschneidige Klingen, Speere, Wurfspieße, Bogen, leichte Reiter. **Keine Krummsäbel** — für 550 zu früh.
 
 ## Noch nicht ausgearbeitet
 
-- **Eigenname und Namenssystem** — „Kel Aman"/„Sahar" ist arabisch abgeleitet und wird ersetzt; Sprachfamilie ist **libysch-berberisch**. Bildungsmuster und Vorschlagsliste liegen zur Entscheidung vor → [C-090](../../Notizen/Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-) · **???**
-- **Begriffe und Bräuche** — „Atem der Erde", „Augen des Geistes", matrilineare Clan-Mütter: ohne Beleg, zu prüfen → [C-003](../../Notizen/Challenges.md#c-003-kel-aman--kulturelle-tiefe-) · **???**
-- Kultur, Werte, Tabus · Religion und Rituale · Sprache und Redewendungen · Verhältnis zu Sesshaften → [C-003](../../Notizen/Challenges.md#c-003-kel-aman--kulturelle-tiefe-) · **???**
+- **Eigenname und Namenssystem** — „Kel Aman"/„Sahar" ist arabisch abgeleitet und wird ersetzt; Sprachfamilie ist **libysch-berberisch**. Bildungsmuster und Vorschlagsliste liegen zur Entscheidung vor · **???**
+- **Begriffe und Bräuche** — „Atem der Erde", „Augen des Geistes", matrilineare Clan-Mütter: ohne Beleg, zu prüfen · **???**
+- Kultur, Werte, Tabus · Religion und Rituale · Sprache und Redewendungen · Verhältnis zu Sesshaften · **???**
 
 Vorhandenes Material (noch vor der Verortung entstanden, entsprechend zu prüfen): [Kel-Aman.md](../../Menschen/Wuestenvolk/Kel-Aman.md), [allgemein.md](../../Menschen/Wuestenvolk/allgemein.md), [Karawanen.md](../../Menschen/Wuestenvolk/Karawanen.md).

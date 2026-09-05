@@ -27,7 +27,7 @@ Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in 
 - Lücken und Widersprüche proaktiv melden
 - Challenges laufend in `Notizen/Challenges.md` ergänzen (ohne zu fragen)
 - **Challenges sind ausnahmslos für den Buchinhalt.** Probleme des Wikis, der Werkzeuge oder der Schaubilder (Struktur, Links, Anker, Format, Generatoren, Artifacts) werden **sofort gelöst**, nie als Challenge notiert; braucht es dafür eine Entscheidung, im Chat fragen. Details: [Regeln.md](Notizen/Regeln.md#was-in-challengesmd-gehört)
-- **Keine Challenge-Verweise in Wiki-Artikeln.** Verwiesen wird nur in eine Richtung: Challenges → Wiki, nie zurück. In `Menschen/`, `Orte/`, `Kulturen/`, `Technik/`, `Welt/` markiert `???` die offene Stelle — ohne Link auf eine C-Nummer. Details: [Regeln.md](Notizen/Regeln.md#verwiesen-wird-nur-in-eine-richtung)
+- **Keine C-Nummer außerhalb von Challenges.md.** Verwiesen wird nur in eine Richtung: Challenges → Wiki, nie zurück — in keiner Wiki- oder Plot-Datei, weder als Link noch als bloße Nummer. `???` markiert die offene Stelle. Prüfstein: Das Wiki muss ohne `Challenges.md` vollständig lesbar und ohne toten Link bleiben. Details: [Regeln.md](Notizen/Regeln.md#verwiesen-wird-nur-in-eine-richtung)
 
 ## Keine Eigenentscheidungen (harte Regel)
 **Entschieden wird ausschließlich vom Autor.** Wiederholt beanstandet (02.09.2026): In früheren Sitzungen sind eigenmächtige Festlegungen ins Wiki gewandert, wurden dort als Bestand behandelt und trugen weitere Schlussfolgerungen — dokumentiert in [C-119](Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen-).

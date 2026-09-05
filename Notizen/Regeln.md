@@ -41,23 +41,32 @@ Neue Regeln laufend ergänzen — keine Begründungen, nur die Regel selbst.
 
 **Nicht in die Challenges gehören:** Probleme des Wikis selbst, der Werkzeuge oder der Schaubilder — Dateistruktur, Links und Anker, Formatkonventionen, Generatoren, Artifacts. Solche Punkte werden **sofort gelöst**, nicht notiert. Braucht es dafür eine Entscheidung, wird sie im Chat erfragt.
 
-Bereits vergebene C-Nummern technischer Art bleiben stehen ([C-137 ✓](Challenges.md#c-137-detailabschnitte-ab-c-099-stehen-unter-der-falschen-überschrift-), [C-148 ✓](Challenges.md#c-148-der-statusmarker-im-titel-bricht-die-anker-)) — Nummern werden nie neu vergeben.
+Bereits vergebene C-Nummern technischer Art bleiben stehen — Nummern werden nie neu vergeben.
 
 ## Verwiesen wird nur in eine Richtung
 
-> Entschieden 05.09.2026 vom Autor.
+> Entschieden 05.09.2026 vom Autor. Umfang am selben Tag auf **alle Dateien** ausgeweitet und einmal vollständig durchgezogen.
 
 **Challenges sind ein Werkzeug des Autors, kein Teil des Wikis.** Sie dürfen ins Wiki verweisen — das Wiki verweist nicht zurück.
 
-- **In Wiki-Artikeln** (`Menschen/`, `Orte/`, `Kulturen/`, `Technik/`, `Welt/`) steht **kein Link auf eine Challenge**. Was dort offen ist, wird mit `???` markiert — das genügt, um es wiederzufinden.
+**Der Prüfstein:** Das Wiki muss vollständig lesbar bleiben und darf keinen toten Link haben, wenn `Challenges.md` gelöscht wird.
+
+- **Keine C-Nummer steht in einer Wiki- oder Plot-Datei** — weder als Link noch als bloße Nummer im Text. Was offen ist, wird mit `???` markiert; das genügt, um es wiederzufinden.
+- **Zeigt ein Verweis auf einen Gegenstand, der einen Wiki-Artikel hat**, wird dieser Artikel verlinkt statt der Challenge.
 - **In Challenges.md** wird weiter auf die betroffenen Wiki-Stellen verlinkt; dort ist der Verweis der Zweck.
 - Wer von einer offenen Stelle zur Challenge will, findet sie über `grep -rn "???" --include="*.md" .` oder über die Übersicht in Challenges.md.
+
+**Die einzigen Ausnahmen** sind `CLAUDE.md` und `Sitzungsprompt.md` — Arbeitsanweisungen an Claude, kein Wiki-Inhalt — sowie der Navigationseintrag in `SUMMARY.md`, der mit der Datei wegfällt.
+
+**Auch die Schaubilder hängen nicht mehr daran** (umgestellt 05.09.2026): Der Szenenkopf in [Szenen.md](../Plots/Plot-1/Szenen.md) nennt hinter **Offen** die Sachen im Klartext statt C-Nummern. Beide Generatoren laufen vollständig ohne `Challenges.md`; ihre Hygiene prüft `python3 tools/pruefe_challenges.py` getrennt.
+
+**Geprüft wird das so:** `grep -rn "C-[0-9][0-9][0-9]" --include="*.md" . | grep -v Challenges.md` darf nur diese Ausnahmen und den Beispielblock unten zeigen.
 
 Ein Leser des Wikis soll den Artikel lesen können, ohne über Arbeitsstände zu stolpern.
 
 ## Status-Marker in Challenges.md
 
-> Entschieden 05.09.2026 ([C-148 ✓](Challenges.md#c-148-der-statusmarker-im-titel-bricht-die-anker-)). Diese Regel ist **technisch**, nicht kosmetisch: wird sie gebrochen, brechen Links.
+> Entschieden 05.09.2026. Diese Regel ist **technisch**, nicht kosmetisch: wird sie gebrochen, brechen Links.
 
 **Jede Überschrift im Detailteil endet auf ein Leerzeichen plus genau einen Marker:**
 
@@ -75,7 +84,7 @@ Ein Leser des Wikis soll den Artikel lesen können, ohne über Arbeitsstände zu
 - **Kein Zusatzwort nach dem Marker** — nicht `✗ gestrichen`, nicht `✓ (Kernfrage)`. Der Marker ist das letzte Zeichen der Zeile. Begründungen stehen im Abschnittstext.
 - **Genau ein Leerzeichen** davor, nie zwei, nie keins.
 - Der **Linktext in der Übersicht** trägt denselben Marker; der Anker dort endet immer auf `-`.
-- Maßgeblich für den Status ist die **Übersicht** am Dateikopf ([C-137 ✓](Challenges.md#c-137-detailabschnitte-ab-c-099-stehen-unter-der-falschen-überschrift-)). Marker und Übersicht dürfen nicht auseinanderlaufen.
+- Maßgeblich für den Status ist die **Übersicht** am Dateikopf. Marker und Übersicht dürfen nicht auseinanderlaufen.
 
 **Warum das trägt:** Der Slugger wirft das Markerzeichen weg und macht aus dem Leerzeichen davor einen Bindestrich. Der Anker endet dadurch immer auf `-`, egal welcher der drei Marker steht — ein Statuswechsel `○ → ✓` lässt ihn unverändert.
 
@@ -90,8 +99,8 @@ Ein Leser des Wikis soll den Artikel lesen können, ohne über Arbeitsstände zu
 
 ## Namen
 
-- **Nordvolk:** zweigliedrige Vollnamen aus festem Elementvorrat, im Alltag Kurzformen (Erstglied + `-un` m. / `-in`,`-a` w. / `-i`). Kein Familienname, sondern Vatersname `-sun`/`-dohtar`. **Keine Götterelemente** (`Thor-`, `Tiw-`, `Ing-`) — sie unterlaufen das Epitheta-Prinzip. Muster und Elementvorrat: [C-092](Challenges.md#c-092-namenssystem-des-nordvolks-)
-- **Kel Aman:** libysch-berberisch. Frauennamen umklammert ein `t`, Männernamen enden konsonantisch oder auf `-an`/`-en`, Abstammung mit `u-`/`ult-`, Gruppen mit `Kel-`. Siehe [C-090](Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)
+- **Nordvolk:** zweigliedrige Vollnamen aus festem Elementvorrat, im Alltag Kurzformen (Erstglied + `-un` m. / `-in`,`-a` w. / `-i`). Kein Familienname, sondern Vatersname `-sun`/`-dohtar`. **Keine Götterelemente** (`Thor-`, `Tiw-`, `Ing-`) — sie unterlaufen das Epitheta-Prinzip.
+- **Kel Aman:** libysch-berberisch. Frauennamen umklammert ein `t`, Männernamen enden konsonantisch oder auf `-an`/`-en`, Abstammung mit `u-`/`ult-`, Gruppen mit `Kel-`.
 - **Keine Sonderzeichen — überall im Wiki.** Alles wird mit deutscher Tastatur geschrieben: kein Thorn, kein Eth, keine Längenstriche über Vokalen. Stattdessen `th`, `d` und einfache Vokale.
 
 ## Schreiben

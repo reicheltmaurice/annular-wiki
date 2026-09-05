@@ -87,7 +87,7 @@ def karte(s, prolog_titel):
         will=feld(s["will"]),
         hindernis=feld(s["hindernis"]),
         ausgang=feld(s["ausgang"]),
-        ch=s["ch"],
+        ch=" · ".join(s["punkte"]),
     )
 
 

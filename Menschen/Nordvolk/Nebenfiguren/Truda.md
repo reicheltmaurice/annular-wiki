@@ -38,9 +38,9 @@
 
 ## Vor Girlins Verschwinden
 
-Truda war **7 oder 8**, als das jüngste Geschwisterkind starb — alt genug, sich zu erinnern ([C-097 ✓](../../../Notizen/Challenges.md#c-097-girlins-kinderfolge--die-neun-jahre-lücke-)). Ein Jahr später verschwindet die Mutter.
+Truda war **7 oder 8**, als das jüngste Geschwisterkind starb — alt genug, sich zu erinnern. Ein Jahr später verschwindet die Mutter.
 
-Sie **erbt Girlins Kleingut** (Schmuck, Fibeln, Truhe), verwahrt bis zu ihrer Heirat, während [Millia](Millia.md) Webstuhl und Herd übernimmt ([C-095](../../../Notizen/Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-)). Der **Webkamm** fehlt darin — [Tibun](../Tibun.md) hat ihn sich genommen. Ob sie es weiß: **???**
+Sie **erbt Girlins Kleingut** (Schmuck, Fibeln, Truhe), verwahrt bis zu ihrer Heirat, während [Millia](Millia.md) Webstuhl und Herd übernimmt. Der **Webkamm** fehlt darin — [Tibun](../Tibun.md) hat ihn sich genommen. Ob sie es weiß: **???**
 
 ---
 

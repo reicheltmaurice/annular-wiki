@@ -23,7 +23,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import wiki
-from wiki import fehler, kennzahlen, lies_alter, lies_challenges, lies_szenen, offen, pruefe_status
+from wiki import fehler, kennzahlen, lies_alter, lies_szenen, offen
 
 TEMPLATE = Path(__file__).resolve().parent / "zeitgeruest.template.html"
 ZIEL = wiki.WURZEL / "Notizen" / "Schaubilder" / "Zeitgeruest.html"
@@ -39,18 +39,15 @@ def feld(wert):
     return '<span class="offen">???</span>' if offen(wert) else e(wert)
 
 
-def chip(nr, challenges):
-    d = challenges[nr]
-    titel = d["titel"] + (" — entschieden" if d["geloest"] else "")
-    return '<span class="c %s" title="%s">C-%03d%s</span>' % (
-        "done" if d["geloest"] else "open", e(titel), nr, " ✓" if d["geloest"] else ""
-    )
+def chip(text):
+    """Eine offene Sache. Klartext aus Szenen.md -- keine C-Nummer mehr."""
+    return '<span class="c open">%s</span>' % e(text)
 
 
-def karte(s, challenges):
+def karte(s):
     strang, _ = STRANG[s["pov"]]
     hat_offen = any(offen(s[k]) for k in ("will", "hindernis", "ausgang"))
-    chips = "".join(chip(n, challenges) for n in s["cs"])
+    chips = "".join(chip(p) for p in s["punkte"])
     return (
         '        <article class="card%s">\n'
         '          <span class="strang">%s</span>\n'
@@ -78,15 +75,15 @@ def karte(s, challenges):
     )
 
 
-def zelle(seite, szenen_im_jahr, challenges):
+def zelle(seite, szenen_im_jahr):
     if not szenen_im_jahr:
         inhalt = '        <div class="leer">Keine eigene Szene</div>'
     else:
-        inhalt = "\n".join(karte(s, challenges) for s in szenen_im_jahr)
+        inhalt = "\n".join(karte(s) for s in szenen_im_jahr)
     return '      <div class="cell %s">\n%s\n      </div>' % (seite, inhalt)
 
 
-def zeile(jahr, szenen, challenges, alter):
+def zeile(jahr, szenen, alter):
     nord = [s for s in szenen if s["pov"] == "Tibun" and s["jahr_zahl"] == jahr]
     wueste = [s for s in szenen if s["pov"] == "Girlin" and s["jahr_zahl"] == jahr]
     achse = (
@@ -99,20 +96,14 @@ def zeile(jahr, szenen, challenges, alter):
     return (
         "    <!-- ================= JAHR %s ================= -->\n"
         '    <div class="row">\n%s\n%s\n%s\n    </div>'
-    ) % ("0" if jahr == 0 else "+%d" % jahr, zelle("left", nord, challenges), achse,
-         zelle("right", wueste, challenges))
+    ) % ("0" if jahr == 0 else "+%d" % jahr, zelle("left", nord), achse,
+         zelle("right", wueste))
 
 
 def main():
     nur_pruefen = "--pruefen" in sys.argv
     szenen = lies_szenen(wiki.SZENEN.read_text(encoding="utf-8"))
-    challenges = lies_challenges()
     alter = lies_alter()
-
-    unbekannt = sorted({n for s in szenen for n in s["cs"]} - set(challenges))
-    if unbekannt:
-        fehler("Szenen.md nennt Challenges, die es nicht gibt: %s"
-               % ", ".join("C-%03d" % n for n in unbekannt))
 
     jahre = sorted({s["jahr_zahl"] for s in szenen})
     spanne = range(min(jahre), max(jahre) + 1)
@@ -124,11 +115,10 @@ def main():
     werte = kennzahlen(szenen)
     werte.update(
         STAND=datetime.date.today().strftime("%d.%m.%Y"),
-        CH_OFFEN=sum(1 for d in challenges.values() if not d["geloest"]),
-        CH_GELOEST=sum(1 for d in challenges.values() if d["geloest"]),
+
         LEER_N=len(leer["Tibun"]),
         LEER_W=len(leer["Girlin"]),
-        ZEILEN="\n".join(zeile(j, szenen, challenges, alter) for j in spanne),
+        ZEILEN="\n".join(zeile(j, szenen, alter) for j in spanne),
     )
 
     html_text = TEMPLATE.read_text(encoding="utf-8")
@@ -137,14 +127,12 @@ def main():
     if rest:
         fehler("unaufgeloeste Platzhalter: %s" % ", ".join(sorted(set(rest))))
 
-    print("%d Szenen über die Jahre %+d bis %+d · %d Challenges (%d offen / %d entschieden)"
-          % (werte["N"], min(spanne), max(spanne), len(challenges), werte["CH_OFFEN"], werte["CH_GELOEST"]))
+    print("%d Szenen über die Jahre %+d bis %+d · %d verschiedene offene Punkte "
+          "· %d Szenen ohne offenen Punkt"
+          % (werte["N"], min(spanne), max(spanne), werte["PUNKTE"], werte["OHNE_PUNKT"]))
     print("Jahre ohne eigene Szene — Tibun: %s · Girlin: %s"
           % (leer["Tibun"] or "keine", leer["Girlin"] or "keine"))
     print("Startalter laut Zeitleiste: Tibun %d, Girlin %d" % (alter["Tibun"], alter["Girlin"]))
-
-    for w in pruefe_status(szenen, challenges):
-        print("  Hinweis: " + w)
 
     if nur_pruefen:
         alt = ZIEL.read_text(encoding="utf-8") if ZIEL.exists() else ""

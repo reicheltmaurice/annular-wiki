@@ -1,12 +1,12 @@
 # Zitate
 
-> **Status:** ??? — Sammlung. Verwendung noch offen: möglicherweise als **Motto zu Kapitelanfängen** ([C-083](Challenges.md#c-083-zitate-als-kapitel-motti-)).
+> **Status:** ??? — Sammlung. Verwendung noch offen: möglicherweise als **Motto zu Kapitelanfängen**.
 
 ---
 
 ## Fremdzitate (gesammelt)
 
-Vom Autor notiert. Rechtlich und stilistisch problematisch als Motti — siehe [C-083](Challenges.md#c-083-zitate-als-kapitel-motti-).
+Vom Autor notiert. Rechtlich und stilistisch problematisch als Motti.
 
 > **Be water my friend.**
 > *Sei Wasser, mein Freund.*
@@ -43,7 +43,7 @@ Kein Motto für ein Kapitel — es spricht über Sprache, nicht über die Welt, 
 
 - **Stabreim statt Endreim.** Germanische Dichtung um 550 arbeitet mit **Alliteration** — *Was die **W**eberin **w**irkt, **w**endet kein **W**ille.* Endreim ist ein späteres, christlich-mittelalterliches Muster und wäre ein hörbarer Anachronismus.
 - **Kurz.** Ein bis zwei Zeilen. Ein Motto, das man zweimal lesen muss, hält den Leser auf.
-- **Keine Sprichwörter über Ringe.** Niemand in dieser Welt kennt das System ([C-008 ✓](Challenges.md#c-008-anzahl-und-bekanntheit-der-ringe-)). Sprüche über *Kreisläufe* sind dagegen erlaubt und wirken beim Leser als Vorahnung, während die Figuren nur Bauernwahrheiten sagen.
+- **Keine Sprichwörter über Ringe.** Niemand in dieser Welt kennt das System. Sprüche über *Kreisläufe* sind dagegen erlaubt und wirken beim Leser als Vorahnung, während die Figuren nur Bauernwahrheiten sagen.
 - **Keine Götternamen** — ausschließlich Epitheta: *der Wanderer*, *der Donnerer*, *die Weberin* ([CLAUDE.md](../CLAUDE.md)).
 - **Keine Zuschreibung.** Sprichwörter haben keinen Autor. Höchstens eine Herkunftsangabe wie *„Wort aus Vendsyssel"* oder *„Was die Alten in Skirraa sagen"* — falls überhaupt.
 
@@ -118,7 +118,7 @@ Im Finale, wo die Stränge zusammenlaufen, wäre entweder **kein** Motto die st�
 
 ## Kel Aman
 
-> **Vorbehalt:** Die kulturelle Vorlage der [Kel Aman](../Menschen/Wuestenvolk/Kel-Aman.md) ist noch offen ([C-003](Challenges.md#c-003-kel-aman--kulturelle-tiefe-)). Diese Sprüche sind daher vorläufiger als die des Nordvolks — sie tragen Wüsten- und Karawanenlogik, aber keine festgelegte Kultur.
+> **Vorbehalt:** Die kulturelle Vorlage der [Kel Aman](../Menschen/Wuestenvolk/Kel-Aman.md) ist noch offen. Diese Sprüche sind daher vorläufiger als die des Nordvolks — sie tragen Wüsten- und Karawanenlogik, aber keine festgelegte Kultur.
 
 > Der Durst lügt nicht.
 
@@ -130,7 +130,7 @@ Im Finale, wo die Stränge zusammenlaufen, wäre entweder **kein** Motto die st�
 > Die Wüste nimmt keinen Weg an. Sie leiht ihn.
 
 > Die Düne, die du gestern kanntest, liegt heute woanders.
-> *(Der verlorene Ring-Standort — [C-061](Challenges.md#c-061-navigationswissen-des-häuptlings-))*
+> *(Der verlorene Ring-Standort)*
 
 > Frag den Stern. Der Sand antwortet jedem anders.
 > *(Sternnavigation)*

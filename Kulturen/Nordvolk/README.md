@@ -1,6 +1,6 @@
 # Nordvolk — Kultur
 
-**Epoche: 550 n.Chr. (Vendelzeit)** — C-001 entschieden. Proto-skandinavische Germanen. Fiktive Siedlung in Nordjütland/Vendsyssel ([Skirraa](../../Orte/Skirraa.md), [Tingsal](../../Orte/Tingsal.md)); Handelshafen [Kaupvik](../../Orte/Kaupvik.md) an der Schlei (Vorbild: Haithabu bzw. Gudme/Lundeborg). Siehe [C-021](../../Notizen/Challenges.md).
+**Epoche: 550 n.Chr. (Vendelzeit)** — entschieden. Proto-skandinavische Germanen. Fiktive Siedlung in Nordjütland/Vendsyssel ([Skirraa](../../Orte/Skirraa.md), [Tingsal](../../Orte/Tingsal.md)); Handelshafen [Kaupvik](../../Orte/Kaupvik.md) an der Schlei (Vorbild: Haithabu bzw. Gudme/Lundeborg).
 
 ---
 

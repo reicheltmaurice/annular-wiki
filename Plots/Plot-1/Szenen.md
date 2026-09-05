@@ -6,11 +6,11 @@
 
 **Der Zuschnitt ist Arbeitsstand, nicht entschieden** — auch wenn er hier im Wiki steht. Welche Ereignisse in eine Szene fallen, wo geschnitten wird und in welcher Reihenfolge erzählt wird, legt der Autor fest.
 
-**Was hier nicht steht:** die Ereigniskette. Was wann geschieht, steht in der [Zeitleiste](Zeitleiste.md) und wird hier nicht wiederholt — sonst laufen zwei Fassungen auseinander ([C-119](../../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen-)). Diese Datei sagt nur, **was eine Szene will und was ihr im Weg steht**.
+**Was hier nicht steht:** die Ereigniskette. Was wann geschieht, steht in der [Zeitleiste](Zeitleiste.md) und wird hier nicht wiederholt — sonst laufen zwei Fassungen auseinander. Diese Datei sagt nur, **was eine Szene will und was ihr im Weg steht**.
 
 [Kapitelstruktur.md](Kapitelstruktur.md) ist eine eingefrorene Handskizze und wird ausdrücklich **nicht** nachgepflegt; Abweichungen dort sind kein Widerspruch.
 
-Die genannten C-Nummern stehen in [Notizen/Challenges.md](../../Notizen/Challenges.md); `✓` markiert eine dort gelöste Challenge.
+Der Szenenkopf nennt hinter **Offen** die Punkte, die in dieser Szene noch zu klären sind — im Klartext, ein `—` heißt: nichts offen. Bis zum 05.09.2026 standen dort C-Nummern; die Datei hängt seitdem nicht mehr an `Challenges.md`.
 
 ## Die Felder
 
@@ -21,6 +21,7 @@ Jede Szene trägt drei Felder. Wie sie belegt werden, ist festgelegt (05.09.2026
 | **Will** | **Immer das Wollen der POV-Figur** — nie das des Gegenspielers. Ist es unbekannt, steht `???` dort, auch wenn sich über die Gegenfigur etwas sagen ließe. |
 | **Hindernis** | Was der POV-Figur im Weg steht. Drei Zustände: konkreter Inhalt · `keins` (bewusst kein Widerstand, optional mit Begründung) · `???` (noch zu entscheiden). |
 | **Ausgang** | Womit die Szene endet. `???`, solange offen. |
+| **Offen** | Im Szenenkopf: was hier noch zu klären ist, durch ` · ` getrennt. `—` heißt: nichts offen. |
 
 `keins` und `???` sind **nicht dasselbe**: `???` ist eine Arbeitsaufgabe, `keins` eine dramaturgische Aussage. Die Kennzahlen zählen beides getrennt.
 
@@ -30,7 +31,7 @@ Jede Szene trägt drei Felder. Wie sie belegt werden, ist festgelegt (05.09.2026
 
 Die Nummer ist die **Position in dieser Liste**, lückenlos ab 1. Sie ist keine Kapitelnummer — Kapitelgrenzen und Kapitellängen gibt es noch nicht.
 
-**Die Reihenfolge dieser Liste ist die Erzählreihenfolge** (entschieden 04.09.2026, [C-147 ✓](../../Notizen/Challenges.md#c-147-die-nummer-ist-die-erzählreihenfolge-)). Eine zweite, chronologische Ordnung wird nicht geführt: **wann** etwas geschieht, steht in der [Zeitleiste](Zeitleiste.md). Die Jahresangabe je Szene bleibt als grobe Einordnung.
+**Die Reihenfolge dieser Liste ist die Erzählreihenfolge** (entschieden 04.09.2026). Eine zweite, chronologische Ordnung wird nicht geführt: **wann** etwas geschieht, steht in der [Zeitleiste](Zeitleiste.md). Die Jahresangabe je Szene bleibt als grobe Einordnung.
 
 Wo zwei Szenen **gleichzeitig** liegen — Nr. 3 und 4 zeigen denselben Moment aus beiden Sichten —, sagt ihre Reihenfolge, was zuerst erzählt wird, nicht was zuerst geschieht.
 
@@ -41,12 +42,12 @@ Wo zwei Szenen **gleichzeitig** liegen — Nr. 3 und 4 zeigen denselben Moment a
 | Teil | Umfang | Herkunft |
 |---|---|---|
 | Prolog | Szene 1 (Das Beben) | entschieden 04.09.2026 |
-| Anfang | ab Szene 2 bis **???** | C-140 — wo der Anfang endet, ist offen |
+| Anfang | ab Szene 2 bis **???** | wo der Anfang endet, ist offen |
 | Hauptteil | dazwischen | ergibt sich aus den beiden Grenzen |
-| Schluss | ab Szene 42 (Der Angriff — Zündung 1) | gemeinsamer Block ab Zündung 1, C-140 |
+| Schluss | ab Szene 42 (Der Angriff — Zündung 1) | gemeinsamer Block ab Zündung 1 |
 | Epilog | nicht vorgesehen | Das Buch endet mit der Entscheidung ([Zeitleiste](Zeitleiste.md)) |
 
-Die Erzählreihenfolge — verschränkt oder blockweise — ist offen ([C-139](../../Notizen/Challenges.md#c-139-erzählreihenfolge--verschränkt-oder-blockweise-)). Die Liste unten steht chronologisch.
+Die Erzählreihenfolge — verschränkt oder blockweise — ist offen. Die Liste unten steht chronologisch.
 
 ## Kennzahlen
 
@@ -59,7 +60,7 @@ Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenl
 
 ### 1 · Das Beben
 
-> **POV:** Tibun · **Jahr 0** · **Challenges:** C-008 ✓ · C-056 · C-128
+> **POV:** Tibun · **Jahr 0** · **Offen:** Folgen des Bebens im Dorf · Fundort und Freilegung des Rings
 
 Ein Beben, wie es niemand kennt. Das Ringsystem erwacht.
 
@@ -70,7 +71,7 @@ Ein Beben, wie es niemand kennt. Das Ringsystem erwacht.
 
 ### 2 · Der Bernstein-Effekt
 
-> **POV:** Tibun · **Jahr 0** · **Challenges:** C-043 · C-071 · C-039
+> **POV:** Tibun · **Jahr 0** · **Offen:** Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk · Tibuns Alter und Heiratsantrag · Funke entzündet Wolle
 
 Verlobungstag, wenige Tage nach dem Beben. Frida nimmt die Kette nicht an; kurz darauf springt der Funke an der Schafschere über.
 
@@ -81,18 +82,18 @@ Verlobungstag, wenige Tage nach dem Beben. Frida nimmt die Kette nicht an; kurz 
 
 ### 3 · Der Blitz — Girlin
 
-> **POV:** Girlin · **Jahr 0** · **Challenges:** C-012 ✓ · C-057 · C-020 · C-114 ✓
+> **POV:** Girlin · **Jahr 0** · **Offen:** Warum sind Tibun und Girlin allein draußen? · Vorwarnung vor dem Flip?
 
 Derselbe Moment aus ihrer Sicht — bis es schwarz wird.
 
 - **Will:** ???
 - **Hindernis:** ???
-- **Ausgang:** Sie ist fort. Sie stand vollständig innerhalb der Ringöffnung und reist unverletzt (C-012 ✓). Was sie davon wahrnimmt — ob sie den Ring überhaupt bemerkt, ob es eine Vorwarnung gibt (C-020) —, ist offen. Das Aufwachen steht in „Ankunft im Fezzan".
+- **Ausgang:** Sie ist fort. Sie stand vollständig innerhalb der Ringöffnung und reist unverletzt. Was sie davon wahrnimmt — ob sie den Ring überhaupt bemerkt, ob es eine Vorwarnung gibt —, ist offen. Das Aufwachen steht in „Ankunft im Fezzan".
 
 
 ### 4 · Der Blitz — Tibun
 
-> **POV:** Tibun · **Jahr 0** · **Challenges:** C-012 ✓ · C-057
+> **POV:** Tibun · **Jahr 0** · **Offen:** Warum sind Tibun und Girlin allein draußen?
 
 Wenige Tage später: Gewitter über der Skir. Girlin verschwindet vor seinen Augen.
 
@@ -102,7 +103,7 @@ Wenige Tage später: Gewitter über der Skir. Girlin verschwindet vor seinen Aug
 
 ### 5 · Ankunft im Fezzan
 
-> **POV:** Girlin · **Jahr 0** · **Challenges:** C-114 ✓ · C-014
+> **POV:** Girlin · **Jahr 0** · **Offen:** Karawanen-Aufmerksamkeit bei Girlins Ankunft
 
 Sie wacht in der Wüste auf und wird von den Kel Aman aufgesammelt.
 
@@ -113,7 +114,7 @@ Sie wacht in der Wüste auf und wird von den Kel Aman aufgesammelt.
 
 ### 6 · Die Mulde
 
-> **POV:** Tibun · **Jahr 0** · **Challenges:** C-098 ✓
+> **POV:** Tibun · **Jahr 0** · **Offen:** —
 
 Halbierte Steine, glatt durchtrennte Wurzeln.
 
@@ -124,7 +125,7 @@ Halbierte Steine, glatt durchtrennte Wurzeln.
 
 ### 7 · Sprache und Fremdheit
 
-> **POV:** Girlin · **Jahr 0** · **Challenges:** C-003
+> **POV:** Girlin · **Jahr 0** · **Offen:** Kel Aman — kulturelle Tiefe
 
 Erste Zeit bei einem Volk, dessen Sprache sie nicht kennt.
 
@@ -135,7 +136,7 @@ Erste Zeit bei einem Volk, dessen Sprache sie nicht kennt.
 
 ### 8 · Was das Dorf daraus macht
 
-> **POV:** Tibun · **Jahr 0** · **Challenges:** C-094 ✓
+> **POV:** Tibun · **Jahr 0** · **Offen:** —
 
 Der Sand liegt für alle sichtbar an der Skir.
 
@@ -146,7 +147,7 @@ Der Sand liegt für alle sichtbar an der Skir.
 
 ### 9 · Der Suchtrupp
 
-> **POV:** Tibun · **Jahr 0** · **Challenges:** C-095 ✓
+> **POV:** Tibun · **Jahr 0** · **Offen:** —
 
 Das Dorf sucht und gibt auf.
 
@@ -157,7 +158,7 @@ Das Dorf sucht und gibt auf.
 
 ### 10 · Semund und Millia
 
-> **POV:** Tibun · **Jahr 0** · **Challenges:** C-078 · C-046
+> **POV:** Tibun · **Jahr 0** · **Offen:** Tibuns Verhältnis zu Millia · Millia — offene Felder
 
 Der Vater bindet sich rasch neu.
 
@@ -168,7 +169,7 @@ Der Vater bindet sich rasch neu.
 
 ### 11 · Der Unfall
 
-> **POV:** Tibun · **Jahr 0** · **Challenges:** C-058
+> **POV:** Tibun · **Jahr 0** · **Offen:** Wasserrad-Unfall und Tibuns Schuld
 
 Er baut etwas, und dabei wird jemand verletzt.
 
@@ -179,7 +180,7 @@ Er baut etwas, und dabei wird jemand verletzt.
 
 ### 12 · Der Ausschluss
 
-> **POV:** Tibun · **Jahr 0** · **Challenges:** C-077
+> **POV:** Tibun · **Jahr 0** · **Offen:** Tibun und Truda nach Girlins Verschwinden
 
 Der Weiler rückt von ihm ab.
 
@@ -190,7 +191,7 @@ Der Weiler rückt von ihm ab.
 
 ### 13 · Aufbruch aus Skirraa
 
-> **POV:** Tibun · **Jahr +1** · **Challenges:** C-022 ✓
+> **POV:** Tibun · **Jahr +1** · **Offen:** —
 
 Rund ein Jahr nach dem Verschwinden verlässt er den Weiler.
 
@@ -201,7 +202,7 @@ Rund ein Jahr nach dem Verschwinden verlässt er den Weiler.
 
 ### 14 · Bellbrim
 
-> **POV:** Girlin · **Jahr +1** · **Challenges:** C-026 · C-113
+> **POV:** Girlin · **Jahr +1** · **Offen:** Bellbrim — Herkunft und historische Plausibilität · Bellbrims Sprache
 
 Begegnung mit der Vandalin, die mehrere Sprachen spricht.
 
@@ -212,7 +213,7 @@ Begegnung mit der Vandalin, die mehrere Sprachen spricht.
 
 ### 15 · Die Zwischenstation
 
-> **POV:** Tibun · **Jahr +1** · **Challenges:** C-124 · C-034 ✓
+> **POV:** Tibun · **Jahr +1** · **Offen:** Die Zwischenstation — Ort und Gruppe
 
 Er schließt sich einer Gruppe an, um weiterzukommen.
 
@@ -223,7 +224,7 @@ Er schließt sich einer Gruppe an, um weiterzukommen.
 
 ### 16 · Ankunft in Kaupvik
 
-> **POV:** Tibun · **Jahr +1** · **Challenges:** C-115 ✓
+> **POV:** Tibun · **Jahr +1** · **Offen:** —
 
 Hafenarbeit an der Schlei.
 
@@ -234,7 +235,7 @@ Hafenarbeit an der Schlei.
 
 ### 17 · Die Zieheltern
 
-> **POV:** Tibun · **Jahr +1** · **Challenges:** C-059
+> **POV:** Tibun · **Jahr +1** · **Offen:** Tibuns Zieheltern in Kaupvik
 
 Er kommt bei einem Paar unter.
 
@@ -245,7 +246,7 @@ Er kommt bei einem Paar unter.
 
 ### 18 · Sammeln ohne zu wissen wie
 
-> **POV:** Tibun · **Jahr +1** · **Challenges:** C-002
+> **POV:** Tibun · **Jahr +1** · **Offen:** Tibuns Elektrizitätsquelle
 
 Bernstein durch Handel und eigenes Sammeln.
 
@@ -256,7 +257,7 @@ Bernstein durch Handel und eigenes Sammeln.
 
 ### 19 · Der Neffe
 
-> **POV:** Girlin · **Jahr +3** · **Challenges:** C-060 ✓ · C-105 · C-106
+> **POV:** Girlin · **Jahr +3** · **Offen:** Der Neffe — Name, Eigenschaften, Schweigebitte · Durchgebrannte Ehefrau bei den Kel Aman
 
 Beziehung zum Neffen des Häuptlings.
 
@@ -267,7 +268,7 @@ Beziehung zum Neffen des Häuptlings.
 
 ### 20 · Azzim, Auftritt 1
 
-> **POV:** Girlin · **Jahr +3** · **Challenges:** C-123 ✓ · C-028
+> **POV:** Girlin · **Jahr +3** · **Offen:** Azzim — Herkunft und Hintergrund
 
 Auf dem Basar greift ein Sklavenhändler nach ihr.
 
@@ -280,7 +281,7 @@ Auf dem Basar greift ein Sklavenhändler nach ihr.
 
 ### 21 · Der Erkenntnismoment
 
-> **POV:** Tibun · **Jahr +4** · **Challenges:** C-002 · C-005 ✓
+> **POV:** Tibun · **Jahr +4** · **Offen:** Tibuns Elektrizitätsquelle
 
 Ein Seil rutscht unter Last, wird heiß, raucht.
 
@@ -291,7 +292,7 @@ Ein Seil rutscht unter Last, wird heiß, raucht.
 
 ### 22 · Das dritte Kind
 
-> **POV:** Girlin · **Jahr +4** · **Challenges:** C-081
+> **POV:** Girlin · **Jahr +4** · **Offen:** Girlins drittes Kind in der Wüste
 
 Girlins Kind wird in der Wüste geboren.
 
@@ -302,7 +303,7 @@ Girlins Kind wird in der Wüste geboren.
 
 ### 23 · Das Ziel kippt
 
-> **POV:** Girlin · **Jahr +4** · **Challenges:** C-082 ✓ · C-081
+> **POV:** Girlin · **Jahr +4** · **Offen:** Girlins drittes Kind in der Wüste
 
 Mit der Geburt verschiebt sich, was sie will.
 
@@ -313,7 +314,7 @@ Mit der Geburt verschiebt sich, was sie will.
 
 ### 24 · Der Ring bekommt einen neuen Zweck
 
-> **POV:** Girlin · **Jahr +4** · **Challenges:** C-101 · C-134
+> **POV:** Girlin · **Jahr +4** · **Offen:** Girlins Nachricht — Vorhaben ohne Ausführung · Die Nachricht — Art und Lesbarkeit im Norden
 
 Nicht mehr ihre Heimreise.
 
@@ -324,7 +325,7 @@ Nicht mehr ihre Heimreise.
 
 ### 25 · Die Bitte
 
-> **POV:** Girlin · **Jahr +5** · **Challenges:** C-061 ✓ · C-105
+> **POV:** Girlin · **Jahr +5** · **Offen:** Der Neffe — Name, Eigenschaften, Schweigebitte
 
 Sie bittet den Clan, den Ring zu holen.
 
@@ -335,7 +336,7 @@ Sie bittet den Clan, den Ring zu holen.
 
 ### 26 · Die Trennung vom Clan
 
-> **POV:** Girlin · **Jahr +5** · **Challenges:** C-129 · C-105
+> **POV:** Girlin · **Jahr +5** · **Offen:** Die Schutzlücke verschiebt sich von +8 auf +5 · Der Neffe — Name, Eigenschaften, Schweigebitte
 
 Die drei lösen sich und ziehen zu Bellbrim.
 
@@ -346,7 +347,7 @@ Die drei lösen sich und ziehen zu Bellbrim.
 
 ### 27 · Das Tischmodell
 
-> **POV:** Tibun · **Jahr +5** · **Challenges:** C-118 · C-099
+> **POV:** Tibun · **Jahr +5** · **Offen:** Der Nordstrang verliert zwischen +1 und +9 nichts · Der isolierte Konduktor — Ladungsspeicher ohne Anachronismus
 
 Vier Jahre Bau und Bernsteinsammeln in Kaupvik.
 
@@ -357,7 +358,7 @@ Vier Jahre Bau und Bernsteinsammeln in Kaupvik.
 
 ### 28 · Arbeit am Generator
 
-> **POV:** Girlin · **Jahr +5** · **Challenges:** C-135 · C-131
+> **POV:** Girlin · **Jahr +5** · **Offen:** Der Wüstengenerator — Bauart offen · Generatorarbeit ohne Ring
 
 Experimente mit Wasserfall und Wasserrad.
 
@@ -368,7 +369,7 @@ Experimente mit Wasserfall und Wasserrad.
 
 ### 29 · Der Basar
 
-> **POV:** Girlin · **Jahr +5** · **Challenges:** C-132
+> **POV:** Girlin · **Jahr +5** · **Offen:** Womit die Schluchtgemeinschaft auf dem Basar bezahlt
 
 Der Generatorbau verlangt Material, das die Schlucht nicht hergibt.
 
@@ -379,7 +380,7 @@ Der Generatorbau verlangt Material, das die Schlucht nicht hergibt.
 
 ### 30 · Der Transport
 
-> **POV:** Girlin · **Jahr +7** · **Challenges:** C-125 · C-103 · C-130
+> **POV:** Girlin · **Jahr +7** · **Offen:** Das Transportverfahren ist offen · Transportlogistik des Wüstenrings · Wie der Transport terminiert wird
 
 Der Clan kommt wieder; Girlin bricht mit ihm auf.
 
@@ -390,7 +391,7 @@ Der Clan kommt wieder; Girlin bricht mit ihm auf.
 
 ### 31 · Azzim, Auftritt 2
 
-> **POV:** Girlin · **Jahr +7** · **Challenges:** C-123 ✓
+> **POV:** Girlin · **Jahr +7** · **Offen:** —
 
 Er tritt offen an den Zug heran und verhandelt.
 
@@ -403,7 +404,7 @@ Er tritt offen an den Zug heran und verhandelt.
 
 ### 32 · Der Ring liegt in der Schlucht
 
-> **POV:** Girlin · **Jahr +8** · **Challenges:** C-111 ✓
+> **POV:** Girlin · **Jahr +8** · **Offen:** —
 
 Der Clan zieht endgültig weiter.
 
@@ -414,7 +415,7 @@ Der Clan zieht endgültig weiter.
 
 ### 33 · Vollendung des Generators
 
-> **POV:** Girlin · **Jahr +8** · **Challenges:** C-135
+> **POV:** Girlin · **Jahr +8** · **Offen:** Der Wüstengenerator — Bauart offen
 
 Bellbrim und Girlin bauen weiter.
 
@@ -425,7 +426,7 @@ Bellbrim und Girlin bauen weiter.
 
 ### 34 · Aufbruch aus Kaupvik
 
-> **POV:** Tibun · **Jahr +9** · **Challenges:** C-059 · C-118
+> **POV:** Tibun · **Jahr +9** · **Offen:** Tibuns Zieheltern in Kaupvik · Der Nordstrang verliert zwischen +1 und +9 nichts
 
 Das Modell läuft, Wissen und Bernstein reichen.
 
@@ -436,7 +437,7 @@ Das Modell läuft, Wissen und Bernstein reichen.
 
 ### 35 · Azzim, Auftritt 3
 
-> **POV:** Girlin · **Jahr +9** · **Challenges:** C-133
+> **POV:** Girlin · **Jahr +9** · **Offen:** Azzims Leute für den Angriff
 
 Auf dem Basar erkennt er sie und greift zu.
 
@@ -449,7 +450,7 @@ Auf dem Basar erkennt er sie und greift zu.
 
 ### 36 · Die Werkstatt an der Tabustelle
 
-> **POV:** Tibun · **Jahr +9** · **Challenges:** C-100 ✓
+> **POV:** Tibun · **Jahr +9** · **Offen:** —
 
 Rückkehr zum Ring; Bau der großen Wasseranlage.
 
@@ -460,7 +461,7 @@ Rückkehr zum Ring; Bau der großen Wasseranlage.
 
 ### 37 · Die Nachricht liegt bereit
 
-> **POV:** Girlin · **Jahr +9** · **Challenges:** C-101 · C-134
+> **POV:** Girlin · **Jahr +9** · **Offen:** Girlins Nachricht — Vorhaben ohne Ausführung · Die Nachricht — Art und Lesbarkeit im Norden
 
 Fertig und wetterfest verpackt.
 
@@ -471,7 +472,7 @@ Fertig und wetterfest verpackt.
 
 ### 38 · Der Weiler warnt und meidet
 
-> **POV:** Tibun · **Jahr +9** · **Challenges:** C-100 ✓
+> **POV:** Tibun · **Jahr +9** · **Offen:** —
 
 Angst und Ärger im Dorf — aber keine Vertreibung.
 
@@ -482,7 +483,7 @@ Angst und Ärger im Dorf — aber keine Vertreibung.
 
 ### 39 · Die Wala lässt ihn gewähren
 
-> **POV:** Tibun · **Jahr +9** · **Challenges:** C-050
+> **POV:** Tibun · **Jahr +9** · **Offen:** Wandernde Wala — offene Felder
 
 Sie wird gerufen und sieht es sich an.
 
@@ -493,7 +494,7 @@ Sie wird gerufen und sieht es sich an.
 
 ### 40 · Truda hält ihn für verloren
 
-> **POV:** Tibun · **Jahr +9** · **Challenges:** C-077 · C-047
+> **POV:** Tibun · **Jahr +9** · **Offen:** Tibun und Truda nach Girlins Verschwinden · Truda — offene Felder
 
 Er sagt ihr, was er tut.
 
@@ -506,7 +507,7 @@ Er sagt ihr, was er tut.
 
 ### 41 · Zweifel und Bestätigung
 
-> **POV:** Girlin · **Jahr +10** · **Challenges:** C-082 ✓
+> **POV:** Girlin · **Jahr +10** · **Offen:** —
 
 Der Generator ist fertig — und der Zweifel kehrt zurück.
 
@@ -517,7 +518,7 @@ Der Generator ist fertig — und der Zweifel kehrt zurück.
 
 ### 42 · Der Angriff — Zündung 1
 
-> **POV:** Girlin · **Jahr +10** · **Challenges:** C-102 · C-133 · C-112
+> **POV:** Girlin · **Jahr +10** · **Offen:** Was bei Zündung 1 aus dem Norden verschwindet · Azzims Leute für den Angriff · Das Wüstenkind während des Finales
 
 Azzim fällt mit seinen Leuten über die Schlucht her.
 
@@ -530,7 +531,7 @@ Azzim fällt mit seinen Leuten über die Schlucht her.
 
 ### 43 · Azzim vor den Füßen
 
-> **POV:** Tibun · **Jahr +10** · **Challenges:** C-062 ✓
+> **POV:** Tibun · **Jahr +10** · **Offen:** —
 
 Ein fremder Mann fällt aus dem Nichts neben den Ring.
 
@@ -541,7 +542,7 @@ Ein fremder Mann fällt aus dem Nichts neben den Ring.
 
 ### 44 · Der Kampf — Zündung 2
 
-> **POV:** Tibun · **Jahr +10** · **Challenges:** C-099 · C-109 ✓
+> **POV:** Tibun · **Jahr +10** · **Offen:** Der isolierte Konduktor — Ladungsspeicher ohne Anachronismus
 
 Azzim wirft ihn in den Ring und würgt ihn am Boden.
 
@@ -552,7 +553,7 @@ Azzim wirft ihn in den Ring und würgt ihn am Boden.
 
 ### 45 · Wiedersehen und Schluss
 
-> **POV:** Girlin · **Jahr +10** · **Challenges:** C-108 · C-110
+> **POV:** Girlin · **Jahr +10** · **Offen:** Der Kampf in der Schlucht während Tibuns Ankunft · Der Schlusssatz — wissen die Figuren, was er kostet?
 
 Er steht in der Schlucht, mitten im laufenden Kampf.
 
