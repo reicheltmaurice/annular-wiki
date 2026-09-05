@@ -91,7 +91,7 @@ Die Skizze notierte hier nur *„Azzim teleportiert sich nach einem Kampf aus Ve
 
 ## Ergänzungen aus Plot 1 (alte Notiz)
 
-Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt weder Tibuns Wanderschaft noch [Azzim](../../Menschen/Wuestenvolk/Azzim-u-Tawan.md)), enthält aber **fünf Beats, die in der Skizze oben fehlen**. Sie stehen hier als **Einschub an ihrer vermuteten Position** — die Nummerierung oben bleibt unverändert, damit bestehende Verweise gültig bleiben.
+Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt weder Tibuns Wanderschaft noch [Azzim](../../Menschen/Kel-Aman/Azzim-u-Tawan.md)), enthält aber **fünf Beats, die in der Skizze oben fehlen**. Sie stehen hier als **Einschub an ihrer vermuteten Position** — die Nummerierung oben bleibt unverändert, damit bestehende Verweise gültig bleiben.
 
 **Nichts davon ist entschieden.** Jeder Beat trägt eine eigene Challenge.
 

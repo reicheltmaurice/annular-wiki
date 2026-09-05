@@ -115,7 +115,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 **Umgebaut am 03.09.2026**. Die frühere Fassung setzte Girlins Entschluss zu bleiben ans Ende (Jahr +8/+10) und den Transport über drei Jahre. Beides ist ersetzt.
 
-- **Jahr +3 bis +5: [Azzims](../../Menschen/Wuestenvolk/Azzim-u-Tawan.md) erster Auftritt** — auf dem **Basar**. Ein **Zugriffsversuch, den der Clan abwehrt**. Ab hier kennen sich beide als Feind
+- **Jahr +3 bis +5: [Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) erster Auftritt** — auf dem **Basar**. Ein **Zugriffsversuch, den der Clan abwehrt**. Ab hier kennen sich beide als Feind
   - Wie er von ihr erfährt, ist offen. Als Richtung notiert, nicht beschlossen: Er bekommt Gerede mit und sucht sie dann auf dem Basar auf · **???**
   - **Sein Motiv ist doppelt:** ihr **Wert** als seltene Ware — und ab dem gescheiterten Zugriff die **Demütigung**. Das eine erklärt, warum er anfängt; das andere, warum er nicht ablässt
 - **Jahr +4: Girlins drittes Kind wird geboren** (Girlin 38, Kind im Finale 6)
@@ -148,7 +148,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   > **Frühere Fassung gestrichen:** *„Der Transport (Jahr +5 → +8)"*, *„ein Vorhaben über Jahre, kein Beat"* und *„vier Jahre lang schleppt ein ganzes Volk den Ring"* stammten nicht vom Autor
 - Der 3-m-Ring wiegt rund **5,7 t**. Er wird bewegt — **wie**, ist offen · **???**
   > **Frühere Fassung gestrichen:** „auf Schlitten über befeuchtete Piste, ausschließlich über Hammada und Serir" stammte nicht vom Autor
-- **[Azzims](../../Menschen/Wuestenvolk/Azzim-u-Tawan.md) zweiter Auftritt** liegt hier: Er tritt **offen auf und verhandelt mit dem Clan** — er will sie kaufen oder eintauschen. Der Clan lehnt ab; Sippenpflicht schlägt Handel. **Girlin ist dabei**, deshalb kann er ihr begegnen, ohne an sie heranzukommen
+- **[Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) zweiter Auftritt** liegt hier: Er tritt **offen auf und verhandelt mit dem Clan** — er will sie kaufen oder eintauschen. Der Clan lehnt ab; Sippenpflicht schlägt Handel. **Girlin ist dabei**, deshalb kann er ihr begegnen, ohne an sie heranzukommen
   - **Er verliert den Zug** und sieht **nicht**, wohin der Ring gebracht wird (entschieden 03.09.2026). Deshalb muss er die Schlucht später erst finden
   - **Offen:** Verlauf und Einzelheiten der Verhandlung — für das Gerüst ohne Belang · **???**
 - **Ziel:** die **Schlucht** bei Bellbrim — Schatten, Fels, Verteidigungslage. Sie ist danach Werkstatt, Zuflucht und Finalort in einem

@@ -557,7 +557,7 @@ Frühes Leben, Familie und konkrete Fähigkeiten sind offen. Was genau kann sie 
 
 ### C-028: Azzim u-Tawan — Herkunft & Hintergrund ○
 
-[Azzim u-Tawan](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) (Antagonist) ist in Alter, Herkunft, Familie und Vorgeschichte offen. Früherer Story-Hook: möglicherweise ein **abtrünniger Kel Aman**, der die Bräuche seines Volkes verraten hat (siehe [Kel Aman](../Kulturen/Kel-Aman/README.md)) — zu bestätigen oder zu verwerfen. Berührt C-003.
+[Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) (Antagonist) ist in Alter, Herkunft, Familie und Vorgeschichte offen. Früherer Story-Hook: möglicherweise ein **abtrünniger Kel Aman**, der die Bräuche seines Volkes verraten hat (siehe [Kel Aman](../Kulturen/Kel-Aman/README.md)) — zu bestätigen oder zu verwerfen. Berührt C-003.
 
 ---
 
@@ -1110,7 +1110,7 @@ Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 4 und 6): *„Sie wird entführt
 
 Offen ist alles: **Wer** entführt sie, **warum**, **wie lange**, und **wie** kommt sie frei.
 
-**Der naheliegende Täter ist [Azzim u-Tawan](../Menschen/Wuestenvolk/Azzim-u-Tawan.md)** — er ist als Sklavenhändler/Schmuggler geführt ([C-028](#c-028-azzim-u-tawan--herkunft--hintergrund-)/[C-029](#c-029-azzim-u-tawan--charakter-motivation--fähigkeiten-)), und eine blasshäutige Fremde ohne Sippe ist in der Wüste genau seine Ware. Das hätte einen erheblichen Vorteil: In der Kapitelskizze taucht Azzim erst **spät** auf (Girlin 13, Basar), also kurz vor dem Finale — als Antagonist ist er damit dünn eingeführt. Eine frühe Entführung würde ihn **von Anfang an** in Girlins Strang verankern, und die Basar-Begegnung wäre ein **Wiedersehen** statt einer Erstbegegnung.
+**Der naheliegende Täter ist [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md)** — er ist als Sklavenhändler/Schmuggler geführt ([C-028](#c-028-azzim-u-tawan--herkunft--hintergrund-)/[C-029](#c-029-azzim-u-tawan--charakter-motivation--fähigkeiten-)), und eine blasshäutige Fremde ohne Sippe ist in der Wüste genau seine Ware. Das hätte einen erheblichen Vorteil: In der Kapitelskizze taucht Azzim erst **spät** auf (Girlin 13, Basar), also kurz vor dem Finale — als Antagonist ist er damit dünn eingeführt. Eine frühe Entführung würde ihn **von Anfang an** in Girlins Strang verankern, und die Basar-Begegnung wäre ein **Wiedersehen** statt einer Erstbegegnung.
 
 **Gegenargument:** Girlins Strang trägt schon viel (Ankunft, Sprachbarriere, Bellbrim, Beziehung, Ringsuche, Kampf). Ein zusätzlicher Entführungsbogen kann ihn überladen — und die Rettung durch die Nomaden bindet sie erneut an das Volk, das sie ohnehin schon aufgenommen hat. Die Wiederholung müsste einen eigenen Zweck haben.
 
@@ -1300,7 +1300,7 @@ Bis dahin war die Wüste ein Ort ohne historischen Anker und damit eine **zweite
 | **Niedergang um 550** | Die garamantische Hochkultur ist zu dieser Zeit real im Verfall — eine Kultur, die gerade vergisst, was sie konnte. Das spiegelt den [Kreislauf](../Welt/README.md) der Ringkosmologie, ohne ihn auszusprechen. |
 | **Fremdheit** | Für einen Nordmann so weit weg wie irgend möglich. Die zehn Jahre Trennung wirken dadurch endgültig. |
 | **Sprachweg** | Löst sich über die Vandalen von selbst → [C-026](#c-026-bellbrim--historische-plausibilität--herkunft-). |
-| **Handel und Sklaverei** | Beides für die Garamanten belegt (Trans-Sahara-Routen nach Tripolitanien) — trägt [Azzims](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) Geschäft ohne Erfindung. |
+| **Handel und Sklaverei** | Beides für die Garamanten belegt (Trans-Sahara-Routen nach Tripolitanien) — trägt [Azzims](../Menschen/Kel-Aman/Azzim-u-Tawan.md) Geschäft ohne Erfindung. |
 
 **Warum nicht die anderen:** *Arabische Halbinsel* — Leser projizieren den Islam hinein, den es 550 noch nicht gibt. *Syrische Wüste* — Steppe statt Sandwüste, und Byzanz gegen Persien drängt Weltpolitik in eine Geschichte, die keine will. *Sogdien* — städtische Händlerkultur statt Nomaden, größter Rechercheaufwand.
 
@@ -1312,7 +1312,7 @@ Bis dahin war die Wüste ein Ort ohne historischen Anker und damit eine **zweite
 
 ### C-089: Azzim — Verhältnis zum Ring (harte Regel) ○
 
-**Festgelegt (Autor, 31.08.2026): Der Ring ist niemals Azzims Motiv.** [Azzim u-Tawan](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) **weiß bis zum Ende nichts vom Ring**. Er verfolgt [Girlin](../Menschen/Nordvolk/Girlin.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md) aus seinen eigenen Gründen (Sklaverei/Schmuggel → [C-028](#c-028-azzim-u-tawan--herkunft--hintergrund-), [C-029](#c-029-azzim-u-tawan--charakter-motivation--fähigkeiten-)); dass am Ende ausgerechnet er durch den Ring nach Norden geworfen wird, ist für ihn eine Katastrophe, kein Ziel.
+**Festgelegt (Autor, 31.08.2026): Der Ring ist niemals Azzims Motiv.** [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) **weiß bis zum Ende nichts vom Ring**. Er verfolgt [Girlin](../Menschen/Nordvolk/Girlin.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md) aus seinen eigenen Gründen (Sklaverei/Schmuggel → [C-028](#c-028-azzim-u-tawan--herkunft--hintergrund-), [C-029](#c-029-azzim-u-tawan--charakter-motivation--fähigkeiten-)); dass am Ende ausgerechnet er durch den Ring nach Norden geworfen wird, ist für ihn eine Katastrophe, kein Ziel.
 
 **Damit ausdrücklich verworfen:** der Vorschlag aus dem [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md), Azzims Motiv auf **Wasser** umzustellen. Begründung des Autors: In Plot 1 kann niemand den Ring zuverlässig oder gar täglich nutzen — eine Wasserbrücke nach Süden existiert schlicht nicht, und ein Antagonist kann nicht etwas anstreben, von dem er nichts weiß.
 
@@ -1354,7 +1354,7 @@ Damit ist jeder künftige Name prüfbar — der Namenstest des [Weltenbau-Leitfa
 | Ishem (m) | **Ishmar** |
 | Tiberan (m) | **gestrichen** — zu nah an *Tibun*, über zwei Stränge hinweg verwechselbar |
 
-Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Menschen/Wuestenvolk/Azzim-u-Tawan.md`, `Kulturen/Kel-Aman/` umbenannt, alle Links und [SUMMARY.md](../SUMMARY.md) angepasst. (`Menschen/Wuestenvolk/Kel-Aman.md` ist seit dem 05.09.2026 in [Kulturen/Kel Aman](../Kulturen/Kel-Aman/README.md) aufgelöst.)
+Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Menschen/Wuestenvolk/Azzim-u-Tawan.md`, `Kulturen/Kel-Aman/` umbenannt, alle Links und [SUMMARY.md](../SUMMARY.md) angepasst. (`Menschen/Wuestenvolk/Kel-Aman.md` ist seit dem 05.09.2026 in [Kulturen/Kel Aman](../Kulturen/Kel-Aman/README.md) aufgelöst; der Figurenordner heißt seit dem 05.09.2026 `Menschen/Kel-Aman/`.)
 
 **Kleiner Restpunkt:** ob die Filiation `u-`/`ult-` auch im **Erzähltext** auftaucht oder nur im Wiki steht · **???**
 
@@ -1672,7 +1672,7 @@ Kein Clan schleppt ein Weltwunder durch die Wüste, weil eine Fremde heim will. 
 
 ~~Es liegt in der Mechanik bereit: Der Skir-Ring liegt am Bach, jede Zündung schiebt rund 14 m³ Süßwasser in die Wüste. Sobald Bellbrim das begreift, ist der Ring eine Quelle.~~ **Gestrichen (Autor, 03.09.2026):** Der Ring im Norden liegt auf **trockenem Grund**; es geht kein Bachwasser über → [C-119](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen-).
 
-**Das liefert zugleich [Azzim](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) endlich ein nachvollziehbares Motiv** → [C-107](#c-107-azzims-motiv--wasser-statt-sklaverei-). Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) nennt den Wassertausch die *größte ungenutzte Konsequenz der eigenen Mechanik*; hier wird sie zum Träger des halben Wüstenstrangs.
+**Das liefert zugleich [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) endlich ein nachvollziehbares Motiv** → [C-107](#c-107-azzims-motiv--wasser-statt-sklaverei-). Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) nennt den Wassertausch die *größte ungenutzte Konsequenz der eigenen Mechanik*; hier wird sie zum Träger des halben Wüstenstrangs.
 
 **Offen:** Wann und wie erfahren die Kel Aman davon, **bevor** je gezündet wurde? Bellbrim kann es nur **behaupten** — also braucht der Transport entweder einen Vertrauensvorschuss oder einen ersten Beweis · **???**
 
@@ -1680,7 +1680,7 @@ Kein Clan schleppt ein Weltwunder durch die Wüste, weil eine Fremde heim will. 
 ---
 
 > ### ✗ Gestrichen (Autor, 02.09.2026)
-> **Wasser war nie eine Entscheidung des Autors, sondern eine Ergänzung von Claude.** Auf Nachfrage hat der Autor ausdrücklich festgestellt, dass er weder gesagt hat, dass Wasser das Motiv ist, noch dass [Azzim](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) den Ring kennt.
+> **Wasser war nie eine Entscheidung des Autors, sondern eine Ergänzung von Claude.** Auf Nachfrage hat der Autor ausdrücklich festgestellt, dass er weder gesagt hat, dass Wasser das Motiv ist, noch dass [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) den Ring kennt.
 >
 > **Es gilt stattdessen:** Der Clan transportiert den Ring aus **Sippenpflicht** — der Neffe ist Blut des Häuptlings ([C-061](#c-061-navigationswissen-des-häuptlings-)).
 >
@@ -1727,7 +1727,7 @@ Gehört zur Schicht „Ordnung" des [Weltenbau-Leitfadens](Weltenbau-Leitfaden.m
 
 ### C-107: Azzims Motiv — Wasser statt Sklaverei ✗
 
-Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) hält [Azzim](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) für einen *rein einseitigen Gegenspieler* und verlangt ein Motiv, das man versteht. Mit [C-104](#c-104-wasser-als-gegenleistung--das-motiv-des-transports-) liegt es auf dem Tisch: **Wasser.**
+Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) hält [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) für einen *rein einseitigen Gegenspieler* und verlangt ein Motiv, das man versteht. Mit [C-104](#c-104-wasser-als-gegenleistung--das-motiv-des-transports-) liegt es auf dem Tisch: **Wasser.**
 
 Ein Mann, der einen Ring beansprucht, der Wasser in die Wüste schiebt, ist kein Bösewicht, sondern jemand mit dem einzig vernünftigen Interesse weit und breit. Er kann dabei die Interessen seiner eigenen Leute vertreten und trotzdem Girlins Gegner sein. Das ist der **dritte Konflikt mit zwei verständlichen Seiten**, den die Prüfliste anmahnt.
 
@@ -1900,7 +1900,7 @@ Betrifft [C-059](#c-059-tibuns-zieheltern-in-kaupvik-) (Zieheltern als Endpunkt)
 
 ### C-116: Azzim tritt zu spät auf ○
 
-Bisher erscheint [Azzim u-Tawan](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) erst auf dem **Basar in Jahr +10** ([Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md), Girlin 13). Ein Antagonist, der im letzten Zehntel auftaucht, ist ein **Zwischenfall, kein Gegenspieler.**
+Bisher erscheint [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) erst auf dem **Basar in Jahr +10** ([Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md), Girlin 13). Ein Antagonist, der im letzten Zehntel auftaucht, ist ein **Zwischenfall, kein Gegenspieler.**
 
 **Entschieden (Autor, 02.09.2026): Es kommen frühere Auftritte hinein.**
 
@@ -2016,7 +2016,7 @@ Damit steht: **Tibuns einziger Preis liegt in Jahr 0/+1** — die Mutter, der Un
 
 ### C-120: Azzims zweite Seite — der dritte Konflikt fehlt wieder ○
 
-Mit der Streichung des Wassermotivs ([C-107](#c-107-azzims-motiv--wasser-statt-sklaverei-)) ist [Azzim](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) wieder das, was der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) bemängelt hat: ein **rein einseitiger Gegenspieler**. Ein Sklavenjäger, der Menschen als Ware sieht, ist der einseitigste Antagonist, den die Epoche hergibt.
+Mit der Streichung des Wassermotivs ([C-107](#c-107-azzims-motiv--wasser-statt-sklaverei-)) ist [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) wieder das, was der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) bemängelt hat: ein **rein einseitiger Gegenspieler**. Ein Sklavenjäger, der Menschen als Ware sieht, ist der einseitigste Antagonist, den die Epoche hergibt.
 
 Die Prüfliste verlangt **drei Konflikte, bei denen beide Seiten verständlich sind**. Zwei stehen: Semund gegen Tibun, und neu die **Werkstatt gegen den Weiler** ([C-100](#c-100-die-werkstatt-an-der-tabustelle-)) — dort ist die Angst des Dorfes vollkommen nachvollziehbar. **Der dritte fehlt.**
 

@@ -1,6 +1,6 @@
 # Kel Aman — Kultur
 
-Nomadisches Wüstenvolk im Wüstenstrang von [Plot 1](../../Plots/Plot-1/README.md). Figuren des Volkes: [Menschen/Wuestenvolk](../../Menschen/Wuestenvolk/README.md).
+Nomadisches Wüstenvolk im Wüstenstrang von [Plot 1](../../Plots/Plot-1/README.md). Figuren des Volkes: [Menschen/Kel-Aman](../../Menschen/Kel-Aman/README.md).
 
 ## Verortung
 
@@ -11,7 +11,7 @@ Prägend und für Szenen nutzbar:
 | | |
 |---|---|
 | **Wasser** | **Foggara** — kilometerlange unterirdische Bewässerungstunnel. Wasser ist Technik, Besitz und Streitgrund zugleich. |
-| **Handel** | Trans-Sahara-Routen nach Tripolitanien; Salz, Textilien, Sklaven. Trägt [Azzims](../../Menschen/Wuestenvolk/Azzim-u-Tawan.md) Geschäft. |
+| **Handel** | Trans-Sahara-Routen nach Tripolitanien; Salz, Textilien, Sklaven. Trägt [Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) Geschäft. |
 | **Verfall** | Die Kultur vergisst gerade, was sie konnte — Ruinen und stillgelegte Tunnel liegen in der Landschaft. |
 | **Kamele** | Um 550 längst etabliert, unproblematisch. |
 
