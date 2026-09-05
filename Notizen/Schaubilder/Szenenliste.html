@@ -1,4 +1,12 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Was jede Szene will</title>
+<style>:root{color-scheme:light}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found]){display:none!important}</style>
+</head>
+<body>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
@@ -29,10 +37,6 @@ h1{font-family:var(--fd);font-weight:600;font-size:clamp(30px,5vw,44px);line-hei
 .fact.warn b{color:var(--gap)}
 .laenge{margin:16px 0 0;font-size:13px;color:var(--ink-3);line-height:1.55;max-width:70ch}
 .laenge b{color:var(--ink-2);font-weight:600}
-.hinweis{margin:26px 0 0;border:1px solid var(--gap);border-left-width:3px;background:var(--gap-tint);padding:14px 17px;border-radius:2px}
-.hinweis p{margin:0;font-size:13.5px;color:var(--ink-2);line-height:1.55}
-.hinweis p+p{margin-top:7px}
-.hinweis b{color:var(--gap)}
 .controls{display:flex;flex-wrap:wrap;gap:18px;align-items:center;margin:28px 0 4px;padding:12px 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);position:sticky;top:0;background:var(--paper);z-index:5}
 .cg{display:flex;align-items:center;gap:7px;flex-wrap:wrap}
 .cg>span{font-family:var(--fm);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-3)}
@@ -46,9 +50,6 @@ select{font-family:var(--fb);font-size:12.5px;padding:5px 8px;border:1px solid v
 .band{margin:20px 0 4px;padding-bottom:7px;border-bottom:2px solid var(--ink);display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
 .band:first-child{margin-top:4px}
 .band h2{font-family:var(--fd);font-weight:600;font-size:22px;margin:0;letter-spacing:-.01em}
-.band .q{font-family:var(--fm);font-size:10px;letter-spacing:.08em;text-transform:uppercase;padding:2px 6px;border-radius:2px}
-.band .q.belegt{background:var(--card);border:1px solid var(--rule-2);color:var(--ink-3)}
-.band .q.frei{background:var(--gap-tint);color:var(--gap)}
 .band .zahl{margin-left:auto;font-family:var(--fm);font-size:11px;color:var(--ink-3);font-variant-numeric:tabular-nums}
 .band p{flex:1 1 100%;margin:6px 0 0;font-size:13px;color:var(--ink-2);line-height:1.5}
 .band[hidden]{display:none!important}
@@ -120,25 +121,16 @@ letter-spacing:.08em;text-transform:uppercase;color:var(--gap)}
   <p class="laenge"><b>Grobe Größenordnung:</b> 45 Szenen zu je 1.200–2.000 Wörtern ergäben rund <b>54.000–90.000 Wörter</b>. Für Jugendbücher ab 16 sind 60.000–90.000 üblich. Branchenrichtwerte, keine Festlegung; nichts davon steht im Wiki.</p>
 </header>
 
-<div class="hinweis">
-  <p><b>Entschieden am 04.09.2026:</b> Der Prolog besteht aus <b>„Das Beben“</b>. Das frühere „Das Beben und der Blitz“ ist in zwei Szenen geteilt. Und der Auftakt liegt <b>vollständig in Jahr 0</b>: <b>Beben → Bernstein-Effekt → Blitz</b>, jeweils nur ein paar Tage auseinander.</p>
-  <p><b>Jahr −1 entfällt damit.</b> Der Bernstein-Effekt lag bisher ein Jahr vor dem Verschwinden — jetzt liegt er dazwischen. <b>Tibun ist dabei 16, nicht 15.</b> Die Erzählung läuft dadurch chronologisch; ein Rücksprung ist nicht mehr nötig.</p>
-  <p><b>Ebenfalls entschieden am 04.09.2026:</b> <b>„Der Blitz“ ist in zwei Karten geteilt</b> — derselbe Moment aus Girlins und aus Tibuns Sicht, in dieser Reihenfolge. Girlins Karte endet dort, wo es für sie schwarz wird; das Aufwachen bleibt bei „Ankunft im Fezzan“. Was sie von dem Moment überhaupt wahrnimmt, ist offen (C-146).</p>
-  <p><b>Diese Seite erfindet nichts.</b> Ziele und Hindernisse stehen nur da, wo das Wiki sie hergibt. Jedes <span class="offen">???</span> ist eine echte Leerstelle. Der Szenenzuschnitt ist eine Lesart.</p>
-</div>
 
 <div class="controls">
   <div class="cg"><span>Reihenfolge</span>
-    <button class="chip" data-ord="erz" aria-pressed="true">Erzählt</button>
-    <button class="chip" data-ord="block" aria-pressed="false">Blockweise</button>
-    <button class="chip" data-ord="par" aria-pressed="false">Parallel</button></div>
-  <div class="cg"><span>Anfang endet nach</span><select id="grenze"><option value="2">2 · Der Bernstein-Effekt (0)</option><option value="3">3 · Der Blitz — Girlin (0)</option><option value="4" selected>4 · Der Blitz — Tibun (0)</option><option value="5">5 · Ankunft im Fezzan (0)</option><option value="6">6 · Die Mulde (0)</option><option value="7">7 · Sprache und Fremdheit (0)</option><option value="8">8 · Was das Dorf daraus macht (0)</option><option value="9">9 · Der Suchtrupp (0)</option><option value="10">10 · Semund und Millia (0)</option><option value="11">11 · Der Unfall (0)</option><option value="12">12 · Der Ausschluss (0)</option><option value="13">13 · Aufbruch aus Skirraa (+1)</option><option value="14">14 · Bellbrim (+1)</option><option value="15">15 · Die Zwischenstation (+1)</option><option value="16">16 · Ankunft in Kaupvik (+1)</option><option value="17">17 · Die Zieheltern (+1)</option><option value="18">18 · Sammeln ohne zu wissen wie (+1)</option><option value="19">19 · Der Neffe (+3)</option><option value="20">20 · Azzim, Auftritt 1 (+3)</option><option value="21">21 · Der Erkenntnismoment (+4)</option><option value="22">22 · Das dritte Kind (+4)</option><option value="23">23 · Das Ziel kippt (+4)</option><option value="24">24 · Der Ring bekommt einen neuen Zweck (+4)</option><option value="25">25 · Die Bitte (+5)</option><option value="26">26 · Die Trennung vom Clan (+5)</option><option value="27">27 · Das Tischmodell (+5)</option><option value="28">28 · Arbeit am Generator (+5)</option><option value="29">29 · Der Basar (+5)</option><option value="30">30 · Der Transport (+7)</option><option value="31">31 · Azzim, Auftritt 2 (+7)</option><option value="32">32 · Der Ring liegt in der Schlucht (+8)</option><option value="33">33 · Vollendung des Generators (+8)</option><option value="34">34 · Aufbruch aus Kaupvik (+9)</option><option value="35">35 · Azzim, Auftritt 3 (+9)</option><option value="36">36 · Die Werkstatt an der Tabustelle (+9)</option><option value="37">37 · Die Nachricht liegt bereit (+9)</option><option value="38">38 · Der Weiler warnt und meidet (+9)</option><option value="39">39 · Die Wala lässt ihn gewähren (+9)</option><option value="40">40 · Truda hält ihn für verloren (+9)</option><option value="41">41 · Zweifel und Bestätigung (+10)</option></select></div>
+    <button class="chip" data-ord="par" aria-pressed="true">Parallel</button>
+    <button class="chip" data-ord="erz" aria-pressed="false">Erzählt</button></div>
   <div class="cg"><span>Strang</span>
     <button class="chip" data-str="beide" aria-pressed="true">Beide</button>
     <button class="chip" data-str="T" aria-pressed="false">Tibun</button>
     <button class="chip" data-str="G" aria-pressed="false">Girlin</button></div>
   <div class="cg"><span>Ebene</span><button class="chip" id="bw" aria-pressed="false">Ziele &amp; Hindernisse</button></div>
-  <div class="cg"><span>Filter</span><button class="chip" id="bh" aria-pressed="false">Nur ohne Hindernis</button></div>
   <span class="treffer" id="tr">45 von 45</span>
 </div>
 
@@ -514,43 +506,34 @@ letter-spacing:.08em;text-transform:uppercase;color:var(--gap)}
 <footer>
   Quelle: <code>Plots/Plot-1/Szenen.md</code> — diese Seite wird daraus erzeugt (<code>tools/szenenliste.py</code>) und nicht von Hand gepflegt · Stand 05.09.2026.<br>
   <strong>Nicht enthalten:</strong> Kapitelnummern, Kapitelgrenzen, Kapitellängen. Die Nummer links ist die Position in der gewählten Reihenfolge, keine Kapitelnummer. Die Ereigniskette steht in <code>Zeitleiste.md</code> und wird hier nicht wiederholt.<br>
-  <strong>Szenenzuschnitt und Ziele stehen jetzt im Wiki</strong> — als Arbeitsstand, nicht als Entscheidung (<code>Szenen.md</code>, Status <code>???</code>, C-143). Die vorausgewählte <strong>Anfang-Grenze</strong> bleibt eine Voreinstellung dieser Seite: wo der Anfang endet, ist offen (C-140).
+  <strong>Szenenzuschnitt und Ziele stehen jetzt im Wiki</strong> — als Arbeitsstand, nicht als Entscheidung (<code>Szenen.md</code>, Status <code>???</code>). <strong>Wo der Anfang endet, ist offen</strong> — der Schnitt zwischen Anfang und Hauptteil ist eine Lesehilfe dieser Seite (gesetzt in <code>tools/szenenliste.py</code>), keine Entscheidung des Autors.
 </footer>
 </div>
 
 <script>
 (function(){
-  var liste=document.getElementById('liste'), tr=document.getElementById('tr'), sel=document.getElementById('grenze');
+  var liste=document.getElementById('liste'), tr=document.getElementById('tr');
   var bk=document.getElementById('bk');
   var karten=Array.prototype.slice.call(liste.querySelectorAll('.sz'));
-  var PRO="Das Beben", SCHLUSS=42;
-  var ord='erz', str='beide', nurOhne=false, anfEnde=4;
+  var PRO="Das Beben", SCHLUSS=42, ANF_ENDE=4;
+  var ord='par', str='beide';
   var DEF={
-    prolog:['Prolog','entschieden','Besteht aus einer Szene: dem Beben. Entschieden am 04.09.2026.'],
-    anfang:['Anfang','frei','Setzt wenige Tage nach dem Beben ein, mit dem Bernstein-Effekt. Wo er endet, steht nirgends — verschieb den Schnitt oben.'],
-    haupt:['Hauptteil','belegt','Die zwei parallelen Stränge. Tibun im Norden, Girlin in der Wüste — zehn Jahre, ohne voneinander zu wissen.'],
-    schluss:['Schluss','belegt','Der gemeinsame Block: zwei Zündungen, Minuten auseinander, ein durchgehender Zug.'],
-    epilog:['Epilog','frei','Nicht vorgesehen. Das Buch endet mit der Entscheidung, nicht mit ihrer Ausführung; der Norden nach Tibuns Verschwinden wird ausdrücklich nicht erzählt. Ein Epilog wäre eine Entscheidung gegen beides — und berührte C-110.'],
-    tibun:['Tibun · Norden','frei','Blockweise erzählt bekommt jeder Strang seinen eigenen Bogen.'],
-    girlin:['Girlin · Wüste','frei','Der zweite Block. Sein Ende ist zugleich das Ende des Buchs.']
+    prolog:['Prolog','Besteht aus einer Szene: dem Beben. Entschieden am 04.09.2026.'],
+    anfang:['Anfang','Setzt wenige Tage nach dem Beben ein, mit dem Bernstein-Effekt. Wo er endet, steht nirgends — der Schnitt hier ist eine Lesehilfe dieser Seite, keine Entscheidung.'],
+    haupt:['Hauptteil','Die zwei parallelen Stränge. Tibun im Norden, Girlin in der Wüste — zehn Jahre, ohne voneinander zu wissen.'],
+    schluss:['Schluss','Der gemeinsame Block: zwei Zündungen, Minuten auseinander, ein durchgehender Zug.'],
+    epilog:['Epilog','Nicht vorgesehen. Das Buch endet mit der Entscheidung, nicht mit ihrer Ausführung; der Norden nach Tibuns Verschwinden wird ausdrücklich nicht erzählt. Ein Epilog wäre eine Entscheidung gegen beides — und berührte die offene Frage, ob die Figuren wissen, was der Schlusssatz sie kostet.']
   };
   var baender={};
   Object.keys(DEF).forEach(function(k){
     var d=DEF[k], b=document.createElement('div');
     b.className='band'+(k==='epilog'?' epilog':'');
-    b.innerHTML='<h2>'+d[0]+'</h2><span class="q '+(d[1]==='frei'?'frei':'belegt')+'">'+d[1]+
-      '</span><span class="zahl"></span><p>'+d[2]+'</p>';
+    b.innerHTML='<h2>'+d[0]+'</h2><span class="zahl"></span><p>'+d[1]+'</p>';
     baender[k]=b;
   });
   function anwenden(){
-    // Die gespeicherte Reihenfolge IST die Erzaehlreihenfolge (C-147 ✓).
-    // Nur "Blockweise" ordnet um: erst Tibun, dann Girlin, je in Erzaehlreihenfolge.
-    var sorted=karten.slice();
-    if(ord==='block') sorted.sort(function(a,b){
-      var pa=a.dataset.pov==='T'?0:1, pb=b.dataset.pov==='T'?0:1;
-      if(pa!==pb) return pa-pb;
-      return (+a.dataset.pos)-(+b.dataset.pos);
-    });
+    // Die gespeicherte Reihenfolge IST die Erzaehlreihenfolge (entschieden) --
+    // sie wird nie umsortiert. "Parallel" versetzt nur die Bahnen.
     var parallel = ord==='par' && str==='beide';
     liste.classList.toggle('par', parallel);
     if(bk.parentNode) bk.parentNode.removeChild(bk);
@@ -558,22 +541,19 @@ letter-spacing:.08em;text-transform:uppercase;color:var(--gap)}
     Object.keys(baender).forEach(function(k){var b=baender[k]; if(b.parentNode) b.parentNode.removeChild(b);});
     if(parallel) liste.appendChild(bk);
     var n=0, gesehen={}, zaehler={}, pos=0;
-    sorted.forEach(function(k){
-      var okStr=(str==='beide')||k.dataset.pov===str;
-      var okH=!nurOhne||k.classList.contains('kein-hindernis');
-      var zeig=okStr&&okH;
+    karten.forEach(function(k){
+      var zeig=(str==='beide')||k.dataset.pov===str;
       k.hidden=!zeig; pos++;
       var key;
-      if(ord==='block') key = k.dataset.pov==='T'?'tibun':'girlin';
-      else if(k.dataset.titel===PRO) key='prolog';
-      else if(pos<=anfEnde) key='anfang';
+      if(k.dataset.titel===PRO) key='prolog';
+      else if(pos<=ANF_ENDE) key='anfang';
       else if(pos<SCHLUSS) key='haupt';
       else key='schluss';
       if(zeig&&!gesehen[key]){ gesehen[key]=true; liste.appendChild(baender[key]); }
       liste.appendChild(k);
       if(zeig){ n++; zaehler[key]=(zaehler[key]||0)+1; }
     });
-    if(ord!=='block'&&gesehen.schluss){ liste.appendChild(baender.epilog); gesehen.epilog=true; }
+    if(gesehen.schluss){ liste.appendChild(baender.epilog); gesehen.epilog=true; }
     Object.keys(baender).forEach(function(k){
       var b=baender[k];
       if(!gesehen[k]){ if(b.parentNode) b.parentNode.removeChild(b); return; }
@@ -588,13 +568,11 @@ letter-spacing:.08em;text-transform:uppercase;color:var(--gap)}
   }
   gruppe('[data-ord]',function(b){ord=b.dataset.ord;});
   gruppe('[data-str]',function(b){str=b.dataset.str;});
-  sel.addEventListener('change',function(){anfEnde=+sel.value; anwenden();});
   var bw=document.getElementById('bw');
   bw.addEventListener('click',function(){var on=bw.getAttribute('aria-pressed')!=='true';
     bw.setAttribute('aria-pressed',on?'true':'false'); liste.classList.toggle('zeig-w',on);});
-  var bh=document.getElementById('bh');
-  bh.addEventListener('click',function(){nurOhne=bh.getAttribute('aria-pressed')!=='true';
-    bh.setAttribute('aria-pressed',nurOhne?'true':'false'); anwenden();});
   anwenden();
 })();
 </script>
+</body>
+</html>

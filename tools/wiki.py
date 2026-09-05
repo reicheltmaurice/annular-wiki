@@ -267,3 +267,63 @@ def lies_alter():
                 )
         alter[figur] = start
     return alter
+
+
+# ------------------------------------------------ Ausgabe fuer den Browser
+
+# Der Artifact-Dienst legt beim Veroeffentlichen selbst ein HTML-Geruest um die
+# Seite; die Vorlagen liefern deshalb nur den Seiteninhalt. Lokal fehlt dieses
+# Geruest -- ohne <!doctype> rendert der Browser im Quirks-Mode und das Layout
+# verschiebt sich. rahme() setzt genau dasselbe Geruest, damit die Datei unter
+# Notizen/Schaubilder/ im Browser so aussieht wie die veroeffentlichte Fassung.
+
+RAHMEN = (
+    '<!doctype html>\n<html lang="de">\n<head>\n'
+    '<meta charset="utf-8">\n'
+    '<meta name="viewport" content="width=device-width,initial-scale=1">\n'
+    "%(titel)s"
+    "<style>:root{color-scheme:light}body{margin:0;padding:0;"
+    "font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}"
+    "img{max-width:100%%}[hidden]:not([hidden=until-found]){display:none!important}</style>\n"
+    "</head>\n<body>\n%(inhalt)s\n</body>\n</html>\n"
+)
+
+TITEL = re.compile(r"^<title>(.*?)</title>\n", re.S)
+
+
+def rahme(inhalt):
+    """Setzt das HTML-Geruest um den Seiteninhalt.
+
+    Der Titel wandert dabei aus dem Rumpf in den Kopf -- sonst zeigt der
+    Browser-Tab den Dateinamen statt des Seitentitels.
+    """
+    m = TITEL.match(inhalt)
+    titel = "<title>%s</title>\n" % m.group(1) if m else ""
+    if m:
+        inhalt = inhalt[m.end():]
+    return RAHMEN % {"titel": titel, "inhalt": inhalt.rstrip("\n")}
+
+
+def schreibe(ziel, inhalt, argv):
+    """Schreibt das Schaubild und wertet --pruefen und --artifact aus.
+
+    Standard: gerahmt nach `ziel` -- diese Datei laesst sich direkt im Browser
+    oeffnen und ist die Arbeitsfassung.
+      --pruefen            vergleicht nur, schreibt nichts
+      --artifact [PFAD]    legt zusaetzlich die ungerahmte Fassung ab; nur die
+                           wird veroeffentlicht, weil der Dienst sein eigenes
+                           Geruest setzt. Ohne PFAD: /tmp/<Dateiname>
+    """
+    seite = rahme(inhalt)
+    if "--artifact" in argv:
+        i = argv.index("--artifact")
+        rest = argv[i + 1] if len(argv) > i + 1 else ""
+        pfad = Path(rest) if rest and not rest.startswith("-") else Path("/tmp") / ziel.name
+        pfad.write_text(inhalt, encoding="utf-8")
+        print("Artifact-Fassung (ohne HTML-Geruest): %s" % pfad)
+    if "--pruefen" in argv:
+        alt = ziel.read_text(encoding="utf-8") if ziel.exists() else ""
+        print("unveraendert" if alt == seite else "WEICHT AB -- ohne --pruefen neu erzeugen")
+        return
+    ziel.write_text(seite, encoding="utf-8")
+    print("geschrieben: %s" % ziel.relative_to(WURZEL))

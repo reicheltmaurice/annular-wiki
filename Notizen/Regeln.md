@@ -58,9 +58,11 @@ Bereits vergebene C-Nummern technischer Art bleiben stehen — Nummern werden ni
 
 **Die einzigen Ausnahmen** sind `CLAUDE.md` und `Sitzungsprompt.md` — Arbeitsanweisungen an Claude, kein Wiki-Inhalt — sowie der Navigationseintrag in `SUMMARY.md`, der mit der Datei wegfällt.
 
+**Ebenfalls ausgenommen: die Kommentare in `tools/*.py`** (entschieden 05.09.2026 vom Autor). Sie belegen, worauf eine technische Entscheidung zurückgeht. Die Skripte sind Werkzeug, kein Wiki-Inhalt: keine C-Nummer daraus erscheint in einer erzeugten Seite, und es hängt kein Link daran — der Prüfstein bleibt erfüllt. Erzeugte Seiten und Vorlagen (`tools/*.template.html`, `Notizen/Schaubilder/*.html`) fallen **nicht** darunter; sie werden gelesen und sind seit dem 05.09.2026 frei von C-Nummern.
+
 **Auch die Schaubilder hängen nicht mehr daran** (umgestellt 05.09.2026): Der Szenenkopf in [Szenen.md](../Plots/Plot-1/Szenen.md) nennt hinter **Offen** die Sachen im Klartext statt C-Nummern. Beide Generatoren laufen vollständig ohne `Challenges.md`; ihre Hygiene prüft `python3 tools/pruefe_challenges.py` getrennt.
 
-**Geprüft wird das so:** `grep -rn "C-[0-9][0-9][0-9]" --include="*.md" . | grep -v Challenges.md` darf nur diese Ausnahmen und den Beispielblock unten zeigen.
+**Geprüft wird das so:** `grep -rn "C-[0-9][0-9][0-9]" --include="*.md" . | grep -v Challenges.md` darf nur diese Ausnahmen und den Beispielblock unten zeigen. Die Skripte liegen nicht im Prüfbereich (`--include="*.md"`); für die erzeugten Seiten prüft `grep -rn "C-[0-9][0-9][0-9]" Notizen/Schaubilder/Szenenliste.html Notizen/Schaubilder/Zeitgeruest.html tools/*.template.html` — dort ist **nichts** erlaubt. `Notizen/Schaubilder/Kapitelraster.html` trägt noch 45 C-Nummern: eine von Hand gepflegte Seite, die durch die Szenenliste ersetzt und als **überholt** geführt ist (siehe die Tabelle in [Schaubilder/README.md](Schaubilder/README.md)). Sie fällt mit ihrer Ablösung weg.
 
 Ein Leser des Wikis soll den Artikel lesen können, ohne über Arbeitsstände zu stolpern.
 

@@ -1,15 +1,22 @@
 #!/usr/bin/env python3
 """Erzeugt Notizen/Schaubilder/Zeitgeruest.html aus den Wiki-Quellen.
 
-Quellen -- alle drei werden gelesen, keine wird von Hand nachgepflegt:
-  Plots/Plot-1/Szenen.md      Karten: Titel, Strang, Jahr, Felder, C-Nummern
-  Notizen/Challenges.md       Titel und Status je C-Nummer (massgeblich: die
-                              Uebersicht am Dateikopf, siehe C-137)
+Quellen -- beide werden gelesen, keine wird von Hand nachgepflegt:
+  Plots/Plot-1/Szenen.md      Karten: Titel, Strang, Jahr, Felder, offene Punkte
   Plots/Plot-1/Zeitleiste.md  Altersgeruest (Startalter, linear geprueft)
+
+Challenges.md wird nicht gelesen -- die Seite haengt nicht daran (Regeln.md,
+"Verwiesen wird nur in eine Richtung").
 
 Aufruf (aus dem Wurzelverzeichnis des Wikis):
     python3 tools/zeitgeruest.py            # erzeugen
     python3 tools/zeitgeruest.py --pruefen  # nur pruefen, nichts schreiben
+    python3 tools/zeitgeruest.py --artifact # zusaetzlich die Fassung zum Veroeffentlichen
+
+Die erzeugte Datei traegt ein vollstaendiges HTML-Geruest und laesst sich direkt
+im Browser oeffnen -- das ist die Arbeitsfassung. Zum Veroeffentlichen braucht
+es die ungerahmte Fassung aus --artifact; der Dienst setzt sein eigenes Geruest.
+Beide haben denselben Inhalt.
 
 Nicht erzeugt und weiterhin von Hand im Template gepflegt: der Kopftext, die
 Luecken-Liste ("Was fehlt") und die Legende. Diese Texte koennen veralten.
@@ -101,7 +108,6 @@ def zeile(jahr, szenen, alter):
 
 
 def main():
-    nur_pruefen = "--pruefen" in sys.argv
     szenen = lies_szenen(wiki.SZENEN.read_text(encoding="utf-8"))
     alter = lies_alter()
 
@@ -134,12 +140,7 @@ def main():
           % (leer["Tibun"] or "keine", leer["Girlin"] or "keine"))
     print("Startalter laut Zeitleiste: Tibun %d, Girlin %d" % (alter["Tibun"], alter["Girlin"]))
 
-    if nur_pruefen:
-        alt = ZIEL.read_text(encoding="utf-8") if ZIEL.exists() else ""
-        print("unveraendert" if alt == html_text else "WEICHT AB -- ohne --pruefen neu erzeugen")
-        return
-    ZIEL.write_text(html_text, encoding="utf-8")
-    print("geschrieben: %s" % ZIEL.relative_to(wiki.WURZEL))
+    wiki.schreibe(ZIEL, html_text, sys.argv)
 
 
 if __name__ == "__main__":

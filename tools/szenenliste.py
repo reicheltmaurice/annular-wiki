@@ -8,6 +8,12 @@ Aufruf (aus dem Wurzelverzeichnis des Wikis):
     python3 tools/szenenliste.py               # erzeugen
     python3 tools/szenenliste.py --pruefen     # nur pruefen, nichts schreiben
     python3 tools/szenenliste.py --nummerieren # Nummern in Szenen.md nachziehen, dann erzeugen
+    python3 tools/szenenliste.py --artifact    # zusaetzlich die Fassung zum Veroeffentlichen
+
+Die erzeugte Datei traegt ein vollstaendiges HTML-Geruest und laesst sich
+direkt im Browser oeffnen -- das ist die Arbeitsfassung. Zum Veroeffentlichen
+braucht es die ungerahmte Fassung aus --artifact; der Dienst setzt sein eigenes
+Geruest. Beide haben denselben Inhalt.
 
 --nummerieren ist rein mechanisch: es setzt die Nummern der Szenen-Ueberschriften
 nach der Reihenfolge in der Datei neu und zieht die Nummern in der
@@ -16,8 +22,7 @@ zu verschieben, zu streichen und zusammenzulegen ist Sache des Autors.
 
 Abgeleitet und bei jedem Lauf neu gerechnet:
   - die Positionsnummern (lueckenlos ab 1, in Reihenfolge der Datei = Erzaehlreihenfolge)
-  - die <option> des Auswahlfelds "Anfang endet nach"
-  - PRO / SCHLUSS im JS, gebunden an den Szenentitel, nicht an eine Nummer
+  - PRO / SCHLUSS / ANF_ENDE im JS, gebunden an den Szenentitel, nicht an eine Nummer
   - die fuenf Kennzahlen im Kopf
   - die Wortzahl-Groessenordnung
 """
@@ -35,10 +40,11 @@ QUELLE = wiki.SZENEN
 TEMPLATE = Path(__file__).resolve().parent / "szenenliste.template.html"
 ZIEL = wiki.WURZEL / "Notizen" / "Schaubilder" / "Szenenliste.html"
 
-# Anzeigevoreinstellung des Auswahlfelds "Anfang endet nach".
-# KEINE Festlegung: Wo der Anfang endet, ist offen (C-140). Der Wert steht
-# bewusst hier und nicht in Szenen.md, damit im Wiki keine Entscheidung
-# behauptet wird, die der Autor nicht getroffen hat.
+# Wo der Anfang endet und der Hauptteil beginnt -- Grenze der Baender.
+# KEINE Festlegung: Das ist offen. Der Wert steht bewusst hier und nicht in
+# Szenen.md, damit im Wiki keine Entscheidung behauptet wird, die der Autor
+# nicht getroffen hat. Bis 05.09.2026 war er im Auswahlfeld der Seite
+# verstellbar; das Feld ist auf Wunsch des Autors entfallen.
 ANFANG_ENDET_NACH = "Der Blitz — Tibun"
 
 # Branchenrichtwerte fuer die Groessenordnung, keine Festlegung.
@@ -91,22 +97,6 @@ def karte(s, prolog_titel):
     )
 
 
-def optionen(szenen, schluss_pos, gewaehlt):
-    """Alle Szenen, die als Ende des Anfangs in Frage kommen.
-
-    Ohne den Prolog (Position 1 -- der Anfang beginnt danach) und ohne den
-    Schlussblock; die letzte Wahlmoeglichkeit ist die Szene vor dem Schluss.
-    """
-    teile = []
-    for s in szenen[1 : schluss_pos - 1]:
-        jahr = "0" if s["jahr_zahl"] == 0 else "+%d" % s["jahr_zahl"]
-        sel = " selected" if s["pos"] == gewaehlt else ""
-        teile.append(
-            '<option value="%d"%s>%d · %s (%s)</option>' % (s["pos"], sel, s["pos"], s["titel"], jahr)
-        )
-    return "".join(teile)
-
-
 def nummerieren(md):
     """Setzt die Nummern der Szenen-Ueberschriften und der Gliederungstabelle neu.
 
@@ -154,7 +144,6 @@ def nummerieren(md):
 
 
 def main():
-    nur_pruefen = "--pruefen" in sys.argv
     md = QUELLE.read_text(encoding="utf-8")
 
     if "--nummerieren" in sys.argv:
@@ -191,11 +180,11 @@ def main():
                 "Gliederungstabelle in Szenen.md: %s nennt Szene %d, tatsaechlich ist es Szene %d. "
                 "Mit --nummerieren nachziehen." % (teil, genannt, tatsaechlich)
             )
-    anf_ende = position_von(szenen, ANFANG_ENDET_NACH, "Voreinstellung Anfang-Grenze")
+    anf_ende = position_von(szenen, ANFANG_ENDET_NACH, "Grenze Anfang/Hauptteil")
     if not 2 <= anf_ende < schluss_pos:
         fehler(
-            "die Voreinstellung ANFANG_ENDET_NACH (%r, Position %d) liegt ausserhalb des "
-            "Anfangs -- Wert in %s anpassen." % (ANFANG_ENDET_NACH, anf_ende, Path(__file__).name)
+            "ANFANG_ENDET_NACH (%r, Position %d) liegt ausserhalb des Anfangs -- "
+            "Wert in %s anpassen." % (ANFANG_ENDET_NACH, anf_ende, Path(__file__).name)
         )
 
     werte = kennzahlen(szenen)
@@ -207,7 +196,6 @@ def main():
         SCHLUSS_POS=schluss_pos,
         ANF_ENDE=anf_ende,
         KARTEN="\n      </article>      ".join(karte(s, prolog_titel) for s in szenen) + "\n      </article>",
-        OPTIONS=optionen(szenen, schluss_pos, anf_ende),
     )
 
     html = TEMPLATE.read_text(encoding="utf-8")
@@ -222,16 +210,11 @@ def main():
         % (werte["N"], werte["T"], werte["G"], werte["VOLL"],
            werte["OHNE_H"], werte["ZUSTAND"], werte["KEIN_W"])
     )
-    print("Prolog: 1 %s · Schluss ab: %d %s · Anfang-Grenze voreingestellt: %d %s"
-          % (prolog_titel, schluss_pos, schluss_titel, anf_ende, ANFANG_ENDET_NACH))
+    print("Prolog: 1 %s · Anfang bis: %d %s · Schluss ab: %d %s"
+          % (prolog_titel, anf_ende, ANFANG_ENDET_NACH, schluss_pos, schluss_titel))
     print("Umfang: %s-%s Woerter" % (werte["WORT_MIN"], werte["WORT_MAX"]))
 
-    if nur_pruefen:
-        alt = ZIEL.read_text(encoding="utf-8") if ZIEL.exists() else ""
-        print("unveraendert" if alt == html else "WEICHT AB -- ohne --pruefen neu erzeugen")
-        return
-    ZIEL.write_text(html, encoding="utf-8")
-    print("geschrieben: %s" % ZIEL.relative_to(wiki.WURZEL))
+    wiki.schreibe(ZIEL, html, sys.argv)
 
 
 if __name__ == "__main__":

@@ -2476,7 +2476,7 @@ Aufgekommen am 04.09.2026, als der Autor **Der Blitz — Girlin** vor **Der Blit
 
 **Was daraus folgt:**
 
-- Die Sortierung **„Chronologisch"** im Schaubild [Szenenliste](Schaubilder/Szenenliste.html) ist **entfernt**. Sie sortierte nach derselben Zahl wie „Erzählt" und behauptete damit eine Unterscheidung, hinter der keine Daten standen. Geblieben sind *Erzählt*, *Blockweise* und *Parallel*.
+- Die Sortierung **„Chronologisch"** im Schaubild [Szenenliste](Schaubilder/Szenenliste.html) ist **entfernt**. Sie sortierte nach derselben Zahl wie „Erzählt" und behauptete damit eine Unterscheidung, hinter der keine Daten standen. Geblieben sind *Erzählt* und *Parallel*, **Parallel als Startansicht** — **auch „Blockweise" ist am 05.09.2026 auf Wunsch des Autors entfernt** ("das brauche ich nicht"), zusammen mit dem Auswahlfeld *Anfang endet nach*, dem Filter *Nur ohne Hindernis* und den Chips an den Kategorien. Die fünf Kategorien Prolog / Anfang / Hauptteil / Schluss / Epilog bleiben; die Grenze Anfang/Hauptteil setzt das Skript.
 - Das Datenfeld der Karten heißt jetzt `data-pos` statt `data-chrono` — die Zahl ist die Position in der Erzählung, nicht in der Zeit.
 - **Wann etwas geschieht**, steht weiterhin ausschließlich in der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md); die Jahresangabe je Szene bleibt als grobe Einordnung erhalten.
 
