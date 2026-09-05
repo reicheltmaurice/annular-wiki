@@ -60,7 +60,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-068: Prolog — Brand und Brandblasen nachziehen ○](#c-068-prolog--brand-und-brandblasen-nachziehen-)
 - [C-069: Prolog — Fridas Familie und Stiefvater ○](#c-069-prolog--fridas-familie-und-stiefvater-)
 - [C-071: Prolog — Tibuns Alter und Heiratsantrag ○](#c-071-prolog--tibuns-alter-und-heiratsantrag-)
-- [C-072: Prolog — Textfassung 2.2 oder 2.3 ○](#c-072-prolog--textfassung-22-oder-23-)
 - [C-074: Haptik der Ringoberfläche ○](#c-074-haptik-der-ringoberfläche-)
 - [C-075: Ist das Ringmaterial ein Metall? ○](#c-075-ist-das-ringmaterial-ein-metall-)
 - [C-076: Abklingdauer des grünen Leuchtens ○](#c-076-abklingdauer-des-grünen-leuchtens-)
@@ -106,8 +105,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-141: Der Auftakt ist jetzt sehr dicht ○](#c-141-der-auftakt-ist-jetzt-sehr-dicht-)
 - [C-142: Wie die geschriebenen Szenen gegliedert werden ○](#c-142-wie-die-geschriebenen-szenen-gegliedert-werden-)
 - [C-143: Szenen.md — der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd--der-zuschnitt-stammt-nicht-vom-autor-)
-- [C-144: Das Feld „Will" ist uneinheitlich belegt ○](#c-144-das-feld-will-ist-uneinheitlich-belegt-)
-- [C-145: „Ohne Hindernis" wird zu niedrig gezählt ○](#c-145-ohne-hindernis-wird-zu-niedrig-gezählt-)
 - [C-146: Was Girlin vom Flip wahrnimmt ○](#c-146-was-girlin-vom-flip-wahrnimmt-)
 
 **Gelöst / Entschieden**
@@ -133,6 +130,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-061: Navigationswissen — Schweigen gestrichen ✗](#c-061-navigationswissen-des-häuptlings-)
 - [C-062: Azzims Ankunft vor Tibuns Zündung ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)
 - [C-070: Prolog — Dateikopf und Versionszeile ✓](#c-070-prolog--dateikopf-und-versionszeile-)
+- [C-072: Prolog — Textfassung 2.2 oder 2.3 ✓](#c-072-prolog--textfassung-22-oder-23-)
 - [C-073: Querschnitt der Ringe — flacher Armreif ✓](#c-073-querschnitt-der-ringe--flacher-armreif-)
 - [C-080: Girlins Entführung und Rettung ✗](#c-080-girlins-entführung-und-rettung-)
 - [C-082: Girlins Entscheidung zur Rückreise ✓](#c-082-girlins-entscheidung-zur-rückreise-)
@@ -159,6 +157,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-127: Referenzdichte 7,8 g/cm³ ✓](#c-127-referenzdichte-)
 - [C-137: Aufbau der Challenges-Datei ✓](#c-137-detailabschnitte-ab-c-099-stehen-unter-der-falschen-überschrift-)
 - [C-138: Abstand zwischen Beben und Blitz ✓](#c-138-abstand-zwischen-beben-und-blitz-)
+- [C-144: Das Feld „Will" ist uneinheitlich belegt ✓](#c-144-das-feld-will-ist-uneinheitlich-belegt-)
+- [C-145: „Ohne Hindernis" wird zu niedrig gezählt ✓](#c-145-ohne-hindernis-wird-zu-niedrig-gezählt-)
 - [C-147: Die Nummer ist die Erzählreihenfolge ✓](#c-147-die-nummer-ist-die-erzählreihenfolge-)
 - [C-148: Der Statusmarker im Titel bricht die Anker ✓](#c-148-der-statusmarker-im-titel-bricht-die-anker-)
 
@@ -996,11 +996,13 @@ In der Szene will Tibun **um Fridas Hand anhalten**, wird aber durchweg als „J
 
 ---
 
-### C-072: Prolog — Textfassung 2.2 oder 2.3 ○
+### C-072: Prolog — Textfassung 2.2 oder 2.3 ✓
 
 Vom Autor existierten zwei alte Fassungen, **2.2** und **2.3**; sie unterscheiden sich an fünf Stellen (reiner Feinschliff, keine inhaltliche Umarbeitung). Am Abgleich mit dem Wiki-Kanon ([C-064](#c-064-prolog--dorfplatz-und-verlobungsschauplatz-nachziehen-) bis [C-071](#c-071-prolog--tibuns-alter-und-heiratsantrag-)) ändert die Wahl nichts — alle Diskrepanzen stehen in beiden Fassungen identisch.
 
 **Entschieden:** Basis ist **2.3**, die Punkte 2 und 3 bleiben in der 2.2-Formulierung. In der Szene umgesetzt.
+
+**Geschlossen (Autor, 05.09.2026).** Die Entscheidung war getroffen und ausgeführt, der Marker stand nur nicht nach; mit der bis November ruhenden Szene ([C-063](#c-063-prolog--szene-auf-autorenfassung-zurückgerollt-)) bleibt hier nichts offen.
 
 Die Unterschiede (2.2 → 2.3):
 1. „Als Tibun **Frida** das erste mal sah" → „Als Tibun **sie** …" — besser, der Name steht zwei Sätze vorher.
@@ -2399,11 +2401,13 @@ Angelegt am 04.09.2026 zusammen mit [Szenen.md](../Plots/Plot-1/Szenen.md). Der 
 
 Die Statuszeile der Datei steht deshalb auf `???`. Die Herkunft ist derzeit **nicht je Szene ausgewiesen** — es gibt keine Markierung, welcher Schnitt vom Autor bestätigt ist und welcher nicht. Solange das so bleibt, darf auf keiner einzelnen Szenengrenze weitergebaut werden.
 
-**Zu klären:** Soll jede Szene eine Herkunftsmarkierung tragen (bestätigt / Vorschlag), oder genügt der Gesamtvorbehalt im Kopf der Datei?
+**Entschieden (Autor, 05.09.2026): Der Gesamtvorbehalt im Kopf der Datei genügt.** Eine Herkunftsmarkierung je Szene wird nicht geführt — sie wäre 45 Einzelentscheidungen und müsste von den Generatoren mitgelesen werden. Der Vorbehalt steht jetzt im Abschnitt *Die Felder* von [Szenen.md](../Plots/Plot-1/Szenen.md).
+
+**Offen bleibt die Sache selbst · ???** Der Zuschnitt ist weiterhin unbestätigt. Solange das so ist, darf auf keiner einzelnen Szenengrenze weitergebaut werden.
 
 ---
 
-### C-144: Das Feld „Will" ist uneinheitlich belegt ○
+### C-144: Das Feld „Will" ist uneinheitlich belegt ✓
 
 Aufgefallen am 04.09.2026 bei der maschinellen Prüfung von [Szenen.md](../Plots/Plot-1/Szenen.md). In **39 Szenen** benennt das Feld *Will* das Wollen der **POV-Figur**. In **fünf** benennt es das Wollen des **Gegenspielers**:
 
@@ -2417,14 +2421,15 @@ Aufgefallen am 04.09.2026 bei der maschinellen Prüfung von [Szenen.md](../Plots
 
 **Warum das zählt:** Wenn *Will* mal die POV-Figur meint und mal die Gegenfigur, sagt die Kennzahl *„vollständig: Ziel, Hindernis, Ausgang"* nicht mehr dasselbe über alle Szenen. In diesen fünf ist **das Ziel der POV-Figur unbenannt** — Girlin und Tibun sind darin Objekt der Handlung, nicht Subjekt. Sie zählen aber als vollständig.
 
-**Zu klären · ???** Zwei Lesarten, beide vertretbar, keine davon beschlossen:
+**Entschieden (Autor, 05.09.2026): *Will* benennt immer die POV-Figur.** Kein zweites Feld für den Gegenspieler.
 
-1. **Fehler:** *Will* meint immer die POV-Figur; die fünf sind nachzutragen (Girlin will unerkannt bleiben / entkommen; Tibun will ??? ).
-2. **Absicht:** Es sind Szenen, in denen der Gegner treibt und die POV-Figur reagiert. Dann braucht das Feld einen zweiten Platz — *Wille des Gegenspielers* — statt derselben Zeile.
+**Umgesetzt am selben Tag:** In den fünf Szenen steht *Will* jetzt auf `???`; der bisherige Satz bleibt als **Streichvermerk am Ort** stehen, damit nichts verloren geht und sichtbar bleibt, warum dort eine Lücke ist. Die Konvention steht im Abschnitt *Die Felder* von [Szenen.md](../Plots/Plot-1/Szenen.md).
+
+**Was daraus folgt:** Die Kennzahl *vollständig* fiel von 21 auf **17** — die fünf Szenen galten vorher zu Unrecht als fertig. **Was die POV-Figur in diesen fünf Szenen will, ist Buchinhalt und weiter offen** — es gehört zu [C-077](#c-077-tibun-und-truda-nach-girlins-verschwinden-) (Truda), [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-) und [C-133](#c-133-azzims-leute-für-den-angriff-) (Finale) sowie zu Girlins Zeichnung ([C-025](#c-025-girlin--charakter--fähigkeiten-)).
 
 ---
 
-### C-145: „Ohne Hindernis" wird zu niedrig gezählt ○
+### C-145: „Ohne Hindernis" wird zu niedrig gezählt ✓
 
 Aufgefallen am 04.09.2026 in [Szenen.md](../Plots/Plot-1/Szenen.md). Die Kennzahl *„15 ohne Hindernis"* zählt Szenen, deren Feld *Hindernis* auf `???` steht. Zwei Szenen haben aber **kein Hindernis, obwohl das Feld gefüllt ist** — sie fallen durch die Zählung:
 
@@ -2433,7 +2438,11 @@ Aufgefallen am 04.09.2026 in [Szenen.md](../Plots/Plot-1/Szenen.md). Die Kennzah
 
 **Der Unterschied ist nicht kosmetisch:** `???` heißt *„ist noch zu entscheiden"*, ein leeres Hindernis heißt *„hier gibt es keinen Widerstand"*. Das erste ist eine Arbeitsaufgabe, das zweite eine dramaturgische Aussage. Die Kennzahl vermischt beides und meldet 15, wo mindestens 16 Szenen ohne Widerstand stehen.
 
-**Zu klären · ???** Braucht das Feld einen dritten Zustand neben Inhalt und `???` — etwa *„keins"* —, damit beide Fälle getrennt zählbar sind? Und: Sind 33 und 26 als widerstandsfreie Strecken so gewollt?
+**Entschieden (Autor, 05.09.2026): Ja, das Feld bekommt einen dritten Zustand — `keins`.** Optional mit Begründung dahinter.
+
+**Umgesetzt am selben Tag:** *Aufbruch aus Kaupvik* trägt jetzt `keins — der Aufbruch kostet ihn ausdrücklich nichts`. `tools/wiki.py` kennt den Zustand und zählt getrennt: **16 mit offenem Hindernis** (`???`) und **1 ohne Widerstand** (`keins`). Die Szenenliste zeigt beide Kacheln. Die Kennzahlenzeile im Kopf von Szenen.md wird von `--nummerieren` nachgezogen und kann nicht mehr weglaufen.
+
+**Nicht mit entschieden:** *Das Tischmodell* steht weiter auf `???`. Ob diese vier Jahre wirklich ohne Widerstand bleiben sollen, ist eine dramaturgische Frage und gehört zu [C-118](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-).
 
 ---
 

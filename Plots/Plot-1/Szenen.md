@@ -12,6 +12,20 @@
 
 Die genannten C-Nummern stehen in [Notizen/Challenges.md](../../Notizen/Challenges.md); `✓` markiert eine dort gelöste Challenge.
 
+## Die Felder
+
+Jede Szene trägt drei Felder. Wie sie belegt werden, ist festgelegt (05.09.2026):
+
+| Feld | Belegung |
+|---|---|
+| **Will** | **Immer das Wollen der POV-Figur** — nie das des Gegenspielers. Ist es unbekannt, steht `???` dort, auch wenn sich über die Gegenfigur etwas sagen ließe. |
+| **Hindernis** | Was der POV-Figur im Weg steht. Drei Zustände: konkreter Inhalt · `keins` (bewusst kein Widerstand, optional mit Begründung) · `???` (noch zu entscheiden). |
+| **Ausgang** | Womit die Szene endet. `???`, solange offen. |
+
+`keins` und `???` sind **nicht dasselbe**: `???` ist eine Arbeitsaufgabe, `keins` eine dramaturgische Aussage. Die Kennzahlen zählen beides getrennt.
+
+**Der Zuschnitt ist Arbeitsstand.** Welche Ereignisse eine Szene bilden, wo geschnitten wird und wie die Szenen heißen, hat der Autor nicht Szene für Szene bestätigt — der Vorbehalt gilt für die ganze Datei; eine Herkunftsmarkierung je Szene wird bewusst **nicht** geführt (entschieden 05.09.2026). Gedeckt sind die **Ereignisse** aus der [Zeitleiste](Zeitleiste.md), nicht ihre Bündelung.
+
 ## Zählung
 
 Die Nummer ist die **Position in dieser Liste**, lückenlos ab 1. Sie ist keine Kapitelnummer — Kapitelgrenzen und Kapitellängen gibt es noch nicht.
@@ -36,7 +50,7 @@ Die Erzählreihenfolge — verschränkt oder blockweise — ist offen ([C-139](.
 
 ## Kennzahlen
 
-Abgeleitet aus den Feldern unten, nicht separat gepflegt: **44 Szenen** (23 Tibun · 21 Girlin) · **21 vollständig** (Will, Hindernis und Ausgang gesetzt) · **15 ohne Hindernis** · davon **7 reine Zustände** (weder Will noch Hindernis).
+Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **45 Szenen** (23 Tibun · 22 Girlin) · **17 vollständig** (Will, Hindernis und Ausgang gesetzt) · **16 mit offenem Hindernis** (`???`), davon **9 reine Zustände** (weder Will noch Hindernis) · **1 ohne Widerstand** (Hindernis `keins`).
 
 ---
 
@@ -257,9 +271,11 @@ Beziehung zum Neffen des Häuptlings.
 
 Auf dem Basar greift ein Sklavenhändler nach ihr.
 
-- **Will:** Azzim will sie als Ware — sie ist selten
+- **Will:** ???
 - **Hindernis:** Der Clan wehrt den Zugriff ab
 - **Ausgang:** Der Zugriff scheitert. Ab hier kennen sich beide als Feind; zum Wert kommt die Demütigung.
+
+> **Streichvermerk (05.09.2026):** Hier stand „Azzim will sie als Ware — sie ist selten" — das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
 
 
 ### 21 · Der Erkenntnismoment
@@ -378,9 +394,11 @@ Der Clan kommt wieder; Girlin bricht mit ihm auf.
 
 Er tritt offen an den Zug heran und verhandelt.
 
-- **Will:** Azzim will sie kaufen oder eintauschen
+- **Will:** ???
 - **Hindernis:** Sippenpflicht schlägt Handel
 - **Ausgang:** Der Clan lehnt ab. Er verliert den Zug und sieht nicht, wohin der Ring geht.
+
+> **Streichvermerk (05.09.2026):** Hier stand „Azzim will sie kaufen oder eintauschen" — das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
 
 
 ### 32 · Der Ring liegt in der Schlucht
@@ -412,7 +430,7 @@ Bellbrim und Girlin bauen weiter.
 Das Modell läuft, Wissen und Bernstein reichen.
 
 - **Will:** Zurück zum Ring am Bach
-- **Hindernis:** Nichts — der Aufbruch kostet ihn ausdrücklich nichts
+- **Hindernis:** keins — der Aufbruch kostet ihn ausdrücklich nichts
 - **Ausgang:** Die Zieheltern bleiben lebend zurück. Ein Abschied, kein Verlust.
 
 
@@ -422,9 +440,11 @@ Das Modell läuft, Wissen und Bernstein reichen.
 
 Auf dem Basar erkennt er sie und greift zu.
 
-- **Will:** Azzim will zugreifen — diesmal ist kein Clan da
+- **Will:** ???
 - **Hindernis:** Sie ist schneller, und er hat keine Leute
 - **Ausgang:** Sie entkommt und flieht heim — er folgt ihr und findet die Schlucht.
+
+> **Streichvermerk (05.09.2026):** Hier stand „Azzim will zugreifen — diesmal ist kein Clan da" — das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
 
 
 ### 36 · Die Werkstatt an der Tabustelle
@@ -477,9 +497,11 @@ Sie wird gerufen und sieht es sich an.
 
 Er sagt ihr, was er tut.
 
-- **Will:** Truda will ihn zur Vernunft bringen
+- **Will:** ???
 - **Hindernis:** ???
 - **Ausgang:** ???
+
+> **Streichvermerk (05.09.2026):** Hier stand „Truda will ihn zur Vernunft bringen" — das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Tibuns Wollen in dieser Szene ist offen.
 
 
 ### 41 · Zweifel und Bestätigung
@@ -499,9 +521,11 @@ Der Generator ist fertig — und der Zweifel kehrt zurück.
 
 Azzim fällt mit seinen Leuten über die Schlucht her.
 
-- **Will:** Azzim will die Schlucht nehmen
+- **Will:** ???
 - **Hindernis:** Fels, Verteidigungslage — und der Neffe verteidigt sie
 - **Ausgang:** Im Kampf löst der Wüstengenerator aus. Azzim wird nach Jütland geworfen.
+
+> **Streichvermerk (05.09.2026):** Hier stand „Azzim will die Schlucht nehmen" — das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
 
 
 ### 43 · Azzim vor den Füßen

@@ -90,13 +90,22 @@ def position_von(szenen, titel, wozu):
 
 
 def offen(wert):
+    """`???` heisst: noch zu entscheiden."""
     return wert.strip() == "???"
+
+
+def keins(wert):
+    """`keins` heisst: hier gibt es bewusst keinen Widerstand -- eine Aussage,
+    keine Luecke. Entschieden 05.09.2026 (C-145); optional folgt ' -- Begruendung'."""
+    w = wert.strip()
+    return w == "keins" or w.startswith("keins ")
 
 
 def kennzahlen(szenen):
     voll = [s for s in szenen if not any(offen(s[k]) for k in ("will", "hindernis", "ausgang"))]
     ohne_h = [s for s in szenen if offen(s["hindernis"])]
     zustand = [s for s in ohne_h if offen(s["will"])]
+    kein_w = [s for s in szenen if keins(s["hindernis"])]
     return {
         "N": len(szenen),
         "T": sum(1 for s in szenen if s["pov"] == "Tibun"),
@@ -104,6 +113,8 @@ def kennzahlen(szenen):
         "VOLL": len(voll),
         "OHNE_H": len(ohne_h),
         "ZUSTAND": len(zustand),
+        "KEIN_W": len(kein_w),
+        "OHNE_WIDERSTAND": len(ohne_h) + len(kein_w),
     }
 
 

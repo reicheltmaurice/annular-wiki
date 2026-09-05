@@ -137,6 +137,19 @@ def nummerieren(md):
         return "| %s | %s |%s" % (teil, re.sub(r"Szene \d+", "Szene %d" % p, text), rest)
 
     neu = re.sub(r"^\| (Prolog|Anfang|Schluss) \| (.+?) \|(.*)$", zeile, neu, flags=re.M)
+
+    # Kennzahlenzeile im Kopf -- sie stand frueher von Hand da und lief weg
+    szenen = lies_szenen(neu)
+    w = kennzahlen(szenen)
+    zahlen = (
+        "Abgeleitet aus den Feldern unten, nicht separat gepflegt "
+        "(`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): "
+        "**%d Szenen** (%d Tibun · %d Girlin) · **%d vollständig** (Will, Hindernis und Ausgang gesetzt) · "
+        "**%d mit offenem Hindernis** (`???`), davon **%d reine Zustände** (weder Will noch Hindernis) · "
+        "**%d ohne Widerstand** (Hindernis `keins`)."
+        % (w["N"], w["T"], w["G"], w["VOLL"], w["OHNE_H"], w["ZUSTAND"], w["KEIN_W"])
+    )
+    neu = re.sub(r"^Abgeleitet aus den Feldern unten.*$", lambda m: zahlen, neu, flags=re.M)
     return neu, zaehler[0]
 
 
@@ -204,9 +217,10 @@ def main():
         fehler("unaufgeloeste Platzhalter: %s" % ", ".join(sorted(set(rest))))
 
     print(
-        "%d Szenen (%d Tibun / %d Girlin) · %d vollstaendig · %d ohne Hindernis "
-        "(davon %d reine Zustaende)" % (werte["N"], werte["T"], werte["G"], werte["VOLL"],
-                                        werte["OHNE_H"], werte["ZUSTAND"])
+        "%d Szenen (%d Tibun / %d Girlin) · %d vollstaendig · %d Hindernis offen "
+        "(davon %d reine Zustaende) · %d ohne Widerstand (Hindernis 'keins')"
+        % (werte["N"], werte["T"], werte["G"], werte["VOLL"],
+           werte["OHNE_H"], werte["ZUSTAND"], werte["KEIN_W"])
     )
     print("Prolog: 1 %s · Schluss ab: %d %s · Anfang-Grenze voreingestellt: %d %s"
           % (prolog_titel, schluss_pos, schluss_titel, anf_ende, ANFANG_ENDET_NACH))
