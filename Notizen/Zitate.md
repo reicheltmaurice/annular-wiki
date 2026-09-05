@@ -49,7 +49,7 @@ Kein Motto für ein Kapitel — es spricht über Sprache, nicht über die Welt, 
 
 ## Struktureller Vorschlag: zwei Quellen für zwei Stränge
 
-Das Buch hat zwei parallele Stränge ([Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md)). Wenn **Tibun-Kapitel** mit Sprüchen des Nordvolks öffnen und **Girlin-Kapitel** mit Sprüchen der [Kel Aman](../Menschen/Wuestenvolk/Kel-Aman.md), weiß der Leser vor dem ersten Satz, wo er steht — und die beiden Weisheitswelten kommentieren einander über die Kapitelgrenzen hinweg.
+Das Buch hat zwei parallele Stränge ([Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md)). Wenn **Tibun-Kapitel** mit Sprüchen des Nordvolks öffnen und **Girlin-Kapitel** mit Sprüchen der [Kel Aman](../Kulturen/Kel-Aman/README.md), weiß der Leser vor dem ersten Satz, wo er steht — und die beiden Weisheitswelten kommentieren einander über die Kapitelgrenzen hinweg.
 
 Im Finale, wo die Stränge zusammenlaufen, wäre entweder **kein** Motto die stärkere Wahl (der Bruch fällt auf) oder eines aus beiden Welten nebeneinander.
 
@@ -118,7 +118,7 @@ Im Finale, wo die Stränge zusammenlaufen, wäre entweder **kein** Motto die st�
 
 ## Kel Aman
 
-> **Vorbehalt:** Die kulturelle Vorlage der [Kel Aman](../Menschen/Wuestenvolk/Kel-Aman.md) ist noch offen. Diese Sprüche sind daher vorläufiger als die des Nordvolks — sie tragen Wüsten- und Karawanenlogik, aber keine festgelegte Kultur.
+> **Vorbehalt:** Die kulturelle Vorlage der [Kel Aman](../Kulturen/Kel-Aman/README.md) ist noch offen. Diese Sprüche sind daher vorläufiger als die des Nordvolks — sie tragen Wüsten- und Karawanenlogik, aber keine festgelegte Kultur.
 
 > Der Durst lügt nicht.
 

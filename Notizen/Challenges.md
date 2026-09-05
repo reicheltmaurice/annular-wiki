@@ -106,6 +106,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-142: Wie die geschriebenen Szenen gegliedert werden ○](#c-142-wie-die-geschriebenen-szenen-gegliedert-werden-)
 - [C-143: Szenen.md — der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd--der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-146: Was Girlin vom Flip wahrnimmt ○](#c-146-was-girlin-vom-flip-wahrnimmt-)
+- [C-149: Wie die Kel Aman den Ring religiös einordnen ○](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-)
+- [C-150: Was Bellbrim vom Wissen der Kel Aman hat ○](#c-150-was-bellbrim-vom-wissen-der-kel-aman-hat-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -555,7 +557,7 @@ Frühes Leben, Familie und konkrete Fähigkeiten sind offen. Was genau kann sie 
 
 ### C-028: Azzim u-Tawan — Herkunft & Hintergrund ○
 
-[Azzim u-Tawan](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) (Antagonist) ist in Alter, Herkunft, Familie und Vorgeschichte offen. Früherer Story-Hook: möglicherweise ein **abtrünniger Kel Aman**, der die Bräuche seines Volkes verraten hat (siehe [Kel Aman](../Menschen/Wuestenvolk/Kel-Aman.md)) — zu bestätigen oder zu verwerfen. Berührt C-003.
+[Azzim u-Tawan](../Menschen/Wuestenvolk/Azzim-u-Tawan.md) (Antagonist) ist in Alter, Herkunft, Familie und Vorgeschichte offen. Früherer Story-Hook: möglicherweise ein **abtrünniger Kel Aman**, der die Bräuche seines Volkes verraten hat (siehe [Kel Aman](../Kulturen/Kel-Aman/README.md)) — zu bestätigen oder zu verwerfen. Berührt C-003.
 
 ---
 
@@ -1352,7 +1354,7 @@ Damit ist jeder künftige Name prüfbar — der Namenstest des [Weltenbau-Leitfa
 | Ishem (m) | **Ishmar** |
 | Tiberan (m) | **gestrichen** — zu nah an *Tibun*, über zwei Stränge hinweg verwechselbar |
 
-Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Menschen/Wuestenvolk/Azzim-u-Tawan.md`, `Kulturen/Kel-Aman/` umbenannt, alle Links und [SUMMARY.md](../SUMMARY.md) angepasst.
+Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Menschen/Wuestenvolk/Azzim-u-Tawan.md`, `Kulturen/Kel-Aman/` umbenannt, alle Links und [SUMMARY.md](../SUMMARY.md) angepasst. (`Menschen/Wuestenvolk/Kel-Aman.md` ist seit dem 05.09.2026 in [Kulturen/Kel Aman](../Kulturen/Kel-Aman/README.md) aufgelöst.)
 
 **Kleiner Restpunkt:** ob die Filiation `u-`/`ult-` auch im **Erzähltext** auftaucht oder nur im Wiki steht · **???**
 
@@ -1364,7 +1366,7 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 
 **Entscheidung (Autor, 31.08.2026): Krummsäbel gestrichen.** Gekrümmte Klingen sind für **550 n.Chr. zu früh** — sie kommen im islamischen Raum erst Jahrhunderte später auf und sind ein reiner Hollywood-Reflex.
 
-**Stattdessen:** gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reitertaktik. Für die Sahara um 550 belegt und unauffällig. Nachgezogen in [Kel-Aman.md](../Menschen/Wuestenvolk/Kel-Aman.md).
+**Stattdessen:** gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reitertaktik. Für die Sahara um 550 belegt und unauffällig. Nachgezogen in [Kulturen/Kel Aman](../Kulturen/Kel-Aman/README.md).
 
 ---
 
@@ -1666,7 +1668,7 @@ Folgt aus [C-018 ✓](#c-018-widerspruch--transport-des-wüstenrings-). Rund 5,7
 
 ### C-104: Wasser als Gegenleistung — das Motiv des Transports ✗
 
-Kein Clan schleppt ein Weltwunder durch die Wüste, weil eine Fremde heim will. **Das Motiv muss den [Kel Aman](../Menschen/Wuestenvolk/Kel-Aman.md) gehören, nicht Girlin.**
+Kein Clan schleppt ein Weltwunder durch die Wüste, weil eine Fremde heim will. **Das Motiv muss den [Kel Aman](../Kulturen/Kel-Aman/README.md) gehören, nicht Girlin.**
 
 ~~Es liegt in der Mechanik bereit: Der Skir-Ring liegt am Bach, jede Zündung schiebt rund 14 m³ Süßwasser in die Wüste. Sobald Bellbrim das begreift, ist der Ring eine Quelle.~~ **Gestrichen (Autor, 03.09.2026):** Der Ring im Norden liegt auf **trockenem Grund**; es geht kein Bachwasser über → [C-119](#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen-).
 
@@ -1951,7 +1953,7 @@ Die oben notierte Annahme, Azzim interessiere sich wegen des **Wassers** für de
 | Volumen | 4,549 m³ | **0,734556 m³** |
 | Gewicht | 8.052 kg | **5.729,5 kg** |
 
-**Nachgezogen:** [Portalringe.md](../Technik/Portalringe.md), Portalring_Berechnungen.md *(am 04.09.2026 in [Portalringe.md](../Technik/Portalringe.md) aufgegangen)*, [Bild-Prompts.md](Bild-Prompts.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Karawanen](../Menschen/Wuestenvolk/Karawanen.md), C-007, C-010, C-012, C-018.
+**Nachgezogen:** [Portalringe.md](../Technik/Portalringe.md), Portalring_Berechnungen.md *(am 04.09.2026 in [Portalringe.md](../Technik/Portalringe.md) aufgegangen)*, [Bild-Prompts.md](Bild-Prompts.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Karawanen](../Kulturen/Kel-Aman/Karawanen.md), C-007, C-010, C-012, C-018.
 
 **Neu daraus:** [C-125](#c-125-das-transportverfahren-ist-offen-), [C-126](#c-126-der-postring--was-passt-hinein-), [C-127](#c-127-referenzdichte-).
 
@@ -2130,7 +2132,7 @@ Aus [C-018 ✓](#c-018-widerspruch--transport-des-wüstenrings-) sind deshalb ge
 - **Wie viele Menschen und Tiere**, und wie weit am Tag? Davon hängt die Entfernung ab → [C-103](#c-103-transportlogistik-des-wüstenrings-).
 - Ist das **Gewicht** überhaupt das Hindernis, oder ist es die **Sperrigkeit**, die **Entfernung** oder die **Verpflegung**?
 
-Bis das entschieden ist, darf **keine Datei ein Verfahren als Tatsache behaupten**. Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md), [Karawanen](../Menschen/Wuestenvolk/Karawanen.md), C-018, C-103.
+Bis das entschieden ist, darf **keine Datei ein Verfahren als Tatsache behaupten**. Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md), [Karawanen](../Kulturen/Kel-Aman/Karawanen.md), C-018, C-103.
 
 ---
 
@@ -2512,3 +2514,32 @@ Aufgefallen am 04.09.2026 beim Bau des erzeugten Zeitgerüsts, das den Status je
 **Umgesetzt am 05.09.2026:** 148 Titel und 148 Übersichtszeilen tragen jetzt einen Marker; 621 Ankerverweise wurden nachgezogen. Danach maschinell geprüft: **799 Ankerverweise im gesamten Wiki, kein toter.** `tools/wiki.py` bricht ab, wenn ein Titel keinen Marker trägt, und meldet jede Abweichung zwischen Marker und Übersicht.
 
 **Verworfen wurden:** den Marker ganz aus den Titeln nehmen (Status dann nur noch in der Übersicht sichtbar) und eine Statuszeile `> **Status:** …` unter dem Titel (kurzzeitig umgesetzt, wieder zurückgebaut).
+
+---
+
+### C-149: Wie die Kel Aman den Ring religiös einordnen ○
+
+Aufgefallen am 05.09.2026 beim Auflösen der Kel-Aman-Dublette: Der Hook stand nur in der alten Volksseite und war sonst nirgends erfasst.
+
+Das Transportmotiv ist entschieden — **Sippenpflicht** ([C-104 ✗](#c-104-wasser-als-gegenleistung--das-motiv-des-transports-)). Damit ist aber nicht beantwortet, **was der Ring den Kel Aman bedeutet**, während sie ihn drei Jahre lang durch die Wüste schleppen ([C-103](#c-103-transportlogistik-des-wüstenrings-)).
+
+**Zu klären · ???**
+- Halten sie ihn für ein Heiligtum, für Beutegut, für ein Werkzeug — oder streiten sie darüber?
+- Wenn er heilig ist: Widerspricht das dem Transport (ein Heiligtum verschleppt man nicht) oder trägt es ihn (man bringt es an seinen Ort)?
+- Die alte Fassung machte die **grünen Runen** zum Grund der Verehrung. Deren Aussehen ist selbst offen ([C-013](#c-013-runen--anordnung-anzahl-aussehen-)), und die Religion des Volkes ist unausgearbeitet ([C-003](#c-003-kel-aman--kulturelle-tiefe-)) — die Frage hängt an beiden.
+
+**Erbauer-Regel bleibt unberührt:** Auch eine religiöse Deutung darf nicht erklären, woher die Ringe stammen.
+
+---
+
+### C-150: Was Bellbrim vom Wissen der Kel Aman hat ○
+
+Aufgefallen am 05.09.2026 beim Auflösen der Kel-Aman-Dublette: ebenfalls nur dort notiert.
+
+Die alte Volksseite sah vor, dass [Bellbrim](../Menschen/Andere/Bellbrim.md) von Kel-Aman-Wissen profitiert — **alte Sternkarten, verborgene Wasserstellen**. Beides steht bis heute nur im ungeprüften Altmaterial der [Kulturbeschreibung](../Kulturen/Kel-Aman/README.md) und ist vom Autor nicht gedeckt.
+
+**Zu klären · ???**
+- Gibt es dieses Wissen überhaupt, und wer trägt es (Älteste? der Häuptling — siehe [C-061](#c-061-navigationswissen-des-häuptlings-)?)
+- Bekommt Bellbrim Zugang dazu, und was gibt sie dafür? Sie ist selbst eine Zugewanderte ([C-026](#c-026-bellbrim--historische-plausibilität--herkunft-)).
+- Oder entfällt der Hook: Sie bringt eigenes Wissen mit und braucht ihres nicht.
+

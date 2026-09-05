@@ -1,6 +1,8 @@
-# Wüstenvölker & Karawanen
+# Karawanen
 
-Diese Seite fasst Informationen zu typischen Karawanengrößen, Nomadenvölkern und deren Relevanz für die Geschichte zusammen.
+Recherchematerial zu Karawanengrößen, Lasttieren und Transportkapazität — Grundlage für den Wüstenstrang von [Plot 1](../../Plots/Plot-1/README.md). Kultur und Volk: [Kel Aman](README.md).
+
+> **Geltung:** Historische Größenordnungen, nicht Kel-Aman-Kanon. Wie groß die Karawane ist, in der [Girlin](../../Menschen/Nordvolk/Girlin.md) lebt, ist nicht entschieden · **???**
 
 ---
 
@@ -59,14 +61,20 @@ Diese Seite fasst Informationen zu typischen Karawanengrößen, Nomadenvölkern 
 
 ## Transportkapazität
 
-- **Kleine Karawane (20–30 Kamele):** ca. 3–4 Tonnen Traglast
-- **Mittlere Karawane (100 Kamele):** ca. 15 Tonnen Traglast
-- **Große Karawane (1.000 Kamele):** über 150 Tonnen Traglast
+Herleitung: Tierzahl der Karawane × Traglast je Kamel (150–200 kg). Bezugsebene ist die **Gesamtlast der Karawane**, verteilt auf alle Tiere.
+
+| Karawane | Kamele | Gesamttraglast |
+|---|---|---|
+| klein | 20–50 | 3–10 t |
+| mittel | 100–300 | 15–60 t |
+| groß | 1.000–5.000 | 150–1.000 t |
+
+> **Korrigiert am 05.09.2026:** Hier standen *3–4 t · ca. 15 t · über 150 t*. Diese Werte rechneten durchweg nur mit der **Untergrenze** von Tierzahl und Traglast; bei der kleinen Karawane zudem mit 20–30 Kamelen, obwohl oben 20–50 stehen. Mit Esel- oder Maultieranteil (50–80 kg) fällt die Kapazität entsprechend niedriger aus.
 
 ---
 
 ## Relevanz für die Geschichte
 
-- Ein 3-m-Portalring wiegt ~5,7 Tonnen bei 3,30 m Außen-Ø und 0,50 m Breite. Das liegt unter der Traglast einer mittleren Karawane (~15 t), lässt sich aber nicht auf Tiere verladen. **Wie er stattdessen bewegt wird, ist offen · ???**
-- In einer großen Karawane würde der Ring kaum auffallen und könnte leicht „versteckt” werden.
+- Ein 3-m-Portalring wiegt **~5,7 t** bei 3,30 m Außen-Ø und 0,50 m Breite ([Portalringe](../../Technik/Portalringe.md)). Die Gesamttraglast einer Karawane ist dafür **kein Maßstab**: Sie entsteht dadurch, dass sich viele Tiere eine teilbare Ladung aufteilen. Der Ring ist ein **einzelnes unteilbares Stück** — 5,7 t entsprechen der Last von rund 29 Kamelen, aber kein Tier trägt mehr als 150–200 kg. **Wie er stattdessen bewegt wird, ist offen · ???**
+- Ob der Ring in einem großen Zug unauffällig mitgeführt werden könnte, hängt am Verfahren und ist damit ebenfalls offen · **???**
 - Nomadenvölker können plausibel als Retter, Händler oder Transporthelfer in der Geschichte auftreten.

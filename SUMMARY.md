@@ -29,10 +29,7 @@
     * [Frida](Menschen/Nordvolk/Nebenfiguren/Frida.md)
     * [Herik](Menschen/Nordvolk/Nebenfiguren/Herik.md)
     * [Lanke](Menschen/Nordvolk/Nebenfiguren/Lanke.md)
-* [Volk der Kel Aman](Menschen/Wuestenvolk/README.md)
-  * [Das Volk der Kel Aman](Menschen/Wuestenvolk/Kel-Aman.md)
-  * [Erscheinung & Lebensweise](Menschen/Wuestenvolk/allgemein.md)
-  * [Karawanen](Menschen/Wuestenvolk/Karawanen.md)
+* [Figuren der Kel Aman](Menschen/Wuestenvolk/README.md)
   * [Azzim u-Tawan](Menschen/Wuestenvolk/Azzim-u-Tawan.md)
   * [Nebenfiguren](Menschen/Wuestenvolk/Nebenfiguren/README.md)
 * [Weitere Figuren](Menschen/Andere/README.md)
@@ -43,6 +40,8 @@
 
 * [Nordvolk](Kulturen/Nordvolk/README.md)
 * [Kel Aman](Kulturen/Kel-Aman/README.md)
+  * [Erscheinung & Lebensweise](Kulturen/Kel-Aman/Erscheinung.md)
+  * [Karawanen](Kulturen/Kel-Aman/Karawanen.md)
 
 ## Orte
 

@@ -23,7 +23,7 @@ Erzählt in **zwei parallelen Strängen** (Tibun im Norden, Girlin in der Wüste
 | Strang | Zentral | Umfeld |
 |---|---|---|
 | Norden | [Tibun](../../Menschen/Nordvolk/Tibun.md) | [Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md), [Millia](../../Menschen/Nordvolk/Nebenfiguren/Millia.md), [Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Frida](../../Menschen/Nordvolk/Nebenfiguren/Frida.md) |
-| Wüste | [Girlin](../../Menschen/Nordvolk/Girlin.md) | [Bellbrim](../../Menschen/Andere/Bellbrim.md), [Azzim u-Tawan](../../Menschen/Wuestenvolk/Azzim-u-Tawan.md), [Kel Aman](../../Menschen/Wuestenvolk/Kel-Aman.md) |
+| Wüste | [Girlin](../../Menschen/Nordvolk/Girlin.md) | [Bellbrim](../../Menschen/Andere/Bellbrim.md), [Azzim u-Tawan](../../Menschen/Wuestenvolk/Azzim-u-Tawan.md), [Kel Aman](../../Kulturen/Kel-Aman/README.md) |
 
 ## Dateien
 

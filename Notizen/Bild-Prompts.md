@@ -296,7 +296,7 @@ Photorealistic interior of a cave workshop in a desert rock system. Rough sandst
 
 ## Kulturen — Menschenbilder
 
-Ethnografische Arbeitsbilder zur allgemeinen Vorstellung (Kleidung, Haut, Haar, Alltag). **Kein Kanon für Einzelpersonen** — Charaktere haben eigene Dateien. Grundlagen: [Kulturen/Nordvolk](../Kulturen/Nordvolk/README.md), [Kulturen/Kel Aman](../Kulturen/Kel-Aman/README.md), [Kel Aman Aussehen](../Menschen/Wuestenvolk/Kel-Aman.md).
+Ethnografische Arbeitsbilder zur allgemeinen Vorstellung (Kleidung, Haut, Haar, Alltag). **Kein Kanon für Einzelpersonen** — Charaktere haben eigene Dateien. Grundlagen: [Kulturen/Nordvolk](../Kulturen/Nordvolk/README.md), [Kulturen/Kel Aman](../Kulturen/Kel-Aman/README.md).
 
 | ID | Datei | Kultur | Motiv |
 |----|--------|--------|--------|
@@ -309,7 +309,7 @@ Ethnografische Arbeitsbilder zur allgemeinen Vorstellung (Kleidung, Haut, Haar, 
 
 **Nordvolk (~550, Vendel):** helle bis wettergegerbte Haut; Haar blond / aschblond / hellbraun / rotbraun gemischt (kein Einheitsblond); ungefärbte und schwach pflanzengefärbte Wolle (grau, braun, naturweiß, gedämpftes Waidblau); Tunika, lange Kleider, Rechteckmäntel mit Bronze-Fibeln; **keine** Hörnerhelme, kein Fantasy-Schmuck.
 
-**Kel Aman:** sonnengeschwärzte, sehnige Körper; dunkles Haar; weite mehrlagige Gewänder in Sand/Ocker/Schwarz; Tagelmust-ähnliche Schleier; Knochen-/Metallschnallen geometrisch; Ziegenhaarzelt, Kamele. (Kultur noch dünn — optisch an [Kel-Aman.md](../Menschen/Wuestenvolk/Kel-Aman.md) / [allgemein.md](../Menschen/Wuestenvolk/allgemein.md).)
+**Kel Aman:** sonnengeschwärzte, sehnige Körper; dunkles Haar; weite mehrlagige Gewänder in Sand/Ocker/Schwarz; Tagelmust-ähnliche Schleier; Knochen-/Metallschnallen geometrisch; Ziegenhaarzelt, Kamele. (Kultur noch dünn — optisch an [Kulturen/Kel Aman](../Kulturen/Kel-Aman/README.md) / [Erscheinung & Lebensweise](../Kulturen/Kel-Aman/Erscheinung.md).)
 
 ### K-nordvolk-01 — Gruppenbild
 

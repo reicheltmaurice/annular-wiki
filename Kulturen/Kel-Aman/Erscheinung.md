@@ -1,6 +1,8 @@
-# Wüstenvölker – Erscheinung & Lebensweise
+# Erscheinung & Lebensweise
 
-Diese Seite beschreibt die typischen Merkmale, Kleidung und Lebensweise der nomadischen Wüstenvölker sowie deren Karawanenstruktur.
+Kultur und Volk: [Kel Aman](README.md) · Größenordnungen: [Karawanen](Karawanen.md).
+
+> **Altmaterial — vor der Verortung entstanden · ???** Diese Seite beschreibt „nomadische Wüstenvölker" allgemein und ist **vor** der Entscheidung für den [Fezzan](README.md#verortung) entstanden. Sie ist vom Autor nicht gedeckt und historisch nicht belegt: Vorschlagsmaterial für die Ausarbeitung der Kultur, nicht Kel-Aman-Kanon. Was davon gilt, ist offen.
 
 ---
 
@@ -63,6 +65,6 @@ Diese Seite beschreibt die typischen Merkmale, Kleidung und Lebensweise der noma
 
 ## Story-Potenzial für Annular
 
-- Könnten Girlin retten oder ihr beim Transport des Rings helfen.
-- Könnten neutrale Händler sein oder eigene Ziele mit dem Ring verfolgen.
-- Bieten stark visuelles Setting: Sandstürme, abendliche Lagerfeuer, geheimnisvolle Rituale.
+- Bieten stark visuelles Setting: Sandstürme, abendliche Lagerfeuer, Rituale.
+
+> **Gestrichen am 05.09.2026:** *„Könnten Girlin retten oder ihr beim Transport des Rings helfen"* und *„könnten neutrale Händler sein oder eigene Ziele mit dem Ring verfolgen"*. Beides ist inzwischen entschieden und stand hier als offene Möglichkeit: Die Karawane **findet** Girlin ([Zeitleiste](../../Plots/Plot-1/Zeitleiste.md)), und das Transportmotiv ist festgelegt — nachzulesen unter den gelösten Challenges zum Wüstenring.
