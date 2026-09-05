@@ -70,13 +70,13 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 - [x] Kosmologie, Zyklus, Wissensebenen.
 - [x] Nordgeografie mit realen Ankern und Tagesmärschen.
 - [x] **Wo liegt die Wüste?** Entschieden 31.08.2026: **Fezzan / Garamanten** ([C-088](Challenges.md#c-088-verortung-der-wüste-)). Damit ist die zweite Abweichung von der Realität beseitigt.
-- [~] **Zeitrechnung im Text.** Norden entschieden 31.08.2026: **gezählt wird in Wintern** ([C-087](Challenges.md#c-087-zeitrechnung-im-erzähltext)). Offen bleiben Girlins Maß in der Wüste und die Zählmarke innerhalb des Jahres.
+- [~] **Zeitrechnung im Text.** Norden entschieden 31.08.2026: **gezählt wird in Wintern** ([C-087](Challenges.md#c-087-zeitrechnung-im-erzähltext-)). Offen bleiben Girlins Maß in der Wüste und die Zählmarke innerhalb des Jahres.
 - [ ] **Jahreszeiten als Taktgeber.** Im Norden bestimmt der Winter alles: Schafe, Vorräte, Reisen, Tod. Bisher spielt Wetter nur im Prolog eine Rolle.
 
 ### Schicht 2 — Das Leben
 - [x] Nordvolk-Religion (Epitheta-Prinzip — die stärkste Einzelentscheidung im Wiki).
 - [x] Skirraa: Höfe, Herde, Wolle, Unfreie.
-- [ ] **Namensmuster Nordvolk** → [C-092](Challenges.md#c-092-namenssystem-des-nordvolks). Tibun, Girlin, Truda, Semund, Millia, Hadurik, Frida, Herik, Lanke folgen keinem erkennbaren System. Germanische Namen der Epoche sind überwiegend zweigliedrig (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen. Entweder du legst ein Bildungsmuster fest, oder du erklärst die Namen ausdrücklich zur bewussten Ausnahme vom Authentizitätsprinzip. Beides ist vertretbar — nur unentschieden bleiben ist es nicht.
+- [ ] **Namensmuster Nordvolk** → [C-092](Challenges.md#c-092-namenssystem-des-nordvolks-). Tibun, Girlin, Truda, Semund, Millia, Hadurik, Frida, Herik, Lanke folgen keinem erkennbaren System. Germanische Namen der Epoche sind überwiegend zweigliedrig (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen. Entweder du legst ein Bildungsmuster fest, oder du erklärst die Namen ausdrücklich zur bewussten Ausnahme vom Authentizitätsprinzip. Beides ist vertretbar — nur unentschieden bleiben ist es nicht.
 - [x] **Kel-Aman-Namen:** entschieden 31.08.2026 ([C-090](Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)) — libysch-berberisches Muster, Volksname **Kel Aman**, alle Altnamen im Wiki umbenannt.
 - [ ] **Alltag im Norden:** Was isst man im Februar? Wie wird geheizt? Wie oft isst man Fleisch?
 - [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet ([C-097 ✓](Challenges.md#c-097-girlins-kinderfolge--die-neun-jahre-lücke-)): Girlin und Semund haben **drei Kinder verloren**, das letzte kurz vor ihrem Verschwinden — Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. **Offen:** wer bei der Geburt des Wüstenkindes hilft (Jahr +4), und was bei einer Wunde geschieht.
@@ -125,8 +125,8 @@ historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält
   - **Syrische Wüste** — Randzone von Byzanz. Vorteil: Es gibt dort Menschen, die Griechisch oder Latein können, also einen **historisch plausiblen Sprachweg** zu einer Germanin.
   - **Zentralasien / Sogdien** — die Vermittlerkultur schlechthin, mehrsprachige Fernhändler. Löst Bellbrim fast von selbst.
 - [x] **Krummsäbel gestrichen** (31.08.2026, [C-091](Challenges.md#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)): gerade Klingen, Speere, Bogen. (Kamele in der Sahara sind unproblematisch — zu dieser Zeit längst etabliert.)
-- [~] **Sprache.** Grundhaltung entschieden ([C-025](Challenges.md#c-025-girlin--charakter--fähigkeiten)): **Girlin lernt aktiv** — keine Verweigerung, sie arbeitet an ihrer Lage. Bellbrims Vandalisch ist mit ihrer Sprache verwandt, aber nicht gleich ([C-026](Challenges.md#c-026-bellbrim--historische-plausibilität--herkunft)), die Barriere bleibt also erhalten. **Offen:** wie lange sie sprachlos bleibt und was das mit ihr macht — vom Autor vertagt, bis der Plot steht.
-- [x] **Girlin.** Steht seit 31.08.2026 ([C-024](Challenges.md#c-024-girlin--herkunft--vorgeschichte), [C-025](Challenges.md#c-025-girlin--charakter--fähigkeiten), [C-096](Challenges.md#c-096-korrektur--girlins-alter-)): zugezogen aus einem Nachbarweiler, Wolle und Weben, 34 beim Verschwinden. **Ihr Wille gilt ihren Kindern, nicht einem Ort** — sie will nicht heim, sie will sie erreichen und dann in der Wüste bleiben. Daraus fällt der Kernkonflikt des Finales von selbst.
+- [~] **Sprache.** Grundhaltung entschieden ([C-025](Challenges.md#c-025-girlin--charakter--fähigkeiten-)): **Girlin lernt aktiv** — keine Verweigerung, sie arbeitet an ihrer Lage. Bellbrims Vandalisch ist mit ihrer Sprache verwandt, aber nicht gleich ([C-026](Challenges.md#c-026-bellbrim--historische-plausibilität--herkunft-)), die Barriere bleibt also erhalten. **Offen:** wie lange sie sprachlos bleibt und was das mit ihr macht — vom Autor vertagt, bis der Plot steht.
+- [x] **Girlin.** Steht seit 31.08.2026 ([C-024](Challenges.md#c-024-girlin--herkunft--vorgeschichte-), [C-025](Challenges.md#c-025-girlin--charakter--fähigkeiten-), [C-096](Challenges.md#c-096-korrektur--girlins-alter-)): zugezogen aus einem Nachbarweiler, Wolle und Weben, 34 beim Verschwinden. **Ihr Wille gilt ihren Kindern, nicht einem Ort** — sie will nicht heim, sie will sie erreichen und dann in der Wüste bleiben. Daraus fällt der Kernkonflikt des Finales von selbst.
 - [ ] **Azzim u-Tawan.** Rein einseitiger Gegenspieler. Deine eigene Regel verlangt Konflikte, bei denen man beide Seiten versteht. Gib ihm ein Motiv, das man nachvollziehen kann — Wasser, Schutz seiner Leute, Angst vor dem Ring.
 - [~] **Ablage:** `Kulturen/Kel-Aman/README.md` ist neu geschrieben (Verortung, Bewaffnung, offene Punkte). Die inhaltliche Überschneidung von `allgemein.md`, `Karawanen.md` und `Kel-Aman.md` in `Menschen/Wuestenvolk/` besteht weiter.
 
@@ -141,7 +141,7 @@ Nicht "sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die i
 - [ ] **3 · Bruchtest.** Bereits bestanden: Die Ringmechanik erzeugt Folgen, die du nicht geplant hattest (wandernde Mulde, Kopffreiheit).
 - [ ] **4 · Ortstest.** Für die Nordorte bestanden. Für die Wüste noch nicht — dort gibt es keine Orte.
 - [ ] **5 · Konflikttest.** Drei Konflikte, bei denen beide Seiten verständlich sind. Semund gegen Tibun trägt bereits. Azzim noch nicht. Ein dritter fehlt.
-- [~] **6 · Namenstest.** Für den Süden **bestanden** ([C-090](Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)). Für den Norden liegt das Muster als Vorschlag vor und wartet auf Bestätigung → [C-092](Challenges.md#c-092-namenssystem-des-nordvolks).
+- [~] **6 · Namenstest.** Für den Süden **bestanden** ([C-090](Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-)). Für den Norden liegt das Muster als Vorschlag vor und wartet auf Bestätigung → [C-092](Challenges.md#c-092-namenssystem-des-nordvolks-).
 - [ ] **7 · Überraschungstest.** Bestanden, für die Technik. Für die Gesellschaften noch offen.
 
 ---
@@ -216,7 +216,7 @@ Es sind Entscheidungen, keine Recherchen. Neun Sitzungen genügen:
 | 3–4 | **Wo liegt die Wüste?** Der einzige Punkt, der wirklich Lesen erfordert |
 | ~~1~~ | ~~Der Sand an der Skir~~ — erledigt 31.08.2026 ([C-094](Challenges.md#c-094-der-sand-an-der-skir--was-das-dorf-sieht-und-wie-es-deutet-)) |
 | ~~1~~ | ~~Semunds Wiederheirat~~ — Grundlage steht ([C-095](Challenges.md#c-095-wann-gilt-eine-verschwundene-als-tot--und-wann-darf-semund-neu-heiraten-)), nur noch Frist und Beurkundung offen |
-| ~~2~~ | ~~Girlin: Herkunft und Charakter~~ — erledigt 31.08.2026 ([C-024](Challenges.md#c-024-girlin--herkunft--vorgeschichte)/[C-025](Challenges.md#c-025-girlin--charakter--fähigkeiten)) |
+| ~~2~~ | ~~Girlin: Herkunft und Charakter~~ — erledigt 31.08.2026 ([C-024](Challenges.md#c-024-girlin--herkunft--vorgeschichte-)/[C-025](Challenges.md#c-025-girlin--charakter--fähigkeiten-)) |
 
 Dazu ab sofort ein **fester Termin, wöchentlich, gleicher Tag, gleiche Uhrzeit.**
 

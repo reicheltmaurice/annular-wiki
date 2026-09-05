@@ -3,94 +3,112 @@
 > Arbeitsdatei, kein Wiki-Inhalt — steht deshalb **nicht** in `SUMMARY.md`, genau wie
 > [Claude_Anleitungen.md](Claude_Anleitungen.md). Inhalt wird bei jeder Sitzung überschrieben.
 >
-> **Angelegt:** 03.09.2026 · **Für:** das Kapitelraster
+> **Angelegt:** 04.09.2026 · **Für:** Arbeit an den Szenen + Anlage von `Plots/Plot-1/Szenen.md`
 
 ---
 
 ```
-Ich arbeite an Plots/Plot-1/ — jetzt das Kapitelraster.
-Das Gerüst ist seit 03.09. vollständig: die Ereigniskette beider
-Stränge steht in der Zeitleiste.
+Ich will an den Szenen von Plot 1 arbeiten: aufteilen, verschieben,
+umbenennen, zusammenlegen, streichen.
 
-Lies vorher:
-- Plots/Plot-1/Zeitleiste.md (vollständig — beide Stränge und Finale)
-- Plots/Plot-1/Kapitelstruktur.md, Abschnitte "Was am 02.09.2026
-  entschieden wurde" und "Was am 03.09.2026 entschieden wurde"
-- Challenges C-129, C-118, C-120, C-110
+ERSTE AUFGABE DIESER SITZUNG
+Lege Plots/Plot-1/Szenen.md an. Das wird die einzige Quelle für die
+Szenen. Inhalt je Szene: Nummer, Titel, POV (Tibun/Girlin), Jahr,
+Ein-Satz-Zusammenfassung, Will / Hindernis / Ausgang, C-Nummern.
+Die Datei bekommt eine Statuszeile `> **Status:** ???` — der Zuschnitt
+ist Arbeitsstand, nicht entschieden, auch wenn er im Wiki steht.
+Setze niemals `final` oder `bewusst offen`.
 
-Ziel dieser Sitzung: das Kapitelraster anlegen.
-Pro Kapitel: eine Nummer, EIN Satz, ein POV, ein Jahr.
-Genau zwei Perspektivfiguren (Tibun, Girlin). Kapitel müssen nicht
-stur abwechseln. Romanlänge und Kapitellänge werden NICHT vorab
-festgelegt.
+Inhalt kommt aus Notizen/Schaubilder/Szenenliste.html (44 Karten,
+Stand 04.09.2026). Dort steht alles schon strukturiert in den
+data-Attributen — übernimm es, erfinde nichts dazu.
 
-Regel für das Raster: Ein Ereignis wird nur dann ein Kapitel, wenn
-sich darin EINE Sache ändert. Was nichts ändert, ist kein Kapitel.
+Die Ereigniskette in Plots/Plot-1/Zeitleiste.md NICHT wiederholen.
+Szenen.md verweist auf die Zeitleiste, statt sie zu duplizieren —
+sonst laufen zwei Fassungen auseinander (siehe C-119).
+Plots/Plot-1/Kapitelstruktur.md bleibt unangetastet: eingefrorene
+Handskizze, wird ausdrücklich nicht nachgepflegt.
 
-Arbeitsweise: Interview-Format, kurze Fragen, kurze Antworten.
-Vorwärts durch die Kette. Mehrfachauswahl anbieten, wo sich
-Antworten nicht ausschließen.
+Danach: SUMMARY.md ergänzen, aus Zeitleiste.md verlinken.
 
-Reihenfolge:
-1. Erst den Nordstrang durchgehen, dann den Wüstenstrang — je
-   Ereignis die Frage: eigenes Kapitel oder nicht?
-2. Danach die beiden Reihen ineinanderschieben und die Erzähl-
-   reihenfolge festlegen.
-3. Dabei mitprüfen, nicht als eigene Blöcke:
-   - C-129: Girlin ist ab +5 ohne Sippenschutz, Azzim greift erst
-     +9 zu. Trägt diese Lücke über vier Jahre, wenn man sie in
-     Kapiteln sieht?
-   - C-118: Tibun verliert zwischen +1 und +9 nichts. Trägt die
-     Mitte des Buches?
-   - C-120: der dritte Konflikt, bei dem beide Seiten verständlich
-     sind — fehlt er noch?
-   - C-110: der Schlusssatz — wissen die Figuren, was er kostet?
+DANN: DAS SCHAUBILD AUS DER QUELLE ERZEUGEN
+Notizen/Schaubilder/Szenenliste.html wird künftig aus Szenen.md
+erzeugt, nicht mehr von Hand gepflegt. Schlag mir vor, wie — Skript
+im Repo oder Generierung durch dich bei jeder Änderung — und was das
+im Alltag bedeutet, bevor du es baust.
 
-Wichtig:
-- High-Level bleiben. Keine Namen, keine Orte, keine Details.
-- Nichts eigenmächtig festlegen, auch nicht beim Ausformulieren ins
-  Wiki. Absicht ist nicht Handlung, Vorhaben nicht Ausführung. Was
-  über meinen Wortlaut hinausgeht, wird ??? oder eine eigene
-  Challenge. "Vielleicht" ist kein Beschluss.
+Veröffentlicht als Artifact "Was jede Szene will":
+https://claude.ai/code/artifact/425e137d-9af9-4cbb-9871-ed77ed74df6c
+Beim Aktualisieren diese URL als `url` mitgeben und vorher die
+Live-Fassung lesen, sonst entsteht ein zweites Artifact.
+
+ARBEITSWEISE
+Jede Änderung an den Szenen geht sofort nach Szenen.md — Wiki und
+Schaubild sind immer synchron, keine Zwischenstände nur im HTML.
+Interview-Format: kurze Fragen, kurze Antworten, Mehrfachauswahl
+anbieten, wo sich Antworten nicht ausschließen.
+
+WAS BEIM UMSORTIEREN ALLES MITMUSS — maschinell prüfen, nicht per
+Augenmaß. Alles davon ist abgeleitet und bricht sonst still:
+1. data-chrono neu durchnummerieren, lückenlos ab 1.
+2. Das Auswahlfeld "Anfang endet nach": 39 hart im HTML stehende
+   <option> mit Nummer, Titel und Jahr — komplett neu erzeugen.
+   Aktuell vorausgewählt: Wert 3 ("Der Blitz").
+3. Im JS: `SCHLUSS=41` (Position, ab der das Band "Schluss" beginnt,
+   aktuell "Der Angriff — Zündung 1") und `anfEnde=3` (muss zur
+   vorausgewählten <option> passen).
+4. Die fünf Kennzahlen im Kopf, aktuell korrekt: 44 Szenenkandidaten
+   (23 Tibun / 21 Girlin), 21 vollständig (= kein ??? in Will,
+   Hindernis, Ausgang), 15 ohne Hindernis, 7 reine Zustände.
+5. Der Absatz zur Wortzahl: 44 Szenen x 1.200-2.000 Wörter =
+   53.000-88.000. Neu rechnen, wenn sich die Szenenzahl ändert.
+6. Die Fußzeile der Seite sagt derzeit: "Szenenzuschnitt, die
+   Zuordnung der Ziele und die Anfang-Grenze sind Lesehilfen dieser
+   Seite und stehen nicht im Wiki." Der erste Teil wird falsch,
+   sobald Szenen.md existiert — Satz anpassen.
+7. Notizen/Schaubilder/README.md: Beschreibung und Stand nachziehen.
+
+REGELN
+CLAUDE.md gilt. Besonders:
+- Keine Eigenentscheidungen. Titel, Zuschnitt und Reihenfolge lege
+  ich fest; du schlägst vor und meldest Widersprüche. Was über
+  meinen Wortlaut hinausgeht, wird ??? oder eine eigene Challenge.
 - Bevor du auf einer Wiki-Aussage aufbaust: prüfe, ob sie von mir
-  stammt oder von dir. Siehe C-119. Das gilt auch für Challenges
-  selbst — C-121 beruhte auf einer Erfindung.
+  stammt oder von dir. Siehe C-119.
 - Neue Challenges laufend anlegen, viele kleine statt wenige große.
 - Duzen. Nicht committen.
 ```
 
 ---
 
-## Stand nach der Sitzung vom 03.09.2026
+## Stand nach der Sitzung vom 04.09.2026
 
-Die Ereigniskette beider Stränge ist lückenlos von Jahr 0 bis +10 (Jahr −1 entfällt seit 04.09.2026).
+**Entschieden zum Auftakt:** Der Prolog besteht nur aus „Das Beben". Der Auftakt liegt vollständig
+in Jahr 0 (Beben → Bernstein-Effekt → Blitz, jeweils wenige Tage auseinander), Jahr −1 entfällt,
+Tibun ist dabei 16. Der **Anfang endet nach „Der Blitz"** — alles danach ist Hauptteil.
 
-**Girlins Strang, neu geschnitten:**
+**Schaubild Szenenliste** (`Notizen/Schaubilder/Szenenliste.html`): 44 Szenenkandidaten mit Ziel,
+Hindernis und Ausgang. Vier Ansichten — Erzählt, Chronologisch, Blockweise und neu **Parallel**:
+Der Hauptteil erscheint als zwei versetzte Bahnen, Tibun linksbündig, Girlin rechtsbündig, je
+zwei Drittel der Breite.
 
-| Jahr | Ereignis |
+**Entschieden zur Ablage (04.09.2026):**
+
+| Datei | Rolle |
 |---|---|
-| +3/+5 | Azzim 1 — Basar, Zugriff, Clan wehrt ab |
-| +4 | Kind geboren → **Entschluss kippt: sie bleibt** |
-| +5 | Bitte an den Clan (für die Nachricht) · **Trennung vom Clan**, Umzug zu Bellbrim |
-| +5→+7 | Leben zu viert, Generatorarbeit beginnt, Kind wächst, Basar als Materialquelle |
-| +7/+8 | Clan kommt wieder, Girlin zieht mit · Azzim 2 verhandelt · Ring liegt ab +8 in der Schlucht |
-| +8→+10 | Vollendung des Generators |
-| +9 | Azzim 3 — Basar, Flucht, er folgt ihr und findet die Schlucht · holt Leute |
-| +10 | Generator fertig → Zweifel → Entschluss bestätigt → **Angriff = Azzim 4 = Finale** |
+| `Plots/Plot-1/Zeitleiste.md` | Ereigniskette, chronologisch — bleibt maßgeblich |
+| `Plots/Plot-1/Kapitelstruktur.md` | Handskizze, eingefroren — wird nicht nachgepflegt |
+| `Plots/Plot-1/Szenen.md` | **noch anzulegen** — einzige Quelle der Szenen |
+| `Notizen/Schaubilder/Szenenliste.html` | Darstellung, wird aus `Szenen.md` erzeugt |
 
-**Erledigt:** C-122 ✓, C-123 ✓, C-105 (Handlungen des Neffen), C-112 ✓, C-111 (Ring wird nie
-aufgerichtet). **Zurückgezogen:** C-121 — die Challenge selbst beruhte auf einer Erfindung.
-**Neu:** C-129 bis C-135.
-
-**Gestrichene Altlasten (zweite Runde in C-119):** Transportfenster +5→+8, „ein Vorhaben über
-Jahre", die 14 m³ Bachwasser samt Pfütze, „ab +8 ungeschützt", „beide bauen dasselbe Gerät",
-Entschluss im Fenster +8/+10.
+Änderungen an den Szenen gehen ab sofort **direkt ins Wiki**, nicht nur ins Schaubild.
 
 ## Bewusst nicht im Prompt
 
-- **C-130 bis C-135** (Terminierung des Transports, Bau ohne Ring, Bezahlung auf dem Basar,
-  Azzims Leute, die Nachricht, Bauart des Wüstengenerators) sind Detailfragen unterhalb des
-  Rasters. Sie würden das Interview verwässern und können später einzeln laufen.
-- **C-129 und C-118** stehen im Prompt nur als Prüfpunkte, nicht als Aufgabe: Beide sind
-  Beobachtungen zur Tragfähigkeit, keine Lücken — sie dürfen auch bewusst so bleiben. Ob sie
-  tragen, zeigt sich erst, wenn die Kapitel nebeneinanderliegen.
+- **Die offenen `???` in den Szenen** (Ziele und Hindernisse, die noch fehlen) sind nicht Thema
+  dieser Sitzung. Erst steht der Zuschnitt, dann wird gefüllt — sonst füllt man Karten, die
+  gleich wieder zerfallen.
+- **Kapitelnummern und Kapitelgrenzen** bleiben außen vor. Die Szenenliste ist ausdrücklich kein
+  Kapitelraster; die Nummer links ist eine Position, keine Kapitelnummer.
+- **`Notizen/Schaubilder/Kapitelraster.html`** ist als überholt markiert und wird nicht
+  mitgezogen. Ob es gelöscht wird, entscheide ich später.

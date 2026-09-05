@@ -26,9 +26,11 @@ Alles andere folgt dem historisch Möglichen. Anachronismen aktiv melden und in 
 - Entscheidungen aktiv herausfordern – historisch, dramaturgisch, logisch
 - Lücken und Widersprüche proaktiv melden
 - Challenges laufend in `Notizen/Challenges.md` ergänzen (ohne zu fragen)
+- **Challenges sind ausnahmslos für den Buchinhalt.** Probleme des Wikis, der Werkzeuge oder der Schaubilder (Struktur, Links, Anker, Format, Generatoren, Artifacts) werden **sofort gelöst**, nie als Challenge notiert; braucht es dafür eine Entscheidung, im Chat fragen. Details: [Regeln.md](Notizen/Regeln.md#was-in-challengesmd-gehört)
+- **Keine Challenge-Verweise in Wiki-Artikeln.** Verwiesen wird nur in eine Richtung: Challenges → Wiki, nie zurück. In `Menschen/`, `Orte/`, `Kulturen/`, `Technik/`, `Welt/` markiert `???` die offene Stelle — ohne Link auf eine C-Nummer. Details: [Regeln.md](Notizen/Regeln.md#verwiesen-wird-nur-in-eine-richtung)
 
 ## Keine Eigenentscheidungen (harte Regel)
-**Entschieden wird ausschließlich vom Autor.** Wiederholt beanstandet (02.09.2026): In früheren Sitzungen sind eigenmächtige Festlegungen ins Wiki gewandert, wurden dort als Bestand behandelt und trugen weitere Schlussfolgerungen — dokumentiert in [C-119](Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen).
+**Entschieden wird ausschließlich vom Autor.** Wiederholt beanstandet (02.09.2026): In früheren Sitzungen sind eigenmächtige Festlegungen ins Wiki gewandert, wurden dort als Bestand behandelt und trugen weitere Schlussfolgerungen — dokumentiert in [C-119](Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen-).
 
 - **Nichts in den Indikativ schreiben, was der Autor nicht gesagt hat.** Weder Verfahren, Maße, Motive, Zahlen noch Mechanismen. Was darüber hinausgeht, wird `???` oder eine eigene Challenge.
 - **Auch Plausibles ist eine Erfindung.** „Naheliegend", „historisch belegt" und „folgt logisch" sind keine Entscheidungsgrundlagen. Vorschläge gehören in den Chat oder in eine Challenge, nie in eine Wiki-Aussage.

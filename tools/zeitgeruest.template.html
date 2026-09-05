@@ -1,0 +1,588 @@
+<title>Zehn Jahre, zwei Stränge</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+
+<style>
+:root{
+  --paper:#E8EAE7;
+  --card:#F6F7F4;
+  --card-2:#F0F1EE;
+  --ink:#1C2124;
+  --ink-2:#4E565A;
+  --ink-3:#7B8388;
+  --rule:#D1D4CE;
+  --rule-2:#BFC3BC;
+  --nord:#2F5D66;
+  --nord-tint:#DDE8E9;
+  --sand:#8F6216;
+  --sand-tint:#EDE4D2;
+  --gap:#9C3F38;
+  --gap-tint:#EEDFDC;
+  --shadow:0 1px 2px rgba(28,33,36,.06);
+
+  --f-display:"Spectral","Iowan Old Style",Georgia,serif;
+  --f-body:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;
+  --f-mono:"IBM Plex Mono","SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#14181A;
+    --card:#1C2124;
+    --card-2:#191E20;
+    --ink:#E6E8E4;
+    --ink-2:#A6AEB1;
+    --ink-3:#79817F;
+    --rule:#2C3336;
+    --rule-2:#3A4346;
+    --nord:#7CB8C0;
+    --nord-tint:#1B2E32;
+    --sand:#D2A153;
+    --sand-tint:#2C2214;
+    --gap:#DB8279;
+    --gap-tint:#31201E;
+    --shadow:0 1px 2px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#14181A;
+  --card:#1C2124;
+  --card-2:#191E20;
+  --ink:#E6E8E4;
+  --ink-2:#A6AEB1;
+  --ink-3:#79817F;
+  --rule:#2C3336;
+  --rule-2:#3A4346;
+  --nord:#7CB8C0;
+  --nord-tint:#1B2E32;
+  --sand:#D2A153;
+  --sand-tint:#2C2214;
+  --gap:#DB8279;
+  --gap-tint:#31201E;
+  --shadow:0 1px 2px rgba(0,0,0,.3);
+}
+
+*{box-sizing:border-box}
+body{
+  background:var(--paper);
+  color:var(--ink);
+  font-family:var(--f-body);
+  font-size:15px;
+  line-height:1.55;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1140px;margin:0 auto;padding:44px 24px 80px}
+
+/* ---------- Kopf ---------- */
+.eyebrow{
+  font-family:var(--f-mono);
+  font-size:11px;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--ink-3);
+}
+h1{
+  font-family:var(--f-display);
+  font-weight:600;
+  font-size:clamp(30px,5vw,46px);
+  line-height:1.08;
+  letter-spacing:-.015em;
+  margin:.28em 0 .3em;
+  text-wrap:balance;
+}
+.lede{
+  font-family:var(--f-display);
+  font-size:17px;
+  line-height:1.6;
+  color:var(--ink-2);
+  max-width:62ch;
+  margin:0;
+}
+.lede em{color:var(--ink)}
+
+.facts{
+  display:flex;
+  flex-wrap:wrap;
+  gap:0;
+  margin:34px 0 0;
+  border-top:1px solid var(--rule);
+  border-bottom:1px solid var(--rule);
+}
+.fact{
+  flex:1 1 160px;
+  padding:16px 20px 15px;
+  border-left:1px solid var(--rule);
+}
+.fact:first-child{border-left:0;padding-left:0}
+.fact b{
+  display:block;
+  font-family:var(--f-mono);
+  font-size:26px;
+  font-weight:500;
+  line-height:1.1;
+  font-variant-numeric:tabular-nums;
+  letter-spacing:-.02em;
+}
+.fact span{
+  display:block;
+  margin-top:5px;
+  font-size:12.5px;
+  color:var(--ink-2);
+  line-height:1.4;
+}
+.fact.warn b{color:var(--gap)}
+
+/* ---------- Befunde ---------- */
+.befunde{margin:38px 0 0}
+.befunde h2, .tl-head h2, .legende h2{
+  font-family:var(--f-display);
+  font-weight:600;
+  font-size:20px;
+  letter-spacing:-.01em;
+  margin:0 0 4px;
+}
+.befunde p.sub, .tl-head p.sub{
+  margin:0 0 16px;
+  font-size:13.5px;
+  color:var(--ink-3);
+}
+.bef-list{
+  list-style:none;
+  margin:0;
+  padding:0;
+  display:grid;
+  gap:1px;
+  background:var(--rule);
+  border:1px solid var(--rule);
+}
+.bef-list li{
+  background:var(--card);
+  padding:13px 16px;
+  display:grid;
+  grid-template-columns:78px 1fr;
+  gap:16px;
+  align-items:baseline;
+}
+.bef-list .where{
+  font-family:var(--f-mono);
+  font-size:11px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  color:var(--ink-3);
+  white-space:nowrap;
+}
+.bef-list strong{font-weight:600}
+.bef-list .note{color:var(--ink-2);font-size:13.5px;display:block;margin-top:2px}
+
+/* ---------- Steuerung ---------- */
+.controls{
+  display:flex;
+  flex-wrap:wrap;
+  gap:22px;
+  align-items:center;
+  margin:14px 0 26px;
+  padding:12px 0;
+  border-top:1px solid var(--rule);
+  border-bottom:1px solid var(--rule);
+}
+.cgroup{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.cgroup > span{
+  font-family:var(--f-mono);
+  font-size:11px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  color:var(--ink-3);
+}
+button.chip{
+  font-family:var(--f-body);
+  font-size:13px;
+  font-weight:500;
+  color:var(--ink-2);
+  background:transparent;
+  border:1px solid var(--rule-2);
+  border-radius:2px;
+  padding:5px 11px;
+  cursor:pointer;
+  transition:background .12s,color .12s,border-color .12s;
+}
+button.chip:hover{color:var(--ink);border-color:var(--ink-3)}
+button.chip[aria-pressed="true"]{
+  background:var(--ink);
+  border-color:var(--ink);
+  color:var(--paper);
+}
+button.chip:focus-visible{outline:2px solid var(--nord);outline-offset:2px}
+
+/* ---------- Zeitachse ---------- */
+.tl{
+  display:grid;
+  grid-template-columns:1fr 96px 1fr;
+  align-items:stretch;
+}
+.row{display:contents}
+
+.axis{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  position:relative;
+}
+.axis .line{width:1px;background:var(--rule-2);flex:1 1 auto;min-height:10px}
+.node{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:2px;
+  padding:6px 0;
+  flex:0 0 auto;
+}
+.node .yr{
+  font-family:var(--f-mono);
+  font-size:15px;
+  font-weight:500;
+  font-variant-numeric:tabular-nums;
+  background:var(--paper);
+  border:1px solid var(--rule-2);
+  border-radius:999px;
+  width:46px;
+  height:46px;
+  display:grid;
+  place-items:center;
+  letter-spacing:-.02em;
+}
+.node .age{
+  font-family:var(--f-mono);
+  font-size:10.5px;
+  color:var(--ink-3);
+  white-space:nowrap;
+  letter-spacing:.02em;
+}
+.row.finale .node .yr{
+  border-color:var(--ink);
+  border-width:2px;
+  font-weight:500;
+}
+
+.cell{
+  padding:10px 0 10px;
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+  min-width:0;
+}
+.cell.left{padding-right:20px;align-items:flex-end}
+.cell.right{padding-left:20px;align-items:flex-start}
+
+.card{
+  background:var(--card);
+  border:1px solid var(--rule);
+  border-radius:2px;
+  box-shadow:var(--shadow);
+  padding:12px 14px 13px;
+  width:100%;
+  max-width:440px;
+  position:relative;
+  transition:opacity .18s;
+}
+.cell.left .card{border-right:3px solid var(--nord)}
+.cell.right .card{border-left:3px solid var(--sand)}
+.card.s-teil{
+  background-origin:border-box;
+  background-clip:border-box;
+  background-size:3px 100%;
+  background-repeat:no-repeat;
+}
+.cell.left .card.s-teil{
+  border-right-color:transparent;
+  background-image:repeating-linear-gradient(180deg,var(--nord) 0 5px,transparent 5px 10px);
+  background-position:right center;
+}
+.cell.right .card.s-teil{
+  border-left-color:transparent;
+  background-image:repeating-linear-gradient(180deg,var(--sand) 0 5px,transparent 5px 10px);
+  background-position:left center;
+}
+.card.s-luecke{
+  background:var(--card-2);
+  border-style:dashed;
+}
+.cell.left .card.s-luecke{border-right:3px dashed var(--gap)}
+.cell.right .card.s-luecke{border-left:3px dashed var(--gap)}
+
+.card h3{
+  font-family:var(--f-display);
+  font-weight:600;
+  font-size:16.5px;
+  line-height:1.25;
+  margin:0 0 5px;
+  letter-spacing:-.005em;
+  text-wrap:balance;
+}
+.card .span{
+  font-family:var(--f-mono);
+  font-size:10.5px;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  color:var(--ink-3);
+  display:block;
+  margin-bottom:4px;
+}
+.card ul{margin:0;padding:0 0 0 16px}
+.card li{font-size:13.5px;color:var(--ink-2);margin:3px 0;line-height:1.5}
+.card li strong{color:var(--ink);font-weight:600}
+.card p{margin:0;font-size:13.5px;color:var(--ink-2)}
+
+.cs{display:flex;flex-wrap:wrap;gap:4px;margin-top:9px}
+.c{
+  font-family:var(--f-mono);
+  font-size:10.5px;
+  font-weight:500;
+  letter-spacing:.02em;
+  padding:2px 5px;
+  border-radius:2px;
+  border:1px solid transparent;
+  white-space:nowrap;
+  cursor:help;
+}
+.c.open{background:var(--gap-tint);color:var(--gap);border-color:color-mix(in srgb,var(--gap) 28%,transparent)}
+.c.done{background:transparent;color:var(--ink-3);border-color:var(--rule-2)}
+
+.card .offen{font-family:var(--fm,monospace);font-size:11.5px;color:var(--gap,#9C3F38);background:var(--gap-tint,#EEDFDC);padding:0 4px;border-radius:2px}
+.leer{
+  width:100%;
+  max-width:440px;
+  border:1px dashed var(--rule-2);
+  border-radius:2px;
+  padding:11px 14px;
+  font-family:var(--f-mono);
+  font-size:11.5px;
+  letter-spacing:.06em;
+  color:var(--ink-3);
+  text-transform:uppercase;
+  background:transparent;
+}
+.leer.hart{
+  border-color:color-mix(in srgb,var(--gap) 45%,transparent);
+  color:var(--gap);
+  background:var(--gap-tint);
+}
+.leer small{
+  display:block;
+  font-family:var(--f-body);
+  font-size:12px;
+  letter-spacing:0;
+  text-transform:none;
+  color:var(--ink-2);
+  margin-top:3px;
+}
+.leer.hart small{color:var(--gap)}
+
+/* Spaltenköpfe */
+.tl-labels{
+  display:grid;
+  grid-template-columns:1fr 96px 1fr;
+  align-items:end;
+  margin-bottom:6px;
+}
+.tl-labels div{padding-bottom:8px}
+.lab{
+  font-family:var(--f-mono);
+  font-size:11px;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+}
+.lab.n{color:var(--nord);text-align:right;padding-right:20px}
+.lab.w{color:var(--sand);padding-left:20px}
+.lab.mid{text-align:center;color:var(--ink-3);font-size:10px;letter-spacing:.1em}
+
+/* Filterzustände */
+.tl[data-fokus="nord"] .cell.right,
+.tl[data-fokus="wueste"] .cell.left{opacity:.2}
+.tl[data-offen="1"] .card:not(.hat-offen){opacity:.22}
+
+/* Legende */
+.legende{
+  margin-top:46px;
+  padding-top:22px;
+  border-top:1px solid var(--rule);
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(210px,1fr));
+  gap:20px 28px;
+}
+.legende h2{grid-column:1/-1;margin-bottom:8px}
+.leg-item{display:flex;gap:10px;align-items:flex-start;font-size:13px;color:var(--ink-2)}
+.leg-swatch{flex:0 0 auto;width:14px;height:34px;margin-top:2px;border-radius:1px}
+.sw-fest{background:var(--nord)}
+.sw-teil{background-image:repeating-linear-gradient(180deg,var(--sand) 0 5px,transparent 5px 10px);background-color:transparent}
+.sw-luecke{border:1px dashed var(--gap);background:var(--gap-tint)}
+.leg-item b{color:var(--ink);font-weight:600;display:block}
+
+footer{
+  margin-top:38px;
+  padding-top:18px;
+  border-top:1px solid var(--rule);
+  font-size:12.5px;
+  color:var(--ink-3);
+  line-height:1.6;
+}
+footer code{font-family:var(--f-mono);font-size:11.5px;color:var(--ink-2)}
+
+@media (max-width:900px){
+  .wrap{padding:30px 16px 60px}
+  .tl, .tl-labels{grid-template-columns:64px 1fr}
+  .tl-labels .lab.n, .tl-labels .lab.w{display:none}
+  .tl-labels .lab.mid{text-align:left}
+  .row{display:grid;grid-template-columns:64px 1fr;grid-auto-flow:row}
+  .axis{grid-row:1 / span 2;grid-column:1}
+  .cell.left{grid-column:2;grid-row:1;align-items:stretch;padding:8px 0 4px}
+  .cell.right{grid-column:2;grid-row:2;align-items:stretch;padding:4px 0 12px}
+  .cell.left .card, .cell.right .card, .leer{max-width:none}
+  .cell.left .card{border-right:1px solid var(--rule);border-left:3px solid var(--nord)}
+  .cell.left .card.s-teil{
+    border-right-color:var(--rule);
+    border-left-color:transparent;
+    background-position:left center;
+  }
+  .cell.left .card.s-luecke{border-right:1px dashed var(--rule);border-left:3px dashed var(--gap)}
+  .node .yr{width:40px;height:40px;font-size:13.5px}
+  .node .age{font-size:9.5px}
+  .strang{display:inline-block}
+}
+.strang{
+  display:none;
+  font-family:var(--f-mono);
+  font-size:10px;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  margin-bottom:4px;
+}
+.cell.left .strang{color:var(--nord)}
+.cell.right .strang{color:var(--sand)}
+
+@media (prefers-reduced-motion: reduce){
+  *{transition:none !important;animation:none !important}
+}
+</style>
+
+<div class="wrap">
+
+  <header>
+    <div class="eyebrow">Plot 1 · Tibun &amp; Girlin · Titel ???</div>
+    <h1>Zehn Jahre, zwei Stränge</h1>
+    <p class="lede">Die Szenen aus <em>Szenen.md</em>, Jahr für Jahr nebeneinandergelegt — dieselben Karten wie in der Szenenliste, nur nach Zeit statt nach Erzählfolge geordnet. Jahr 0 trägt seit dem 04.09.2026 den gesamten Auftakt — Beben, Bernstein-Effekt und Blitz, jeweils nur Tage auseinander; das interne Referenzjahr ist 550 n.Chr. Wo ein Leerfeld steht, gibt es <em>keine eigene Szene</em> — nicht, dass in dem Jahr nichts geschieht: die <em>Zeitleiste</em> führt für diese Jahre durchaus Vorgänge.</p>
+
+    <div class="facts">
+      <div class="fact"><b>{{CH_OFFEN}}</b><span>offene Challenges<br>({{CH_GELOEST}} entschieden)</span></div>
+      <div class="fact"><b>{{N}}</b><span>Szenenkandidaten<br>{{T}} Tibun · {{G}} Girlin</span></div>
+      <div class="fact warn"><b>{{LEER_N}}</b><span>Jahre ohne eigene Szene<br>im Nordstrang ({{LEER_W}} in der Wüste)</span></div>
+      <div class="fact"><b>—</b><span>Kapitelraster:<br>noch nicht angelegt</span></div>
+    </div>
+  </header>
+
+  <section class="befunde">
+    <h2>Wo der Text fehlt, nicht nur die Entscheidung</h2>
+    <p class="sub">Vier Befunde, die sich aus dem Nebeneinander ergeben.</p>
+    <ul class="bef-list">
+      <li>
+        <span class="where">+5 → +9</span>
+        <span><strong>Der Nordstrang hat vier Jahre mit einem einzigen Beat.</strong>
+        <span class="note">Tibun baut das Tischmodell und sammelt Bernstein. Kein Verlust, kein Gegenspieler, keine Zäsur — der Aufbruch in +9 kostet ihn ausdrücklich nichts. Der Wüstenstrang hat im selben Fenster Trennung vom Clan, Transport, Azzim. Notiert als C-118.</span></span>
+      </li>
+      <li>
+        <span class="where">Figuren</span>
+        <span><strong>Zwei tragende Figuren haben keinen Namen und keine Datei.</strong>
+        <span class="note">Der Neffe des Häuptlings — Girlins Partner, Vater ihres dritten Kindes, Verteidiger der Schlucht (C-105) — und Tibuns Zieheltern in Kaupvik, seine Bezugsperson über acht Jahre (C-059). Beide tragen ganze Strangabschnitte.</span></span>
+      </li>
+      <li>
+        <span class="where">Technik</span>
+        <span><strong>Der Wüstengenerator ist unbestimmt.</strong>
+        <span class="note">Er läuft über fünf Jahre Handlung und löst Zündung 1 aus, aber Bauart und Wirkprinzip sind offen (C-135), ebenso was daran ohne Ring überhaupt prüfbar war (C-131). Auf der Nordseite steht mit Bernsteinrad und Konduktor deutlich mehr.</span></span>
+      </li>
+      <li>
+        <span class="where">Gerüst</span>
+        <span><strong>Zwischen Beat und Szene fehlt die Ebene.</strong>
+        <span class="note">Kapitelraster — Nummer, ein Satz, ein POV, ein Jahr — ist nicht angelegt; Romanlänge und Kapitellänge sind bewusst nicht vorab festgelegt. Solange das fehlt, lässt sich Umfang je Jahr nicht bemessen.</span></span>
+      </li>
+    </ul>
+  </section>
+
+  <section class="tl-head" style="margin-top:38px">
+    <h2>Jahr für Jahr</h2>
+    <p class="sub">Jede Karte ist eine Szene aus <em>Szenen.md</em> und steht in ihrem Jahr. Die Nummer ist die Erzählposition, nicht die Kapitelnummer.</p>
+  </section>
+
+  <div class="controls">
+    <div class="cgroup">
+      <span>Ansicht</span>
+      <button class="chip" id="f-alles" aria-pressed="true">Alles</button>
+      <button class="chip" id="f-offen" aria-pressed="false">Nur mit offenen Punkten</button>
+    </div>
+    <div class="cgroup">
+      <span>Strang</span>
+      <button class="chip" data-fokus="beide" aria-pressed="true">Beide</button>
+      <button class="chip" data-fokus="nord" aria-pressed="false">Norden</button>
+      <button class="chip" data-fokus="wueste" aria-pressed="false">Wüste</button>
+    </div>
+  </div>
+
+  <div class="tl-labels">
+    <div class="lab n">Tibun · Norden · Skirraa &amp; Kaupvik</div>
+    <div class="lab mid">Jahr</div>
+    <div class="lab w">Girlin · Wüste · Fezzan</div>
+  </div>
+
+  <div class="tl" id="tl" data-fokus="beide" data-offen="0">
+{{ZEILEN}}
+  </div>
+
+  <section class="legende">
+    <h2>Legende</h2>
+    <div class="leg-item">
+      <div class="leg-swatch sw-fest"></div>
+      <div><b>Farbige Kante</b>Links Tibun (Norden), rechts Girlin (Wüste). Jede Karte ist eine Szene.</div>
+    </div>
+    <div class="leg-item">
+      <div class="leg-swatch sw-luecke"></div>
+      <div><b>Gestricheltes Feld</b>In diesem Jahr hat der Strang <em>keine eigene Szene</em>. Die Zeitleiste führt für solche Jahre durchaus Vorgänge — sie sind nur nicht als Szene zugeschnitten.</div>
+    </div>
+    <div class="leg-item">
+      <div class="leg-swatch" style="background:transparent;border:1px solid var(--rule-2)"></div>
+      <div><b>C-Nummern</b>Rot = offen, grau = entschieden. Status und Titel kommen aus Challenges.md; fahr mit der Maus darüber.</div>
+    </div>
+    <div class="leg-item">
+      <div class="leg-swatch" style="background:var(--gap-tint);border:1px solid var(--gap)"></div>
+      <div><b>???</b>Eine echte Leerstelle in Will, Hindernis oder Ausgang — <em>Nur mit offenen Punkten</em> filtert danach.</div>
+    </div>
+  </section>
+
+  <footer>
+    Quellen: <code>Plots/Plot-1/Szenen.md</code>, <code>Notizen/Challenges.md</code>, Altersgerüst aus <code>Plots/Plot-1/Zeitleiste.md</code> · Stand {{STAND}}.<br>
+    <strong>Diese Seite wird erzeugt</strong> aus <code>Plots/Plot-1/Szenen.md</code> (Karten, Jahre, Stränge), <code>Notizen/Challenges.md</code> (Titel und Status der C-Nummern) und dem Altersgerüst in <code>Plots/Plot-1/Zeitleiste.md</code> — <code>tools/zeitgeruest.py</code>, nicht von Hand gepflegt.<br>
+    Sie fasst nur zusammen, was im Wiki steht — sie legt nichts fest. Der Szenenzuschnitt ist Arbeitsstand (C-143).
+  </footer>
+
+</div>
+
+<script>
+(function(){
+  var tl = document.getElementById('tl');
+
+  var fAlles = document.getElementById('f-alles');
+  var fOffen = document.getElementById('f-offen');
+  function setOffen(on){
+    tl.setAttribute('data-offen', on ? '1' : '0');
+    fOffen.setAttribute('aria-pressed', on ? 'true' : 'false');
+    fAlles.setAttribute('aria-pressed', on ? 'false' : 'true');
+  }
+  fAlles.addEventListener('click', function(){ setOffen(false); });
+  fOffen.addEventListener('click', function(){ setOffen(true); });
+
+  var fokusBtns = Array.prototype.slice.call(document.querySelectorAll('[data-fokus]'));
+  fokusBtns.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      fokusBtns.forEach(function(b){ b.setAttribute('aria-pressed', b === btn ? 'true' : 'false'); });
+      tl.setAttribute('data-fokus', btn.getAttribute('data-fokus'));
+    });
+  });
+})();
+</script>

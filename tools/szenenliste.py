@@ -1,0 +1,224 @@
+#!/usr/bin/env python3
+"""Erzeugt Notizen/Schaubilder/Szenenliste.html aus Plots/Plot-1/Szenen.md.
+
+Quelle ist ausschliesslich Szenen.md. Diese Datei wird nicht von Hand
+bearbeitet -- Aenderungen am Aussehen gehen in tools/szenenliste.template.html.
+
+Aufruf (aus dem Wurzelverzeichnis des Wikis):
+    python3 tools/szenenliste.py               # erzeugen
+    python3 tools/szenenliste.py --pruefen     # nur pruefen, nichts schreiben
+    python3 tools/szenenliste.py --nummerieren # Nummern in Szenen.md nachziehen, dann erzeugen
+
+--nummerieren ist rein mechanisch: es setzt die Nummern der Szenen-Ueberschriften
+nach der Reihenfolge in der Datei neu und zieht die Nummern in der
+Gliederungstabelle nach. Reihenfolge, Titel und Inhalte bleiben unangetastet --
+zu verschieben, zu streichen und zusammenzulegen ist Sache des Autors.
+
+Abgeleitet und bei jedem Lauf neu gerechnet:
+  - die Positionsnummern (lueckenlos ab 1, in Reihenfolge der Datei = Erzaehlreihenfolge)
+  - die <option> des Auswahlfelds "Anfang endet nach"
+  - PRO / SCHLUSS im JS, gebunden an den Szenentitel, nicht an eine Nummer
+  - die fuenf Kennzahlen im Kopf
+  - die Wortzahl-Groessenordnung
+"""
+
+import datetime
+import re
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import wiki
+from wiki import fehler, lies_szenen, lies_grenze, position_von, kennzahlen
+
+QUELLE = wiki.SZENEN
+TEMPLATE = Path(__file__).resolve().parent / "szenenliste.template.html"
+ZIEL = wiki.WURZEL / "Notizen" / "Schaubilder" / "Szenenliste.html"
+
+# Anzeigevoreinstellung des Auswahlfelds "Anfang endet nach".
+# KEINE Festlegung: Wo der Anfang endet, ist offen (C-140). Der Wert steht
+# bewusst hier und nicht in Szenen.md, damit im Wiki keine Entscheidung
+# behauptet wird, die der Autor nicht getroffen hat.
+ANFANG_ENDET_NACH = "Der Blitz — Tibun"
+
+# Branchenrichtwerte fuer die Groessenordnung, keine Festlegung.
+WOERTER_MIN, WOERTER_MAX = 1200, 2000
+
+
+def tausender(n):
+    return "{:,}".format(int(round(n / 1000.0)) * 1000).replace(",", ".")
+
+
+def feld(wert):
+    return '<span class="offen">???</span>' if wert.strip() == "???" else wert
+
+
+def karte(s, prolog_titel):
+    klassen = ["sz", "p-t" if s["pov"] == "Tibun" else "p-g"]
+    if s["hindernis"].strip() == "???":
+        klassen.append("kein-hindernis")
+        if s["will"].strip() == "???":
+            klassen.append("zustand")
+    if s["titel"] == prolog_titel:
+        klassen.append("ist-prolog")
+    kuerzel = s["pov"][0]  # T / G
+    pj = "0" if s["jahr_zahl"] == 0 else "+%d" % s["jahr_zahl"]
+    return (
+        '<article class="{cls}" data-jahr="{jahr}" data-pov="{k}" data-pos="{pos}" data-titel="{titel}">\n'
+        '        <div class="pos"><span class="pnr"></span><span class="pj">{pj}</span></div>\n'
+        '        <div class="korpus">\n'
+        '          <div class="kopf"><span class="pov pov-{kl}">{pov}</span><h3>{titel}</h3></div>\n'
+        '          <p class="satz">{satz}</p>\n'
+        '          <dl class="w"><div><dt>Will</dt><dd>{will}</dd></div>'
+        "<div><dt>Hindernis</dt><dd>{hindernis}</dd></div>"
+        "<div><dt>Ausgang</dt><dd>{ausgang}</dd></div></dl>\n"
+        '          <span class="ch">{ch}</span>\n'
+        "        </div>"
+    ).format(
+        cls=" ".join(klassen),
+        jahr=s["jahr_zahl"],
+        k=kuerzel,
+        kl=kuerzel.lower(),
+        pos=s["pos"],
+        titel=s["titel"],
+        pj=pj,
+        pov=s["pov"],
+        satz=s["satz"],
+        will=feld(s["will"]),
+        hindernis=feld(s["hindernis"]),
+        ausgang=feld(s["ausgang"]),
+        ch=s["ch"],
+    )
+
+
+def optionen(szenen, schluss_pos, gewaehlt):
+    """Alle Szenen, die als Ende des Anfangs in Frage kommen.
+
+    Ohne den Prolog (Position 1 -- der Anfang beginnt danach) und ohne den
+    Schlussblock; die letzte Wahlmoeglichkeit ist die Szene vor dem Schluss.
+    """
+    teile = []
+    for s in szenen[1 : schluss_pos - 1]:
+        jahr = "0" if s["jahr_zahl"] == 0 else "+%d" % s["jahr_zahl"]
+        sel = " selected" if s["pos"] == gewaehlt else ""
+        teile.append(
+            '<option value="%d"%s>%d · %s (%s)</option>' % (s["pos"], sel, s["pos"], s["titel"], jahr)
+        )
+    return "".join(teile)
+
+
+def nummerieren(md):
+    """Setzt die Nummern der Szenen-Ueberschriften und der Gliederungstabelle neu.
+
+    Aendert ausschliesslich Nummern -- keine Reihenfolge, keine Titel, keinen Text.
+    """
+    zaehler = [0]
+
+    def neue_nummer(m):
+        zaehler[0] += 1
+        return "### %d · %s" % (zaehler[0], m.group(2))
+
+    neu = re.sub(r"^### (\d+) · (.+)$", neue_nummer, md, flags=re.M)
+    titel = re.findall(r"^### \d+ · (.+)$", neu, re.M)
+    pos_von_titel = {t: i for i, t in enumerate(titel, start=1)}
+
+    prolog = re.search(r"^\| Prolog \| .*?\(([^)]+)\)", neu, re.M)
+    prolog_pos = pos_von_titel.get(prolog.group(1).strip()) if prolog else None
+
+    def zeile(m):
+        teil, text, rest = m.group(1), m.group(2), m.group(3)
+        if teil == "Anfang":
+            p = prolog_pos + 1 if prolog_pos else None
+        else:
+            klammer = re.search(r"\(([^)]+)\)", text)
+            p = pos_von_titel.get(klammer.group(1).strip()) if klammer else None
+        if p is None or not re.search(r"Szene \d+", text):
+            return m.group(0)
+        return "| %s | %s |%s" % (teil, re.sub(r"Szene \d+", "Szene %d" % p, text), rest)
+
+    neu = re.sub(r"^\| (Prolog|Anfang|Schluss) \| (.+?) \|(.*)$", zeile, neu, flags=re.M)
+    return neu, zaehler[0]
+
+
+def main():
+    nur_pruefen = "--pruefen" in sys.argv
+    md = QUELLE.read_text(encoding="utf-8")
+
+    if "--nummerieren" in sys.argv:
+        neu, anzahl = nummerieren(md)
+        if neu == md:
+            print("Nummern in Szenen.md waren bereits richtig (%d Szenen)." % anzahl)
+        else:
+            QUELLE.write_text(neu, encoding="utf-8")
+            print("Nummern in Szenen.md nachgezogen (%d Szenen)." % anzahl)
+            md = neu
+
+    szenen = lies_szenen(md)
+
+    prolog_titel, prolog_nr = lies_grenze(md, "Prolog")
+    schluss_titel, schluss_nr = lies_grenze(md, "Schluss")
+    _, anfang_nr = lies_grenze(md, "Anfang")
+    for teil, t in (("Prolog", prolog_titel), ("Schluss", schluss_titel)):
+        if not t:
+            fehler(
+                "in der Gliederungszeile %r von Szenen.md steht kein Szenentitel in Klammern. "
+                "Erwartet wird z. B. \"ab Szene 41 (Der Angriff — Zuendung 1)\"." % teil
+            )
+    prolog_pos = position_von(szenen, prolog_titel, "Prolog")
+    schluss_pos = position_von(szenen, schluss_titel, "Schluss")
+    if prolog_pos != 1:
+        fehler("der Prolog (%r) steht an Position %d, erwartet wird 1" % (prolog_titel, prolog_pos))
+    for teil, genannt, tatsaechlich in (
+        ("Prolog", prolog_nr, prolog_pos),
+        ("Anfang", anfang_nr, prolog_pos + 1),
+        ("Schluss", schluss_nr, schluss_pos),
+    ):
+        if genannt is not None and genannt != tatsaechlich:
+            fehler(
+                "Gliederungstabelle in Szenen.md: %s nennt Szene %d, tatsaechlich ist es Szene %d. "
+                "Mit --nummerieren nachziehen." % (teil, genannt, tatsaechlich)
+            )
+    anf_ende = position_von(szenen, ANFANG_ENDET_NACH, "Voreinstellung Anfang-Grenze")
+    if not 2 <= anf_ende < schluss_pos:
+        fehler(
+            "die Voreinstellung ANFANG_ENDET_NACH (%r, Position %d) liegt ausserhalb des "
+            "Anfangs -- Wert in %s anpassen." % (ANFANG_ENDET_NACH, anf_ende, Path(__file__).name)
+        )
+
+    werte = kennzahlen(szenen)
+    werte.update(
+        STAND=datetime.date.today().strftime("%d.%m.%Y"),
+        WORT_MIN=tausender(werte["N"] * WOERTER_MIN),
+        WORT_MAX=tausender(werte["N"] * WOERTER_MAX),
+        PROLOG_TITEL=prolog_titel,
+        SCHLUSS_POS=schluss_pos,
+        ANF_ENDE=anf_ende,
+        KARTEN="\n      </article>      ".join(karte(s, prolog_titel) for s in szenen) + "\n      </article>",
+        OPTIONS=optionen(szenen, schluss_pos, anf_ende),
+    )
+
+    html = TEMPLATE.read_text(encoding="utf-8")
+    html = re.sub(r"\{\{(\w+)\}\}", lambda m: str(werte[m.group(1)]), html)
+    rest = re.findall(r"\{\{\w+\}\}", html)
+    if rest:
+        fehler("unaufgeloeste Platzhalter: %s" % ", ".join(sorted(set(rest))))
+
+    print(
+        "%d Szenen (%d Tibun / %d Girlin) · %d vollstaendig · %d ohne Hindernis "
+        "(davon %d reine Zustaende)" % (werte["N"], werte["T"], werte["G"], werte["VOLL"],
+                                        werte["OHNE_H"], werte["ZUSTAND"])
+    )
+    print("Prolog: 1 %s · Schluss ab: %d %s · Anfang-Grenze voreingestellt: %d %s"
+          % (prolog_titel, schluss_pos, schluss_titel, anf_ende, ANFANG_ENDET_NACH))
+    print("Umfang: %s-%s Woerter" % (werte["WORT_MIN"], werte["WORT_MAX"]))
+
+    if nur_pruefen:
+        alt = ZIEL.read_text(encoding="utf-8") if ZIEL.exists() else ""
+        print("unveraendert" if alt == html else "WEICHT AB -- ohne --pruefen neu erzeugen")
+        return
+    ZIEL.write_text(html, encoding="utf-8")
+    print("geschrieben: %s" % ZIEL.relative_to(wiki.WURZEL))
+
+
+if __name__ == "__main__":
+    main()

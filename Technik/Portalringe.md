@@ -44,7 +44,7 @@ Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Dre
 
 Die Kugel reicht nur **1,50 m über die Ringebene**. Liegt der Ring flach im Boden, fällt die Ringebene mit dem Boden zusammen — das Kugelzentrum liegt dann genau dort, wo man steht, und ein Stehender hat **1,50 m Kopffreiheit**, exakt den Kugelradius. Für einen Erwachsenen ist das zu wenig; der rohe, ebenerdige Ring köpft ihn.
 
-**Deshalb baut die Nutzer-Zivilisation eine Mulde** ([C-084](../Notizen/Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe)). Wie tief, ist **noch nicht entschieden · ???** — die Tiefe erkauft Kopffreiheit mit Standfläche:
+**Deshalb baut die Nutzer-Zivilisation eine Mulde** ([C-084](../Notizen/Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe-)). Wie tief, ist **noch nicht entschieden · ???** — die Tiefe erkauft Kopffreiheit mit Standfläche:
 
 <table>
   <caption>Flach liegender 3-m-Ring — Muldentiefe unter der Ringebene</caption>
@@ -68,13 +68,13 @@ Standfläche  = 2 · √(1,50² − Muldentiefe²)
 Beides gemessen ab der Ringebene, die zugleich das Kugelzentrum ist.
 ```
 
-> **Gestrichen (02.09.2026):** Hier stand die Betriebsregel *„Das Kugelzentrum muss ~0,75 m über der Standfläche liegen"* und daraus abgeleitet eine feste Mulde. Die Zahl stammte von Claude, nicht vom Autor → [C-119](../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen).
+> **Gestrichen (02.09.2026):** Hier stand die Betriebsregel *„Das Kugelzentrum muss ~0,75 m über der Standfläche liegen"* und daraus abgeleitet eine feste Mulde. Die Zahl stammte von Claude, nicht vom Autor → [C-119](../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen-).
 
 **Liegend gilt die Grenze nicht.** Die Tauschkugel misst **immer 3,00 m** im Durchmesser, und auf Höhe der Ringebene ist ihr Schnittkreis genau dieser volle Durchmesser — der Äquator der Kugel. Ein liegender Mensch (1,75 m lang, 0,3 m hoch) passt deshalb bei **jeder** Einbettungstiefe hinein, auch im rohen Ring ohne Mulde. So überlebt [Girlin](../Menschen/Nordvolk/Girlin.md) ihre Reise: Sie **stolpert** in den Ring — womöglich über den Ring selbst — und **liegt** darin. Stehend hätte sie der Ring geköpft.
 
 **Die Mulde wandert.** Sie liegt *innerhalb* der Tauschkugel und wird deshalb mitgetauscht. Hat nur eine Seite eine Mulde, wird sie beim ersten Tausch mit dem Erdreich der Gegenseite **verfüllt** — und drüben entsteht eine. **Asymmetrische Anlagen zerstören sich selbst.** Beide Seiten müssen gleich gebaut sein, was voraussetzt, dass man die Gegenseite kennt. Für die Erbauer selbstverständlich; für jeden, der ein Ringpaar nur von einem Ende her kennt, unmöglich.
 
-Offene Restpunkte: [C-084](../Notizen/Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe).
+Offene Restpunkte: [C-084](../Notizen/Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe-).
 - **Aus dem Ring tritt nichts aus** — kein Strahl, keine Druckwelle. Sichtbar ist allein das grüne Glühen der Runen (siehe unten). Das gilt auch für **Luft**: Der Reif schwingt zwar mit ~126 km/h Kantengeschwindigkeit, verdrängt dabei aber nur Luft, die selbst **Teil der Tauschkugel** ist.
 
 ### Dauer des Flips
@@ -101,7 +101,7 @@ Erlaubt den **Durchgang im Gehen**: Der Reisende betritt die Kugel, wird getausc
 
 Frei auf dem Boden stehend liegt das Zentrum des 3-m-Rings auf **1,65 m** (dem Außenradius); die Tauschkugel reicht dann von 0,15 m bis 3,15 m Höhe und berührt den Boden nicht. Wer hindurchgeht, hat die Füße außerhalb — die Kugelgrenze trennt, was hinausragt. Niemand hindert die Nutzer daran, einen Ring so aufzustellen und auszulösen; die Gefahr folgt aus der Geometrie, nicht aus einer Vorschrift.
 
-**Ob und wie tief eine Hochkultur so einen Ring einlässt, ist offen · ???** ([C-084](../Notizen/Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe)). Hier standen zuvor konkrete Einbaumaße (Zentrum 0,75 m über dem Gehweg, Grubensohle 0,90 m darunter, Zeitfenster im Gehen) — sie beruhten auf einer erfundenen Betriebsregel und sind gestrichen → [C-119](../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen).
+**Ob und wie tief eine Hochkultur so einen Ring einlässt, ist offen · ???** ([C-084](../Notizen/Challenges.md#c-084-mulde-standfläche-und-die-rohen-ringe-)). Hier standen zuvor konkrete Einbaumaße (Zentrum 0,75 m über dem Gehweg, Grubensohle 0,90 m darunter, Zeitfenster im Gehen) — sie beruhten auf einer erfundenen Betriebsregel und sind gestrichen → [C-119](../Notizen/Challenges.md#c-119-wiki-altlast--vom-autor-nicht-gedeckte-festlegungen-).
 
 ---
 
@@ -224,7 +224,7 @@ Alle Längen skalieren mit dem Faktor **F = ID / 3,00 m**, das Volumen mit **F³
   </tbody>
 </table>
 
-Kanonisch sind nur **3,00 m** und **0,30 m** ([C-010](../Notizen/Challenges.md#c-010-ringsystem--kopplungsmechanik-)); 1,00 m und 2,00 m sind Rechenbeispiele ([C-017](../Notizen/Challenges.md#c-017-weitere-ringgrößen)).
+Kanonisch sind nur **3,00 m** und **0,30 m** ([C-010](../Notizen/Challenges.md#c-010-ringsystem--kopplungsmechanik-)); 1,00 m und 2,00 m sind Rechenbeispiele ([C-017](../Notizen/Challenges.md#c-017-weitere-ringgrößen-)).
 
 ### Gewichte nach Dichte
 

@@ -22,7 +22,7 @@ Prägend und für Szenen nutzbar:
 ## Noch nicht ausgearbeitet
 
 - **Eigenname und Namenssystem** — „Kel Aman"/„Sahar" ist arabisch abgeleitet und wird ersetzt; Sprachfamilie ist **libysch-berberisch**. Bildungsmuster und Vorschlagsliste liegen zur Entscheidung vor → [C-090](../../Notizen/Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-) · **???**
-- **Begriffe und Bräuche** — „Atem der Erde", „Augen des Geistes", matrilineare Clan-Mütter: ohne Beleg, zu prüfen → [C-003](../../Notizen/Challenges.md#c-003-kel-aman--kulturelle-tiefe) · **???**
-- Kultur, Werte, Tabus · Religion und Rituale · Sprache und Redewendungen · Verhältnis zu Sesshaften → [C-003](../../Notizen/Challenges.md#c-003-kel-aman--kulturelle-tiefe) · **???**
+- **Begriffe und Bräuche** — „Atem der Erde", „Augen des Geistes", matrilineare Clan-Mütter: ohne Beleg, zu prüfen → [C-003](../../Notizen/Challenges.md#c-003-kel-aman--kulturelle-tiefe-) · **???**
+- Kultur, Werte, Tabus · Religion und Rituale · Sprache und Redewendungen · Verhältnis zu Sesshaften → [C-003](../../Notizen/Challenges.md#c-003-kel-aman--kulturelle-tiefe-) · **???**
 
 Vorhandenes Material (noch vor der Verortung entstanden, entsprechend zu prüfen): [Kel-Aman.md](../../Menschen/Wuestenvolk/Kel-Aman.md), [allgemein.md](../../Menschen/Wuestenvolk/allgemein.md), [Karawanen.md](../../Menschen/Wuestenvolk/Karawanen.md).

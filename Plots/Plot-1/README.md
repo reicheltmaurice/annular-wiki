@@ -1,7 +1,7 @@
 # Plot 1 — ??? (Titel offen)
 
 > **Status:** in Arbeit
-> **Titel:** ??? → [C-085](../../Notizen/Challenges.md#c-085-titel-für-plot-1)
+> **Titel:** ??? → [C-085](../../Notizen/Challenges.md#c-085-titel-für-plot-1-)
 > Der Ordnername `Plot-1` bleibt **dauerhaft** so — er trägt nie den Werktitel. Der Titel steht nur hier und in [SUMMARY.md](../../SUMMARY.md), damit Links bei einer Titeländerung nicht nachgezogen werden müssen.
 
 Die erste Geschichte im [Annular-Universum](../README.md).
@@ -31,7 +31,8 @@ Erzählt in **zwei parallelen Strängen** (Tibun im Norden, Girlin in der Wüste
 |---|---|
 | [Kapitelstruktur](Kapitelstruktur.md) | Beat-Gerüst beider Stränge, Abgleich mit dem Wiki |
 | [Zeitleiste](Zeitleiste.md) | Chronologie, Jahre relativ zu Girlins Verschwinden = Jahr 0 |
+| [Szenen](Szenen.md) | Szenenzuschnitt: was jede Szene will, was ihr im Weg steht — Quelle für das Schaubild *Szenenliste* |
 | [Plot 1 (alte Notiz)](Plot-1.md) | ältere Plotfassung des Autors, Quellsicherung |
-| *(Szenen)* | **Am 04.09.2026 ausgelagert** nach `annular-assets/Szenen/` — geschriebene Szenen liegen nicht mehr im Wiki |
+| *(geschriebene Szenen)* | **Am 04.09.2026 ausgelagert** — geschriebene Szenen liegen nicht mehr im Wiki und werden hier nicht geführt |
 
 Offene Punkte dieser Geschichte stehen in den [gemeinsamen Challenges](../../Notizen/Challenges.md).

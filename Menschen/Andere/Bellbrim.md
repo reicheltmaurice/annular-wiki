@@ -12,7 +12,7 @@
 |---|---|
 | **Rolle** | Wissenschaftlerin / Verbündete von Girlin |
 | **Alter** | ~40 (Kennenlernen mit Girlin) / 50 (Finale) — siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md) |
-| **Herkunft** | **Vandalin** — Ostgermanin aus dem 534 von Byzanz zerschlagenen Vandalenreich in Nordafrika. Keine Kel Aman, wie Girlin eine Fremde in der Wüste. Weg in den Fezzan und Alter bei der Flucht: ??? — siehe [C-026](../../Notizen/Challenges.md#c-026-bellbrim--historische-plausibilität--herkunft) |
+| **Herkunft** | **Vandalin** — Ostgermanin aus dem 534 von Byzanz zerschlagenen Vandalenreich in Nordafrika. Keine Kel Aman, wie Girlin eine Fremde in der Wüste. Weg in den Fezzan und Alter bei der Flucht: ??? — siehe [C-026](../../Notizen/Challenges.md#c-026-bellbrim--historische-plausibilität--herkunft-) |
 | **Erscheinung** | **Blasse Haut** — fällt unter den Kel Aman auf, erklärt sich aus der germanischen Herkunft. Übrige Merkmale: ??? |
 | **Sprachen** | **Mehrsprachig** — Vandalisch (ostgermanisch) und Latein aus der Herkunft, dazu Berberisch und Handelssprachen aus den Wüstenjahren. Deshalb wandert die Karawane gezielt zu ihr. **Vandalisch ist mit [Girlins](../Nordvolk/Girlin.md) proto-nordischer Sprache verwandt, aber nicht gleich** — die Verständigung ist mühsam und braucht Monate, sie wird nicht weggeräumt, sondern erzählt. Genauer Ablauf: ??? |
 

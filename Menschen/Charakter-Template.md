@@ -46,7 +46,7 @@ Welche Rolle spielt der Charakter in der Geschichte?
 
 ## Verbindungen zu anderen Charakteren
 
-- [Name](pfad/zur/datei.md)
+- `[Name](pfad/zur/datei.md)` — Beispielzeile, beim Anlegen ersetzen
 - ...
 
 ---

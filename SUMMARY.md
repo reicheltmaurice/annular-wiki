@@ -9,6 +9,7 @@
   * [Übersicht](Plots/Plot-1/README.md)
   * [Kapitelstruktur](Plots/Plot-1/Kapitelstruktur.md)
   * [Zeitleiste](Plots/Plot-1/Zeitleiste.md)
+  * [Szenen](Plots/Plot-1/Szenen.md)
   * [Plot 1 (alte Notiz)](Plots/Plot-1/Plot-1.md)
 
 ## Charaktere
@@ -68,8 +69,6 @@
 
 * [Schaubilder](Notizen/Schaubilder/README.md)
   * [Zeitgerüst (Artifact)](Notizen/Schaubilder/Zeitgeruest.html)
-  * [Challenge-Board (Artifact)](Notizen/Schaubilder/Challenges-Board.html)
-  * [Figurennetz (Artifact)](Notizen/Schaubilder/Figurennetz.html)
   * [Kapitelraster (Artifact)](Notizen/Schaubilder/Kapitelraster.html)
   * [Szenenliste (Artifact)](Notizen/Schaubilder/Szenenliste.html)
 * [Challenges](Notizen/Challenges.md)

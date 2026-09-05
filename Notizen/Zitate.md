@@ -1,12 +1,12 @@
 # Zitate
 
-> **Status:** ??? — Sammlung. Verwendung noch offen: möglicherweise als **Motto zu Kapitelanfängen** ([C-083](Challenges.md#c-083-zitate-als-kapitel-motti)).
+> **Status:** ??? — Sammlung. Verwendung noch offen: möglicherweise als **Motto zu Kapitelanfängen** ([C-083](Challenges.md#c-083-zitate-als-kapitel-motti-)).
 
 ---
 
 ## Fremdzitate (gesammelt)
 
-Vom Autor notiert. Rechtlich und stilistisch problematisch als Motti — siehe [C-083](Challenges.md#c-083-zitate-als-kapitel-motti).
+Vom Autor notiert. Rechtlich und stilistisch problematisch als Motti — siehe [C-083](Challenges.md#c-083-zitate-als-kapitel-motti-).
 
 > **Be water my friend.**
 > *Sei Wasser, mein Freund.*
@@ -118,7 +118,7 @@ Im Finale, wo die Stränge zusammenlaufen, wäre entweder **kein** Motto die st�
 
 ## Kel Aman
 
-> **Vorbehalt:** Die kulturelle Vorlage der [Kel Aman](../Menschen/Wuestenvolk/Kel-Aman.md) ist noch offen ([C-003](Challenges.md#c-003-kel-aman--kulturelle-tiefe)). Diese Sprüche sind daher vorläufiger als die des Nordvolks — sie tragen Wüsten- und Karawanenlogik, aber keine festgelegte Kultur.
+> **Vorbehalt:** Die kulturelle Vorlage der [Kel Aman](../Menschen/Wuestenvolk/Kel-Aman.md) ist noch offen ([C-003](Challenges.md#c-003-kel-aman--kulturelle-tiefe-)). Diese Sprüche sind daher vorläufiger als die des Nordvolks — sie tragen Wüsten- und Karawanenlogik, aber keine festgelegte Kultur.
 
 > Der Durst lügt nicht.
 
@@ -130,7 +130,7 @@ Im Finale, wo die Stränge zusammenlaufen, wäre entweder **kein** Motto die st�
 > Die Wüste nimmt keinen Weg an. Sie leiht ihn.
 
 > Die Düne, die du gestern kanntest, liegt heute woanders.
-> *(Der verlorene Ring-Standort — [C-061](Challenges.md#c-061-navigationswissen-des-häuptlings))*
+> *(Der verlorene Ring-Standort — [C-061](Challenges.md#c-061-navigationswissen-des-häuptlings-))*
 
 > Frag den Stern. Der Sand antwortet jedem anders.
 > *(Sternnavigation)*

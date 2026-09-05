@@ -147,7 +147,7 @@ Arbeitsdateien in [Bilder/](Bilder/). Formverbindlich ist der Block oben (flache
 
 ## P-002: Fundszene
 
-> **Nicht kanonisch · ???** Dieser Prompt zeigt einen Erdrutsch am Steilufer. **Der Erdrutsch ist gestrichen** ([C-128](Challenges.md#c-128-fundort-und-freilegung-des-skir-rings)) — der Ring liegt im Wald nahe dem Bach. Der Prompt bleibt als Materialarchiv stehen, bis feststeht, wie der Ring in Erscheinung tritt, und ist bis dahin **nicht zu rendern**.
+> **Nicht kanonisch · ???** Dieser Prompt zeigt einen Erdrutsch am Steilufer. **Der Erdrutsch ist gestrichen** ([C-128](Challenges.md#c-128-fundort-und-freilegung-des-skir-rings-)) — der Ring liegt im Wald nahe dem Bach. Der Prompt bleibt als Materialarchiv stehen, bis feststeht, wie der Ring in Erscheinung tritt, und ist bis dahin **nicht zu rendern**.
 
 ```
 Photorealistic. Northern Jutland heathland, Vendsyssel, near the Skagerrak coast. A fresh landslide has torn open a steep stream bank, exposing a colossal ring lying flat in the slump debris.

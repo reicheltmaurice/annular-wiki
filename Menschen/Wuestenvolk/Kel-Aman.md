@@ -2,7 +2,7 @@
 
 *„Die Leute des Wassers" — berberisch `kel` „die von…" + `aman` „Wasser".*
 
-> **Achtung — der Rest dieser Seite stammt aus der Zeit vor der Verortung.** Seit [C-088 ✓](../../Notizen/Challenges.md#c-088-verortung-der-wüste-) liegt die Wüste im **Fezzan** (Garamanten, zentrale Sahara), seit [C-090 ✓](../../Notizen/Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-) heißt das Volk **Kel Aman** und die Namen folgen einem libysch-berberischen Muster. Alles Übrige hier ist daran noch zu prüfen — insbesondere Religion und Bräuche ([C-003](../../Notizen/Challenges.md#c-003-kel-aman--kulturelle-tiefe)). Neuer Stand: [Kulturen/Kel Aman](../../Kulturen/Kel-Aman/README.md).
+> **Achtung — der Rest dieser Seite stammt aus der Zeit vor der Verortung.** Seit [C-088 ✓](../../Notizen/Challenges.md#c-088-verortung-der-wüste-) liegt die Wüste im **Fezzan** (Garamanten, zentrale Sahara), seit [C-090 ✓](../../Notizen/Challenges.md#c-090-kel-aman--eigenname-und-namenssystem-) heißt das Volk **Kel Aman** und die Namen folgen einem libysch-berberischen Muster. Alles Übrige hier ist daran noch zu prüfen — insbesondere Religion und Bräuche ([C-003](../../Notizen/Challenges.md#c-003-kel-aman--kulturelle-tiefe-)). Neuer Stand: [Kulturen/Kel Aman](../../Kulturen/Kel-Aman/README.md).
 
 ---
 
@@ -85,5 +85,5 @@
 - Girlin könnte von den Kel Aman gerettet werden, nachdem sie durch den Ring in der Wüste landet.
 - Die Kel Aman könnten den Ring für heilig halten wegen seiner grünen Runen → Konflikt, ob er transportiert oder angebetet wird.
 - Azzim u-Tawan könnte ein abtrünniger Kel Aman sein, der ihre Bräuche verraten hat.
-- **Nicht mehr gültig:** Der Ring darf niemals Azzims Motiv sein — er weiß bis zum Ende nichts von ihm ([C-089](../../Notizen/Challenges.md#c-089-azzim--verhältnis-zum-ring-harte-regel)).
+- **Nicht mehr gültig:** Der Ring darf niemals Azzims Motiv sein — er weiß bis zum Ende nichts von ihm ([C-089](../../Notizen/Challenges.md#c-089-azzim--verhältnis-zum-ring-harte-regel-)).
 - Bellbrim könnte später von Kel-Aman-Wissen profitieren (alte Sternkarten, verborgene Wasserstellen).

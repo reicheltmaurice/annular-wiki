@@ -48,4 +48,4 @@ Diese Fassung ist **älter** als die [Kapitelskizze](Kapitelstruktur.md): Sie ke
 
 ## Hinweis zum „Bandgenerator"
 
-Beide Stränge nennen einen **Bandgenerator** — das ist der Van-de-Graaff-Generator, in [C-005 ✓](../../Notizen/Challenges.md#c-005-van-de-graaff-generator-) als Anachronismus **gestrichen** und in [C-002](../../Notizen/Challenges.md#c-002-tibuns-elektrizitätsquelle) durch das **rotierende Bernsteinrad** ersetzt. Der Begriff steht hier nur als historischer Wortlaut.
+Beide Stränge nennen einen **Bandgenerator** — das ist der Van-de-Graaff-Generator, in [C-005 ✓](../../Notizen/Challenges.md#c-005-van-de-graaff-generator-) als Anachronismus **gestrichen** und in [C-002](../../Notizen/Challenges.md#c-002-tibuns-elektrizitätsquelle-) durch das **rotierende Bernsteinrad** ersetzt. Der Begriff steht hier nur als historischer Wortlaut.
