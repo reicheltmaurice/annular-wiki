@@ -142,8 +142,8 @@ Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt wede
 
 ### Girlin (Wüste)
 - **Beat 10 (Navigationswissen) ist gestrichen.** Es gibt **kein Geheimnis** des Häuptlings. Das Hindernis hat drei Phasen: **Zugehörigkeit → Wissen → Bitte**
-- **Beat 11 (Transport):** Der Clan hilft aus **Sippenpflicht** - der Neffe ist Blut des Häuptlings. **Nicht** wegen Wasser
-- **Neu nach Beat 11:** Der Clan **zieht weiter**; Girlin, Neffe und Kind **bleiben** bei Bellbrim. Ab Jahr +8 ist sie ungeschützt
+- **Beat 11 (Transport):** Der Clan hilft aus **Sippenpflicht** - Sekkan ist Blut des Häuptlings. **Nicht** wegen Wasser
+- **Neu nach Beat 11:** Der Clan **zieht weiter**; Girlin, Sekkan und Kind **bleiben** bei Bellbrim. Ab Jahr +8 ist sie ungeschützt
 - **Beat 13 (Azzim) rückt nach vorn:** **mehrfache** Begegnungen vor dem Finale. Er **weiß nichts vom Ring** und erfährt es in der Wüste nie; sein Motiv sind **Menschen**
 
 ---
@@ -158,7 +158,7 @@ Mit der **Geburt des dritten Kindes** kippt Girlins Ziel: aus *nach Hause gehen*
 **Folge:** Der Ring wird ab +5 nicht mehr für ihre Heimreise geholt, sondern **für die Nachricht**.
 
 ### Die Trennung vom Clan liegt in +5, nicht +8
-Girlin, der Neffe und das Kind lösen sich **in Jahr +5** vom Clan und ziehen zu Bellbrim in die Schlucht. Der Clan kommt in **+7/+8** noch einmal wieder, um den Ring zu holen - **Girlin bricht mit ihm auf**. Danach zieht er endgültig weiter.
+Girlin, Sekkan und das Kind lösen sich **in Jahr +5** vom Clan und ziehen zu Bellbrim in die Schlucht. Der Clan kommt in **+7/+8** noch einmal wieder, um den Ring zu holen - **Girlin bricht mit ihm auf**. Danach zieht er endgültig weiter.
 
 **Der Transport dauert Wochen bis wenige Monate**, kein Jahresvorhaben. Das frühere Fenster +5 → +8 ist gestrichen.
 

@@ -254,11 +254,11 @@ Bernstein durch Handel und eigenes Sammeln.
 - **Ausgang:** ???
 
 
-### 19 · Der Neffe
+### 19 · Sekkan
 
-> **POV:** Girlin · **Jahr +3** · **Offen:** Der Neffe - Name, Eigenschaften, Schweigebitte · Durchgebrannte Ehefrau bei den Kel Aman
+> **POV:** Girlin · **Jahr +3** · **Offen:** Durchgebrannte Ehefrau bei den Kel Aman · Der Häuptling der Kel Aman ist namenlos
 
-Beziehung zum Neffen des Häuptlings.
+Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem Neffen des Häuptlings.
 
 - **Will:** ???
 - **Hindernis:** ???
@@ -324,23 +324,23 @@ Nicht mehr ihre Heimreise.
 
 ### 25 · Die Bitte
 
-> **POV:** Girlin · **Jahr +5** · **Offen:** Der Neffe - Name, Eigenschaften, Schweigebitte
+> **POV:** Girlin · **Jahr +5** · **Offen:** Der Häuptling der Kel Aman ist namenlos
 
 Sie bittet den Clan, den Ring zu holen.
 
 - **Will:** Der Clan soll den Ring in die Schlucht bringen
 - **Hindernis:** Drei Phasen stehen davor: Zugehörigkeit, Wissen, Bitte
-- **Ausgang:** Der Clan sagt zu - aus Sippenpflicht gegenüber dem Neffen, nicht ihretwegen.
+- **Ausgang:** Der Clan sagt zu - aus Sippenpflicht gegenüber Sekkan, nicht ihretwegen.
 
 
 ### 26 · Die Trennung vom Clan
 
-> **POV:** Girlin · **Jahr +5** · **Offen:** Die Schutzlücke verschiebt sich von +8 auf +5 · Der Neffe - Name, Eigenschaften, Schweigebitte
+> **POV:** Girlin · **Jahr +5** · **Offen:** Die Schutzlücke verschiebt sich von +8 auf +5 · Der Häuptling der Kel Aman ist namenlos
 
 Die drei lösen sich und ziehen zu Bellbrim.
 
 - **Will:** Bei Bellbrim am Ring arbeiten
-- **Hindernis:** Für den Neffen bedeutet es den Verlust seiner Sippe - der teuerste Preis außer Tibuns
+- **Hindernis:** Für Sekkan bedeutet es den Verlust seiner Sippe - der teuerste Preis außer Tibuns
 - **Ausgang:** Sie ziehen in die Schlucht. Ab hier ist Girlin ohne Sippenschutz.
 
 
@@ -522,7 +522,7 @@ Der Generator ist fertig - und der Zweifel kehrt zurück.
 Azzim fällt mit seinen Leuten über die Schlucht her.
 
 - **Will:** ???
-- **Hindernis:** Fels, Verteidigungslage - und der Neffe verteidigt sie
+- **Hindernis:** Fels, Verteidigungslage - und Sekkan verteidigt sie
 - **Ausgang:** Im Kampf löst der Wüstengenerator aus. Azzim wird nach Jütland geworfen.
 
 > **Streichvermerk (05.09.2026):** Hier stand „Azzim will die Schlucht nehmen" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.

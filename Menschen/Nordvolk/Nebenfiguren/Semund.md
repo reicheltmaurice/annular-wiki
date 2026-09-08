@@ -33,7 +33,9 @@
 
 ## Besondere Fähigkeiten
 
-???
+**Hirte und Züchter.** Sein Können liegt beim Vieh: Er liest den Tieren an, was ihnen fehlt, und weiß, welches Mutterschaf zu welchem Bock gehört. Der Hof lebt von diesem Blick, nicht von Handelsgeschick.
+
+**Schweigsam.** Bei Menschen hat er dieselbe Sicherheit nicht. Er redet wenig, arbeitet weiter und hält aus - auch das Verschwinden seiner Frau. Genau das wirft [Tibun](../Tibun.md) ihm vor: dass er nichts sagt und trotzdem weitermacht, als sei nichts.
 
 ---
 

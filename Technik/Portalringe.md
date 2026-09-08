@@ -143,6 +143,16 @@ Das Material ist mystisch und nicht identifizierbar. Für die Bearbeitung gilt:
 - Den Ring spalten, verbiegen, einschmelzen, abtrennen oder **reproduzieren** ist unmöglich.
 - Nur die **Oberflächengravur** ist beeinflussbar, die **Struktur** bleibt unangreifbar.
 
+### Haptik
+
+**Die Oberfläche fühlt sich an wie gebürstetes Aluminium** - fein gerichtet, nicht glatt poliert, nicht rau. Die Hand spürt die Richtung der Struktur.
+
+**Der Ring ist temperaturlos.** Er nimmt weder Handwärme noch Umgebungskälte an und gibt keine ab: Er fühlt sich nie kalt und nie warm an, in der Sonne so wenig wie im Boden. Das Unheimliche liegt nicht in der Textur, sondern in dem, was fehlt.
+
+> **Haptikreferenz, kein Material.** „Gebürstetes Aluminium" beschreibt wie bei der Optik nur das *Gefühl*. Das Material bleibt unbekannt; der Begriff gehört auf die Autorenebene und steht nie im Erzähltext.
+
+**Auf den ersten Blick Metall.** Der Ring sieht aus wie Metall, und eine Figur von 550 greift zuerst zu dieser Schublade. Beim Anfassen verhält er sich falsch - die Irritation kommt erst beim zweiten Hinsehen. Wie genau sich das äußert (Klang beim Anschlagen, Gewicht in der Hand), ist ???.
+
 ### Optik & Alterung
 
 **Der Ring altert nicht.** Keine Korrosion, keine Patina, keine Verfärbung, keine Kratzer - auch nach Jahrtausenden im Boden nicht. Die Oberfläche bleibt matt silbrig-grau und fein gerichtet, optisch wie **gebürstetes Aluminium**.
@@ -165,7 +175,7 @@ Das erklärt zugleich die Mechanik: Nur die Runen glühen (Energie läuft in den
 
 **Zwei Leuchtzustände:**
 - **Erfolgreiche Kopplung:** kurzer grüner Puls - Bestätigung, dass die Verdrahtung greift (diegetisches Feedback für den Runenschmied).
-- **Aktivierung / Teleport:** intensives, anhaltendes Glühen, verblasst danach recht schnell.
+- **Aktivierung / Teleport:** intensives, anhaltendes Glühen. **Ab dem Moment, in dem der Tausch abgeschlossen ist, klingt es über 3 Sekunden ab** - stetig dunkler werdend, kein abruptes Erlöschen.
 
 ---
 

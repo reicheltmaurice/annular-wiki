@@ -32,6 +32,7 @@
 * [Figuren der Kel Aman](Menschen/Kel-Aman/README.md)
   * [Azzim u-Tawan](Menschen/Kel-Aman/Azzim-u-Tawan.md)
   * [Nebenfiguren](Menschen/Kel-Aman/Nebenfiguren/README.md)
+    * [Sekkan](Menschen/Kel-Aman/Nebenfiguren/Sekkan.md)
 * [Weitere Figuren](Menschen/Andere/README.md)
   * [Bellbrim](Menschen/Andere/Bellbrim.md)
   * [Nebenfiguren](Menschen/Andere/Nebenfiguren/README.md)

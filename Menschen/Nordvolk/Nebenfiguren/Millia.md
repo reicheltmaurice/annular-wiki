@@ -11,8 +11,8 @@
 | | |
 |---|---|
 | **Rolle** | Neue Partnerin von [Semund](Semund.md) |
-| **Alter** | ??? |
-| **Herkunft** | ??? |
+| **Alter** | **etwa 34** (Jahr 0) · etwa 44 (Finale) - gleicher Jahrgang wie [Girlin](../Girlin.md), exakte Zahl nicht festgelegt |
+| **Herkunft** | [Skirraa](../../../Orte/Skirraa.md) - im Weiler aufgewachsen |
 
 **Familie**
 
@@ -24,7 +24,11 @@
 
 ## Frühes Leben
 
-War einst enge Freundin [Girlins](../Girlin.md).
+In [Skirraa](../../../Orte/Skirraa.md) aufgewachsen und dort mit [Girlin](../Girlin.md) groß geworden - beide vom selben Jahrgang. Daher die enge Freundschaft.
+
+Dass sie keine Zugezogene ist, nimmt dem Einzug in [Semunds](Semund.md) Haus jede Fremdheit: Der Weiler kennt sie seit ihrer Kindheit, und niemand hat einen Einwand. Für [Tibun](../Tibun.md) verschärft es die Kränkung - die Frau am Webstuhl seiner Mutter ist keine Fremde, sondern die, mit der die Mutter aufgewachsen ist.
+
+Ob sie vorher verheiratet war und ob sie eigene Kinder hat: ???
 
 ---
 

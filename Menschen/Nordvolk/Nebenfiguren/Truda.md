@@ -32,7 +32,7 @@
 
 ## Besondere Fähigkeiten
 
-???
+**Sie webt - besser als [Millia](Millia.md).** Die Kunst der Mutter ist an sie weitergegangen, nicht an die Frau, die den Webstuhl übernommen hat. Der Webstuhl gehört der Sache nach ihr; sie steht nur nicht daran.
 
 ---
 
@@ -46,7 +46,11 @@ Sie **erbt Girlins Kleingut** (Schmuck, Fibeln, Truhe), verwahrt bis zu ihrer He
 
 ## Bedeutung in der Geschichte
 
-Verspielt, neugierig und hängt sehr an ihrem Bruder [Tibun](../Tibun.md).
+Als Kind **verspielt und neugierig**, und sie hängt sehr an ihrem Bruder [Tibun](../Tibun.md).
+
+**Als Erwachsene ist sie ruhig - ihrem Vater [Semund](Semund.md) sehr ähnlich.** Sie redet wenig, arbeitet weiter, hält aus. Genau das, was Tibun dem Vater vorwirft, ist aus der Schwester geworden, während er fort war.
+
+**Sie empfängt den zurückgekehrten Tibun.** Nach acht Jahren steht ihm keine Zehnjährige gegenüber, sondern eine Erwachsene von 19, die zurückgeblieben ist - bei dem Vater, den er verurteilt hat, und bei Millia. Was sie ihm sagt oder gerade nicht sagt, ist ???; dass sie diejenige ist, vor der er sich rechtfertigen muss, steht fest.
 
 ---
 

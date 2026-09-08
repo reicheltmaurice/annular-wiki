@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | **Rolle** | Verlobter [Fridas](Frida.md) |
-| **Alter** | ??? |
+| **Alter** | **17-18** im Prolog (Jahr 0) - kaum älter als [Tibun](../Tibun.md) und [Frida](Frida.md) |
 | **Herkunft** | Hof in der Gegend um [Tingsal](../../../Orte/Tingsal.md) |
 
 **Familie**
@@ -39,7 +39,7 @@ Hofsohn von auswärts, aus der Gegend um [Tingsal](../../../Orte/Tingsal.md) - r
 
 Im Prolog wird seine Verlobung mit [Frida](Frida.md) beim Großbauern von Skirraa verkündet - arrangiert von seinem Vater [Lanke](Lanke.md) als **Bündnis zwischen Höfen**, nicht aus Zuneigung. Als ortsfremde „bessere Partie" sticht er [Tibun](../Tibun.md) aus, ohne es zu wollen; auch ihm ist die Sache sichtlich unangenehm.
 
-Weitere Rolle im Verlauf **offen · ???**.
+Ein späteres Wiederauftreten ist **möglich, aber für den Plot unwichtig** - nichts hängt daran. Ob es dazu kommt: ???
 
 ---
 

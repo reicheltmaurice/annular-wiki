@@ -59,9 +59,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-068: Prolog - Brand und Brandblasen nachziehen ○](#c-068-prolog---brand-und-brandblasen-nachziehen-)
 - [C-069: Prolog - Fridas Familie und Stiefvater ○](#c-069-prolog---fridas-familie-und-stiefvater-)
 - [C-071: Prolog - Tibuns Alter und Heiratsantrag ○](#c-071-prolog---tibuns-alter-und-heiratsantrag-)
-- [C-074: Haptik der Ringoberfläche ○](#c-074-haptik-der-ringoberfläche-)
-- [C-075: Ist das Ringmaterial ein Metall? ○](#c-075-ist-das-ringmaterial-ein-metall-)
-- [C-076: Abklingdauer des grünen Leuchtens ○](#c-076-abklingdauer-des-grünen-leuchtens-)
 - [C-077: Tibun und Truda nach Girlins Verschwinden ○](#c-077-tibun-und-truda-nach-girlins-verschwinden-)
 - [C-079: Tibuns Alpträume - und der Traum als Ideenquelle ○](#c-079-tibuns-alpträume---und-der-traum-als-ideenquelle-)
 - [C-081: Girlins drittes Kind in der Wüste ○](#c-081-girlins-drittes-kind-in-der-wüste-)
@@ -76,7 +73,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-101: Girlins Nachricht - Vorhaben ohne Ausführung ○](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-)
 - [C-102: Was bei Zündung 1 aus dem Norden verschwindet ○](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-)
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
-- [C-105: Der Neffe - Name, Eigenschaften, Schweigebitte ○](#c-105-der-neffe---name-eigenschaften-schweigebitte-)
 - [C-106: Durchgebrannte Ehefrau bei den Kel Aman ○](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)
 - [C-108: Der Kampf in der Schlucht während Tibuns Ankunft ○](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-)
 - [C-110: Der Schlusssatz - wissen die Figuren, was er kostet? ○](#c-110-der-schlusssatz---wissen-die-figuren-was-er-kostet-)
@@ -106,6 +102,9 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-146: Was Girlin vom Flip wahrnimmt ○](#c-146-was-girlin-vom-flip-wahrnimmt-)
 - [C-149: Wie die Kel Aman den Ring religiös einordnen ○](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-)
 - [C-150: Was Bellbrim vom Wissen der Kel Aman hat ○](#c-150-was-bellbrim-vom-wissen-der-kel-aman-hat-)
+- [C-151: Was die Verteidigung der Schlucht Sekkan kostet ○](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-)
+- [C-152: Der Häuptling der Kel Aman ist namenlos ○](#c-152-der-häuptling-der-kel-aman-ist-namenlos-)
+- [C-153: Haduriks Nachfolge in Tingsal ○](#c-153-haduriks-nachfolge-in-tingsal-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -133,6 +132,9 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-070: Prolog - Dateikopf und Versionszeile ✓](#c-070-prolog---dateikopf-und-versionszeile-)
 - [C-072: Prolog - Textfassung 2.2 oder 2.3 ✓](#c-072-prolog---textfassung-22-oder-23-)
 - [C-073: Querschnitt der Ringe - flacher Armreif ✓](#c-073-querschnitt-der-ringe---flacher-armreif-)
+- [C-074: Haptik der Ringoberfläche ✓](#c-074-haptik-der-ringoberfläche-)
+- [C-075: Ist das Ringmaterial ein Metall? ✓](#c-075-ist-das-ringmaterial-ein-metall-)
+- [C-076: Abklingdauer des grünen Leuchtens ✓](#c-076-abklingdauer-des-grünen-leuchtens-)
 - [C-078: Tibuns Verhältnis zu Millia ✓](#c-078-tibuns-verhältnis-zu-millia-)
 - [C-080: Girlins Entführung und Rettung ✗](#c-080-girlins-entführung-und-rettung-)
 - [C-082: Girlins Entscheidung zur Rückreise ✓](#c-082-girlins-entscheidung-zur-rückreise-)
@@ -147,6 +149,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-098: Woher Tibun die Schnittwirkung der Kugelgrenze kennt ✓](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-)
 - [C-100: Die Werkstatt an der Tabustelle ✓](#c-100-die-werkstatt-an-der-tabustelle-)
 - [C-104: Wasser als Motiv des Transports ✗](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-)
+- [C-105: Der Neffe heißt Sekkan ✓](#c-105-der-neffe---name-eigenschaften-schweigebitte-)
 - [C-107: Azzims Motiv Wasser ✗](#c-107-azzims-motiv---wasser-statt-sklaverei-)
 - [C-109: Ladezeit des Konduktors ✓](#c-109-ladezeit-des-konduktors-)
 - [C-111: Kopplung ist nicht ortsgebunden ✓](#c-111-wiederaufstellung-des-rings-nach-dem-transport-kernfrage-)
@@ -721,24 +724,34 @@ Aus [C-041](#c-041-prolog---bernstein-fundort-): Girlin schenkt Tibun den Bernst
 
 [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) (Tibuns Vater): Frühes Leben, Fähigkeiten und Inspiration stehen auf `???`. Seine Story-Funktion (führt den Hof weiter, bindet sich rasch an Millia) ist über [C-022](#c-022-tibuns-reise---dauer-motiv-hof-) geklärt - die Person dahinter nicht.
 
+**Teilentscheidung (Autor, 08.09.2026):** Semunds Können liegt beim **Vieh** - Hirte und Züchter, der den Tieren ansieht, was ihnen fehlt. Bei Menschen hat er diese Sicherheit nicht: **schweigsam, arbeitet statt zu reden, hält aus.** Genau daran entzündet sich [Tibuns](../Menschen/Nordvolk/Tibun.md) Vorwurf - der Vater sagt nichts und macht weiter. Eingetragen in [Semund.md](../Menschen/Nordvolk/Nebenfiguren/Semund.md). **Weiter offen:** frühes Leben, Inspiration.
 ---
 
 ### C-046: Millia - offene Felder ○
 
 [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md): Alter, Herkunft, Fähigkeiten, Inspiration auf `???`. Ihre Funktion (Girlins frühere Freundin, Semunds schneller Ersatz) ist geklärt; Vorgeschichte und Charakter nicht.
 
+**Teilentscheidung (Autor, 08.09.2026):** Millia ist **etwa so alt wie [Girlin](../Menschen/Nordvolk/Girlin.md)** (gleicher Jahrgang, etwa 34 in Jahr 0; exakte Zahl nicht festgelegt) und stammt **aus [Skirraa](../Orte/Skirraa.md)** selbst - dort aufgewachsen, daher die Freundschaft. Damit ist der Ersatz weder eine jüngere noch eine fremde Frau: Es gibt für [Tibun](../Menschen/Nordvolk/Tibun.md) nichts zu benennen, was falsch wäre. Eingetragen in [Millia.md](../Menschen/Nordvolk/Nebenfiguren/Millia.md). **Weiter offen:** Fähigkeiten, Inspiration, ob sie vorher verheiratet war und eigene Kinder hat.
 ---
 
 ### C-047: Truda - offene Felder ○
 
 [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) (Tibuns Schwester): Frühes Leben, Fähigkeiten, Inspiration auf `???`. Alter ist über [C-030](#c-030-trudas-alter-) geklärt. Offen ist vor allem, **ob sie eine eigene Rolle** bekommt - sie ist beim Verschwinden der Mutter 9 und beim Finale 19.
 
+**Teilentscheidung (Autor, 08.09.2026):** Truda bekommt eine eigene Rolle: **Sie empfängt den zurückgekehrten [Tibun](../Menschen/Nordvolk/Tibun.md)** - mit 19, nach acht Jahren. Sie ist damit die Instanz, vor der sein Weggang eine Rechnung hat.
+
+Charakter: **Sie webt besser als [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md)** - die Kunst der Mutter ist an sie gegangen, nicht an die Frau am Webstuhl. Und sie ist als Erwachsene **ruhig, ihrem Vater [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) sehr ähnlich** ([C-045](#c-045-semund---offene-felder-): schweigsam, arbeitet statt zu reden).
+
+**Das ist die schärfste Pointe des Nordstrangs:** Tibun wirft dem Vater vor, dass er nichts sagt und weitermacht - und findet bei der Rückkehr genau das in seiner Schwester wieder. Aus dem verspielten, neugierigen Kind ist die stille Erwachsene geworden, während er weg war.
+
+**Weiter offen:** was sie ihm bei der Rückkehr sagt (oder nicht sagt), frühes Leben, Inspiration, ob sie vom fehlenden Webkamm weiß.
 ---
 
 ### C-048: Hadurik - offene Felder ○
 
 [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) (Häuptling von [Tingsal](../Orte/Tingsal.md)): Alter, Familie, Frühes Leben, Fähigkeiten, Inspiration auf `???`. Charakter und Rolle als regionale Autorität laufen bereits unter [C-009](#c-009-häuptling-von-tingsal-) - diese Challenge deckt die **Personendaten**, C-009 die Story-Funktion.
 
+**Teilentscheidung (Autor, 08.09.2026):** Hadurik ist in Jahr 0 **etwa 60** - alt und lange im Amt. Damit läuft die **Nachfolgefrage** im Hintergrund mit → [C-153](#c-153-haduriks-nachfolge-in-tingsal-). Eingetragen in [Hadurik.md](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md). **Weiter offen:** Familie, frühes Leben, Fähigkeiten, Inspiration.
 ---
 
 ### C-049: Wala von Tingsal - offene Felder ○
@@ -757,12 +770,14 @@ Aus [C-041](#c-041-prolog---bernstein-fundort-): Girlin schenkt Tibun den Bernst
 
 [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md): Alter, Fähigkeiten, Inspiration und der Name ihres Vaters auf `???`. Wichtigste Frage bleibt (aus [C-042](#c-042-prolog---nebenfiguren-frida-herik-lanke-)): Tritt sie nach dem Prolog noch einmal auf?
 
+**Teilentscheidung (Autor, 08.09.2026):** Frida ist im Prolog **16**, gleicher Jahrgang wie [Tibun](../Menschen/Nordvolk/Tibun.md). Ein **Wiederauftreten nach dem Prolog ist möglich, aber unwichtig** - der Plot hängt nicht daran, festgelegt ist nichts. Eingetragen in [Frida.md](../Menschen/Nordvolk/Nebenfiguren/Frida.md). **Weiter offen:** Fähigkeiten, Inspiration, Name ihres Vaters.
 ---
 
 ### C-052: Herik - offene Felder ○
 
 [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md): Alter, Fähigkeiten, Inspiration auf `???`. Ebenso offen, ob er nach dem Prolog noch eine Rolle spielt ([C-042](#c-042-prolog---nebenfiguren-frida-herik-lanke-)).
 
+**Teilentscheidung (Autor, 08.09.2026):** Herik ist im Prolog **17-18** - kaum älter als [Frida](../Menschen/Nordvolk/Nebenfiguren/Frida.md) und [Tibun](../Menschen/Nordvolk/Tibun.md). Damit werden zwei fast Gleichaltrige verheiratet: Die Väter handeln, die Beteiligten nicht. Kein Altersgefälle, das Fridas Unglück erklären würde - es reicht, dass niemand sie gefragt hat. **Wiederauftreten möglich, aber unwichtig** (wie [C-051](#c-051-frida---offene-felder-)). Eingetragen in [Herik.md](../Menschen/Nordvolk/Nebenfiguren/Herik.md). **Weiter offen:** Fähigkeiten, Inspiration.
 ---
 
 ### C-053: Lanke - offene Felder ○
@@ -1034,7 +1049,7 @@ Verworfen wurden auf dem Weg dorthin:
 
 ---
 
-### C-074: Haptik der Ringoberfläche ○
+### C-074: Haptik der Ringoberfläche ✓
 
 Eine alte Autorennotiz beschreibt die Oberfläche als „silbern und **leicht rau**". Das Wiki legt nur die **Optik** fest (matt silbrig-grau, fein gerichtet - [C-035](#c-035-aussehen-der-ringoberfläche-)), nicht das Anfassen. Offen: Fühlt sich der Ring rau, seidig, kalt, warm, glatt an?
 
@@ -1042,22 +1057,25 @@ Direkt relevant für [C-037](#c-037-ringoptik-im-erzähltext-ohne-anachronismus-
 
 Nebenfrage: Ein Material, das **nicht altert** ([C-036](#c-036-altert-der-ring-patina-moos-ablagerungen-)), aber sich **rau** anfühlt, ist ein interessanter Widerspruch - rau heißt normalerweise verwittert.
 
+**Entschieden (Autor, 08.09.2026):** Die Oberfläche fühlt sich an wie **gebürstetes Aluminium** - fein gerichtet, weder poliert noch verwittert-rau; die Hand spürt die Richtung. Dazu **temperaturlos**: Der Ring nimmt weder Handwärme noch Umgebungskälte an und gibt keine ab, in der Sonne so wenig wie im Boden. Der Widerspruch aus der alten Notiz („rau" trotz Nichtaltern) löst sich damit - die gerichtete Struktur gehört zum Material, sie ist keine Verwitterung. Eingetragen in [Portalringe.md](../Technik/Portalringe.md). „Gebürstetes Aluminium" bleibt wie bei der Optik reine **Autorenreferenz** und steht nie im Erzähltext. Damit ist der Haptik-Weg aus [C-037](#c-037-ringoptik-im-erzähltext-ohne-anachronismus-) benutzbar: Eine Figur von 550 hat kein Wort für die Optik, aber jedes für eine Fläche, die sich in eine Richtung anders anfühlt als in die andere - und für einen Gegenstand, der sich weigert, kalt oder warm zu sein.
 ---
 
-### C-075: Ist das Ringmaterial ein Metall? ○
+### C-075: Ist das Ringmaterial ein Metall? ✓
 
 Die alte Autorennotiz nennt es „ein unbekanntes **Metall**". [C-004 ✓](#c-004-material-der-portalringe-) sagt nur „unbekannt und mystisch, nicht identifizierbar". Das ist kein harter Widerspruch, aber eine Leerstelle: **Wirkt** es für die Figuren wie Metall - klingt es beim Anschlagen, leitet es Kälte, ist es schwer wie Erz?
 
 Erzählerisch entscheidend, weil daran hängt, **wie eine Figur von 550 es einordnet**: „ein Metall, das ich nicht kenne" ist eine ganz andere Reaktion als „das ist kein Metall, das ist gar nichts, was ich kenne". Berührt [C-037](#c-037-ringoptik-im-erzähltext-ohne-anachronismus-) und [C-074](#c-074-haptik-der-ringoberfläche-). Klein, aber sollte vor der Fundszene stehen.
 
+**Entschieden (Autor, 08.09.2026):** **Metall auf den ersten Blick.** Der Ring sieht aus wie Metall, und eine Figur greift zuerst zu dieser Schublade; beim Anfassen verhält er sich falsch (temperaturlos, siehe [C-074 ✓](#c-074-haptik-der-ringoberfläche-)). Die Irritation kommt erst beim zweiten Hinsehen - erzählerisch ergiebiger als sofortige Ratlosigkeit, weil die Figur eine Erwartung mitbringt, die dann bricht. Eingetragen in [Portalringe.md](../Technik/Portalringe.md). **Offen bleibt (???):** ob er beim Anschlagen klingt und wie schwer er sich anfühlt - beides sind weitere Stellen, an denen die Metall-Erwartung brechen oder halten kann.
 ---
 
-### C-076: Abklingdauer des grünen Leuchtens ○
+### C-076: Abklingdauer des grünen Leuchtens ✓
 
 [Portalringe.md](../Technik/Portalringe.md) sagt zum Aktivierungsglühen nur „verblasst danach **recht schnell**". Die alte Autorennotiz war konkreter: **einige Sekunden**. Offen, ob diese Zahl gelten soll.
 
 Nicht bloß Kosmetik - die Dauer entscheidet mit über [C-014](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft-): Wenn die Kel-Aman-Karawane das Leuchten nachts über die Wüste sehen soll, braucht es lang genug, dass jemand hinschaut. Wenige Sekunden reichen dafür knapp; ein Nachglühen von einer Minute wäre großzügiger, aber weniger unheimlich. Klein.
 
+**Entschieden (Autor, 08.09.2026):** **3 Sekunden**, gerechnet **ab dem Moment, in dem Flip bzw. Transport abgeschlossen ist** - mit stetig abnehmender Helligkeit, kein abruptes Erlöschen. Damit gilt die alte Autorennotiz („einige Sekunden") in präzisierter Form. Eingetragen in [Portalringe.md](../Technik/Portalringe.md). **Folge für [C-014](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft-):** Drei abklingende Sekunden reichen nicht, damit jemand erst durch das Licht aufmerksam wird. Wer den Ring in der Wüste leuchten sieht, muss ohnehin schon hingesehen haben - oder das Auffällige ist nicht das Licht, sondern was danach dasteht.
 ---
 
 ### C-077: Tibun und Truda nach Girlins Verschwinden ○
@@ -1702,7 +1720,7 @@ Kein Clan schleppt ein Weltwunder durch die Wüste, weil eine Fremde heim will. 
 
 ---
 
-### C-105: Der Neffe - Name, Eigenschaften, Schweigebitte ○
+### C-105: Der Neffe - Name, Eigenschaften, Schweigebitte ✓
 
 Der Partner Girlins steht fest ([C-060 ✓](#c-060-girlin-und-der-neffe-)), die Figur nicht. Es gibt weder Namen noch Alter noch Stellung im Clan.
 
@@ -1722,6 +1740,12 @@ Der Partner Girlins steht fest ([C-060 ✓](#c-060-girlin-und-der-neffe-)), die 
 4. **Er verteidigt die Schlucht im Finale.** Was ihn das kostet, ist offen · **???**
 
 **Weiterhin offen · ???** Name nach dem Kel-Aman-Muster ([C-090 ✓](#c-090-kel-aman---eigenname-und-namenssystem-)), Alter, Gewerbe.
+
+**Entschieden (Autor, 08.09.2026):** Der Neffe heißt **Sekkan**, ist bei Beziehungsbeginn (Jahr +3) **etwa 37** und damit **so alt wie [Girlin](../Menschen/Nordvolk/Girlin.md)** (Korrektur vom 08.09.2026; zunächst stand hier 45). Im Clan ist er **Karawanenführer/Wegekenner und Jäger**. Beides trägt seine spätere Rolle: Die Routen- und Brunnenkenntnis erklärt, wovon die vier in der Schlucht leben; das Geländewissen des Jägers erklärt die Verteidigung im Finale. Zwei gleich alte Menschen mit je einer zerbrochenen Ehe - die Verbindung steht auf Augenhöhe, ohne Altersgefälle in eine Richtung.
+
+Eigene Datei angelegt: [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md); Name in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen](../Plots/Plot-1/Szenen.md) und [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) nachgezogen.
+
+**Ausgelagert:** was ihn die Verteidigung der Schlucht kostet → [C-151](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-). Der **Häuptling**, sein Onkel, ist weiterhin eine Figur ohne Namen und Eigenschaften → [C-152](#c-152-der-häuptling-der-kel-aman-ist-namenlos-).
 
 ---
 
@@ -2553,3 +2577,33 @@ Die alte Volksseite sah vor, dass [Bellbrim](../Menschen/Andere/Bellbrim.md) von
 - Bekommt Bellbrim Zugang dazu, und was gibt sie dafür? Sie ist selbst eine Zugewanderte ([C-026](#c-026-bellbrim---historische-plausibilität--herkunft-)).
 - Oder entfällt der Hook: Sie bringt eigenes Wissen mit und braucht ihres nicht.
 
+---
+
+### C-151: Was die Verteidigung der Schlucht Sekkan kostet ○
+
+Aus [C-105 ✓](#c-105-der-neffe---name-eigenschaften-schweigebitte-) übrig geblieben: [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) verteidigt im Finale die Schlucht gegen [Azzims](../Menschen/Kel-Aman/Azzim-u-Tawan.md) Leute ([Szenen.md](../Plots/Plot-1/Szenen.md)). Offen ist, **was ihn das kostet** - stirbt er, wird er verwundet, überlebt er unversehrt?
+
+Die Frage hat Gewicht, weil [Girlin](../Menschen/Nordvolk/Girlin.md) im Finale **bei ihm bleibt** ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)). Stirbt er, ist diese Entscheidung hinfällig und der ganze Wüstenstrang endet anders. Überlebt er unversehrt, war der Angriff folgenlos - und der teuerste Preis im Buch bleibt bei [Tibun](../Menschen/Nordvolk/Tibun.md) allein. Nichts festgelegt.
+
+---
+
+### C-152: Der Häuptling der Kel Aman ist namenlos ○
+
+Der **Häuptling des Clans** trägt an mehreren Stellen Gewicht - er ist [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Onkel, und die **Sippenpflicht ihm gegenüber** ist der einzige Grund, warum der Clan den Ring überhaupt transportiert ([C-061 ✗](#c-061-navigationswissen-des-häuptlings-)). Trotzdem hat er weder Namen noch Alter noch Eigenschaften und keine eigene Datei.
+
+Zusätzlich offen: Wie reagiert **er persönlich** darauf, dass sein Neffe in Jahr +5 die Sippe verlässt? Er ist derjenige, der den Bruch aussprechen oder hinnehmen muss - das ist eine Szene, die es bisher nicht gibt.
+
+---
+
+### C-153: Haduriks Nachfolge in Tingsal ○
+
+[Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) ist in Jahr 0 **etwa 60** ([C-048](#c-048-hadurik---offene-felder-)). Über die zehn Jahre der Handlung wird er 70 - für die Epoche ein hohes Alter.
+
+**Daraus folgt Ungeklärtes:**
+- **Erlebt er das Finale?** Stirbt er dazwischen, hat [Tingsal](../Orte/Tingsal.md) bei [Tibuns](../Menschen/Nordvolk/Tibun.md) Rückkehr eine andere Autorität als bei seinem Aufbruch - das verändert alles, was der Nordstrang über Rang und Erlaubnis erzählt.
+- **Wer folgt ihm?** Ein Sohn, ein Verwandter, ein Rivale? Hadurik hat bisher keine Familie ([C-048](#c-048-hadurik---offene-felder-)).
+- **Wird das erzählt oder nur vorausgesetzt?** Ein Nachfolgestreit ist Konfliktstoff, kostet aber Platz in einem Strang, der ohnehin dicht ist ([C-141](#c-141-der-auftakt-ist-jetzt-sehr-dicht-)).
+
+Nichts festgelegt.
+
+---

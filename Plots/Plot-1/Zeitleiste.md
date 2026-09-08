@@ -113,7 +113,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Konflikt:** Sprache und Kulturbarriere
 - **Ihr Ziel steht von der ersten Stunde an fest:** Der Ring hat sie hergebracht, der Ring ist der einzige Rückweg - ein Fußmarsch in den Norden ist für sie keine Möglichkeit, sondern eine Todesart. Sie beginnt nicht bei der Frage *ob*, sondern bei *wie*
 - Begegnet [Bellbrim](../../Menschen/Andere/Bellbrim.md), die übersetzen kann und als Erste versteht, was der Ring ist
-- **Jahr +3 (spätestens):** Beziehung zum **Neffen des Häuptlings** beginnt - dessen Frau ist zuvor mit einem anderen Mann durchgebrannt
+- **Jahr +3 (spätestens):** Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem **Neffen des Häuptlings**, beginnt - dessen Frau ist zuvor mit einem anderen Mann durchgebrannt
 
 ### Das Kind und der Entschluss (Jahr +3 → +5)
 
@@ -129,15 +129,15 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 ### Die Bitte und die Trennung (Jahr +5)
 - **Das Hindernis hatte drei Phasen** (02.09.2026): Zugehörigkeit → Wissen → Bitte. Erst als feststeht, dass man den Ring **auslösen** kann, lohnt der Transport überhaupt
-- **Girlin bittet selbst.** Sie ist stark und unabhängig; der Neffe bittet nicht für sie. **Er unterstützt sie, und sein Einfluss hilft** - sie arbeiten als Team (entschieden 03.09.2026)
-- **Warum der Clan hilft: Sippenpflicht.** Der **Neffe ist Blut des Häuptlings**. Man tut es für ihn, nicht für sie
+- **Girlin bittet selbst.** Sie ist stark und unabhängig; Sekkan bittet nicht für sie. **Er unterstützt sie, und sein Einfluss hilft** - sie arbeiten als Team (entschieden 03.09.2026)
+- **Warum der Clan hilft: Sippenpflicht.** **Sekkan ist Blut des Häuptlings**. Man tut es für ihn, nicht für sie
   > **Frühere Fassung gestrichen:** Der Satz *„Motiv des Clans ist nicht Girlins Heimweh, sondern Wasser"* stammte nicht vom Autor
-- **Die Trennung vom Clan liegt hier, nicht nach dem Transport** (entschieden 03.09.2026): **Girlin, der Neffe und das Kind lösen sich in Jahr +5 vom Clan** und ziehen zu [Bellbrim](../../Menschen/Andere/Bellbrim.md) in die **Schlucht**. Für den Neffen ist das der Verlust seiner Sippe - der teuerste Preis, den im Buch jemand außer Tibun zahlt
+- **Die Trennung vom Clan liegt hier, nicht nach dem Transport** (entschieden 03.09.2026): **Girlin, Sekkan und das Kind lösen sich in Jahr +5 vom Clan** und ziehen zu [Bellbrim](../../Menschen/Andere/Bellbrim.md) in die **Schlucht**. Für ihn ist das der Verlust seiner Sippe - der teuerste Preis, den im Buch jemand außer Tibun zahlt
 - **Folge:** Girlin ist **ab +5 ohne Sippenschutz**, nicht erst ab +8. Was sie trotzdem vier Jahre lang schützt, ist **kein Schutz, sondern Lage**: Die **Schlucht kennen sehr wenige**, und **Azzim ist eine Weile unterwegs** (entschieden 03.09.2026)
   > **Korrigiert:** Die Begründung *„ab Jahr +8 ist sie ungeschützt"* aus ist damit überholt
 
 ### Die Jahre in der Schlucht (Jahr +5 → +7)
-- **Die vier leben zusammen.** [Bellbrim](../../Menschen/Andere/Bellbrim.md) lebt dort seit Jahren und war versorgt; die drei Neuen **helfen ihr** - Jagd, Weben, Landwirtschaft, Handel (entschieden 03.09.2026). Der Neffe **hält die vier am Leben** - eine seiner vier eigenen Handlungen
+- **Die vier leben zusammen.** [Bellbrim](../../Menschen/Andere/Bellbrim.md) lebt dort seit Jahren und war versorgt; die drei Neuen **helfen ihr** - Jagd, Weben, Landwirtschaft, Handel (entschieden 03.09.2026). Sekkan **hält die vier am Leben** - eine seiner vier eigenen Handlungen
 - **Die Arbeit am Generator beginnt hier** - Jahre bevor der Ring da ist. Experimente mit **Wasserfall und Wasserrad** (Skizzen-Beat 12)
   - **Wie der Generator in der Wüste aussieht und funktioniert, ist offen** · **???**. Er ist **nicht** als dasselbe Gerät wie Tibuns Bernsteinrad festgelegt
   - **Offen:** was daran ohne Ring überhaupt prüfbar ist · **???**
