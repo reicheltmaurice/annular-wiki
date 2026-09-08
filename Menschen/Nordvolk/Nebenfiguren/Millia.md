@@ -36,9 +36,9 @@ War einst enge Freundin [Girlins](../Girlin.md).
 
 ## Einzug in Semunds Haus
 
-Millia heiratet [Semund](Semund.md) **einen Winter** nach [Girlins](../Girlin.md) Toterklärung — regelkonform, nicht überstürzt. Sie übernimmt **Webstuhl und Herd**, weil ein Haus eine Herrin braucht und ein Webstuhl gebraucht wird; [Trudas](Truda.md) Erbe verwahrt sie.
+Millia heiratet [Semund](Semund.md) **einen Winter** nach [Girlins](../Girlin.md) Toterklärung - regelkonform, nicht überstürzt. Sie übernimmt **Webstuhl und Herd**, weil ein Haus eine Herrin braucht und ein Webstuhl gebraucht wird; [Trudas](Truda.md) Erbe verwahrt sie.
 
-Sie tut damit nichts Falsches — und genau das ist die Kränkung für [Tibun](../Tibun.md) und Truda: Der Webstuhl klappert weiter, nur mit anderen Händen. Es gibt kein Unrecht, das man benennen könnte.
+Sie tut damit nichts Falsches - und genau das ist die Kränkung für [Tibun](../Tibun.md) und Truda: Der Webstuhl klappert weiter, nur mit anderen Händen. Es gibt kein Unrecht, das man benennen könnte.
 
 ---
 
@@ -46,7 +46,7 @@ Sie tut damit nichts Falsches — und genau das ist die Kränkung für [Tibun](.
 
 [Semund](Semund.md) nimmt sie **rasch**, nachdem alle [Girlin](../Girlin.md) für tot halten. Dass Millia einst Girlins enge Freundin war, macht den schnellen Ersatz für [Tibun](../Tibun.md) doppelt schmerzhaft.
 
-Tibun **weiß**, dass Girlin lebt — er sah als Einziger den Ring flippen und sie wegteleportieren. Semunds rascher Ersatz durch Millia ist für ihn deshalb ein **Verrat** und **ein Grund für seinen Weggang**.
+Tibun **weiß**, dass Girlin lebt - er sah als Einziger den Ring flippen und sie wegteleportieren. Semunds rascher Ersatz durch Millia ist für ihn deshalb ein **Verrat** und **ein Grund für seinen Weggang**.
 
 ---
 

@@ -46,13 +46,13 @@ Welche Rolle spielt der Charakter in der Geschichte?
 
 ## Verbindungen zu anderen Charakteren
 
-- `[Name](pfad/zur/datei.md)` — Beispielzeile, beim Anlegen ersetzen
+- `[Name](pfad/zur/datei.md)` - Beispielzeile, beim Anlegen ersetzen
 - ...
 
 ---
 
 ## Inspiration
 
-> Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) — sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../Notizen/Regeln.md#charaktere).
+> Nur **äußerliche** Referenz (Gesicht, Statur, Auftreten) - sagt nichts über Charakter oder Rolle aus. Siehe [Regeln](../Notizen/Regeln.md#charaktere).
 
 ???

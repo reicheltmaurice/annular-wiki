@@ -1,16 +1,16 @@
-# Szenen — Plot 1
+# Szenen - Plot 1
 
 > **Status:** ???
 
 **Diese Datei ist die einzige Quelle für den Szenenzuschnitt.** Nummer, Titel, Reihenfolge, POV und die Felder Will / Hindernis / Ausgang werden ausschließlich hier gepflegt. Das Schaubild [Szenenliste](../../Notizen/Schaubilder/Szenenliste.html) wird aus dieser Datei erzeugt und ist keine Zweitfassung.
 
-**Der Zuschnitt ist Arbeitsstand, nicht entschieden** — auch wenn er hier im Wiki steht. Welche Ereignisse in eine Szene fallen, wo geschnitten wird und in welcher Reihenfolge erzählt wird, legt der Autor fest.
+**Der Zuschnitt ist Arbeitsstand, nicht entschieden** - auch wenn er hier im Wiki steht. Welche Ereignisse in eine Szene fallen, wo geschnitten wird und in welcher Reihenfolge erzählt wird, legt der Autor fest.
 
-**Was hier nicht steht:** die Ereigniskette. Was wann geschieht, steht in der [Zeitleiste](Zeitleiste.md) und wird hier nicht wiederholt — sonst laufen zwei Fassungen auseinander. Diese Datei sagt nur, **was eine Szene will und was ihr im Weg steht**.
+**Was hier nicht steht:** die Ereigniskette. Was wann geschieht, steht in der [Zeitleiste](Zeitleiste.md) und wird hier nicht wiederholt - sonst laufen zwei Fassungen auseinander. Diese Datei sagt nur, **was eine Szene will und was ihr im Weg steht**.
 
 [Kapitelstruktur.md](Kapitelstruktur.md) ist eine eingefrorene Handskizze und wird ausdrücklich **nicht** nachgepflegt; Abweichungen dort sind kein Widerspruch.
 
-Der Szenenkopf nennt hinter **Offen** die Punkte, die in dieser Szene noch zu klären sind — im Klartext, ein `—` heißt: nichts offen. Bis zum 05.09.2026 standen dort C-Nummern; die Datei hängt seitdem nicht mehr an `Challenges.md`.
+Der Szenenkopf nennt hinter **Offen** die Punkte, die in dieser Szene noch zu klären sind - im Klartext, ein `-` heißt: nichts offen. Bis zum 05.09.2026 standen dort C-Nummern; die Datei hängt seitdem nicht mehr an `Challenges.md`.
 
 ## Die Felder
 
@@ -18,22 +18,22 @@ Jede Szene trägt drei Felder. Wie sie belegt werden, ist festgelegt (05.09.2026
 
 | Feld | Belegung |
 |---|---|
-| **Will** | **Immer das Wollen der POV-Figur** — nie das des Gegenspielers. Ist es unbekannt, steht `???` dort, auch wenn sich über die Gegenfigur etwas sagen ließe. |
+| **Will** | **Immer das Wollen der POV-Figur** - nie das des Gegenspielers. Ist es unbekannt, steht `???` dort, auch wenn sich über die Gegenfigur etwas sagen ließe. |
 | **Hindernis** | Was der POV-Figur im Weg steht. Drei Zustände: konkreter Inhalt · `keins` (bewusst kein Widerstand, optional mit Begründung) · `???` (noch zu entscheiden). |
 | **Ausgang** | Womit die Szene endet. `???`, solange offen. |
-| **Offen** | Im Szenenkopf: was hier noch zu klären ist, durch ` · ` getrennt. `—` heißt: nichts offen. |
+| **Offen** | Im Szenenkopf: was hier noch zu klären ist, durch ` · ` getrennt. `-` heißt: nichts offen. |
 
 `keins` und `???` sind **nicht dasselbe**: `???` ist eine Arbeitsaufgabe, `keins` eine dramaturgische Aussage. Die Kennzahlen zählen beides getrennt.
 
-**Der Zuschnitt ist Arbeitsstand.** Welche Ereignisse eine Szene bilden, wo geschnitten wird und wie die Szenen heißen, hat der Autor nicht Szene für Szene bestätigt — der Vorbehalt gilt für die ganze Datei; eine Herkunftsmarkierung je Szene wird bewusst **nicht** geführt (entschieden 05.09.2026). Gedeckt sind die **Ereignisse** aus der [Zeitleiste](Zeitleiste.md), nicht ihre Bündelung.
+**Der Zuschnitt ist Arbeitsstand.** Welche Ereignisse eine Szene bilden, wo geschnitten wird und wie die Szenen heißen, hat der Autor nicht Szene für Szene bestätigt - der Vorbehalt gilt für die ganze Datei; eine Herkunftsmarkierung je Szene wird bewusst **nicht** geführt (entschieden 05.09.2026). Gedeckt sind die **Ereignisse** aus der [Zeitleiste](Zeitleiste.md), nicht ihre Bündelung.
 
 ## Zählung
 
-Die Nummer ist die **Position in dieser Liste**, lückenlos ab 1. Sie ist keine Kapitelnummer — Kapitelgrenzen und Kapitellängen gibt es noch nicht.
+Die Nummer ist die **Position in dieser Liste**, lückenlos ab 1. Sie ist keine Kapitelnummer - Kapitelgrenzen und Kapitellängen gibt es noch nicht.
 
 **Die Reihenfolge dieser Liste ist die Erzählreihenfolge** (entschieden 04.09.2026). Eine zweite, chronologische Ordnung wird nicht geführt: **wann** etwas geschieht, steht in der [Zeitleiste](Zeitleiste.md). Die Jahresangabe je Szene bleibt als grobe Einordnung.
 
-Wo zwei Szenen **gleichzeitig** liegen — Nr. 3 und 4 zeigen denselben Moment aus beiden Sichten —, sagt ihre Reihenfolge, was zuerst erzählt wird, nicht was zuerst geschieht.
+Wo zwei Szenen **gleichzeitig** liegen - Nr. 3 und 4 zeigen denselben Moment aus beiden Sichten -, sagt ihre Reihenfolge, was zuerst erzählt wird, nicht was zuerst geschieht.
 
 > **Streichvermerk (04.09.2026):** Oben stand „chronologische Position". Das war eine Formulierung von Claude, nicht vom Autor, und wurde durch den Tausch der beiden Blitz-Karten widerlegt.
 
@@ -44,14 +44,14 @@ Wo zwei Szenen **gleichzeitig** liegen — Nr. 3 und 4 zeigen denselben Moment a
 | Prolog | Szene 1 (Das Beben) | entschieden 04.09.2026 |
 | Anfang | ab Szene 2 bis **???** | wo der Anfang endet, ist offen |
 | Hauptteil | dazwischen | ergibt sich aus den beiden Grenzen |
-| Schluss | ab Szene 42 (Der Angriff — Zündung 1) | gemeinsamer Block ab Zündung 1 |
+| Schluss | ab Szene 42 (Der Angriff - Zündung 1) | gemeinsamer Block ab Zündung 1 |
 | Epilog | nicht vorgesehen | Das Buch endet mit der Entscheidung ([Zeitleiste](Zeitleiste.md)) |
 
-Die Erzählreihenfolge — verschränkt oder blockweise — ist offen. Die Liste unten steht chronologisch.
+Die Erzählreihenfolge - verschränkt oder blockweise - ist offen. Die Liste unten steht chronologisch.
 
 ## Kennzahlen
 
-Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **45 Szenen** (23 Tibun · 22 Girlin) · **17 vollständig** (Will, Hindernis und Ausgang gesetzt) · **16 mit offenem Hindernis** (`???`), davon **9 reine Zustände** (weder Will noch Hindernis) · **1 ohne Widerstand** (Hindernis `keins`).
+Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **45 Szenen** (23 Tibun · 22 Girlin) · **19 vollständig** (Will, Hindernis und Ausgang gesetzt) · **15 mit offenem Hindernis** (`???`), davon **9 reine Zustände** (weder Will noch Hindernis) · **1 ohne Widerstand** (Hindernis `keins`).
 
 ---
 
@@ -75,156 +75,155 @@ Ein Beben, wie es niemand kennt. Das Ringsystem erwacht.
 
 Verlobungstag, wenige Tage nach dem Beben. Frida nimmt die Kette nicht an; kurz darauf springt der Funke an der Schafschere über.
 
-- **Will:** Frida für sich gewinnen — die Kette hat er schon lange
+- **Will:** Frida für sich gewinnen - die Kette hat er schon lange
 - **Hindernis:** Sie nimmt die Kette nicht an; sie ist mit Herik verlobt, der besseren Partie
-- **Ausgang:** Abgewiesen. Der Funke sengt Flusen an; er versteht nichts davon. Wie es dazu kommt: ??? — die alte Szene gilt nicht als Kanon.
+- **Ausgang:** Abgewiesen. Der Funke sengt Flusen an; er versteht nichts davon. Wie es dazu kommt: ??? - die alte Szene gilt nicht als Kanon.
 
 
-### 3 · Der Blitz — Girlin
+### 3 · Der Blitz - Girlin
 
-> **POV:** Girlin · **Jahr 0** · **Offen:** Warum sind Tibun und Girlin allein draußen? · Vorwarnung vor dem Flip?
+> **POV:** Girlin · **Jahr 0** · **Offen:** Vorwarnung vor dem Flip?
 
-Derselbe Moment aus ihrer Sicht — bis es schwarz wird.
+Starkes Gewitter, Sorge um oder Flucht der Schafe, Girlin endet im Wald, stürzt über den Ring, Kopfwunde, bewusstlos.
 
 - **Will:** ???
 - **Hindernis:** ???
-- **Ausgang:** Sie ist fort. Sie stand vollständig innerhalb der Ringöffnung und reist unverletzt. Was sie davon wahrnimmt — ob sie den Ring überhaupt bemerkt, ob es eine Vorwarnung gibt —, ist offen. Das Aufwachen steht in „Ankunft im Fezzan".
+- **Ausgang:** Sie ist fort. Sie stand vollständig innerhalb der Ringöffnung und reist unverletzt. Was sie davon wahrnimmt - ob sie den Ring überhaupt bemerkt, ob es eine Vorwarnung gibt -, ist offen.
 
 
-### 4 · Der Blitz — Tibun
+### 4 · Der Blitz - Tibun
 
-> **POV:** Tibun · **Jahr 0** · **Offen:** Warum sind Tibun und Girlin allein draußen?
+> **POV:** Tibun · **Jahr 0** · **Offen:** -
 
-Wenige Tage später: Gewitter über der Skir. Girlin verschwindet vor seinen Augen.
+Starkes Gewitter, hilft Girlin mit den Tieren, verfolgt sie in den Wald, sieht ihren Sturz, will zu ihr, Blitzeinschlag, Teleportation.
 
 - **Will:** ???
 - **Hindernis:** ???
 - **Ausgang:** Girlin ist fort. Tibun ist einziger Zeuge.
 
-### 5 · Ankunft im Fezzan
+### 5 · Der Suchtrupp
+
+> **POV:** Tibun · **Jahr 0** · **Offen:** -
+
+Tibun holt Hilfe. Das Dorf sucht und gibt wetterbedingt auf. Die Wala wird gerufen.
+
+- **Will:** Dass Girlin gesucht wird
+- **Hindernis:** Niemand teilt seine Deutung
+- **Ausgang:** Girlin gilt als weggelaufen oder tot.
+
+### 6 · Girlin wacht in der Wüste auf
 
 > **POV:** Girlin · **Jahr 0** · **Offen:** Karawanen-Aufmerksamkeit bei Girlins Ankunft
 
-Sie wacht in der Wüste auf und wird von den Kel Aman aufgesammelt.
+Orientierung, glatt durchtrennte Steine aus Skirraa, halber Käfer (Skarabäus), Verzweiflung, Angst, wird von den Kel Aman aufgesammelt.
 
-- **Will:** Zurück — der Ring ist der einzige Rückweg
+- **Will:** Zurück - der Ring ist der einzige Rückweg
 - **Hindernis:** Ein Fußmarsch nach Norden ist keine Möglichkeit, sondern eine Todesart
 - **Ausgang:** Die Kel Aman nehmen sie mit.
 
 
-### 6 · Die Mulde
+### 7 · Tibun untersucht den Ring
 
-> **POV:** Tibun · **Jahr 0** · **Offen:** —
+> **POV:** Tibun · **Jahr 0** · **Offen:** -
 
-Halbierte Steine, glatt durchtrennte Wurzeln.
+Glatt durchtrennte Steine und ein halber Käfer (Skarabäus), unbekannter Sand, Erkenntnis: Der Ring schneidet.
 
 - **Will:** Begreifen, was mit der Mutter geschah
 - **Hindernis:** ???
 - **Ausgang:** Er begreift: Der Ring schneidet. Dieses Wissen tötet zehn Jahre später Azzim.
 
 
-### 7 · Sprache und Fremdheit
+### 8 · Die erste Zeit bei den Kel Aman
 
-> **POV:** Girlin · **Jahr 0** · **Offen:** Kel Aman — kulturelle Tiefe
+> **POV:** Girlin · **Jahr 0** · **Offen:** Kel Aman - kulturelle Tiefe
 
-Erste Zeit bei einem Volk, dessen Sprache sie nicht kennt.
+Sprache und Fremdheit, Kultur, Bräuche, Rolle der Frau, Klima.
 
 - **Will:** Sich verständlich machen
 - **Hindernis:** Sprach- und Kulturbarriere
 - **Ausgang:** ???
 
 
-### 8 · Was das Dorf daraus macht
+### 9 · Die Wala kommt
 
-> **POV:** Tibun · **Jahr 0** · **Offen:** —
+> **POV:** Tibun · **Jahr 0** · **Offen:** -
 
-Der Sand liegt für alle sichtbar an der Skir.
+Der Sand liegt für alle sichtbar an der Skir. Die Wala deutet den Sand als Zeichen der Götter. Sie glaubt Tibun nicht, also das Dorf auch nicht. Sie erklärt Girlin für tot und die Stelle zum Tabu.
 
 - **Will:** Dass man ihm glaubt, was er gesehen hat
 - **Hindernis:** Die Wala deutet den Sand als Zeichen der Götter
-- **Ausgang:** Girlin für tot erklärt, die Stelle zum Tabu. Das Verschwinden glaubt man ihm — seine Deutung nicht.
+- **Ausgang:** Girlin für tot erklärt, die Stelle zum Tabu. Das Verschwinden glaubt man ihm - seine Deutung nicht.
 
 
-### 9 · Der Suchtrupp
+### 10 · Nach dem Verlust der Mutter
 
-> **POV:** Tibun · **Jahr 0** · **Offen:** —
+> **POV:** Tibun · **Jahr 0** · **Offen:** -
 
-Das Dorf sucht und gibt auf.
+Tibun streitet ob seiner Version, missachtet das Tabu, Truda begleitet ihn bis zum Waldrand, sorgt sich, petzt, Tibun bekommt Ärger mit Semund, er fordert die Götterstrafe heraus, Glaubenskrise (Wala hat Unrecht, keine Strafe), Dorf beginnt ihn zu meiden.
 
-- **Will:** Dass Girlin gesucht wird
-- **Hindernis:** Niemand teilt seine Deutung
-- **Ausgang:** Girlin gilt als weggelaufen oder tot.
-
-
-### 10 · Semund und Millia
-
-> **POV:** Tibun · **Jahr 0** · **Offen:** Tibuns Verhältnis zu Millia · Millia — offene Felder
-
-Der Vater bindet sich rasch neu.
-
-- **Will:** Dass der Vater an Girlin festhält — er weiß ja, dass sie lebt
+- **Will:** Dass der Vater an Girlin festhält - er weiß ja, dass sie lebt
 - **Hindernis:** Semund hat sie für tot erklärt
 - **Ausgang:** Für Tibun ein Verrat. Wie er zu Millia selbst steht: widersprüchlich überliefert.
 
 
-### 11 · Der Unfall
+### 11 · Tibuns Vater und Millia
 
-> **POV:** Tibun · **Jahr 0** · **Offen:** Wasserrad-Unfall und Tibuns Schuld
+> **POV:** Tibun · **Jahr 0** · **Offen:** Tibuns Verhältnis zu Millia · Millia - offene Felder
 
-Er baut etwas, und dabei wird jemand verletzt.
+Semund und Millia reisen nach Tingsal (Erlaubnis der Wala), der Vater will Tibun mitnehmen, Tibun will nicht.
+
+- **Will:** Dass der Vater an Girlin festhält - er weiß ja, dass sie lebt
+- **Hindernis:** Semund hat sie für tot erklärt
+- **Ausgang:** Für Tibun ein Verrat. Wie er zu Millia selbst steht: widersprüchlich überliefert.
+
+
+### 12 · Semunds und Millias Verlobung
+
+> **POV:** Tibun · **Jahr 0** · **Offen:** -
+
+Wiederkehr der beiden, öffentliche Verlobung, Tibun sauer trotz gutem Verhältnis zu Millia.
 
 - **Will:** ???
 - **Hindernis:** ???
-- **Ausgang:** Eine Nebenfigur wird verletzt. Schwere Gewissensbisse.
+- **Ausgang:** ???
 
 
-### 12 · Der Ausschluss
+### 13 · Unfall, Ausschluss und Aufbruch
 
-> **POV:** Tibun · **Jahr 0** · **Offen:** Tibun und Truda nach Girlins Verschwinden
+> **POV:** Tibun · **Jahr +1** · **Offen:** Wasserrad-Unfall und Tibuns Schuld · Tibun und Truda nach Girlins Verschwinden
 
-Der Weiler rückt von ihm ab.
-
-- **Will:** ???
-- **Hindernis:** Meidung durch die Dorfbewohner
-- **Ausgang:** Schuld, Gewissenslast und Ausschluss — zusammen der Antrieb zum Aufbruch.
-
-
-### 13 · Aufbruch aus Skirraa
-
-> **POV:** Tibun · **Jahr +1** · **Offen:** —
-
-Rund ein Jahr nach dem Verschwinden verlässt er den Weiler.
+Er baut etwas, und dabei wird jemand verletzt. Der Weiler rückt von ihm ab. Rund ein Jahr nach dem Verschwinden verlässt er den Weiler.
 
 - **Will:** Die Mutter finden. Dazu Bernstein, Ringwissen, Mechanik
-- **Hindernis:** ???
-- **Ausgang:** Er geht — fort von der Schuld und hin zum Wissen.
+- **Hindernis:** Meidung durch die Dorfbewohner
+- **Ausgang:** Eine Nebenfigur wird verletzt, schwere Gewissensbisse. Schuld, Gewissenslast und Ausschluss - zusammen der Antrieb zum Aufbruch. Er geht - fort von der Schuld und hin zum Wissen.
 
 
 ### 14 · Bellbrim
 
-> **POV:** Girlin · **Jahr +1** · **Offen:** Bellbrim — Herkunft und historische Plausibilität · Bellbrims Sprache
+> **POV:** Girlin · **Jahr +1** · **Offen:** Bellbrim - Herkunft und historische Plausibilität · Bellbrims Sprache
 
 Begegnung mit der Vandalin, die mehrere Sprachen spricht.
 
 - **Will:** Verstehen, was der Ring ist
-- **Hindernis:** Vandalisch ist mit ihrer Sprache verwandt, aber nicht gleich — die Verständigung braucht Monate
+- **Hindernis:** Vandalisch ist mit ihrer Sprache verwandt, aber nicht gleich - die Verständigung braucht Monate
 - **Ausgang:** Bellbrim versteht als Erste, was der Ring ist.
 
 
 ### 15 · Die Zwischenstation
 
-> **POV:** Tibun · **Jahr +1** · **Offen:** Die Zwischenstation — Ort und Gruppe
+> **POV:** Tibun · **Jahr +1** · **Offen:** Die Zwischenstation - Ort und Gruppe
 
 Er schließt sich einer Gruppe an, um weiterzukommen.
 
-- **Will:** Weiterreisen — und erfahren, was der Ring ist
+- **Will:** Weiterreisen - und erfahren, was der Ring ist
 - **Hindernis:** Er fragt Fremde zum ersten Mal nach dem Ring und wird abgewiesen
 - **Ausgang:** Er lernt zu überleben, ohne Sippe. Und er lernt zu schweigen.
 
 
 ### 16 · Ankunft in Kaupvik
 
-> **POV:** Tibun · **Jahr +1** · **Offen:** —
+> **POV:** Tibun · **Jahr +1** · **Offen:** -
 
 Hafenarbeit an der Schlei.
 
@@ -251,13 +250,13 @@ Er kommt bei einem Paar unter.
 Bernstein durch Handel und eigenes Sammeln.
 
 - **Will:** Genug Bernstein für den Ring
-- **Hindernis:** Bernstein in der nötigen Menge ist nicht zu kaufen wie Brot — und das Prinzip fehlt ihm noch
+- **Hindernis:** Bernstein in der nötigen Menge ist nicht zu kaufen wie Brot - und das Prinzip fehlt ihm noch
 - **Ausgang:** ???
 
 
 ### 19 · Der Neffe
 
-> **POV:** Girlin · **Jahr +3** · **Offen:** Der Neffe — Name, Eigenschaften, Schweigebitte · Durchgebrannte Ehefrau bei den Kel Aman
+> **POV:** Girlin · **Jahr +3** · **Offen:** Der Neffe - Name, Eigenschaften, Schweigebitte · Durchgebrannte Ehefrau bei den Kel Aman
 
 Beziehung zum Neffen des Häuptlings.
 
@@ -268,7 +267,7 @@ Beziehung zum Neffen des Häuptlings.
 
 ### 20 · Azzim, Auftritt 1
 
-> **POV:** Girlin · **Jahr +3** · **Offen:** Azzim — Herkunft und Hintergrund
+> **POV:** Girlin · **Jahr +3** · **Offen:** Azzim - Herkunft und Hintergrund
 
 Auf dem Basar greift ein Sklavenhändler nach ihr.
 
@@ -276,7 +275,7 @@ Auf dem Basar greift ein Sklavenhändler nach ihr.
 - **Hindernis:** Der Clan wehrt den Zugriff ab
 - **Ausgang:** Der Zugriff scheitert. Ab hier kennen sich beide als Feind; zum Wert kommt die Demütigung.
 
-> **Streichvermerk (05.09.2026):** Hier stand „Azzim will sie als Ware — sie ist selten" — das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
+> **Streichvermerk (05.09.2026):** Hier stand „Azzim will sie als Ware - sie ist selten" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
 
 
 ### 21 · Der Erkenntnismoment
@@ -307,14 +306,14 @@ Girlins Kind wird in der Wüste geboren.
 
 Mit der Geburt verschiebt sich, was sie will.
 
-- **Will:** Nach Hause — zu Tibun und Truda
+- **Will:** Nach Hause - zu Tibun und Truda
 - **Hindernis:** Sie hat jetzt zwei Familien und kann nur eine haben
-- **Ausgang:** Aus „nach Hause gehen“ wird „ich bleibe“. Sechs Jahre vor dem Finale — und der Entschluss wackelt noch.
+- **Ausgang:** Aus „nach Hause gehen“ wird „ich bleibe“. Sechs Jahre vor dem Finale - und der Entschluss wackelt noch.
 
 
 ### 24 · Der Ring bekommt einen neuen Zweck
 
-> **POV:** Girlin · **Jahr +4** · **Offen:** Girlins Nachricht — Vorhaben ohne Ausführung · Die Nachricht — Art und Lesbarkeit im Norden
+> **POV:** Girlin · **Jahr +4** · **Offen:** Girlins Nachricht - Vorhaben ohne Ausführung · Die Nachricht - Art und Lesbarkeit im Norden
 
 Nicht mehr ihre Heimreise.
 
@@ -325,45 +324,45 @@ Nicht mehr ihre Heimreise.
 
 ### 25 · Die Bitte
 
-> **POV:** Girlin · **Jahr +5** · **Offen:** Der Neffe — Name, Eigenschaften, Schweigebitte
+> **POV:** Girlin · **Jahr +5** · **Offen:** Der Neffe - Name, Eigenschaften, Schweigebitte
 
 Sie bittet den Clan, den Ring zu holen.
 
 - **Will:** Der Clan soll den Ring in die Schlucht bringen
 - **Hindernis:** Drei Phasen stehen davor: Zugehörigkeit, Wissen, Bitte
-- **Ausgang:** Der Clan sagt zu — aus Sippenpflicht gegenüber dem Neffen, nicht ihretwegen.
+- **Ausgang:** Der Clan sagt zu - aus Sippenpflicht gegenüber dem Neffen, nicht ihretwegen.
 
 
 ### 26 · Die Trennung vom Clan
 
-> **POV:** Girlin · **Jahr +5** · **Offen:** Die Schutzlücke verschiebt sich von +8 auf +5 · Der Neffe — Name, Eigenschaften, Schweigebitte
+> **POV:** Girlin · **Jahr +5** · **Offen:** Die Schutzlücke verschiebt sich von +8 auf +5 · Der Neffe - Name, Eigenschaften, Schweigebitte
 
 Die drei lösen sich und ziehen zu Bellbrim.
 
 - **Will:** Bei Bellbrim am Ring arbeiten
-- **Hindernis:** Für den Neffen bedeutet es den Verlust seiner Sippe — der teuerste Preis außer Tibuns
+- **Hindernis:** Für den Neffen bedeutet es den Verlust seiner Sippe - der teuerste Preis außer Tibuns
 - **Ausgang:** Sie ziehen in die Schlucht. Ab hier ist Girlin ohne Sippenschutz.
 
 
 ### 27 · Das Tischmodell
 
-> **POV:** Tibun · **Jahr +5** · **Offen:** Der Nordstrang verliert zwischen +1 und +9 nichts · Der isolierte Konduktor — Ladungsspeicher ohne Anachronismus
+> **POV:** Tibun · **Jahr +5** · **Offen:** Der Nordstrang verliert zwischen +1 und +9 nichts · Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus
 
 Vier Jahre Bau und Bernsteinsammeln in Kaupvik.
 
 - **Will:** Einen funktionierenden Generator im Kleinen
 - **Hindernis:** ???
-- **Ausgang:** Das Modell läuft. Der Strang verliert in diesen Jahren nichts — kein Rückschlag, kein Gegenspieler.
+- **Ausgang:** Das Modell läuft. Der Strang verliert in diesen Jahren nichts - kein Rückschlag, kein Gegenspieler.
 
 
 ### 28 · Arbeit am Generator
 
-> **POV:** Girlin · **Jahr +5** · **Offen:** Der Wüstengenerator — Bauart offen · Generatorarbeit ohne Ring
+> **POV:** Girlin · **Jahr +5** · **Offen:** Der Wüstengenerator - Bauart offen · Generatorarbeit ohne Ring
 
 Experimente mit Wasserfall und Wasserrad.
 
 - **Will:** Den Ring auslösen können
-- **Hindernis:** Der Ring ist noch gar nicht da — was ohne ihn prüfbar ist, ist offen
+- **Hindernis:** Der Ring ist noch gar nicht da - was ohne ihn prüfbar ist, ist offen
 - **Ausgang:** ???
 
 
@@ -374,7 +373,7 @@ Experimente mit Wasserfall und Wasserrad.
 Der Generatorbau verlangt Material, das die Schlucht nicht hergibt.
 
 - **Will:** Material beschaffen
-- **Hindernis:** Sie müssen dafür das Versteck verlassen — der einzige Weg, auf dem Azzim sie finden kann
+- **Hindernis:** Sie müssen dafür das Versteck verlassen - der einzige Weg, auf dem Azzim sie finden kann
 - **Ausgang:** ???
 
 
@@ -385,13 +384,13 @@ Der Generatorbau verlangt Material, das die Schlucht nicht hergibt.
 Der Clan kommt wieder; Girlin bricht mit ihm auf.
 
 - **Will:** Den Ring in die Schlucht bringen
-- **Hindernis:** 5,7 Tonnen durch die Wüste — das Verfahren ist offen
+- **Hindernis:** 5,7 Tonnen durch die Wüste - das Verfahren ist offen
 - **Ausgang:** Der Ring erreicht die Schlucht.
 
 
 ### 31 · Azzim, Auftritt 2
 
-> **POV:** Girlin · **Jahr +7** · **Offen:** —
+> **POV:** Girlin · **Jahr +7** · **Offen:** -
 
 Er tritt offen an den Zug heran und verhandelt.
 
@@ -399,12 +398,12 @@ Er tritt offen an den Zug heran und verhandelt.
 - **Hindernis:** Sippenpflicht schlägt Handel
 - **Ausgang:** Der Clan lehnt ab. Er verliert den Zug und sieht nicht, wohin der Ring geht.
 
-> **Streichvermerk (05.09.2026):** Hier stand „Azzim will sie kaufen oder eintauschen" — das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
+> **Streichvermerk (05.09.2026):** Hier stand „Azzim will sie kaufen oder eintauschen" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
 
 
 ### 32 · Der Ring liegt in der Schlucht
 
-> **POV:** Girlin · **Jahr +8** · **Offen:** —
+> **POV:** Girlin · **Jahr +8** · **Offen:** -
 
 Der Clan zieht endgültig weiter.
 
@@ -415,7 +414,7 @@ Der Clan zieht endgültig weiter.
 
 ### 33 · Vollendung des Generators
 
-> **POV:** Girlin · **Jahr +8** · **Offen:** Der Wüstengenerator — Bauart offen
+> **POV:** Girlin · **Jahr +8** · **Offen:** Der Wüstengenerator - Bauart offen
 
 Bellbrim und Girlin bauen weiter.
 
@@ -431,7 +430,7 @@ Bellbrim und Girlin bauen weiter.
 Das Modell läuft, Wissen und Bernstein reichen.
 
 - **Will:** Zurück zum Ring am Bach
-- **Hindernis:** keins — der Aufbruch kostet ihn ausdrücklich nichts
+- **Hindernis:** keins - der Aufbruch kostet ihn ausdrücklich nichts
 - **Ausgang:** Die Zieheltern bleiben lebend zurück. Ein Abschied, kein Verlust.
 
 
@@ -443,14 +442,14 @@ Auf dem Basar erkennt er sie und greift zu.
 
 - **Will:** ???
 - **Hindernis:** Sie ist schneller, und er hat keine Leute
-- **Ausgang:** Sie entkommt und flieht heim — er folgt ihr und findet die Schlucht.
+- **Ausgang:** Sie entkommt und flieht heim - er folgt ihr und findet die Schlucht.
 
-> **Streichvermerk (05.09.2026):** Hier stand „Azzim will zugreifen — diesmal ist kein Clan da" — das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
+> **Streichvermerk (05.09.2026):** Hier stand „Azzim will zugreifen - diesmal ist kein Clan da" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
 
 
 ### 36 · Die Werkstatt an der Tabustelle
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** —
+> **POV:** Tibun · **Jahr +9** · **Offen:** -
 
 Rückkehr zum Ring; Bau der großen Wasseranlage.
 
@@ -461,7 +460,7 @@ Rückkehr zum Ring; Bau der großen Wasseranlage.
 
 ### 37 · Die Nachricht liegt bereit
 
-> **POV:** Girlin · **Jahr +9** · **Offen:** Girlins Nachricht — Vorhaben ohne Ausführung · Die Nachricht — Art und Lesbarkeit im Norden
+> **POV:** Girlin · **Jahr +9** · **Offen:** Girlins Nachricht - Vorhaben ohne Ausführung · Die Nachricht - Art und Lesbarkeit im Norden
 
 Fertig und wetterfest verpackt.
 
@@ -472,9 +471,9 @@ Fertig und wetterfest verpackt.
 
 ### 38 · Der Weiler warnt und meidet
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** —
+> **POV:** Tibun · **Jahr +9** · **Offen:** -
 
-Angst und Ärger im Dorf — aber keine Vertreibung.
+Angst und Ärger im Dorf - aber keine Vertreibung.
 
 - **Will:** ???
 - **Hindernis:** Anheftendes Pech: Die anderen wollen nur nicht hineingezogen werden
@@ -483,18 +482,18 @@ Angst und Ärger im Dorf — aber keine Vertreibung.
 
 ### 39 · Die Wala lässt ihn gewähren
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** Wandernde Wala — offene Felder
+> **POV:** Tibun · **Jahr +9** · **Offen:** Wandernde Wala - offene Felder
 
 Sie wird gerufen und sieht es sich an.
 
 - **Will:** ???
 - **Hindernis:** Sie verlöre ihr Gesicht, wenn sie selbst mehr über den Ring wissen wollte
-- **Ausgang:** Sie deutet es wie zuvor, schärft allen den Zorn der Götter ein — und lässt ihn gewähren.
+- **Ausgang:** Sie deutet es wie zuvor, schärft allen den Zorn der Götter ein - und lässt ihn gewähren.
 
 
 ### 40 · Truda hält ihn für verloren
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** Tibun und Truda nach Girlins Verschwinden · Truda — offene Felder
+> **POV:** Tibun · **Jahr +9** · **Offen:** Tibun und Truda nach Girlins Verschwinden · Truda - offene Felder
 
 Er sagt ihr, was er tut.
 
@@ -502,47 +501,47 @@ Er sagt ihr, was er tut.
 - **Hindernis:** ???
 - **Ausgang:** ???
 
-> **Streichvermerk (05.09.2026):** Hier stand „Truda will ihn zur Vernunft bringen" — das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Tibuns Wollen in dieser Szene ist offen.
+> **Streichvermerk (05.09.2026):** Hier stand „Truda will ihn zur Vernunft bringen" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Tibuns Wollen in dieser Szene ist offen.
 
 
 ### 41 · Zweifel und Bestätigung
 
-> **POV:** Girlin · **Jahr +10** · **Offen:** —
+> **POV:** Girlin · **Jahr +10** · **Offen:** -
 
-Der Generator ist fertig — und der Zweifel kehrt zurück.
+Der Generator ist fertig - und der Zweifel kehrt zurück.
 
 - **Will:** Bleiben
 - **Hindernis:** Drei Dinge treiben den Zweifel: der laufende Generator, Azzims Auftritt in +9 und das älter werdende Kind
 - **Ausgang:** Sie bestätigt ihren Entschluss. Der Preis ist bezahlt, bevor der Sohn ankommt.
 
 
-### 42 · Der Angriff — Zündung 1
+### 42 · Der Angriff - Zündung 1
 
 > **POV:** Girlin · **Jahr +10** · **Offen:** Was bei Zündung 1 aus dem Norden verschwindet · Azzims Leute für den Angriff · Das Wüstenkind während des Finales
 
 Azzim fällt mit seinen Leuten über die Schlucht her.
 
 - **Will:** ???
-- **Hindernis:** Fels, Verteidigungslage — und der Neffe verteidigt sie
+- **Hindernis:** Fels, Verteidigungslage - und der Neffe verteidigt sie
 - **Ausgang:** Im Kampf löst der Wüstengenerator aus. Azzim wird nach Jütland geworfen.
 
-> **Streichvermerk (05.09.2026):** Hier stand „Azzim will die Schlucht nehmen" — das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
+> **Streichvermerk (05.09.2026):** Hier stand „Azzim will die Schlucht nehmen" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
 
 
 ### 43 · Azzim vor den Füßen
 
-> **POV:** Tibun · **Jahr +10** · **Offen:** —
+> **POV:** Tibun · **Jahr +10** · **Offen:** -
 
 Ein fremder Mann fällt aus dem Nichts neben den Ring.
 
-- **Will:** Auskunft über Girlin — der erste Beweis, dass drüben Menschen leben
+- **Will:** Auskunft über Girlin - der erste Beweis, dass drüben Menschen leben
 - **Hindernis:** Azzim will selbst zum Ring zurück
 - **Ausgang:** Beide wollen dasselbe Ding. Es kommt zum Kampf.
 
 
-### 44 · Der Kampf — Zündung 2
+### 44 · Der Kampf - Zündung 2
 
-> **POV:** Tibun · **Jahr +10** · **Offen:** Der isolierte Konduktor — Ladungsspeicher ohne Anachronismus
+> **POV:** Tibun · **Jahr +10** · **Offen:** Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus
 
 Azzim wirft ihn in den Ring und würgt ihn am Boden.
 
@@ -553,7 +552,7 @@ Azzim wirft ihn in den Ring und würgt ihn am Boden.
 
 ### 45 · Wiedersehen und Schluss
 
-> **POV:** Girlin · **Jahr +10** · **Offen:** Der Kampf in der Schlucht während Tibuns Ankunft · Der Schlusssatz — wissen die Figuren, was er kostet?
+> **POV:** Girlin · **Jahr +10** · **Offen:** Der Kampf in der Schlucht während Tibuns Ankunft · Der Schlusssatz - wissen die Figuren, was er kostet?
 
 Er steht in der Schlucht, mitten im laufenden Kampf.
 

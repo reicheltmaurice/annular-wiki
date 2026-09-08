@@ -38,12 +38,16 @@
 
 Zieht durchs Hinterland von Weiler zu Weiler, kommt gelegentlich nach [Skirraa](../../../Orte/Skirraa.md). Mögliche spätere Szene / Erwähnung am geparkten Hain [Vilund](../../../Orte/sonstiges.md).
 
+**Niemand weiß, wo sie sich gerade aufhält** - außer ihrer Zwillingsschwester, der [Wala von Tingsal](Wala-Tingsal.md) (Autor, 07.09.2026). Man kann ihr also nicht nachreisen; wer eine Wala braucht, geht nach [Tingsal](../../../Orte/Tingsal.md).
+
+**Die beiden Walas sprechen als eine Stimme** - als die Stimme der Götter (Autor, 07.09.2026). Die eine hält sich an das Wort der anderen; ein Spruch der einen wird von der anderen nicht neu geprüft. Für die Menschen gibt es damit **keine zweite Instanz**: Wer eine Wala fragt, hat sie alle gefragt.
+
 Weiß **nichts** vom vergrabenen Ring am Bach.
 
-**Feste Rolle — sie deutet [Girlins](../Girlin.md) Verschwinden**:
+**Feste Rolle - sie deutet [Girlins](../Girlin.md) Verschwinden**:
 
 - Sie erklärt den Wüstensand an der Skir zum **Zeichen der Götter** und Girlin für **tot**.
-- Sie belegt die Stelle mit einem **Tabu**: Wer hingeht, dem geschieht dasselbe wie Girlin. Kein Zaun, keine Wache — die Angst genügt, und sie zieht weiter.
+- Sie belegt die Stelle mit einem **Tabu**: Wer hingeht, dem geschieht dasselbe wie Girlin. Kein Zaun, keine Wache - die Angst genügt, und sie zieht weiter.
 - Damit ist sie unfreiwillig [Tibuns](../Tibun.md) eigentliche Gegenspielerin im Nordstrang: Sie liefert die Erklärung, die alle befriedigt, und macht seine Deutung zur Ketzerei. Sie handelt dabei nicht böswillig, sondern tut genau das, wofür man sie ruft.
 - Und sie schafft die Grundlage für Semunds Wiederheirat.
 

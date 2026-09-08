@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | **Rolle** | Jüngere Schwester von [Tibun](../Tibun.md) |
-| **Alter** | **9** (Auftakt und Girlins Verschwinden, Jahr 0) / 19 (Finale) — **7 Jahre jünger** als Tibun, siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md) |
+| **Alter** | **9** (Auftakt und Girlins Verschwinden, Jahr 0) / 19 (Finale) - **7 Jahre jünger** als Tibun, siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md) |
 | **Herkunft** | [Skirraa](../../../Orte/Skirraa.md) |
 
 **Familie**
@@ -38,9 +38,9 @@
 
 ## Vor Girlins Verschwinden
 
-Truda war **7 oder 8**, als das jüngste Geschwisterkind starb — alt genug, sich zu erinnern. Ein Jahr später verschwindet die Mutter.
+Truda war **7 oder 8**, als das jüngste Geschwisterkind starb - alt genug, sich zu erinnern. Ein Jahr später verschwindet die Mutter.
 
-Sie **erbt Girlins Kleingut** (Schmuck, Fibeln, Truhe), verwahrt bis zu ihrer Heirat, während [Millia](Millia.md) Webstuhl und Herd übernimmt. Der **Webkamm** fehlt darin — [Tibun](../Tibun.md) hat ihn sich genommen. Ob sie es weiß: **???**
+Sie **erbt Girlins Kleingut** (Schmuck, Fibeln, Truhe), verwahrt bis zu ihrer Heirat, während [Millia](Millia.md) Webstuhl und Herd übernimmt. Der **Webkamm** fehlt darin - [Tibun](../Tibun.md) hat ihn sich genommen. Ob sie es weiß: **???**
 
 ---
 

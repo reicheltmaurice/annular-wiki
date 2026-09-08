@@ -45,7 +45,7 @@ ZIEL = wiki.WURZEL / "Notizen" / "Schaubilder" / "Szenenliste.html"
 # Szenen.md, damit im Wiki keine Entscheidung behauptet wird, die der Autor
 # nicht getroffen hat. Bis 05.09.2026 war er im Auswahlfeld der Seite
 # verstellbar; das Feld ist auf Wunsch des Autors entfallen.
-ANFANG_ENDET_NACH = "Der Blitz — Tibun"
+ANFANG_ENDET_NACH = "Der Blitz - Tibun"
 
 # Branchenrichtwerte fuer die Groessenordnung, keine Festlegung.
 WOERTER_MIN, WOERTER_MAX = 1200, 2000
@@ -164,7 +164,7 @@ def main():
         if not t:
             fehler(
                 "in der Gliederungszeile %r von Szenen.md steht kein Szenentitel in Klammern. "
-                "Erwartet wird z. B. \"ab Szene 41 (Der Angriff — Zuendung 1)\"." % teil
+                "Erwartet wird z. B. \"ab Szene 41 (Der Angriff - Zuendung 1)\"." % teil
             )
     prolog_pos = position_von(szenen, prolog_titel, "Prolog")
     schluss_pos = position_von(szenen, schluss_titel, "Schluss")

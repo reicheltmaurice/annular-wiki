@@ -1,8 +1,8 @@
 # Gratsiedlung (Arbeitstitel)
 
-> **Status:** ??? — geparkte Brainstorm-Notiz, keine Story-Funktion. Name des Ortes: **???**
+> **Status:** ??? - geparkte Brainstorm-Notiz, keine Story-Funktion. Name des Ortes: **???**
 
-Bergdorf auf einem schmalen Grat zwischen zwei Steilwänden. Gedacht als Ort für die Phase, in der das [Ringsystem](../Technik/Portalringe.md) **ausfällt** (Zusammenbruch im [Kreislauf](../Welt/README.md)) — also nicht in [Tibuns Zeit](../Plots/Plot-1/Zeitleiste.md).
+Bergdorf auf einem schmalen Grat zwischen zwei Steilwänden. Gedacht als Ort für die Phase, in der das [Ringsystem](../Technik/Portalringe.md) **ausfällt** (Zusammenbruch im [Kreislauf](../Welt/README.md)) - also nicht in [Tibuns Zeit](../Plots/Plot-1/Zeitleiste.md).
 
 ---
 

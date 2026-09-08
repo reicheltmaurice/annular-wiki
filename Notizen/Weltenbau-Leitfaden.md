@@ -1,7 +1,7 @@
-# Weltenbau — Leitfaden und Prüfliste
+# Weltenbau - Leitfaden und Prüfliste
 
 > Angelegt 28.08.2026, am selben Tag nach Durchsicht des gesamten Wikis (ohne `Szenen/`) auf den
-> tatsächlichen Stand von Annular umgeschrieben. Zweck: sichtbar machen, was für die Welt noch fehlt —
+> tatsächlichen Stand von Annular umgeschrieben. Zweck: sichtbar machen, was für die Welt noch fehlt -
 > und was davon das **Schreiben blockiert** und was nicht.
 
 > Ich möchte aber noch einmal klar formulieren, was mein aktuelles Ziel ist, an dem ich hart arbeiten möchte.
@@ -20,7 +20,7 @@
 > 
 > Was sagst du dazu? Challenge mich und meine Ansichten ruhig. Ich habe noch nie ein Buch geschrieben oder veröffentlicht. Vielleicht ergeben meine Gedanken überhaupt keinen Sinn.
 
-**Frist: erste vollständige Szene nach dem Prolog bis Ende Februar 2027 — 1.200–1.800 Wörter.**
+**Frist: erste vollständige Szene nach dem Prolog bis Ende Februar 2027 - 1.200-1.800 Wörter.**
 **Weltenbau-Ende: 31. Oktober 2026.**
 Alles unten ist diesem Satz untergeordnet.
 
@@ -37,12 +37,12 @@ Annular ist an einer Stelle sehr tief und an einer anderen fast leer. Das ist di
 | Nordvolk: Verortung, Religion, Siedlungsstruktur | historisch verankert, belastbar |
 | Plot 1: Stränge, Zeitleiste, Altersgerüst | steht |
 | **Gesellschaft** (Recht, Wirtschaft, Überleben, Alltag) | **fehlt fast vollständig** |
-| **Kel Aman / Süden** | verortet (Fezzan/Garamanten), Namen und Bewaffnung entschieden — Kultur, Religion und Orte fehlen weiter |
+| **Kel Aman / Süden** | verortet (Fezzan/Garamanten), Namen und Bewaffnung entschieden - Kultur, Religion und Orte fehlen weiter |
 | **Namenssystem** | **kein System erkennbar** |
 | **Folgen des Rings für die Menschen vor Ort** | **nicht durchgespielt** |
 
 Du hast Objekte und Personen gebaut, aber noch keine **Gesellschaften**. Das ist der eigentliche
-Arbeitsvorrat — nicht weitere Ringdetails.
+Arbeitsvorrat - nicht weitere Ringdetails.
 
 ---
 
@@ -58,76 +58,76 @@ Gilt auch für Kulturen: Was darf ein Kel Aman **nicht** tun? Was kostet es eine
 
 ---
 
-## Die Schichten — mit Ist-Stand für Annular
+## Die Schichten - mit Ist-Stand für Annular
 
-### Schicht 0 — Der Kern
+### Schicht 0 - Der Kern
 - [x] Grundabweichung: die Portalringe. Sauber definiert und diszipliniert eingehalten.
 - [x] Folgekette: für die Ringe gezogen.
 - [x] Absage: keine Erbauer-Auflösung, keine Götternamen, keine Technik außerhalb der Epoche.
-- [x] **Ton in einem Satz** — entschieden 31.08.2026: *Zwei Menschen, getrennt durch ein Wunder, das niemand erklären kann — zehn Jahre Suche in einer harten Welt, hell im Ausgang.* Steht in [Plots/Plot-1/README.md](../Plots/Plot-1/README.md).
+- [x] **Ton in einem Satz** - entschieden 31.08.2026: *Zwei Menschen, getrennt durch ein Wunder, das niemand erklären kann - zehn Jahre Suche in einer harten Welt, hell im Ausgang.* Steht in [Plots/Plot-1/README.md](../Plots/Plot-1/README.md).
 
-### Schicht 1 — Der Rahmen
+### Schicht 1 - Der Rahmen
 - [x] Kosmologie, Zyklus, Wissensebenen.
 - [x] Nordgeografie mit realen Ankern und Tagesmärschen.
 - [x] **Wo liegt die Wüste?** Entschieden 31.08.2026: **Fezzan / Garamanten**. Damit ist die zweite Abweichung von der Realität beseitigt.
 - [~] **Zeitrechnung im Text.** Norden entschieden 31.08.2026: **gezählt wird in Wintern**. Offen bleiben Girlins Maß in der Wüste und die Zählmarke innerhalb des Jahres.
 - [ ] **Jahreszeiten als Taktgeber.** Im Norden bestimmt der Winter alles: Schafe, Vorräte, Reisen, Tod. Bisher spielt Wetter nur im Prolog eine Rolle.
 
-### Schicht 2 — Das Leben
-- [x] Nordvolk-Religion (Epitheta-Prinzip — die stärkste Einzelentscheidung im Wiki).
+### Schicht 2 - Das Leben
+- [x] Nordvolk-Religion (Epitheta-Prinzip - die stärkste Einzelentscheidung im Wiki).
 - [x] Skirraa: Höfe, Herde, Wolle, Unfreie.
-- [ ] **Namensmuster Nordvolk**. Tibun, Girlin, Truda, Semund, Millia, Hadurik, Frida, Herik, Lanke folgen keinem erkennbaren System. Germanische Namen der Epoche sind überwiegend zweigliedrig (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen. Entweder du legst ein Bildungsmuster fest, oder du erklärst die Namen ausdrücklich zur bewussten Ausnahme vom Authentizitätsprinzip. Beides ist vertretbar — nur unentschieden bleiben ist es nicht.
-- [x] **Kel-Aman-Namen:** entschieden 31.08.2026 — libysch-berberisches Muster, Volksname **Kel Aman**, alle Altnamen im Wiki umbenannt.
+- [ ] **Namensmuster Nordvolk**. Tibun, Girlin, Truda, Semund, Millia, Hadurik, Frida, Herik, Lanke folgen keinem erkennbaren System. Germanische Namen der Epoche sind überwiegend zweigliedrig (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen. Entweder du legst ein Bildungsmuster fest, oder du erklärst die Namen ausdrücklich zur bewussten Ausnahme vom Authentizitätsprinzip. Beides ist vertretbar - nur unentschieden bleiben ist es nicht.
+- [x] **Kel-Aman-Namen:** entschieden 31.08.2026 - libysch-berberisches Muster, Volksname **Kel Aman**, alle Altnamen im Wiki umbenannt.
 - [ ] **Alltag im Norden:** Was isst man im Februar? Wie wird geheizt? Wie oft isst man Fleisch?
-- [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet: Girlin und Semund haben **drei Kinder verloren**, das letzte kurz vor ihrem Verschwinden — Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. **Offen:** wer bei der Geburt des Wüstenkindes hilft (Jahr +4), und was bei einer Wunde geschieht.
+- [~] **Krankheit, Geburt, Tod.** Ein Stück weit beantwortet: Girlin und Semund haben **drei Kinder verloren**, das letzte kurz vor ihrem Verschwinden - Kindersterblichkeit ist damit im Wiki verankert statt weggelassen. **Offen:** wer bei der Geburt des Wüstenkindes hilft (Jahr +4), und was bei einer Wunde geschieht.
 
-### Schicht 3 — Die Ordnung ← **größte Lücke**
-- [~] **Recht.** Der Erbfall Girlin ist vollständig geklärt: Die **Wala** erklärt sie für tot, Semund darf nach **einem Winter** neu binden, **Truda** erbt das Kleingut, **Millia** übernimmt Webstuhl und Herd, **Tibun** nimmt sich den Webkamm. Offen bleibt nur, was gilt, wenn eine für tot Erklärte **zurückkommt** — gehört ans Finale. Das Thing als **Verfahren** fehlt weiter.
+### Schicht 3 - Die Ordnung ← **größte Lücke**
+- [~] **Recht.** Der Erbfall Girlin ist vollständig geklärt: Die **Wala** erklärt sie für tot, Semund darf nach **einem Winter** neu binden, **Truda** erbt das Kleingut, **Millia** übernimmt Webstuhl und Herd, **Tibun** nimmt sich den Webkamm. Offen bleibt nur, was gilt, wenn eine für tot Erklärte **zurückkommt** - gehört ans Finale. Das Thing als **Verfahren** fehlt weiter.
 - [ ] **Wirtschaft und Preise.** Was ist ein Ballen Wolle wert? Wovon lebt Tibun acht Jahre unterwegs?
 - [ ] **Wie überlebt ein 17-Jähriger allein auf dem Ochsenweg?** Ohne Sippe ist er in dieser Epoche weitgehend schutzlos. Er braucht einen sozialen Mechanismus: Gastrecht, Anschluss an einen Händlerzug, Dienstverhältnis, Gefolgschaft. Ohne den bricht die Wanderschaft die Authentizitätsregel härter als jeder falsche Gegenstand.
 - [ ] **Gewalt.** Wer trägt Waffen, wer darf töten, was kostet ein Totschlag?
 - [ ] **Unfreiheit.** Sklaverei ist gesetzt und im Süden Handlungstreiber (Azzim). Wie funktioniert sie konkret auf beiden Seiten?
-- [ ] **Wissen und Nachricht.** Wie schnell reist eine Nachricht von Kaupvik nach Skirraa? Warum hat in Kaupvik niemand von Skirraa gehört — und was heißt das für Tibuns Suche?
+- [ ] **Wissen und Nachricht.** Wie schnell reist eine Nachricht von Kaupvik nach Skirraa? Warum hat in Kaupvik niemand von Skirraa gehört - und was heißt das für Tibuns Suche?
 
-### Schicht 4 — Die Zeit
+### Schicht 4 - Die Zeit
 - [x] Plot-Zeitleiste, Altersgerüst.
 - [ ] **Universums-Zeitleiste** (in `Plots/README.md` bereits als ??? vermerkt).
 - [ ] **Der jüngste Bruch vor Jahr 0.** Was hat sich in Skirraa in der Generation vor der Geschichte verändert? Eine Welt ohne jüngere Vergangenheit wirkt wie eine Bühne.
 
-### Schicht 5 — Die Blickpunkte
+### Schicht 5 - Die Blickpunkte
 - [x] Vier ausgearbeitete Orte plus Bildmaterial.
-- [ ] **Die Wüstenseite hat keinen einzigen konkreten Ort.** Basar, Stadt, Schlucht, Bellbrims Werkstatt existieren als Wörter. Girlin verbringt dort zehn Jahre — die Hälfte des Buches spielt an Orten, die es noch nicht gibt.
-- [ ] **Sprichwörter, Aberglauben, Redensarten** — in `Kulturen/Nordvolk` ausdrücklich als "noch nicht ausgearbeitet" markiert. Genau das trägt später jeden Dialog.
+- [ ] **Die Wüstenseite hat keinen einzigen konkreten Ort.** Basar, Stadt, Schlucht, Bellbrims Werkstatt existieren als Wörter. Girlin verbringt dort zehn Jahre - die Hälfte des Buches spielt an Orten, die es noch nicht gibt.
+- [ ] **Sprichwörter, Aberglauben, Redensarten** - in `Kulturen/Nordvolk` ausdrücklich als "noch nicht ausgearbeitet" markiert. Genau das trägt später jeden Dialog.
 
-### Schicht 6 — Die Folgen des Wunders *(im ursprünglichen Leitfaden nicht enthalten)*
+### Schicht 6 - Die Folgen des Wunders *(im ursprünglichen Leitfaden nicht enthalten)*
 
 Diese Schicht ist neu und für Annular die wichtigste. Der Ring ist bislang als **Gerät** durchdacht,
 noch nicht als **Ereignis in einer Gesellschaft**.
 
-- [x] **Der Ring frisst eine Frau vor Zeugen. Was tut das Dorf?** Entschieden 31.08.2026: Die wandernde Wala erklärt den Sand zum Zeichen der Götter, Girlin für tot und die Stelle zum Tabu — **gemieden aus Todesangst, nicht bewacht**. Genau deshalb kann Tibun dort zehn Winter arbeiten, und jeder Gang dorthin ist ein Tabubruch.
-- [ ] **Wer will den Ring außer Tibun?** Der Häuptling in Tingsal? Die Wala? Ein Nachbarweiler? Ein Ding, das Menschen verschwinden lässt, ist der wichtigste Gegenstand der Region. Der Kampf darum fehlt — und er wäre besseres Material als der Antagonist, den du hast.
-- [x] **Die Sandmulde ist ein sichtbares Wunder.** Widerspruch aufgelöst 31.08.2026: Das Dorf glaubt das **Ereignis** — nur nicht Tibuns **Deutung**. Der Sand beweist ein Wunder, nicht dass Girlin lebt.
-- [ ] **Und umgekehrt:** In der Wüste erscheint gleichzeitig eine Halbkugel jütisches Erdreich — Torf, Heidekraut, kaltes Wasser. Vermutlich der eigentliche Grund, warum die Kel Aman überhaupt zur Fundstelle kommen und Girlin finden.
-- [ ] **Der Ring liegt an einem Bach.** Damit wird bei jeder Zündung Wasser mitgetauscht — die Tauschkugel fasst gefüllt rund 14 Kubikmeter. In einer Wüste ist ein wiederholbarer Übergang, der Wasser liefert, das Wertvollste, was überhaupt denkbar ist. Sobald Tibun am Ende zuverlässig zünden kann, existiert eine Wasserbrücke nach Süden. Das ist die größte ungenutzte Konsequenz deiner eigenen Mechanik — und ein deutlich größeres Motiv für einen Antagonisten als Sklavenhandel.
+- [x] **Der Ring frisst eine Frau vor Zeugen. Was tut das Dorf?** Entschieden 31.08.2026: Die wandernde Wala erklärt den Sand zum Zeichen der Götter, Girlin für tot und die Stelle zum Tabu - **gemieden aus Todesangst, nicht bewacht**. Genau deshalb kann Tibun dort zehn Winter arbeiten, und jeder Gang dorthin ist ein Tabubruch.
+- [ ] **Wer will den Ring außer Tibun?** Der Häuptling in Tingsal? Die Wala? Ein Nachbarweiler? Ein Ding, das Menschen verschwinden lässt, ist der wichtigste Gegenstand der Region. Der Kampf darum fehlt - und er wäre besseres Material als der Antagonist, den du hast.
+- [x] **Die Sandmulde ist ein sichtbares Wunder.** Widerspruch aufgelöst 31.08.2026: Das Dorf glaubt das **Ereignis** - nur nicht Tibuns **Deutung**. Der Sand beweist ein Wunder, nicht dass Girlin lebt.
+- [ ] **Und umgekehrt:** In der Wüste erscheint gleichzeitig eine Halbkugel jütisches Erdreich - Torf, Heidekraut, kaltes Wasser. Vermutlich der eigentliche Grund, warum die Kel Aman überhaupt zur Fundstelle kommen und Girlin finden.
+- [ ] **Der Ring liegt an einem Bach.** Damit wird bei jeder Zündung Wasser mitgetauscht - die Tauschkugel fasst gefüllt rund 14 Kubikmeter. In einer Wüste ist ein wiederholbarer Übergang, der Wasser liefert, das Wertvollste, was überhaupt denkbar ist. Sobald Tibun am Ende zuverlässig zünden kann, existiert eine Wasserbrücke nach Süden. Das ist die größte ungenutzte Konsequenz deiner eigenen Mechanik - und ein deutlich größeres Motiv für einen Antagonisten als Sklavenhandel.
 
 ---
 
-## Die Südhälfte — der ernsteste Punkt
+## Die Südhälfte - der ernsteste Punkt
 
 Dein Authentizitätsprinzip lautet: *einzige Abweichung sind die Portalringe, alles andere folgt dem
 historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält es **nicht** ein.
 
-**Stand 31.08.2026: Der Kernvorwurf ist erledigt.** Ort, Sprachfamilie und Namen und Bewaffnung sind entschieden. Offen bleiben Religion, Bräuche und Orte — die Punkte unten gelten weiter.
+**Stand 31.08.2026: Der Kernvorwurf ist erledigt.** Ort, Sprachfamilie und Namen und Bewaffnung sind entschieden. Offen bleiben Religion, Bräuche und Orte - die Punkte unten gelten weiter.
 
 - [ ] **Wo liegt die Wüste? ???** Ohne diese Entscheidung ist keine Kulturarbeit im Süden möglich. Ernsthafte Kandidaten für 550 n.Chr.:
-  - **Sahara / Fezzan** — die Garamanten: reale Wüstenkultur mit Fernhandel und Bewässerungstunneln, in dieser Zeit im Niedergang. Passt zur "vergessenen Hochkultur"-Stimmung.
-  - **Arabische Halbinsel** — dicht belegt, Kamelnomaden, Karawanenhandel, eine Generation vor dem Islam.
-  - **Syrische Wüste** — Randzone von Byzanz. Vorteil: Es gibt dort Menschen, die Griechisch oder Latein können, also einen **historisch plausiblen Sprachweg** zu einer Germanin.
-  - **Zentralasien / Sogdien** — die Vermittlerkultur schlechthin, mehrsprachige Fernhändler. Löst Bellbrim fast von selbst.
-- [x] **Krummsäbel gestrichen** (31.08.2026): gerade Klingen, Speere, Bogen. (Kamele in der Sahara sind unproblematisch — zu dieser Zeit längst etabliert.)
-- [~] **Sprache.** Grundhaltung entschieden: **Girlin lernt aktiv** — keine Verweigerung, sie arbeitet an ihrer Lage. Bellbrims Vandalisch ist mit ihrer Sprache verwandt, aber nicht gleich, die Barriere bleibt also erhalten. **Offen:** wie lange sie sprachlos bleibt und was das mit ihr macht — vom Autor vertagt, bis der Plot steht.
-- [x] **Girlin.** Steht seit 31.08.2026: zugezogen aus einem Nachbarweiler, Wolle und Weben, 34 beim Verschwinden. **Ihr Wille gilt ihren Kindern, nicht einem Ort** — sie will nicht heim, sie will sie erreichen und dann in der Wüste bleiben. Daraus fällt der Kernkonflikt des Finales von selbst.
-- [ ] **Azzim u-Tawan.** Rein einseitiger Gegenspieler. Deine eigene Regel verlangt Konflikte, bei denen man beide Seiten versteht. Gib ihm ein Motiv, das man nachvollziehen kann — Wasser, Schutz seiner Leute, Angst vor dem Ring.
+  - **Sahara / Fezzan** - die Garamanten: reale Wüstenkultur mit Fernhandel und Bewässerungstunneln, in dieser Zeit im Niedergang. Passt zur "vergessenen Hochkultur"-Stimmung.
+  - **Arabische Halbinsel** - dicht belegt, Kamelnomaden, Karawanenhandel, eine Generation vor dem Islam.
+  - **Syrische Wüste** - Randzone von Byzanz. Vorteil: Es gibt dort Menschen, die Griechisch oder Latein können, also einen **historisch plausiblen Sprachweg** zu einer Germanin.
+  - **Zentralasien / Sogdien** - die Vermittlerkultur schlechthin, mehrsprachige Fernhändler. Löst Bellbrim fast von selbst.
+- [x] **Krummsäbel gestrichen** (31.08.2026): gerade Klingen, Speere, Bogen. (Kamele in der Sahara sind unproblematisch - zu dieser Zeit längst etabliert.)
+- [~] **Sprache.** Grundhaltung entschieden: **Girlin lernt aktiv** - keine Verweigerung, sie arbeitet an ihrer Lage. Bellbrims Vandalisch ist mit ihrer Sprache verwandt, aber nicht gleich, die Barriere bleibt also erhalten. **Offen:** wie lange sie sprachlos bleibt und was das mit ihr macht - vom Autor vertagt, bis der Plot steht.
+- [x] **Girlin.** Steht seit 31.08.2026: zugezogen aus einem Nachbarweiler, Wolle und Weben, 34 beim Verschwinden. **Ihr Wille gilt ihren Kindern, nicht einem Ort** - sie will nicht heim, sie will sie erreichen und dann in der Wüste bleiben. Daraus fällt der Kernkonflikt des Finales von selbst.
+- [ ] **Azzim u-Tawan.** Rein einseitiger Gegenspieler. Deine eigene Regel verlangt Konflikte, bei denen man beide Seiten versteht. Gib ihm ein Motiv, das man nachvollziehen kann - Wasser, Schutz seiner Leute, Angst vor dem Ring.
 - [x] **Ablage** (05.09.2026): Die Dublette ist aufgelöst. Das damalige `Menschen/Wuestenvolk/Kel-Aman.md` ist in [Kulturen/Kel Aman](../Kulturen/Kel-Aman/README.md) aufgegangen, `allgemein.md` und `Karawanen.md` sind als [Erscheinung](../Kulturen/Kel-Aman/Erscheinung.md) und [Karawanen](../Kulturen/Kel-Aman/Karawanen.md) dorthin verschoben. Der Figurenordner (seit dem 05.09.2026 `Menschen/Kel-Aman/`, vorher `Menschen/Wuestenvolk/`) trägt nur noch Figuren. Was aus der Zeit vor der Verortung stammt, ist dort jetzt als Altmaterial ausgewiesen statt als Bestand.
 
 ---
@@ -136,29 +136,29 @@ historisch Möglichen.* Der Norden hält das mustergültig ein. Der Süden hält
 
 Nicht "sind alle Felder gefüllt", sondern: **beantwortet die Welt Fragen, die ich ihr nicht gestellt habe?**
 
-- [ ] **1 · Alltagstest.** Ein gewöhnlicher Tag eines gewöhnlichen Menschen in Skirraa, von morgens bis abends. Nicht Tibun — ein Knecht.
+- [ ] **1 · Alltagstest.** Ein gewöhnlicher Tag eines gewöhnlichen Menschen in Skirraa, von morgens bis abends. Nicht Tibun - ein Knecht.
 - [ ] **2 · Die drei unbequemen Fragen.** Was passiert mit den Toten? Wovon lebt man im Winter? Was kostet ein Ballen Wolle?
 - [ ] **3 · Bruchtest.** Bereits bestanden: Die Ringmechanik erzeugt Folgen, die du nicht geplant hattest (wandernde Mulde, Kopffreiheit).
-- [ ] **4 · Ortstest.** Für die Nordorte bestanden. Für die Wüste noch nicht — dort gibt es keine Orte.
+- [ ] **4 · Ortstest.** Für die Nordorte bestanden. Für die Wüste noch nicht - dort gibt es keine Orte.
 - [ ] **5 · Konflikttest.** Drei Konflikte, bei denen beide Seiten verständlich sind. Semund gegen Tibun trägt bereits. Azzim noch nicht. Ein dritter fehlt.
 - [~] **6 · Namenstest.** Für den Süden **bestanden**. Für den Norden liegt das Muster als Vorschlag vor und wartet auf Bestätigung.
 - [ ] **7 · Überraschungstest.** Bestanden, für die Technik. Für die Gesellschaften noch offen.
 
 ---
 
-## Priorisierung — was das Schreiben blockiert
+## Priorisierung - was das Schreiben blockiert
 
 Es stehen über achtzig Challenges offen, und die Liste wächst schneller, als sie schrumpft.
 Sie ist ein gutes Werkzeug und gleichzeitig ein Schuldenberg. Sortiere sie in drei Töpfe:
 
-**A — blockiert die nächste Szene.** Zuerst und ausschließlich.
+**A - blockiert die nächste Szene.** Zuerst und ausschließlich.
 Beispiele: Girlins Charakter, Wo liegt die Wüste, Semunds Wiederheirat nach welcher Regel,
 was die Dorfbewohner nach dem Verschwinden tatsächlich sehen.
 
-**B — blockiert das Buch, nicht die Szene.** Kann warten, bis die Szene steht.
+**B - blockiert das Buch, nicht die Szene.** Kann warten, bis die Szene steht.
 Beispiele: Titel, Universums-Zeitleiste, weitere Ringgrößen.
 
-**C — Politur.** Wird beim Schreiben von selbst entschieden oder nie gebraucht.
+**C - Politur.** Wird beim Schreiben von selbst entschieden oder nie gebraucht.
 Beispiele: Kantenquerschnitt, Haptik der Oberfläche, Abklingdauer des Leuchtens.
 
 > **Faustregel:** Wenn du eine Frage beantwortest, ohne dass eine konkrete Szene sie stellt,
@@ -166,17 +166,17 @@ Beispiele: Kantenquerschnitt, Haptik der Oberfläche, Abklingdauer des Leuchtens
 
 ### Vorschläge für neue Challenges
 
-Nicht eingetragen — Nummernvergabe liegt beim Autor. Folgende Punkte haben in `Challenges.md`
+Nicht eingetragen - Nummernvergabe liegt beim Autor. Folgende Punkte haben in `Challenges.md`
 noch keine Entsprechung gefunden:
 
 - Wo liegt die Wüste? (historischer Anker für die Kel Aman)
-- Namensbildung Nordvolk und Kel Aman — System oder bewusste Ausnahme?
+- Namensbildung Nordvolk und Kel Aman - System oder bewusste Ausnahme?
 - Rechtsfrage: Wann gilt eine Verschwundene als tot, wann darf Semund neu heiraten?
 - Wie überlebt Tibun acht Jahre allein auf der Wanderschaft?
 - Zeitmessung im Erzähltext über zehn Jahre hinweg
-- Der sichtbare Wüstensand an der Skir — widerlegt er Tibuns Unglaubwürdigkeit?
+- Der sichtbare Wüstensand an der Skir - widerlegt er Tibuns Unglaubwürdigkeit?
 - Das jütische Erdreich in der Wüste als Fundhinweis für die Kel Aman
-- Wassertausch durch den Bachring — Folgen für den Süden und für die Motivation des Antagonisten
+- Wassertausch durch den Bachring - Folgen für den Süden und für die Motivation des Antagonisten
 - Wer außer Tibun beansprucht den Ring? (Häuptling, Wala, Nachbarweiler)
 
 ---
@@ -185,7 +185,7 @@ noch keine Entsprechung gefunden:
 
 Weltenbau ist die eleganteste Form der Vermeidung, die es gibt: Er fühlt sich nach Arbeit an,
 hat kein Scheitern, kein Publikum und kein Ende. Dieses Wiki ist bereits gut genug, um ein Buch zu tragen.
-Es hat 62 Commits, über achtzig Challenges — und eine geschriebene Szene.
+Es hat 62 Commits, über achtzig Challenges - und eine geschriebene Szene.
 
 Das Verhältnis darf sich ab jetzt nur noch in eine Richtung verschieben.
 
@@ -199,36 +199,36 @@ Von Ende August 2026 bis Ende Februar 2027 sind es **26 Wochen**, also rund **65
 
 | Zeitraum | Wochen | Was |
 |---|---|---|
-| **bis 31.10.2026** | 9 | die vier Entscheidungen unten — **harte Grenze für den Weltenbau** |
-| 01.11.–15.12.2026 | 6 | Rohfassung Szene 1 |
-| 16.12.2026–31.01.2027 | 6 | zwei Überarbeitungen, dazwischen mindestens zwei Wochen liegen lassen |
-| Februar 2027 | 4 | Puffer — oder die Szene einem fremden Menschen zeigen |
+| **bis 31.10.2026** | 9 | die vier Entscheidungen unten - **harte Grenze für den Weltenbau** |
+| 01.11.-15.12.2026 | 6 | Rohfassung Szene 1 |
+| 16.12.2026-31.01.2027 | 6 | zwei Überarbeitungen, dazwischen mindestens zwei Wochen liegen lassen |
+| Februar 2027 | 4 | Puffer - oder die Szene einem fremden Menschen zeigen |
 
 **Ab dem 1. November wird am Wiki nur noch bearbeitet, was die Szene erzwingt.** Nichts anderes.
 
-#### Bis 31.10. — die vier Entscheidungen (~23 Stunden)
+#### Bis 31.10. - die vier Entscheidungen (~23 Stunden)
 
 Es sind Entscheidungen, keine Recherchen. Neun Sitzungen genügen:
 
 | Sitzungen | Aufgabe |
 |---|---|
-| 1 | Challenges nur nach A/B/C sortieren — nicht beantworten |
-| 3–4 | **Wo liegt die Wüste?** Der einzige Punkt, der wirklich Lesen erfordert |
-| ~~1~~ | ~~Der Sand an der Skir~~ — erledigt 31.08.2026 |
-| ~~1~~ | ~~Semunds Wiederheirat~~ — Grundlage steht, nur noch Frist und Beurkundung offen |
-| ~~2~~ | ~~Girlin: Herkunft und Charakter~~ — erledigt 31.08.2026 |
+| 1 | Challenges nur nach A/B/C sortieren - nicht beantworten |
+| 3-4 | **Wo liegt die Wüste?** Der einzige Punkt, der wirklich Lesen erfordert |
+| ~~1~~ | ~~Der Sand an der Skir~~ - erledigt 31.08.2026 |
+| ~~1~~ | ~~Semunds Wiederheirat~~ - Grundlage steht, nur noch Frist und Beurkundung offen |
+| ~~2~~ | ~~Girlin: Herkunft und Charakter~~ - erledigt 31.08.2026 |
 
 Dazu ab sofort ein **fester Termin, wöchentlich, gleicher Tag, gleiche Uhrzeit.**
 
 > **Notausgang:** Steht am 31.10. eine der vier Entscheidungen nicht, wird die Szene trotzdem
-> geschrieben — mit `???` an der offenen Stelle, wie überall sonst im Wiki. Der Kalender ist die
+> geschrieben - mit `???` an der offenen Stelle, wie überall sonst im Wiki. Der Kalender ist die
 > härtere Instanz als die Vollständigkeit.
 
-#### Ab 01.11. — Szene 1: 1.200–1.800 Wörter, Ziel 1.500
+#### Ab 01.11. - Szene 1: 1.200-1.800 Wörter, Ziel 1.500
 
 Etwa vier bis sechs Buchseiten. Begründung der Größe:
 
-- **unter 1.000 Wörtern** ist es eine Übung, keine Szene — zu kurz, um Aufbau zu verlangen
+- **unter 1.000 Wörtern** ist es eine Übung, keine Szene - zu kurz, um Aufbau zu verlangen
 - **über 3.000** verliert man als Ungeübter die Kontrolle und kann nicht oft genug überarbeiten
 - **1.500** erzwingt eine Form: Eintritt, Wendung, Ausgang
 
@@ -238,11 +238,11 @@ Zwei Regeln dazu:
 2. **In der Szene ändert sich eine Sache.** Ist am Ende alles wie am Anfang, ist es eine Beschreibung.
 
 Vorschlag für den Stoff: **der Morgen nach Girlins Verschwinden, aus Tibuns Sicht.** Diese Szene
-stellt genau die vier Fragen von oben — die Geschichte arbeitet dann für dich, statt umgekehrt.
+stellt genau die vier Fragen von oben - die Geschichte arbeitet dann für dich, statt umgekehrt.
 
 Bei 500 Wörtern pro Woche sind 1.500 Wörter drei Wochen reines Schreiben. Die sechs Wochen im
 Plan sind Absicht: Du wirst mindestens einmal neu anfangen, und das ist normal. Das Liegenlassen
-zwischen den Überarbeitungen ist ebenfalls kein Luxus, sondern Handwerk — die eigenen Sätze sieht
+zwischen den Überarbeitungen ist ebenfalls kein Luxus, sondern Handwerk - die eigenen Sätze sieht
 man erst wieder, wenn man sie ein paar Wochen nicht gelesen hat.
 
 ### Der Weg zum Buch
@@ -254,11 +254,11 @@ Die nüchterne Rechnung: 2,5 Stunden pro Woche sind als Ungeübter etwa 500 Wör
 > **Das erste Buch sollte nicht der Roman sein.**
 
 Deine eigene `CLAUDE.md` lässt es ausdrücklich zu: *"Jede einzelne Geschichte soll als Buch oder
-Szenensammlung enden."* Nimm die Sammlung. 30.000–40.000 Wörter, acht bis zwölf Szenen aus dem
+Szenensammlung enden."* Nimm die Sammlung. 30.000-40.000 Wörter, acht bis zwölf Szenen aus dem
 Annular-Universum. Das ergibt drei Dinge auf einmal:
 
 - ein **fertiges Werk** statt eines ewigen Entwurfs
-- eine **ISBN und damit den Eintrag in der Deutschen Nationalbibliografie** — das eigentliche Ziel, erreicht um 2029 statt um 2035
+- eine **ISBN und damit den Eintrag in der Deutschen Nationalbibliografie** - das eigentliche Ziel, erreicht um 2029 statt um 2035
 - **geübte Prosa**, bevor du 100.000 Wörter riskierst
 
 | bis | Meilenstein |
@@ -266,13 +266,13 @@ Annular-Universum. Das ergibt drei Dinge auf einmal:
 | Feb 2027 | vier A-Entscheidungen getroffen, erste Szene geschrieben |
 | Ende 2027 | sechs bis acht Szenen, erste Rückmeldung von außen |
 | 2029 | Szenensammlung fertig, ISBN, Pflichtexemplar → dauerhaft im DNB-Katalog |
-| 2030–2035 | Plot 1 als Roman |
+| 2030-2035 | Plot 1 als Roman |
 | danach | weitere Geschichten im Universum |
 
 ### Der Punkt, an dem "lieber still" dich etwas kostet
 
 Irgendwann muss ein fremder Mensch den Text lesen und ehrlich sein. Ohne Rückmeldung von außen
-lernt man Prosa nicht — egal, wie viele Jahre man schreibt. Eine Schreibwerkstatt oder eine kleine
+lernt man Prosa nicht - egal, wie viele Jahre man schreibt. Eine Schreibwerkstatt oder eine kleine
 Gruppe genügt; stipendierte Plätze gibt es, Geld braucht es dafür nicht. Das ist die einzige Stelle
 in diesem Plan, an der Zurückgezogenheit echten Fortschritt kostet.
 
@@ -281,13 +281,13 @@ in diesem Plan, an der Zurückgezogenheit echten Fortschritt kostet.
 - **Nie für eine Veröffentlichung bezahlen.** Selfpublishing mit offenen Karten ist für eine Szenensammlung völlig in Ordnung. Ein "Verlag", der dein Manuskript lobt und dann Geld will, ist keiner.
 - **Regelmäßigkeit schlägt Menge.** Drei Stunden pro Woche über zehn Jahre schlagen zwanzig Stunden pro Woche über ein Jahr, und zwar nicht knapp.
 - **Die ISBN ist Verwaltung, kein Ziel.** Ein Nachmittag Papierkram. Das Werk ist das Ziel.
-- **Nicht nach Wikipedia schielen.** Ein Artikel ist eine Folge, nie ein Plan. Der Katalogeintrag ist das, was sicher erreichbar ist — und das haltbarere von beidem.
+- **Nicht nach Wikipedia schielen.** Ein Artikel ist eine Folge, nie ein Plan. Der Katalogeintrag ist das, was sicher erreichbar ist - und das haltbarere von beidem.
 
 ### Was du nicht tun solltest
 
 - Keine weitere Ringdetailfrage beantworten, bevor eine Szene sie stellt.
 - Den Süden nicht ausbauen, bevor entschieden ist, wo die Wüste liegt.
-- Nicht warten, bis die Welt fertig ist. Sie wird es nie — das ist keine Eigenschaft dieses Projekts, sondern von Weltenbau überhaupt.
+- Nicht warten, bis die Welt fertig ist. Sie wird es nie - das ist keine Eigenschaft dieses Projekts, sondern von Weltenbau überhaupt.
 
 ---
 

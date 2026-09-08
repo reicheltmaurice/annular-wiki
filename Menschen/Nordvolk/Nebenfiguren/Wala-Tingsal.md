@@ -40,7 +40,11 @@ Sitzt im regionalen Zentrum [Tingsal](../../../Orte/Tingsal.md) (Häuptlingssitz
 
 Weiß **nichts** vom vergrabenen Ring am Bach.
 
-**Rolle: ???** — bisher Möglichkeit, keine Szene.
+**Sie ist die erreichbare Wala** (Autor, 07.09.2026). Wo ihre wandernde Zwillingsschwester sich aufhält, weiß **nur sie** - für alle anderen ist Tingsal die einzige Adresse, an der eine Wala sicher anzutreffen ist.
+
+**Die beiden Walas sprechen als eine Stimme** - als die Stimme der Götter (Autor, 07.09.2026). Die eine hält sich an das Wort der anderen; ein Spruch der einen wird von der anderen nicht neu geprüft. Für die Menschen gibt es damit **keine zweite Instanz**: Wer eine Wala fragt, hat sie alle gefragt.
+
+**Feste Rolle - sie erlaubt Semunds Neubindung:** [Semund](Semund.md) und [Millia](Millia.md) reisen im Jahr 0 nach Tingsal und holen die **Erlaubnis zur Verlobung** bei ihr. Sie prüft die Toterklärung [Girlins](../Girlin.md) nicht neu - ihre Schwester hat gesprochen, und das genügt.
 
 ---
 

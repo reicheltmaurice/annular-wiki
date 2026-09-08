@@ -1,12 +1,12 @@
-# Nordvolk — Kultur
+# Nordvolk - Kultur
 
-**Epoche: 550 n.Chr. (Vendelzeit)** — entschieden. Proto-skandinavische Germanen. Fiktive Siedlung in Nordjütland/Vendsyssel ([Skirraa](../../Orte/Skirraa.md), [Tingsal](../../Orte/Tingsal.md)); Handelshafen [Kaupvik](../../Orte/Kaupvik.md) an der Schlei (Vorbild: Haithabu bzw. Gudme/Lundeborg).
+**Epoche: 550 n.Chr. (Vendelzeit)** - entschieden. Proto-skandinavische Germanen. Fiktive Siedlung in Nordjütland/Vendsyssel ([Skirraa](../../Orte/Skirraa.md), [Tingsal](../../Orte/Tingsal.md)); Handelshafen [Kaupvik](../../Orte/Kaupvik.md) an der Schlei (Vorbild: Haithabu bzw. Gudme/Lundeborg).
 
 ---
 
-## Religion — Epitheta-Prinzip
+## Religion - Epitheta-Prinzip
 
-Götter werden nicht beim Eigennamen genannt. "Odin" und "Thor" sind altnordische Namen aus isländischen Quellen des 13. Jahrhunderts — anachronistisch für 550 n.Chr. und klischeebelastet. Die zugrundeliegende Religion existierte, aber ihre spezifische Kodifizierung noch nicht.
+Götter werden nicht beim Eigennamen genannt. "Odin" und "Thor" sind altnordische Namen aus isländischen Quellen des 13. Jahrhunderts - anachronistisch für 550 n.Chr. und klischeebelastet. Die zugrundeliegende Religion existierte, aber ihre spezifische Kodifizierung noch nicht.
 
 **Regel:** Götter erscheinen ausschließlich über Beinamen, die ihre Eigenschaft beschreiben.
 
@@ -20,8 +20,9 @@ Weitere Epitheta können frei erfunden werden, solange sie zur Eigenschaft des G
 
 **Was existiert bei 550 n.Chr. in dieser Region:**
 - Heilige Haine als Kultstätten (keine Tempel)
-- Mooropfer — Gegenstände, Tiere, Menschen
+- Mooropfer - Gegenstände, Tiere, Menschen
 - Seherin (*Wala/Völva*) mit politischem Einfluss
+  - **Zwei Walas, eine Stimme** (Autor, 07.09.2026): Die [sesshafte Wala von Tingsal](../../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md) und ihre [wandernde Zwillingsschwester](../../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) sprechen als **die Stimme der Götter**. Die eine hält sich an das Wort der anderen - es gibt keine zweite Instanz und keinen Widerspruch zwischen ihnen. Wo die Wandernde gerade ist, weiß nur ihre Schwester
 - Runen als Ritual- und Schriftsystem (Elder Futhark ab ~200 n.Chr.)
 - Weltbaum und Schicksalsvorstellung als Grundkosmologie
 

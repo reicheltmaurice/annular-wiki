@@ -1,13 +1,13 @@
-# Nebenfiguren – Nordvolk
+# Nebenfiguren - Nordvolk
 
 Figuren mit Nebenrolle. Jede hat eine **eigene Datei** (nach [Charakter-Template](../../Charakter-Template.md)); wird eine Figur wichtiger, genügt das **Verschieben** eine Ebene höher zu den Hauptfiguren.
 
-- [Truda](Truda.md) — jüngere Schwester von [Tibun](../Tibun.md)
-- [Semund](Semund.md) — Vater von Tibun, Ehemann der verschwundenen [Girlin](../Girlin.md)
-- [Millia](Millia.md) — neue Partnerin Semunds, einst Girlins Freundin
-- [Hadurik](Hadurik.md) — Häuptling von [Tingsal](../../../Orte/Tingsal.md)
-- [Wala von Tingsal](Wala-Tingsal.md) — sesshafte Seherin
-- [Wandernde Wala](Wala-Wandernd.md) — wandernde Seherin, ihre Zwillingsschwester
-- [Frida](Frida.md) — Tibuns Jugendliebe aus [Skirraa](../../../Orte/Skirraa.md), verlobt mit Herik
-- [Herik](Herik.md) — Hofsohn von auswärts, Fridas Verlobter
-- [Lanke](Lanke.md) — Heriks Vater, arrangiert die Verlobung
+- [Truda](Truda.md) - jüngere Schwester von [Tibun](../Tibun.md)
+- [Semund](Semund.md) - Vater von Tibun, Ehemann der verschwundenen [Girlin](../Girlin.md)
+- [Millia](Millia.md) - neue Partnerin Semunds, einst Girlins Freundin
+- [Hadurik](Hadurik.md) - Häuptling von [Tingsal](../../../Orte/Tingsal.md)
+- [Wala von Tingsal](Wala-Tingsal.md) - sesshafte Seherin
+- [Wandernde Wala](Wala-Wandernd.md) - wandernde Seherin, ihre Zwillingsschwester
+- [Frida](Frida.md) - Tibuns Jugendliebe aus [Skirraa](../../../Orte/Skirraa.md), verlobt mit Herik
+- [Herik](Herik.md) - Hofsohn von auswärts, Fridas Verlobter
+- [Lanke](Lanke.md) - Heriks Vater, arrangiert die Verlobung

@@ -1,6 +1,6 @@
 # Trailer Loop (alte Notiz)
 
-> **Status:** ??? — reine Quellsicherung. Visionsskizze des Autors für einen **Trailer**, falls der Stoff je verfilmt wird. **Wortlaut unverändert.** Keine Kanonarbeit, keine Challenges — Autorenebene, ferne Zukunft.
+> **Status:** ??? - reine Quellsicherung. Visionsskizze des Autors für einen **Trailer**, falls der Stoff je verfilmt wird. **Wortlaut unverändert.** Keine Kanonarbeit, keine Challenges - Autorenebene, ferne Zukunft.
 
 ---
 

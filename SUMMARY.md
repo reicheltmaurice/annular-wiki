@@ -5,7 +5,7 @@
 ## Plots
 
 * [Übersicht](Plots/README.md)
-* Plot 1 — Tibun & Girlin (Titel ???)
+* Plot 1 - Tibun & Girlin (Titel ???)
   * [Übersicht](Plots/Plot-1/README.md)
   * [Kapitelstruktur](Plots/Plot-1/Kapitelstruktur.md)
   * [Zeitleiste](Plots/Plot-1/Zeitleiste.md)

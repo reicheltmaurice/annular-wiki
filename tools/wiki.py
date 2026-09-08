@@ -56,10 +56,10 @@ def lies_szenen(md):
         s["jahr_zahl"] = int(s["jahr"].lstrip("+"))
         if s["pov"] not in ("Tibun", "Girlin"):
             fehler("unbekannter POV %r in Szene %d" % (s["pov"], i))
-        # "Offen" nennt die Sachen im Klartext, "—" heisst: nichts offen.
+        # "Offen" nennt die Sachen im Klartext, "-" heisst: nichts offen.
         # Seit 05.09.2026 stehen hier keine C-Nummern mehr -- die Szenenliste
         # haengt damit nicht mehr an Challenges.md.
-        s["punkte"] = [] if s["offen"].strip() == "—" else [
+        s["punkte"] = [] if s["offen"].strip() == "-" else [
             x.strip() for x in s["offen"].split(" · ") if x.strip()
         ]
 

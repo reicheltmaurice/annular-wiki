@@ -136,7 +136,7 @@ def main():
     print("%d Szenen über die Jahre %+d bis %+d · %d verschiedene offene Punkte "
           "· %d Szenen ohne offenen Punkt"
           % (werte["N"], min(spanne), max(spanne), werte["PUNKTE"], werte["OHNE_PUNKT"]))
-    print("Jahre ohne eigene Szene — Tibun: %s · Girlin: %s"
+    print("Jahre ohne eigene Szene - Tibun: %s · Girlin: %s"
           % (leer["Tibun"] or "keine", leer["Girlin"] or "keine"))
     print("Startalter laut Zeitleiste: Tibun %d, Girlin %d" % (alter["Tibun"], alter["Girlin"]))
 

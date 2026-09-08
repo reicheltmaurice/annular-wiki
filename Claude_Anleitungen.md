@@ -1,4 +1,4 @@
-# Annular × Claude Code — Arbeitsanleitung
+# Annular × Claude Code - Arbeitsanleitung
 
 ## Modellwahl
 
@@ -12,7 +12,7 @@ Für dieses Projekt: **Sonnet als Default**. Opus sparend einsetzen (teurer/mehr
 
 ---
 
-## Arbeitsmodi — wie du Anfragen formulierst
+## Arbeitsmodi - wie du Anfragen formulierst
 
 **Brainstormen**
 > "Gib mir 3 verschiedene Ansätze für [Problem]. Mindestens einer soll unkonventionell sein."
@@ -27,17 +27,17 @@ Für dieses Projekt: **Sonnet als Default**. Opus sparend einsetzen (teurer/mehr
 > "Ist [Idee/Technologie/Objekt] für ~900 n.Chr. plausibel?"
 
 **Konsistenz-Check**
-> "Prüf alle Dateien in [Ordner] — widerspricht [neue Idee] irgendetwas?"
+> "Prüf alle Dateien in [Ordner] - widerspricht [neue Idee] irgendetwas?"
 
 ---
 
 ## Szenenprozess
 
 Nie direkt zur Endfassung. Schritte:
-1. **Outline** — Was passiert? Ein Absatz.
-2. **Rohfassung** — Ausschreiben, Fokus auf Rhythmus.
-3. **Kritik** — Was ist schwach?
-4. **Revision** — Gezielt verbessern.
+1. **Outline** - Was passiert? Ein Absatz.
+2. **Rohfassung** - Ausschreiben, Fokus auf Rhythmus.
+3. **Kritik** - Was ist schwach?
+4. **Revision** - Gezielt verbessern.
 
 ---
 
@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/reicheltmaurice/annular-wiki/main/Notizen/Chal
 **Einstiegsformel für neue mobile Session:**
 > "Lies diese drei Dateien: [URLs]. Du bist mein Brainstorming-Partner für diese Welt. Kommuniziere auf Deutsch."
 
-**Ideen sichern:** Gute Einfälle per Working Copy oder GitHub App ins Repo schreiben (z. B. in die passende Fachdatei oder als kurzen Notiz-Commit) — am Laptop dann mit Claude Code einarbeiten.
+**Ideen sichern:** Gute Einfälle per Working Copy oder GitHub App ins Repo schreiben (z. B. in die passende Fachdatei oder als kurzen Notiz-Commit) - am Laptop dann mit Claude Code einarbeiten.
 
 ---
 
