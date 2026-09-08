@@ -108,7 +108,8 @@ noch nicht als **Ereignis in einer Gesellschaft**.
 - [ ] **Wer will den Ring außer Tibun?** Der Häuptling in Tingsal? Die Wala? Ein Nachbarweiler? Ein Ding, das Menschen verschwinden lässt, ist der wichtigste Gegenstand der Region. Der Kampf darum fehlt - und er wäre besseres Material als der Antagonist, den du hast.
 - [x] **Die Sandmulde ist ein sichtbares Wunder.** Widerspruch aufgelöst 31.08.2026: Das Dorf glaubt das **Ereignis** - nur nicht Tibuns **Deutung**. Der Sand beweist ein Wunder, nicht dass Girlin lebt.
 - [ ] **Und umgekehrt:** In der Wüste erscheint gleichzeitig eine Halbkugel jütisches Erdreich - Torf, Heidekraut, kaltes Wasser. Vermutlich der eigentliche Grund, warum die Kel Aman überhaupt zur Fundstelle kommen und Girlin finden.
-- [ ] **Der Ring liegt an einem Bach.** Damit wird bei jeder Zündung Wasser mitgetauscht - die Tauschkugel fasst gefüllt rund 14 Kubikmeter. In einer Wüste ist ein wiederholbarer Übergang, der Wasser liefert, das Wertvollste, was überhaupt denkbar ist. Sobald Tibun am Ende zuverlässig zünden kann, existiert eine Wasserbrücke nach Süden. Das ist die größte ungenutzte Konsequenz deiner eigenen Mechanik - und ein deutlich größeres Motiv für einen Antagonisten als Sklavenhandel.
+- [x] ~~**Der Ring liegt an einem Bach.** Damit wird bei jeder Zündung Wasser mitgetauscht - eine Wasserbrücke nach Süden und ein größeres Motiv für den Antagonisten als Sklavenhandel.~~
+  > **Überholt (Stand 08.09.2026).** Der Ring im Norden liegt **auf trockenem Grund**, es geht kein Flusswasser über ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)); der Skir fließt daneben, nicht darüber. Wasser als Motiv des Transports und als Motiv Azzims ist vom Autor verworfen ([Challenges.md](Challenges.md): C-104 und C-107, beide gestrichen). Der Punkt bleibt als Dokumentation stehen.
 
 ---
 
@@ -176,7 +177,7 @@ noch keine Entsprechung gefunden:
 - Zeitmessung im Erzähltext über zehn Jahre hinweg
 - Der sichtbare Wüstensand an der Skir - widerlegt er Tibuns Unglaubwürdigkeit?
 - Das jütische Erdreich in der Wüste als Fundhinweis für die Kel Aman
-- Wassertausch durch den Bachring - Folgen für den Süden und für die Motivation des Antagonisten
+- ~~Wassertausch durch den Ring - Folgen für den Süden und für die Motivation des Antagonisten~~ (überholt, siehe oben: der Ring liegt auf trockenem Grund)
 - Wer außer Tibun beansprucht den Ring? (Häuptling, Wala, Nachbarweiler)
 
 ---

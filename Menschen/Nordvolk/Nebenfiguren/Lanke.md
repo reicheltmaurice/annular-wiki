@@ -11,7 +11,7 @@
 | | |
 |---|---|
 | **Rolle** | Vater [Heriks](Herik.md); Hofbesitzer von auswärts |
-| **Alter** | ??? |
+| **Alter** | **etwa 40** (Jahr 0) - früh Vater geworden, [Herik](Herik.md) ist 17-18 |
 | **Herkunft** | Gegend um [Tingsal](../../../Orte/Tingsal.md) |
 
 **Familie**
@@ -24,7 +24,7 @@
 
 ## Frühes Leben
 
-??? Wohlhabend genug, dass seine gute Wolle im Prolog eigens auffällt.
+??? Wohlhabend genug, dass seine gute Wolle im Prolog eigens auffällt. Mit etwa 40 steht er **voll im Saft** - die Heirat seines Sohnes ist kein Vorgriff auf die Hofübergabe, sondern Ausbau: Er erweitert seinen Besitz, während er ihn noch selbst führt.
 
 ---
 

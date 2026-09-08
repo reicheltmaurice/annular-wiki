@@ -119,7 +119,7 @@ RUNES: Exactly 12 discrete glyphs, evenly spaced like clock hour marks (every 30
 
 ## P-001: Ring zwischen Bäumen, bemoost, inaktiv
 
-Stimmungsbild. Der Bach Skir liegt außerhalb des Ausschnitts.
+Stimmungsbild. Der Fluss Skir liegt außerhalb des Ausschnitts.
 
 ```
 Photorealistic. A colossal ring lies flat and forgotten in a stand of trees. Northern European, damp, still, ancient.
@@ -147,7 +147,7 @@ Arbeitsdateien in [Bilder/](Bilder/). Formverbindlich ist der Block oben (flache
 
 ## P-002: Fundszene
 
-> **Nicht kanonisch · ???** Dieser Prompt zeigt einen Erdrutsch am Steilufer. **Der Erdrutsch ist gestrichen** - der Ring liegt im Wald nahe dem Bach. Der Prompt bleibt als Materialarchiv stehen, bis feststeht, wie der Ring in Erscheinung tritt, und ist bis dahin **nicht zu rendern**.
+> **Nicht kanonisch · ???** Dieser Prompt zeigt einen Erdrutsch am Steilufer. **Der Erdrutsch ist gestrichen** - der Ring liegt im Wald am Fluss. Der Prompt bleibt als Materialarchiv stehen, bis feststeht, wie der Ring in Erscheinung tritt, und ist bis dahin **nicht zu rendern**.
 
 ```
 Photorealistic. Northern Jutland heathland, Vendsyssel, near the Skagerrak coast. A fresh landslide has torn open a steep stream bank, exposing a colossal ring lying flat in the slump debris.
@@ -205,7 +205,7 @@ Fotorealistische Ortsansichten (Vendelzeit / ~550 n. Chr.). **Autorenebene** - A
 
 | ID | Datei | Ort | Motiv |
 |----|--------|-----|--------|
-| **O-skirraa-01** | [Bilder/O-skirraa-01-weiler.jpg](Bilder/O-skirraa-01-weiler.jpg) | [Skirraa](../Orte/Skirraa.md) | Weiler-Übersicht (~6 Höfe, Heide, Bach) |
+| **O-skirraa-01** | [Bilder/O-skirraa-01-weiler.jpg](Bilder/O-skirraa-01-weiler.jpg) | [Skirraa](../Orte/Skirraa.md) | Weiler-Übersicht (~6 Höfe, Heide, Fluss) |
 | **O-skirraa-02** | [Bilder/O-skirraa-02-hof.jpg](Bilder/O-skirraa-02-hof.jpg) | Skirraa | Freier Bauernhof am Skir |
 | **O-skirraa-03** | [Bilder/O-skirraa-03-heide.jpg](Bilder/O-skirraa-03-heide.jpg) | Skirraa | Karge Heide/Moor, Küstenrand |
 | **O-tingsal-01** | [Bilder/O-tingsal-01-halle.jpg](Bilder/O-tingsal-01-halle.jpg) | [Tingsal](../Orte/Tingsal.md) | Häuptlingshalle außen |
@@ -226,7 +226,7 @@ Fotorealistische Ortsansichten (Vendelzeit / ~550 n. Chr.). **Autorenebene** - A
 Photorealistic documentary photograph of a tiny 6th-century AD Germanic hamlet in northern Jutland, Vendsyssel. About six low timber longhouses with turf and thatch roofs sit scattered across bleak heather moorland beside a narrow dark stream. Sparse birch and willow, peat-brown soil, wind-bent scrub, no fields of note. Overcast northern sky, damp cold light, empty and remote near the North Sea coast. No people in the foreground. Shot from a slight rise, wide establishing view, 35 mm lens, natural color, no fantasy, no modern objects.
 ```
 
-### O-skirraa-02 - Hof am Bach
+### O-skirraa-02 - Hof am Fluss
 
 ```
 Photorealistic close view of a free farmer’s longhouse in a 6th-century North Jutland hamlet beside a quiet stream. Weathered oak posts, wattle-and-daub walls under a thick thatched roof, smoke seeping from a roof opening, wood pile and simple wattle pen for sheep nearby. Damp black soil, reeds at the stream bank, pale heather beyond. Soft overcast daylight, quiet and everyday, documentary realism of the Migration Period / Vendel age. No people, no metal roofs, no glass windows, no fantasy architecture.

@@ -30,9 +30,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-031: Tibun - Inspiration/Besetzung ○](#c-031-tibun---inspirationbesetzung-)
 - [C-032: Girlin - Inspiration/Besetzung ○](#c-032-girlin---inspirationbesetzung-)
 - [C-037: Ringoptik im Erzähltext ohne Anachronismus ○](#c-037-ringoptik-im-erzähltext-ohne-anachronismus-)
-- [C-038: Prolog - Ortsmaßstab in Skirraa ○](#c-038-prolog---ortsmaßstab-in-skirraa-)
-- [C-039: Prolog - Funke entzündet Wolle ○](#c-039-prolog---funke-entzündet-wolle-)
-- [C-040: Prolog - Fischerdorf vs. Heide-Weiler ○](#c-040-prolog---fischerdorf-vs-heide-weiler-)
 - [C-041: Prolog - Bernstein-Fundort ○](#c-041-prolog---bernstein-fundort-)
 - [C-042: Prolog - Nebenfiguren Frida, Herik, Lanke ○](#c-042-prolog---nebenfiguren-frida-herik-lanke-)
 - [C-043: Prolog - Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk ○](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)
@@ -47,7 +44,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-052: Herik - offene Felder ○](#c-052-herik---offene-felder-)
 - [C-053: Lanke - offene Felder ○](#c-053-lanke---offene-felder-)
 - [C-054: Tingsal - Halle & Thinggeschehen ○](#c-054-tingsal---halle--thinggeschehen-)
-- [C-055: Der Skir - Gewässer, See und Fundort des Rings ○](#c-055-der-skir---gewässer-see-und-fundort-des-rings-)
 - [C-056: Prolog - Folgen des Bebens im Dorf ○](#c-056-prolog---folgen-des-bebens-im-dorf-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-059: Tibuns Zieheltern in Kaupvik ○](#c-059-tibuns-zieheltern-in-kaupvik-)
@@ -105,6 +101,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-151: Was die Verteidigung der Schlucht Sekkan kostet ○](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-)
 - [C-152: Der Häuptling der Kel Aman ist namenlos ○](#c-152-der-häuptling-der-kel-aman-ist-namenlos-)
 - [C-153: Haduriks Nachfolge in Tingsal ○](#c-153-haduriks-nachfolge-in-tingsal-)
+- [C-154: Woher die Autorität der Walas kommt ○](#c-154-woher-die-autorität-der-walas-kommt-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -125,6 +122,10 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-034: Tibuns Lebensgrundlage ✓](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft-)
 - [C-035: Aussehen der Ringoberfläche ✓](#c-035-aussehen-der-ringoberfläche-)
 - [C-036: Altert der Ring? Patina, Moos, Ablagerungen ✓](#c-036-altert-der-ring-patina-moos-ablagerungen-)
+- [C-038: Prolog - Ortsmaßstab in Skirraa ✓](#c-038-prolog---ortsmaßstab-in-skirraa-)
+- [C-039: Prolog - Funke entzündet Wolle ✓](#c-039-prolog---funke-entzündet-wolle-)
+- [C-040: Prolog - Fischerdorf vs. Heide-Weiler ✓](#c-040-prolog---fischerdorf-vs-heide-weiler-)
+- [C-055: Der Skir - Gewässer, See und Fundort des Rings ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-)
 - [C-057: Prolog - warum sind Tibun und Girlin allein draußen? ✓](#c-057-prolog---warum-sind-tibun-und-girlin-allein-draußen-)
 - [C-060: Girlin und der Neffe ✓](#c-060-girlin-und-der-neffe-)
 - [C-061: Navigationswissen - Schweigen gestrichen ✗](#c-061-navigationswissen-des-häuptlings-)
@@ -660,23 +661,25 @@ Berührt [C-013](#c-013-runen---anordnung-anzahl-aussehen-). Wird spätestens be
 
 ---
 
-### C-038: Prolog - Ortsmaßstab in Skirraa ○
+### C-038: Prolog - Ortsmaßstab in Skirraa ✓
 
 Die Prolog-Szene *Die Entdeckung* spielt auf einem „Dorfplatz/Marktplatz" mit festem **Rednerpodest** und einer einberufenen **Versammlung**. [Skirraa](../Orte/Skirraa.md) ist aber ein **Weiler mit ~6 Höfen, 40-60 Menschen**. Maßstab zu groß - Verlobung müsste im kleinen Rahmen (führender Hof / Nachbarschaft) stattfinden, kein Marktplatz. Szene anpassen.
 
 **Entschieden:** Verlobung wird **beim Großbauern** (führender Hof von [Skirraa](../Orte/Skirraa.md)) im kleinen Rahmen besiegelt - kein Marktplatz, kein Rednerpodest, keine Volksversammlung. Verlagerung nach Tingsal verworfen (bräche die Geografie: Stall-Entdeckung am selben Abend nicht mehr möglich). **Umsetzung in der Szene offen** (siehe [C-064](#c-064-prolog---dorfplatz-und-verlobungsschauplatz-nachziehen-)).
 
+**Auf ✓ gesetzt (Autor, 08.09.2026):** Die inhaltliche Frage ist entschieden; das Nachziehen im Szenentext läuft als eigene Challenge weiter ([C-063](#c-063-prolog---szene-auf-autorenfassung-zurückgerollt-) bis [C-068](#c-068-prolog---brand-und-brandblasen-nachziehen-)). Eine Challenge gilt als gelöst, wenn die Entscheidung steht - nicht erst, wenn der Text sie abbildet.
 ---
 
-### C-039: Prolog - Funke entzündet Wolle ○
+### C-039: Prolog - Funke entzündet Wolle ✓
 
 In der Szene entzündet der Bernsteinfunke Wollreste, Tibun bekommt **Brandblasen**. Widerspricht [C-002](#c-002-tibuns-elektrizitätsquelle-) und [Elektrizität](../Technik/Elektrizitaet.md): statische Entladung = sichtbarer Funke, **keine Brandwunden**; physikalisch kann ein handgeriebener Bernsteinfunke keine Wolle entzünden. Blockierend für die Entdeckungs-Inszenierung. Neu lösen: Entdeckung über Funke im Dunkeln / angezogene Fasern / Schreck statt Feuer.
 
 **Entschieden:** Im dunklen Stall springt der Funke an die eiserne **Schafschere**; **kurzes Ansengen loser Flusen**, kein Brand, keine Brandblasen. Tibun **erschrickt heftig** und fürchtet ein Feuer - er weiß, wie brennbar Wolle ist - und „löscht" sofort alles, obwohl real nichts passiert wäre. Die Gefahr wird bewusst leicht überzeichnet, aber **aus Tibuns Angst heraus**, nicht auktorial. Kanon-konform mit [C-002](#c-002-tibuns-elektrizitätsquelle-) (Funke bleibt harmlos). Umsetzung in der Szene offen.
 
+**Auf ✓ gesetzt (Autor, 08.09.2026):** Die inhaltliche Frage ist entschieden; das Nachziehen im Szenentext läuft als eigene Challenge weiter ([C-063](#c-063-prolog---szene-auf-autorenfassung-zurückgerollt-) bis [C-068](#c-068-prolog---brand-und-brandblasen-nachziehen-)). Eine Challenge gilt als gelöst, wenn die Entscheidung steht - nicht erst, wenn der Text sie abbildet.
 ---
 
-### C-040: Prolog - Fischerdorf vs. Heide-Weiler ○
+### C-040: Prolog - Fischerdorf vs. Heide-Weiler ✓
 
 Die Szene zeichnet mit Fischer, **Bootsbauer** und dessen Sohn ein Küsten-Fischerdorf. [Skirraa](../Orte/Skirraa.md) ist karge Heide/Moor mit Tierzucht/Jagd (Küstennähe zum Skagerrak erlaubt Fischerei, aber nicht als prägendes Milieu). Charakter des Orts bewusst entscheiden und Szene angleichen.
 
@@ -684,6 +687,7 @@ Die Szene zeichnet mit Fischer, **Bootsbauer** und dessen Sohn ein Küsten-Fisch
 
 **Hinweis:** Das Familienhandwerk stammt bereits aus der Original-Szene von 2015, war aber **nie ins Wiki übernommen** worden. Jetzt verankert in [Tibun](../Menschen/Nordvolk/Tibun.md), [Skirraa](../Orte/Skirraa.md) und [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md).
 
+**Auf ✓ gesetzt (Autor, 08.09.2026):** Die inhaltliche Frage ist entschieden; das Nachziehen im Szenentext läuft als eigene Challenge weiter ([C-063](#c-063-prolog---szene-auf-autorenfassung-zurückgerollt-) bis [C-068](#c-068-prolog---brand-und-brandblasen-nachziehen-)). Eine Challenge gilt als gelöst, wenn die Entscheidung steht - nicht erst, wenn der Text sie abbildet.
 ---
 
 ### C-041: Prolog - Bernstein-Fundort ○
@@ -758,12 +762,18 @@ Charakter: **Sie webt besser als [Millia](../Menschen/Nordvolk/Nebenfiguren/Mill
 
 [Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md) (sesshafte Seherin): Alter, Herkunft, Fähigkeiten, Inspiration auf `???`; vor allem ist ihre **Rolle** noch reine Möglichkeit ohne Szene. Zu klären: Wird sie gebraucht, oder entfällt sie?
 
+**Teilentscheidung (Autor, 08.09.2026):** Beide Zwillinge sind in Jahr 0 **etwa 35** und **von auswärts zugewandert** - Herkunft unbekannt, keine Sippe in der Gegend. Die Frage „wird sie gebraucht?" ist damit erledigt: Sie hat seit dem 07.09.2026 eine feste Rolle (sie erlaubt [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Neubindung). **Weiter offen:** Fähigkeiten über das Amt hinaus, Inspiration. Woher die Autorität kommt → [C-154](#c-154-woher-die-autorität-der-walas-kommt-).
 ---
 
 ### C-050: Wandernde Wala - offene Felder ○
 
 [Wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) (Zwillingsschwester der sesshaften Wala): Alter, Herkunft, Fähigkeiten, Inspiration auf `???`; Rolle ebenfalls ohne Szene. Zu klären zusammen mit [C-049](#c-049-wala-von-tingsal---offene-felder-) - brauchen wir **zwei** Seherinnen?
 
+**Teilentscheidung (Autor, 08.09.2026):** Alter und Herkunft wie bei der Schwester ([C-049](#c-049-wala-von-tingsal---offene-felder-)). **Sie kehrt in den zehn Wintern zurück - und bleibt bei ihrem Spruch.** Sie ist erreichbar, ansprechbar und trotzdem unverrückbar; das ist härter als Abwesenheit, weil [Tibun](../Menschen/Nordvolk/Tibun.md) sie stellen kann und es ihm nichts nützt. Eine zweite Instanz gibt es nicht - beide Walas sprechen mit einer Stimme.
+
+**Zwei Seherinnen werden gebraucht:** Die eine spricht das Urteil und zieht weiter, die andere ist die Adresse, an der man eine Wala sicher findet. Ohne die zweite gäbe es niemanden, der Semunds Neubindung erlaubt.
+
+**Weiter offen:** wann genau sie zurückkommt und ob Tibun ihr begegnet, Fähigkeiten, Inspiration.
 ---
 
 ### C-051: Frida - offene Felder ○
@@ -784,6 +794,7 @@ Charakter: **Sie webt besser als [Millia](../Menschen/Nordvolk/Nebenfiguren/Mill
 
 [Lanke](../Menschen/Nordvolk/Nebenfiguren/Lanke.md): Alter, Frühes Leben, Fähigkeiten, Inspiration auf `???`. Derzeit reine Funktionsfigur des Prologs - gut möglich, dass hier alles **bewusst offen** bleibt; das entscheidet der Autor.
 
+**Teilentscheidung (Autor, 08.09.2026):** Lanke ist in Jahr 0 **etwa 40** - früh Vater geworden, [Herik](../Menschen/Nordvolk/Nebenfiguren/Herik.md) ist 17-18. Er steht voll im Saft: Die Heirat seines Sohnes ist **kein Vorgriff auf die Hofübergabe, sondern Ausbau**. Eingetragen in [Lanke.md](../Menschen/Nordvolk/Nebenfiguren/Lanke.md). **Weiter offen:** frühes Leben, Fähigkeiten, Inspiration - hier kann vieles offen bleiben, er ist Funktionsfigur des Prologs.
 ---
 
 ### C-054: Tingsal - Halle & Thinggeschehen ○
@@ -792,7 +803,7 @@ Charakter: **Sie webt besser als [Millia](../Menschen/Nordvolk/Nebenfiguren/Mill
 
 ---
 
-### C-055: Der Skir - Gewässer, See und Fundort des Rings ○
+### C-055: Der Skir - Gewässer, See und Fundort des Rings ✓
 
 Der [Skir](../Orte/Skirraa.md) ist bisher nur als „Bach" geführt, ohne Größe, Tiefe oder Verlauf. Auszuarbeiten: **Größe des Gewässers** (Bach vs. kleiner Fluss, durchwatbar?), ein **See/Tümpel stromaufwärts** als Badeplatz der Jugend, ein **kleiner Wald** nur an dieser Stelle (Rest bleibt Heide) und der genaue **Fundort des Rings** - der laut Autorenwunsch zwischen Bäumen liegen soll, nicht auf offenem Feld.
 
@@ -807,6 +818,19 @@ Der [Skir](../Orte/Skirraa.md) ist bisher nur als „Bach" geführt, ohne Größ
 
 Status: **???** - in Klärung.
 
+**Entschieden (Autor, 08.09.2026):**
+
+**Der Skir ist ein kleiner Fluss, durchwatbar** - kein Bach. Damit stimmen Name (*-aa*), Wasserrad ([C-002](#c-002-tibuns-elektrizitätsquelle-)) und reales Gegenstück (Uggerby Å) überein. Breite und Tiefe im Einzelnen: ???
+
+**Der Wald am Skir und der heilige Hain [Vilund](../Orte/sonstiges.md) sind derselbe Ort** - ein Waldstück in der Heide, das beides trägt. **Der Ring liegt nicht an der Zeremonienstelle**, sondern ein Stück davon entfernt im selben Wald. Wie weit: ???
+
+**Das ist der stärkere Kontrast als zwei getrennte Orte:** Das Volk geht in den Wald, um an der Lichtung zu opfern, und geht dabei an dem vorbei, was wirklich dort liegt. Es verehrt einen Ort, an dem nichts ist - und übersieht wenige Schritte weiter das Ding, das eine Frau verschluckt.
+
+> **Streichvermerk:** Der **„See/Tümpel stromaufwärts als Badeplatz der Jugend"** oben stammte nicht vom Autor und ist gestrichen (Rückfrage 08.09.2026: *„Was für ein Badeplatz??"*). Ob es im Wald ein stehendes Gewässer gibt, ist **offen · ???**. Eingetragen in der Altlast-Tabelle von [C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-).
+
+Nachgezogen in [Skirraa.md](../Orte/Skirraa.md), [sonstiges.md](../Orte/sonstiges.md), [Tibun.md](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen](../Plots/Plot-1/Szenen.md), beiden Wala-Dateien und den [Bild-Prompts](Bild-Prompts.md) - überall „Bach" → „Fluss".
+
+**Nebenbefund, sofort behoben:** Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) führte noch „Der Ring liegt an einem Bach → Wasserbrücke nach Süden" als offenen Punkt. Das widerspricht dem entschiedenen Stand (Ring auf trockenem Grund, kein Wasser geht über; Wasser als Motiv verworfen in [C-104 ✗](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-) und [C-107 ✗](#c-107-azzims-motiv---wasser-statt-sklaverei-)). Als überholt markiert.
 ---
 
 ### C-056: Prolog - Folgen des Bebens im Dorf ○
@@ -2030,7 +2054,7 @@ Damit steht: **Tibuns einziger Preis liegt in Jahr 0/+1** - die Mutter, der Unfa
 | „Zivilisationen lernen die Ringmaße durch Tote" - die erste Generation trete aufrecht in ungemuldete Ringe | **gestrichen** - nie entschieden | Portalringe.md, [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) |
 | Der Skir-Ring sei „roh und ungemuldet" | **gestrichen** - nie entschieden; die Fundszene ist ungeschrieben | [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe-), [C-128](#c-128-fundort-und-freilegung-des-skir-rings-) |
 | Betriebsregel „Kugelzentrum 0,75 m über der Standfläche" nebst Mulden- und Einbaumaßen | **gestrichen** - Zahl nie entschieden | [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe-), C-012, Portalringe.md |
-| Der Ring sei vergraben und werde durch einen Erdrutsch am Steilufer freigelegt | **gestrichen** - er liegt im Wald nahe dem Bach | [C-128](#c-128-fundort-und-freilegung-des-skir-rings-), C-008, C-055, Skirraa, Zeitleiste, Bild-Prompts |
+| Der Ring sei vergraben und werde durch einen Erdrutsch am Steilufer freigelegt | **gestrichen** - er liegt im Wald am Fluss | [C-128](#c-128-fundort-und-freilegung-des-skir-rings-), C-008, C-055, Skirraa, Zeitleiste, Bild-Prompts |
 | Transport per Schlitten auf befeuchteter Piste | **gestrichen** - Verfahren nie entschieden | [C-125](#c-125-das-transportverfahren-ist-offen-), C-018, C-103, Zeitleiste, Kapitelstruktur |
 | Route nur über Hammada und Serir, nie Erg | **gestrichen** - nie entschieden | [C-125](#c-125-das-transportverfahren-ist-offen-) |
 | Tagesleistung 1-3 km beim Transport | **gestrichen** - folgte aus dem erfundenen Verfahren | [C-103](#c-103-transportlogistik-des-wüstenrings-) |
@@ -2045,6 +2069,13 @@ Damit steht: **Tibuns einziger Preis liegt in Jahr 0/+1** - die Mutter, der Unfa
 | Girlin sei „ab Jahr +8 ungeschützt", Azzims Zögern sei damit Lage | **korrigiert** - die Trennung vom Clan liegt in **+5** | [C-116](#c-116-azzim-tritt-zu-spät-auf-), [C-061](#c-061-navigationswissen-des-häuptlings-), [C-129](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5-) |
 | Beide Stränge bauen dasselbe Gerät; die Bauzeiten seien ungleich | **gestrichen** - nie entschieden; die Challenge selbst war die Erfindung | [C-121 ✗](#c-121-zwei-generatoren-ungleiche-bauzeiten-), [C-135](#c-135-der-wüstengenerator---bauart-offen-) |
 | Girlins Entschluss zu bleiben falle im Fenster +8/+10 | **korrigiert** - er fällt mit der Geburt in **+4** | [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-) |
+
+**Dritte Runde (08.09.2026):**
+
+| Behauptung | Stand | Wo sie stand |
+|---|---|---|
+| Ein „See/Tümpel stromaufwärts als **Badeplatz der Jugend**" am Skir | **gestrichen** - nie entschieden; Rückfrage des Autors: *„Was für ein Badeplatz??"*. Ob es dort ein stehendes Gewässer gibt, ist offen | [C-055 ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-) |
+| Der Weltenbau-Leitfaden führte weiter „Der Ring liegt an einem Bach → Wasserbrücke nach Süden" als offenen Punkt | **als überholt markiert** - der Ring liegt auf trockenem Grund, Wasser als Motiv ist verworfen | [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md), Schicht 6 |
 
 **Zu tun · ???** Das **übrige Wiki ist auf denselben Fehler zu prüfen** - insbesondere alles, was in Sitzungen ohne ausdrückliche Autorenentscheidung entstanden ist. Verdachtsstellen: [C-089](#c-089-azzim---verhältnis-zum-ring-harte-regel-), [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) (Abschnitt *Schicht 6*), [Kel-Aman](../Kulturen/Kel-Aman/README.md).
 
@@ -2605,5 +2636,19 @@ Zusätzlich offen: Wie reagiert **er persönlich** darauf, dass sein Neffe in Ja
 - **Wird das erzählt oder nur vorausgesetzt?** Ein Nachfolgestreit ist Konfliktstoff, kostet aber Platz in einem Strang, der ohnehin dicht ist ([C-141](#c-141-der-auftakt-ist-jetzt-sehr-dicht-)).
 
 Nichts festgelegt.
+
+---
+
+### C-154: Woher die Autorität der Walas kommt ○
+
+Die beiden Wala-Zwillinge sind in Jahr 0 **etwa 35** und **von auswärts zugewandert** (Autor, 08.09.2026, [C-049](#c-049-wala-von-tingsal---offene-felder-)). Damit tragen ihr Ansehen **weder Alter noch Sippe**: Sie haben in der Gegend keinen Hof, keine Verwandten und keine Jahrzehnte hinter sich.
+
+Ihr Wort wiegt trotzdem schwer genug, um eine Frau für tot zu erklären, eine Stelle mit einem Tabu zu belegen und eine Wiederheirat zu erlauben. **Woraus speist sich das?**
+- Eine Gabe, die sich früh und öffentlich gezeigt hat?
+- Die Zwillingsgeburt selbst - zwei Frauen mit einer Stimme als Zeichen?
+- Ausbildung bei einer älteren Wala, deren Rang sie geerbt haben?
+- Etwas, das sie mitgebracht haben und niemand kennt?
+
+Erzählerisch heikel: Wenn niemand weiß, woher sie kommen, weiß auch niemand, **warum man ihnen glauben soll** - und genau darauf beruht der gesamte Nordstrang nach [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden. Nichts festgelegt.
 
 ---

@@ -27,7 +27,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 ## Vor der Geschichte
 - Bau der ersten Portalringe durch unbekannte Zivilisation
-- Der Skir-Ring liegt seit Jahrtausenden vergraben am Bach nahe [Skirraa](../../Orte/Skirraa.md)
+- Der Skir-Ring liegt seit Jahrtausenden vergraben im Wald am Skir nahe [Skirraa](../../Orte/Skirraa.md)
 
 ## Jahr 0 - der Auftakt (Tibun 16, Girlin 34)
 
@@ -93,7 +93,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Folge:** Weil der Aufbruch nichts kostet, muss der Konflikt der Jahre +9/+10 **vollständig vom Dorf kommen**.
 
 ### Rückkehr & Vollendung (Jahr +9 → +10, Tibun 25 → 26)
-- Rückkehr **direkt nach Skirraa** - genauer: zum Ring am Bach
+- Rückkehr **direkt nach Skirraa** - genauer: zum Ring am Fluss
 - Bau der **großen Wasseranlage** (Bernsteinrad, wasserradgetrieben) unter einer **überdachten Werkstatt über der Tabustelle**
 - **Der Konflikt mit dem Weiler** (entschieden 02.09.2026):
   - Die Dorfbewohner **warnen** ihn, sind ängstlich und ärgerlich. **Niemand hilft ihm, er wird gemieden**
@@ -217,9 +217,9 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 **Erzähltechnisch:** Tibuns Zündung ist damit **derselbe Vorgang wie Girlins Blitz vor zehn Jahren** - schlagartige Entladung ohne Vorlauf, nur gewollt. Das Problem der zehn Jahre war nie „genug Ladung erzeugen", sondern **sammeln und schlagartig freigeben**. Eine pulsende Vorwarnung am Ring gibt es bei dieser Bauweise nicht - die Rampe sitzt am Konduktor.
 
 ### Was zurückbleibt und was übergeht
-- Im **Norden**: Azzims zweite Hälfte an der Tabustelle, die weiterlaufende Anlage am Bach, ein Ring, der sich von allein wieder auflädt - und **niemand, der davon weiß**
+- Im **Norden**: Azzims zweite Hälfte an der Tabustelle, die weiterlaufende Anlage am Fluss, ein Ring, der sich von allein wieder auflädt - und **niemand, der davon weiß**
 - In die **Wüste** geht bei jeder Zündung das Kugelvolumen der Nordseite über - **was genau, ist offen** · **???**
-  > **Frühere Fassung gestrichen (03.09.2026):** *„rund 14 m³ jütisches Bachwasser und Erdreich"* und *„Tibun landet in einer Pfütze aus seiner Heimat"* stammten nicht vom Autor. **Der Ring im Norden liegt auf trockenem Grund** - es geht kein Bachwasser über
+  > **Frühere Fassung gestrichen (03.09.2026):** *„rund 14 m³ jütisches Bachwasser und Erdreich"* und *„Tibun landet in einer Pfütze aus seiner Heimat"* stammten nicht vom Autor. **Der Ring im Norden liegt auf trockenem Grund** - es geht kein Flusswasser über
 - **Girlins Nachricht geht nicht über.** Sie **liegt fertig und wetterfest verpackt bereit** (03.09.2026) - sie kommt nur nicht mehr dazu, sie in den Ring zu legen. Der Angriff und die beiden Zündungen überholen ihr Vorhaben. Der Leser sieht das Ding und sieht es liegen bleiben
 
 ### Schluss

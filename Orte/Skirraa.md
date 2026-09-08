@@ -1,12 +1,12 @@
 # Skirraa
 
-Tibuns Heimatdorf. Benannt nach dem Bach **Skir**, an dem es liegt - *Skir* + *-aa* („Bach/Fließgewässer", vgl. dän. *å*).
+Tibuns Heimatdorf. Benannt nach dem Fluss **Skir**, an dem es liegt - *Skir* + *-aa* („Fließgewässer", vgl. dän. *å*).
 
 ---
 
 ## Lage
 - **Nordjütland**, im hohen Vendsyssel - karge Heide- und Moorlandschaft nahe der Skagerrak-Küste, kurz vor den Dünen. Das nördliche Ende der bewohnten Welt des Nordvolks.
-- Liegt am Bach **Skir** (Lebensader, treibt später Tibuns Wasserrad)
+- Liegt am **Skir** (Lebensader, treibt später Tibuns Wasserrad) - **ein kleiner Fluss, durchwatbar**, kein Rinnsal: Der Name trägt *-aa*, das Wasserrad braucht echten Durchfluss, und das reale Gegenstück Uggerby Å ist der Hauptfluss Vendsyssels. Genaue Breite und Tiefe: ???
 - **Abseits** des Heerwegs (Ochsenweg) - etwa ein Tagesmarsch bis zur Route
 - Regionales Zentrum [Tingsal](Tingsal.md) **ein Tagesmarsch** entfernt
 - Zur Hafensiedlung [Kaupvik](Kaupvik.md) an der Schlei: **rund 14 Tagesmärsche** auf dem direkten Weg über den Ochsenweg (gut zwei Wochen) - Endpunkt von Tibuns Reise. In Kaupvik hat **niemand** je von Skirraa gehört; Tibun begegnet dort keinem aus seiner Heimat.
@@ -25,10 +25,10 @@ Tibuns Heimatdorf. Benannt nach dem Bach **Skir**, an dem es liegt - *Skir* + *-
 - **Keine** eigene Seherin im Weiler - die *Wala* lebt regional und wird aufgesucht
 
 ## In der Nähe
-- Der einzige bekannte [Portalring](../Technik/Portalringe.md) liegt **im Wald nahe dem Bach Skir**, unweit des Dorfes. Wie er in Erscheinung tritt, ist offen · **???**
-- **Die Sandstelle.** Nach [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden liegen dort rund 7 m³ heller Wüstensand im schwarzen Torf - nährstofffrei, jahrelang kahl, vom Bach angeschnitten und bachabwärts hell gesäumt. Die [wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) erklärt die Stelle zum Zeichen der Götter und belegt sie mit einem **Tabu**: Wer hingeht, dem geschieht dasselbe. Niemand aus Skirraa nähert sich der Stelle - **außer [Tibun](../Menschen/Nordvolk/Tibun.md)**.
+- Der einzige bekannte [Portalring](../Technik/Portalringe.md) liegt **im Wald am Skir**, unweit des Dorfes - in demselben Waldstück, das den heiligen Hain [Vilund](sonstiges.md) trägt, aber **nicht an der Zeremonienstelle**. Wie er in Erscheinung tritt, ist offen · **???**
+- **Die Sandstelle.** Nach [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden liegen dort rund 7 m³ heller Wüstensand im schwarzen Torf - nährstofffrei, jahrelang kahl, vom Fluss angeschnitten und flussabwärts hell gesäumt. Die [wandernde Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) erklärt die Stelle zum Zeichen der Götter und belegt sie mit einem **Tabu**: Wer hingeht, dem geschieht dasselbe. Niemand aus Skirraa nähert sich der Stelle - **außer [Tibun](../Menschen/Nordvolk/Tibun.md)**.
 - Regionales Zentrum [Tingsal](Tingsal.md) (Häuptlingssitz + Thingplatz), **ein Tagesmarsch** entfernt
-- Der heilige Hain [Vilund](sonstiges.md) (geparkt, derzeit ohne Funktion)
+- Der heilige Hain [Vilund](sonstiges.md) - **dasselbe Waldstück, in dem der Ring liegt**; die Zeremonienstelle liegt aber ein Stück von ihm entfernt
 
 ## Bewohner
 - [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), Truda, Semund
@@ -36,6 +36,6 @@ Tibuns Heimatdorf. Benannt nach dem Bach **Skir**, an dem es liegt - *Skir* + *-
 ---
 
 ## Reale Verortung (Autorenebene)
-Fiktiver Ort, verankert in **Bindslev** im nördlichen Vendsyssel, am Bach **Uggerby Å** (reales Gegenstück zum Skir, Hauptfluss Vendsyssels). Karge Heidelandschaft nahe der Skagerrak-Küste - entspricht Skirraas Beschreibung.
+Fiktiver Ort, verankert in **Bindslev** im nördlichen Vendsyssel, am Fluss **Uggerby Å** (reales Gegenstück zum Skir, Hauptfluss Vendsyssels). Karge Heidelandschaft nahe der Skagerrak-Küste - entspricht Skirraas Beschreibung.
 - Wikipedia: [Bindslev](https://de.wikipedia.org/wiki/Bindslev) · [Uggerby Å](https://de.wikipedia.org/wiki/Uggerby_%C3%85)
 - Google Maps: <https://maps.app.goo.gl/AjFELJTCYnLudX2eA>

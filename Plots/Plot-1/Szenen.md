@@ -429,7 +429,7 @@ Bellbrim und Girlin bauen weiter.
 
 Das Modell läuft, Wissen und Bernstein reichen.
 
-- **Will:** Zurück zum Ring am Bach
+- **Will:** Zurück zum Ring am Fluss
 - **Hindernis:** keins - der Aufbruch kostet ihn ausdrücklich nichts
 - **Ausgang:** Die Zieheltern bleiben lebend zurück. Ein Abschied, kein Verlust.
 

@@ -11,8 +11,8 @@
 | | |
 |---|---|
 | **Rolle** | Heilige Frau / Seherin (*Wala/Völva*) des Nordvolks, **wandernd** |
-| **Alter** | ??? |
-| **Herkunft** | ??? |
+| **Alter** | **etwa 35** (Jahr 0) · etwa 45 im Finale (Jahr +10) - auffallend jung für das Amt; exakte Zahl nicht festgelegt |
+| **Herkunft** | **auswärts, unbekannt** - wie ihre Zwillingsschwester nicht aus der Gegend |
 
 **Familie**
 
@@ -24,7 +24,9 @@
 
 ## Frühes Leben
 
-???
+**Zugewandert.** Niemand weiß, wessen Töchter die Zwillinge sind oder woher sie kamen - das gehört zu ihrer Aura. Sie haben in der Gegend keine Sippe, keinen Hof und keine Verwandten, an denen man sie messen könnte.
+
+Beide sind mit **etwa 35** auffallend jung für ihr Ansehen. Woher ihre Autorität kommt, wenn weder Alter noch Herkunft sie tragen: ???
 
 ---
 
@@ -42,7 +44,7 @@ Zieht durchs Hinterland von Weiler zu Weiler, kommt gelegentlich nach [Skirraa](
 
 **Die beiden Walas sprechen als eine Stimme** - als die Stimme der Götter (Autor, 07.09.2026). Die eine hält sich an das Wort der anderen; ein Spruch der einen wird von der anderen nicht neu geprüft. Für die Menschen gibt es damit **keine zweite Instanz**: Wer eine Wala fragt, hat sie alle gefragt.
 
-Weiß **nichts** vom vergrabenen Ring am Bach.
+Weiß **nichts** vom vergrabenen Ring am Skir.
 
 **Feste Rolle - sie deutet [Girlins](../Girlin.md) Verschwinden**:
 
@@ -51,7 +53,11 @@ Weiß **nichts** vom vergrabenen Ring am Bach.
 - Damit ist sie unfreiwillig [Tibuns](../Tibun.md) eigentliche Gegenspielerin im Nordstrang: Sie liefert die Erklärung, die alle befriedigt, und macht seine Deutung zur Ketzerei. Sie handelt dabei nicht böswillig, sondern tut genau das, wofür man sie ruft.
 - Und sie schafft die Grundlage für Semunds Wiederheirat.
 
-**Offen:** ob sie in den zehn Wintern zurückkehrt · **???**
+**Sie kehrt zurück - und bleibt bei ihrem Spruch** (Autor, 08.09.2026). Sie kommt in den zehn Wintern wieder nach [Skirraa](../../../Orte/Skirraa.md) und weicht keinen Finger breit von dem, was sie gesagt hat: Zeichen der Götter, Girlin tot, die Stelle tabu.
+
+Das ist härter als Abwesenheit. [Tibun](../Tibun.md) kann sie stellen - und es nützt ihm nichts. Sie ist erreichbar, ansprechbar und trotzdem unverrückbar; es gibt keine Instanz dahinter, die man anrufen könnte ([Wala von Tingsal](Wala-Tingsal.md) spricht mit derselben Stimme).
+
+**Offen:** wann genau sie zurückkommt und ob Tibun ihr begegnet · **???**
 
 ---
 

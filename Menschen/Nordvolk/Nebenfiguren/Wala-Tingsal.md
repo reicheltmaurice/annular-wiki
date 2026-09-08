@@ -11,8 +11,8 @@
 | | |
 |---|---|
 | **Rolle** | Heilige Frau / Seherin (*Wala/Völva*) des Nordvolks, **sesshaft** in [Tingsal](../../../Orte/Tingsal.md) |
-| **Alter** | ??? |
-| **Herkunft** | [Tingsal](../../../Orte/Tingsal.md) |
+| **Alter** | **etwa 35** (Jahr 0) · etwa 45 im Finale (Jahr +10) - auffallend jung für das Amt; exakte Zahl nicht festgelegt |
+| **Herkunft** | **auswärts, unbekannt** - sitzt in [Tingsal](../../../Orte/Tingsal.md), stammt aber nicht von dort |
 
 **Familie**
 
@@ -24,7 +24,9 @@
 
 ## Frühes Leben
 
-???
+**Zugewandert.** Niemand weiß, wessen Töchter die Zwillinge sind oder woher sie kamen - das gehört zu ihrer Aura. Sie haben in der Gegend keine Sippe, keinen Hof und keine Verwandten, an denen man sie messen könnte.
+
+Beide sind mit **etwa 35** auffallend jung für ihr Ansehen. Woher ihre Autorität kommt, wenn weder Alter noch Herkunft sie tragen: ???
 
 ---
 
@@ -38,7 +40,7 @@
 
 Sitzt im regionalen Zentrum [Tingsal](../../../Orte/Tingsal.md) (Häuptlingssitz, ein Tagesmarsch von [Skirraa](../../../Orte/Skirraa.md)). **Veleda-Modell:** abgesondert, hochgeehrt, über Mittler befragt.
 
-Weiß **nichts** vom vergrabenen Ring am Bach.
+Weiß **nichts** vom vergrabenen Ring am Skir.
 
 **Sie ist die erreichbare Wala** (Autor, 07.09.2026). Wo ihre wandernde Zwillingsschwester sich aufhält, weiß **nur sie** - für alle anderen ist Tingsal die einzige Adresse, an der eine Wala sicher anzutreffen ist.
 

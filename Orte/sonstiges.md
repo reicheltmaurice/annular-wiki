@@ -4,9 +4,13 @@ Geparkte oder nebensächliche Orte - als Idee aufbewahrt, aktuell ohne tragende 
 
 ---
 
-## Vilund (geparkt)
-Heiliger Hain (*vé* „Heiligtum" + *lund* „Hain"), proto-skandinavische Kultstätte. War ursprünglich als Standort des Portalrings gedacht - verworfen: Der Ring liegt nun am Bach Skir vergraben.
+## Vilund
+Heiliger Hain (*vé* „Heiligtum" + *lund* „Hain"), proto-skandinavische Kultstätte.
 
-**Entschieden: bleibt - mit Auflage.** Vilund existiert als **ring-loser Kult-Hain**: Das Volk verehrt ihn und bringt dort Opfer, während der echte [Portalring](../Technik/Portalringe.md) unbeachtet im Boden am Bach [Skir](Skirraa.md) liegt - dort, wo man täglich Wasser holt. Der Hain gibt der Religion einen konkreten Ort im Alltag, was zählt, weil [Skirraa](Skirraa.md) keine eigene Seherin hat.
+**Der Hain und der Ring liegen im selben Wald** (Autor, 08.09.2026). Das Waldstück am [Skir](Skirraa.md) - der einzige Wald weit und breit, ringsum nur Heide - trägt beides: die **Zeremonienstelle** des Hains und, ein Stück davon entfernt, den vergrabenen [Portalring](../Technik/Portalringe.md). Der Ring liegt **nicht** an der Kultstelle selbst.
 
-**Auflage:** Muss **mindestens einmal im Erzähltext** vorkommen, im Kontrast zum Ring - sonst wird Vilund gestrichen. Bis dahin ohne weitere Ausarbeitung geparkt.
+**Das ist der Kontrast, der den Hain trägt:** Das Volk verehrt einen Ort, an dem nichts ist, und übersieht wenige Schritte weiter das, was tatsächlich dort liegt. Es geht dorthin, um zu opfern, und geht am Ring vorbei.
+
+**Auflage:** Muss **mindestens einmal im Erzähltext** vorkommen, im Kontrast zum Ring - sonst wird Vilund gestrichen.
+
+**Offen · ???** Wie weit Zeremonienstelle und Ring auseinanderliegen · ob es im Wald einen See oder Tümpel gibt · Größe und Aussehen des Hains.
