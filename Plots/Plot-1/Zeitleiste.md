@@ -169,7 +169,8 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **Danach holt er Leute.** Eine Schlucht mit Fels nimmt man nicht allein - das kostet die Zeit bis +10
   - **Offen:** woher die Leute kommen, wie viele, was ihn das kostet · **???**
 - **Girlins Nachricht liegt fertig und wetterfest verpackt bereit** (entschieden 03.09.2026). Der Leser sieht sie, bevor sie liegen bleibt
-  - **Offen:** was es ist - Gegenstand, Schriftstück oder beides - und wer es im Norden deuten könnte · **???**
+- **Es ist ein Bündel aus mehreren Dingen** (Autor, 09.09.2026): eine **Strähne ihres eigenen Haars**, ein **gewebtes Stück** aus ihrer Hand und ihre **Mantelfibel** (Autor, 09.09.2026) - ein Stück aus dem Norden, das sie am Leib trug, als sie verschwand. **Kein Schriftstück - und das ist Absicht** (Autor, 09.09.2026): **Ihr ist bewusst, dass im Norden niemand lesen kann.** Sie überlegt, was ihre Leute deuten können, und richtet das Bündel danach aus.
+- **Gedacht ist es für ihre Familie** (Autor, 09.09.2026) - nicht für eine einzelne Person. **Sie weiß nicht, dass [Tibun](../../Menschen/Nordvolk/Tibun.md) fort ist**: Für sie sind sie alle noch zu Hause
 - **Jahr +10, Reihenfolge:** Der **Generator wird fertig** → **Girlins Zweifel kehrt zurück** → sie **bestätigt ihren Entschluss** → **Azzim greift an**
   - **Drei Dinge treiben den Zweifel:** der **laufende Generator** (die Tür stünde offen, sie muss sie selbst zumachen), **Azzims Auftritt in +9** (ihr neues Zuhause ist nicht sicher) und das **älter werdende Kind** (je größer es wird, desto weiter rücken die beiden im Norden weg)
   - Sie hat den Preis also **bezahlt, bevor Tibun ankommt**
@@ -223,7 +224,7 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 - Im **Norden**: Azzims zweite Hälfte an der Tabustelle, die weiterlaufende Anlage am Fluss, ein Ring, der sich von allein wieder auflädt - und **niemand, der davon weiß**
 - In die **Wüste** geht bei jeder Zündung das Kugelvolumen der Nordseite über - **was genau, ist offen** · **???**
   > **Frühere Fassung gestrichen (03.09.2026):** *„rund 14 m³ jütisches Bachwasser und Erdreich"* und *„Tibun landet in einer Pfütze aus seiner Heimat"* stammten nicht vom Autor. **Der Ring im Norden liegt auf trockenem Grund** - es geht kein Flusswasser über
-- **Girlins Nachricht geht nicht über.** Sie **liegt fertig und wetterfest verpackt bereit** (03.09.2026) - sie kommt nur nicht mehr dazu, sie in den Ring zu legen. Der Angriff und die beiden Zündungen überholen ihr Vorhaben. Der Leser sieht das Ding und sieht es liegen bleiben
+- **Girlins Nachricht geht nicht über.** Sie **liegt fertig und wetterfest verpackt bereit** (03.09.2026) - ein Bündel aus einer Strähne ihres eigenen Haars, einem gewebten Stück und ihrer Mantelfibel (Autor, 09.09.2026) - sie kommt nur nicht mehr dazu, es in den Ring zu legen. Der Angriff und die beiden Zündungen überholen ihr Vorhaben. Der Leser sieht das Ding und sieht es liegen bleiben
 
 ### Schluss
 - Wiedersehen in der Schlucht, mitten im noch laufenden Kampf. Girlin erkennt ihn an **Augen und Gesicht** - und daran, dass niemand sonst durch den Ring kommen könnte. Keine Sprachbarriere zwischen beiden

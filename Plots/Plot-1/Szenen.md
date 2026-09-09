@@ -313,7 +313,7 @@ Mit der Geburt verschiebt sich, was sie will.
 
 ### 24 · Der Ring bekommt einen neuen Zweck
 
-> **POV:** Girlin · **Jahr +4** · **Offen:** Girlins Nachricht - Vorhaben ohne Ausführung · Die Nachricht - Art und Lesbarkeit im Norden
+> **POV:** Girlin · **Jahr +4** · **Offen:** Girlins Nachricht - Vorhaben ohne Ausführung
 
 Nicht mehr ihre Heimreise.
 
@@ -460,13 +460,13 @@ Rückkehr zum Ring; Bau der großen Wasseranlage.
 
 ### 37 · Die Nachricht liegt bereit
 
-> **POV:** Girlin · **Jahr +9** · **Offen:** Girlins Nachricht - Vorhaben ohne Ausführung · Die Nachricht - Art und Lesbarkeit im Norden
+> **POV:** Girlin · **Jahr +9** · **Offen:** Girlins Nachricht - Vorhaben ohne Ausführung
 
-Fertig und wetterfest verpackt.
+Fertig und wetterfest verpackt: ein Bündel aus einer **Strähne ihres eigenen Haars**, einem **gewebten Stück** aus ihrer Hand und ihrer **Mantelfibel**. Kein Schriftstück - im Norden kann niemand lesen, das weiß sie. Es ist für ihre **Familie** gedacht, und sie wählt, was ihre Leute auch ohne Schrift deuten.
 
 - **Will:** Ein Zeichen in den Norden schicken
 - **Hindernis:** ???
-- **Ausgang:** Die Nachricht liegt bereit. Was sie ist, ist offen.
+- **Ausgang:** Das Bündel liegt bereit.
 
 
 ### 38 · Der Weiler warnt und meidet

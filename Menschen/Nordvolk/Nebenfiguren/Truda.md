@@ -42,6 +42,8 @@ Truda war **7 oder 8**, als das jüngste Geschwisterkind starb - alt genug, sich
 
 Sie **erbt Girlins Kleingut** (Schmuck, Fibeln, Truhe), verwahrt bis zu ihrer Heirat, während [Millia](Millia.md) Webstuhl und Herd übernimmt. Der **Webkamm** fehlt darin - [Tibun](../Tibun.md) hat ihn sich genommen. Ob sie es weiß: **???**
 
+> **Anmerkung (09.09.2026):** Eine Fibel fehlt im Erbe ebenfalls - die **Mantelfibel**, die [Girlin](../Girlin.md) am Leib trug, als sie verschwand. Sie liegt in der Wüste in Girlins Bündel und sollte in den Norden zurück, kommt aber nie an. Truda hat damit alle Fibeln ihrer Mutter außer der einen. Nur als Zusammenhang notiert - ob und wie das im Text vorkommt, ist nicht entschieden.
+
 ---
 
 ## Bedeutung in der Geschichte

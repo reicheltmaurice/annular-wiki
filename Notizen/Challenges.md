@@ -62,7 +62,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-092: Namenssystem des Nordvolks ○](#c-092-namenssystem-des-nordvolks-)
 - [C-093: Prolog - Namen nach C-092 nachziehen ○](#c-093-prolog---namen-nach-c-092-nachziehen-)
 - [C-099: Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus ○](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-)
-- [C-101: Girlins Nachricht - Vorhaben ohne Ausführung ○](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-)
 - [C-102: Was bei Zündung 1 aus dem Norden verschwindet ○](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-)
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
 - [C-108: Der Kampf in der Schlucht während Tibuns Ankunft ○](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-)
@@ -81,7 +80,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-131: Generatorarbeit ohne Ring ○](#c-131-generatorarbeit-ohne-ring-)
 - [C-132: Womit die Schluchtgemeinschaft auf dem Basar bezahlt ○](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt-)
 - [C-133: Azzims Leute für den Angriff ○](#c-133-azzims-leute-für-den-angriff-)
-- [C-134: Die Nachricht - Art und Lesbarkeit im Norden ○](#c-134-die-nachricht---art-und-lesbarkeit-im-norden-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
 - [C-139: Erzählreihenfolge - verschränkt oder blockweise ○](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-)
@@ -147,6 +145,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-098: Woher Tibun die Schnittwirkung der Kugelgrenze kennt ✓](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-)
 - [C-100: Die Werkstatt an der Tabustelle ✓](#c-100-die-werkstatt-an-der-tabustelle-)
 - [C-104: Wasser als Motiv des Transports ✗](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-)
+- [C-101: Girlins Nachricht - Vorhaben ohne Ausführung ✓](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-)
 - [C-105: Der Neffe heißt Sekkan ✓](#c-105-der-neffe---name-eigenschaften-schweigebitte-)
 - [C-107: Azzims Motiv Wasser ✗](#c-107-azzims-motiv---wasser-statt-sklaverei-)
 - [C-109: Ladezeit des Konduktors ✓](#c-109-ladezeit-des-konduktors-)
@@ -158,6 +157,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-122: Der Wüstenstrang zwischen +8 und +10 ✓](#c-122-der-wüstenstrang-zwischen-8-und-10-)
 - [C-123: Azzims frühe Auftritte - vier, entschieden ✓](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-)
 - [C-127: Referenzdichte 7,8 g/cm³ ✓](#c-127-referenzdichte-)
+- [C-134: Die Nachricht - Art und Lesbarkeit im Norden ✓](#c-134-die-nachricht---art-und-lesbarkeit-im-norden-)
 - [C-137: Aufbau der Challenges-Datei ✓](#c-137-detailabschnitte-ab-c-099-stehen-unter-der-falschen-überschrift-)
 - [C-138: Abstand zwischen Beben und Blitz ✓](#c-138-abstand-zwischen-beben-und-blitz-)
 - [C-144: Das Feld „Will" ist uneinheitlich belegt ✓](#c-144-das-feld-will-ist-uneinheitlich-belegt-)
@@ -1705,7 +1705,7 @@ Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor---ladu
 
 ---
 
-### C-101: Girlins Nachricht - Vorhaben ohne Ausführung ○
+### C-101: Girlins Nachricht - Vorhaben ohne Ausführung ✓
 
 **Entschieden (Autor, 31.08.2026):** [Girlin](../Menschen/Nordvolk/Girlin.md) bleibt in der Wüste ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)). Was ihr bleibt, ist der Wunsch, **ein Zeichen durch den Ring zu schicken**, damit ihre Familie weiß, dass sie lebt.
 
@@ -1715,10 +1715,12 @@ Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor---ladu
 
 **Warum das die härtere Fassung ist:** Sie hat aufgegeben heimzukehren und will nur noch, dass ihre Kinder es *wissen*. Selbst das gelingt ihr nicht. Was sie stattdessen bekommt, ist ihr Sohn - nicht das, was sie geplant hat, sondern mehr.
 
-**Offen · ???**
-- **Was hätte sie hineingelegt?** Sie kann vermutlich nicht schreiben; es müsste ein Gegenstand sein, den nur ihre Leute deuten. Weben ist ihr Handwerk ([C-025](#c-025-girlin---charakter--fähigkeiten-)). Wenn das Vorhaben sichtbar werden soll, muss der Gegenstand **existieren** und im Text auftauchen, bevor es zu spät ist.
-- **Wie weit ist sie gekommen?** Hat sie das Zeichen schon gefertigt und liegt es griffbereit - oder ist es nur ein Gedanke? Das entscheidet, ob der Leser die verpasste Möglichkeit **sieht** oder nur davon hört.
-- **Für wen?** Tibun, [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md)?
+**Beantwortet (Autor, 09.09.2026)** → [C-134 ✓](#c-134-die-nachricht---art-und-lesbarkeit-im-norden-):
+- **Was sie hineinlegt:** ein **Bündel** aus einer Strähne ihres eigenen Haars, einem gewebten Stück und ihrer **Mantelfibel**. Kein Schriftstück.
+- **Wie weit sie gekommen ist:** Es liegt **fertig und wetterfest verpackt** bereit (03.09.2026) - der Leser sieht es und sieht es liegen bleiben.
+- **Für wen:** für die **Familie**, keine einzelne Person. Sie weiß nicht, dass [Tibun](../Menschen/Nordvolk/Tibun.md) fort ist.
+
+**Damit ist die Challenge geschlossen** (09.09.2026): Der Kern war seit 31.08.2026 entschieden, die drei offenen Details sind über [C-134 ✓](#c-134-die-nachricht---art-und-lesbarkeit-im-norden-) beantwortet.
 
 ---
 
@@ -2371,7 +2373,7 @@ Aus [C-123](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-) (03.09.2026):
 
 ---
 
-### C-134: Die Nachricht - Art und Lesbarkeit im Norden ○
+### C-134: Die Nachricht - Art und Lesbarkeit im Norden ✓
 
 Aus [C-101](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-) (03.09.2026): Die Nachricht ist **fertig und wetterfest verpackt** und liegt bereit. Der Leser sieht sie, bevor die Ereignisse sie überholen.
 
@@ -2382,7 +2384,16 @@ Aus [C-101](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-) (03.09.2026):
 - **Wer im Norden könnte es lesen?** [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) und [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) vermutlich nicht - und [Tibun](../Menschen/Nordvolk/Tibun.md) ist zu diesem Zeitpunkt seit Jahren fort.
 - **In welcher Schrift und Sprache?** Runen kämen infrage, aber nicht Bellbrims Schrift.
 
-Denkbar ist, dass Girlin das gar nicht bedenkt - dass sie etwas schickt, ohne zu wissen, ob es ankommt oder verstanden wird. Das wäre Verzweiflung statt Planung. **Entschieden ist nichts davon.**
+Denkbar ist, dass Girlin das gar nicht bedenkt - dass sie etwas schickt, ohne zu wissen, ob es ankommt oder verstanden wird. Das wäre Verzweiflung statt Planung.
+
+**Entschieden (Autor, 09.09.2026):**
+
+- **Es ist ein Bündel, kein einzelnes Ding.** Darin liegen eine **Strähne ihres eigenen Haars** (Autor, 09.09.2026), ein **gewebtes Stück** aus ihrer Hand und ihre **Mantelfibel** (Autor, 09.09.2026).
+- **Kein Schriftstück.** Die Lesbarkeitsfrage löst sich damit von selbst: Es gibt nichts zu lesen. [Bellbrim](../Menschen/Andere/Bellbrim.md) schreibt nichts auf.
+- **Sie wählt bewusst.** Kein Verzweiflungsgriff - sie überlegt, was ihre Leute deuten können, und stellt das Bündel danach zusammen. **Ihr ist bewusst, dass im Norden niemand lesen kann** (Autor, 09.09.2026); dass nichts Beschriebenes im Bündel liegt, ist deshalb kein Versäumnis, sondern Entscheidung.
+- **Empfänger ist die Familie**, keine einzelne Person. **Sie weiß nicht, dass [Tibun](../Menschen/Nordvolk/Tibun.md) fort ist** (Autor): Für sie sind alle noch zu Hause - sie schickt an einen Zustand, den es nicht mehr gibt.
+
+Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Szenen](../Plots/Plot-1/Szenen.md) (Szene 37).
 
 Berührt [C-025](#c-025-girlin---charakter--fähigkeiten-) (Weben ist ihr Handwerk) und [C-013](#c-013-runen---anordnung-anzahl-aussehen-).
 

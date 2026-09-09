@@ -66,6 +66,10 @@ Herkunftsort, Grund des Zuzugs und in welchem Jahr genau der Weiler einging: ???
 
 Verschwindet durch den Portalring in die Wüste und durchlebt dort einen eigenen Handlungsstrang (Bellbrim, Azzim u-Tawan, Reaktivierung des Rings). Siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md).
 
+**Ihr Antrieb in den letzten Jahren ist das Bündel** (Autor, 09.09.2026). Sie will nicht mehr selbst zurück, sondern nur noch, dass ihre Familie weiß, dass sie lebt. Dafür liegt fertig und wetterfest verpackt bereit: eine **Strähne ihres eigenen Haars**, ein **gewebtes Stück** aus ihrer Hand und ihre **Mantelfibel** - ein Stück aus dem Norden, das sie am Leib trug, als sie verschwand. Es ist zugleich das einzige Stück ihres Kleinguts, das [Truda](Nebenfiguren/Truda.md) nicht geerbt hat - es sollte zu ihr zurück und kommt nie an. Kein Schriftstück: **Ihr ist bewusst, dass im Norden niemand lesen kann**, also wählt sie, was ihre Leute auch ohne Schrift deuten.
+
+Sie richtet es an die **Familie**, nicht an eine einzelne Person, und **weiß nicht, dass [Tibun](Tibun.md) fort ist**: Für sie sind alle noch zu Hause. Sie kommt nie dazu, das Bündel in den Ring zu legen.
+
 ---
 
 ## Verbindungen zu anderen Charakteren
