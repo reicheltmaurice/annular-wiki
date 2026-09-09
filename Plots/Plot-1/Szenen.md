@@ -256,9 +256,9 @@ Bernstein durch Handel und eigenes Sammeln.
 
 ### 19 · Sekkan
 
-> **POV:** Girlin · **Jahr +3** · **Offen:** Durchgebrannte Ehefrau bei den Kel Aman · Der Häuptling der Kel Aman ist namenlos
+> **POV:** Girlin · **Jahr +3** · **Offen:** Durchgebrannte Ehefrau bei den Kel Aman · Ishman - Eigenschaften und Haltung
 
-Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem Neffen des Häuptlings.
+Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem Neffen des Häuptlings [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md).
 
 - **Will:** ???
 - **Hindernis:** ???
@@ -324,7 +324,7 @@ Nicht mehr ihre Heimreise.
 
 ### 25 · Die Bitte
 
-> **POV:** Girlin · **Jahr +5** · **Offen:** Der Häuptling der Kel Aman ist namenlos
+> **POV:** Girlin · **Jahr +5** · **Offen:** Ishman - Eigenschaften und Haltung
 
 Sie bittet den Clan, den Ring zu holen.
 
@@ -335,7 +335,7 @@ Sie bittet den Clan, den Ring zu holen.
 
 ### 26 · Die Trennung vom Clan
 
-> **POV:** Girlin · **Jahr +5** · **Offen:** Die Schutzlücke verschiebt sich von +8 auf +5 · Der Häuptling der Kel Aman ist namenlos
+> **POV:** Girlin · **Jahr +5** · **Offen:** Die Schutzlücke verschiebt sich von +8 auf +5 · Ishmans Reaktion auf den Bruch
 
 Die drei lösen sich und ziehen zu Bellbrim.
 

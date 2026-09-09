@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| **Rolle** | Neffe des Häuptlings der [Kel Aman](../../../Kulturen/Kel-Aman/README.md); Partner [Girlins](../../Nordvolk/Girlin.md) ab Jahr +3 |
+| **Rolle** | Neffe des Häuptlings [Ishman](Ishman.md) der [Kel Aman](../../../Kulturen/Kel-Aman/README.md); Partner [Girlins](../../Nordvolk/Girlin.md) ab Jahr +3 |
 | **Alter** | **etwa 37** bei Beziehungsbeginn (Jahr +3) · etwa 44 im Finale (Jahr +10) - gleicher Jahrgang wie [Girlin](../../Nordvolk/Girlin.md), exakte Zahl nicht festgelegt |
 | **Herkunft** | Clan der [Kel Aman](../../../Kulturen/Kel-Aman/README.md), [Fezzan](../../../Welt/README.md) |
 
@@ -18,7 +18,7 @@
 
 | | |
 |---|---|
-| **Onkel** | Häuptling des Clans - ??? (siehe [Nebenfiguren](README.md)) |
+| **Onkel** | [Ishman](Ishman.md), Häuptling des Clans, **etwa 55** (Jahr 0) |
 | **Frühere Ehefrau** | mit einem anderen Mann durchgebrannt - Name ??? |
 | **Partnerin** | [Girlin](../../Nordvolk/Girlin.md) |
 | **Kind** | Girlins drittes Kind, geboren Jahr +4 - ??? |
@@ -27,7 +27,7 @@
 
 ## Frühes Leben
 
-??? Im Clan aufgewachsen, Blut des Häuptlings.
+??? Im Clan aufgewachsen, Blut des Häuptlings [Ishman](Ishman.md).
 
 ---
 
@@ -48,16 +48,16 @@ Seine **Frau ist zuvor mit einem anderen Mann durchgebrannt** - er ist öffentli
 1. **Jahr +5: Er löst sich vom Clan** und zieht mit Girlin und dem Kind zu [Bellbrim](../../Andere/Bellbrim.md) in die Schlucht - er verliert dafür seine Sippe. Der teuerste Preis, den im Buch jemand außer [Tibun](../../Nordvolk/Tibun.md) zahlt.
 2. **Er hilft, die Hilfe des Clans zu erwirken.** Girlin bittet selbst - er bittet nicht für sie, sein Einfluss hilft ihr. Sie arbeiten als Team. Der Clan sagt aus **Sippenpflicht** gegenüber dem Neffen zu, nicht ihretwegen.
 3. **Er hält die vier am Leben** - Jagd, Handel, Wege.
-4. **Er verteidigt die Schlucht im Finale.** Was ihn das kostet: ???
+4. **Er verteidigt die Schlucht im Finale - und wird dabei verwundet.** Er überlebt und **verliert das linke Auge**. Die Verwundung bleibt sichtbar - der Angriff ist über das Finale hinaus an ihm ablesbar. Hergang der Verletzung und was sie für ihn als Jäger und Wegekenner bedeutet: ???
 
-Im Finale bleibt Girlin **bei ihm**.
+Im Finale bleibt Girlin **bei ihm** - er lebt, gezeichnet: einäugig.
 
 ---
 
 ## Verbindungen zu anderen Charakteren
 
 - Partnerin: [Girlin](../../Nordvolk/Girlin.md)
-- Onkel: Häuptling der Kel Aman - ???
+- Onkel: [Ishman](Ishman.md), Häuptling der Kel Aman
 - Lebt mit: [Bellbrim](../../Andere/Bellbrim.md)
 - Gegenspieler im Finale: [Azzim u-Tawan](../Azzim-u-Tawan.md)
 

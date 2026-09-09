@@ -21,7 +21,7 @@
 | **Sohn** | [Tibun](Tibun.md) |
 | **Tochter** | [Truda](Nebenfiguren/Truda.md) |
 | **Drittes Kind** | geboren in der Wüste, Jahr +4 (Girlin 38), im Finale **6** - Vater und Name: **???** |
-| **Verstorbene Kinder** | **drei** - eines zwischen Tibun und Truda, zwei danach; das letzte **ein bis zwei Winter vor ihrem Verschwinden** |
+| **Verstorbene Kinder** | **drei** - eines zwischen Tibun und Truda, zwei danach; das letzte **ein bis zwei Winter vor ihrem Verschwinden**, ein **Säugling von wenigen Wochen**, begraben in einer unmarkierten Grube auf dem Hofgelände |
 | **Ehemann** | [Semund](Nebenfiguren/Semund.md) |
 
 ---

@@ -26,7 +26,14 @@
 
 **Zugewandert.** Niemand weiß, wessen Töchter die Zwillinge sind oder woher sie kamen - das gehört zu ihrer Aura. Sie haben in der Gegend keine Sippe, keinen Hof und keine Verwandten, an denen man sie messen könnte.
 
-Beide sind mit **etwa 35** auffallend jung für ihr Ansehen. Woher ihre Autorität kommt, wenn weder Alter noch Herkunft sie tragen: ???
+Beide sind mit **etwa 35** auffallend jung für ihr Ansehen. Ihre Autorität ruht auf **vier Säulen zugleich** (Autor, 08.09.2026):
+
+1. **Eine früh und öffentlich gezeigte Gabe** - etwas ist eingetroffen, was sie vorhergesagt haben. Was genau: ???
+2. **Das Erbe einer älteren Wala** - sie sind bei einer Vorgängerin ausgebildet und haben deren Rang übernommen. Wer sie war und wo: ???
+3. **Die Zwillingsgeburt selbst** - zwei Frauen mit einer Stimme gelten als Zeichen, nicht als Zufall.
+4. **Das Fremdsein selbst** - gerade weil sie zu keiner Sippe gehören, gelten sie als unparteiisch. Kein Hof, an dem ihr Spruch etwas gewinnt.
+
+Alter und Sippe tragen ihr Ansehen also nicht - und müssen es nicht: Gabe, Erbe, Zeichen und Unparteilichkeit tun es zusammen.
 
 ---
 

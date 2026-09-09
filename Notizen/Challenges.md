@@ -98,10 +98,13 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-146: Was Girlin vom Flip wahrnimmt ○](#c-146-was-girlin-vom-flip-wahrnimmt-)
 - [C-149: Wie die Kel Aman den Ring religiös einordnen ○](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-)
 - [C-150: Was Bellbrim vom Wissen der Kel Aman hat ○](#c-150-was-bellbrim-vom-wissen-der-kel-aman-hat-)
-- [C-151: Was die Verteidigung der Schlucht Sekkan kostet ○](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-)
-- [C-152: Der Häuptling der Kel Aman ist namenlos ○](#c-152-der-häuptling-der-kel-aman-ist-namenlos-)
-- [C-153: Haduriks Nachfolge in Tingsal ○](#c-153-haduriks-nachfolge-in-tingsal-)
-- [C-154: Woher die Autorität der Walas kommt ○](#c-154-woher-die-autorität-der-walas-kommt-)
+- [C-152: Ishman - Häuptling der Kel Aman ○](#c-152-ishman---häuptling-der-kel-aman-)
+- [C-156: Der Wald am Skir - Größe, Abstand, stehendes Gewässer ○](#c-156-der-wald-am-skir---größe-abstand-stehendes-gewässer-)
+- [C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ○](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-)
+- [C-160: Bröckelt die Angst des Dorfes über die Zeit? ○](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
+- [C-161: Erhebt Girlins Herkunftssippe Anspruch? ○](#c-161-erhebt-girlins-herkunftssippe-anspruch-)
+- [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
+- [C-170: Vatersnamen für Sekkan und Ishman ○](#c-170-vatersnamen-für-sekkan-und-ishman-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -167,6 +170,19 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-145: „Ohne Hindernis" wird zu niedrig gezählt ✓](#c-145-ohne-hindernis-wird-zu-niedrig-gezählt-)
 - [C-147: Die Nummer ist die Erzählreihenfolge ✓](#c-147-die-nummer-ist-die-erzählreihenfolge-)
 - [C-148: Der Statusmarker im Titel bricht die Anker ✓](#c-148-der-statusmarker-im-titel-bricht-die-anker-)
+- [C-151: Was die Verteidigung der Schlucht Sekkan kostet ✓](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-)
+- [C-153: Haduriks Nachfolge in Tingsal ✓](#c-153-haduriks-nachfolge-in-tingsal-)
+- [C-154: Woher die Autorität der Walas kommt ✓](#c-154-woher-die-autorität-der-walas-kommt-)
+- [C-155: Breite und Tiefe des Skir ✓](#c-155-breite-und-tiefe-des-skir-)
+- [C-158: Klang und Gewicht des Rings ✓](#c-158-klang-und-gewicht-des-rings-)
+- [C-159: Filiation im Erzähltext der Kel Aman ✓](#c-159-filiation-im-erzähltext-der-kel-aman-)
+- [C-162: Das letzte tote Kind - Jahr und Sichtbarkeit ✓](#c-162-das-letzte-tote-kind---jahr-und-sichtbarkeit-)
+- [C-163: Womit Tibun die Werkstatt bezahlt ✓](#c-163-womit-tibun-die-werkstatt-bezahlt-)
+- [C-164: Gilt die halbe Stunde Ladezeit auch im Normalbetrieb? ✓](#c-164-gilt-die-halbe-stunde-ladezeit-auch-im-normalbetrieb-)
+- [C-165: Wie Azzim von Girlin erfährt ✓](#c-165-wie-azzim-von-girlin-erfährt-)
+- [C-166: Bleibt Sekkans Wunde? ✓](#c-166-bleibt-sekkans-wunde-)
+- [C-167: Wer folgt Hadurik in Tingsal? ✓](#c-167-wer-folgt-hadurik-in-tingsal-)
+- [C-168: Was außer dem Skarabäus im Sand steckt ✓](#c-168-was-außer-dem-skarabäus-im-sand-steckt-)
 
 ---
 
@@ -305,7 +321,7 @@ Die Kosmologie ([Welt/README.md](../Welt/README.md)) ist ein zyklischer Loop des
 - **Austausch:** Beide gepaarten Ringe (Skir + Kel Aman) drehen **gleichzeitig**. **Ganze Kugel inkl. Erdreich:** untere Halbkugel im Boden → Halbkugel Schlei-Erde ↔ Halbkugel Wüstensand (= die **Sandmulde**).
 - **Harter Tausch:** Inhalt 1:1, kompromisslos, auch bei stark verschiedenem Inhalt (Luft ↔ massiver Sand). Keine Sonderregeln, kein „Ausgleich".
 - **Der Ring bleibt liegen.** Da er nicht mitgetauscht wird, ruht er unverändert in seinem eigenen Bett; die Mulde entsteht **innerhalb** von ihm. Kein Verrutschen, keine fremde Auflage.
-- **Person/Inhalt:** frei stehend, **ohne Plattform/Halterung** (jede feste Verankerung würde mitgetauscht oder an der Kante geschnitten - Schwerkraft genügt). **Aber:** Die Kugel reicht nur **1,50 m über die Ringebene** - **stehend** reist nur, wer eine **Mulde** hat (Tiefe offen · **???**); im rohen Ring bleiben 1,50 m Kopffreiheit, dort reist nur, wer **liegt**. So überlebt Girlin ihren Sturz → **C-084**.
+- **Person/Inhalt:** frei stehend, **ohne Plattform/Halterung** (jede feste Verankerung würde mitgetauscht oder an der Kante geschnitten - Schwerkraft genügt). **Aber:** Die Kugel reicht nur **1,50 m über die Ringebene** - **stehend** reist nur, wer eine **Mulde** hat (Tiefe offen · **???** → [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe-)); im rohen Ring bleiben 1,50 m Kopffreiheit, dort reist nur, wer **liegt**. So überlebt Girlin ihren Sturz → **C-084**.
 - **Optik:** Aus dem Ring tritt **nichts aus** (vgl. C-002); grünes Glühen der Runennuten begleitet die Aktivierung (C-010).
 - **Konsistenz:** deckt Girlins Verschwinden (C-008), Paar-Mechanik & Ringgrößen (C-010).
 - **Ausgelagerte Restpunkte:** C-013 (Runen), C-014 (Karawanen-Aufmerksamkeit), C-015 (Drehung↔Tausch), C-084 (Mulde & Standfläche).
@@ -452,7 +468,7 @@ Erweitert die Signal-Grammatik aus C-010 (Puls=Kopplung / Dauerglühen=Aktivieru
 ### C-022: Tibuns Reise - Dauer, Motiv, Hof ✓
 
 **Entscheidung:**
-- **Dauer & Form:** Tibun ist rund **8 Jahre** unterwegs (17 → 25, festgelegt in der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md)/C-023) - keine kurze Hin-und-Rück-Tour. **Endpunkt und Wendepunkt** ist [Kaupvik](../Orte/Kaupvik.md); von dort kehrt er **direkt nach Skirraa** zurück, um die große Anlage zu bauen. Der genaue Reiseverlauf bis Kaupvik ist **noch offen**. Die Jahreszeit-Sorge entschärft sich durch die lange Dauer (Reise über viele Saisons). Wovon er unterwegs lebt → C-034.
+- **Dauer & Form:** ~~Tibun ist rund **8 Jahre** unterwegs~~ - **präzisiert durch [C-115 ✓](#c-115-tibuns-wanderjahre---die-stationen-fehlen-) (02.09.2026): Es sind keine Wanderjahre.** Skirraa↔Kaupvik sind **~14 Tagesmärsche**; die acht Jahre (17 → 25) verbringt er **in [Kaupvik](../Orte/Kaupvik.md)**, nicht auf der Straße. **Endpunkt und Wendepunkt** ist Kaupvik; von dort kehrt er **direkt nach Skirraa** zurück, um die große Anlage zu bauen. Auf der Hinreise gibt es **eine Zwischenstation** - Ort und Gruppe offen → [C-124](#c-124-die-zwischenstation---ort-und-gruppe-). Wovon er unterwegs lebt → [C-034 ✓](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft-).
 - **Motiv (dreifach):**
   1. **Bernstein** - Material für seinen Reibungsgenerator (C-002).
   2. **Wissen über den Portalring** - der eigentliche Antrieb: Durch einen solchen Ring verschwand seine Mutter [Girlin](../Menschen/Nordvolk/Girlin.md) (C-008). Die Suche nach ihr trägt die weite Reise emotional - der frühere Zweifel am Reisegrund ist ausgeräumt.
@@ -755,7 +771,7 @@ Charakter: **Sie webt besser als [Millia](../Menschen/Nordvolk/Nebenfiguren/Mill
 
 [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) (Häuptling von [Tingsal](../Orte/Tingsal.md)): Alter, Familie, Frühes Leben, Fähigkeiten, Inspiration auf `???`. Charakter und Rolle als regionale Autorität laufen bereits unter [C-009](#c-009-häuptling-von-tingsal-) - diese Challenge deckt die **Personendaten**, C-009 die Story-Funktion.
 
-**Teilentscheidung (Autor, 08.09.2026):** Hadurik ist in Jahr 0 **etwa 60** - alt und lange im Amt. Damit läuft die **Nachfolgefrage** im Hintergrund mit → [C-153](#c-153-haduriks-nachfolge-in-tingsal-). Eingetragen in [Hadurik.md](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md). **Weiter offen:** Familie, frühes Leben, Fähigkeiten, Inspiration.
+**Teilentscheidung (Autor, 08.09.2026):** Hadurik ist in Jahr 0 **etwa 60** - alt und lange im Amt. Damit läuft die **Nachfolgefrage** im Hintergrund mit → [C-153 ✓](#c-153-haduriks-nachfolge-in-tingsal-). Eingetragen in [Hadurik.md](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md). **Weiter offen:** Familie, frühes Leben, Fähigkeiten, Inspiration.
 ---
 
 ### C-049: Wala von Tingsal - offene Felder ○
@@ -816,17 +832,17 @@ Der [Skir](../Orte/Skirraa.md) ist bisher nur als „Bach" geführt, ohne Größ
 
 **Offene Kernfrage:** Ist der Wald am See identisch mit dem heiligen Hain **Vilund** ([C-016 ✓](#c-016-schicksal-von-vilund-)) oder ein getrennter Ort? Das entscheidet, ob der Ring direkt neben der Kultstätte liegt.
 
-Status: **???** - in Klärung.
+~~Status: **???** - in Klärung.~~ **Erledigt am 08.09.2026** - siehe Entscheidung unten.
 
 **Entschieden (Autor, 08.09.2026):**
 
-**Der Skir ist ein kleiner Fluss, durchwatbar** - kein Bach. Damit stimmen Name (*-aa*), Wasserrad ([C-002](#c-002-tibuns-elektrizitätsquelle-)) und reales Gegenstück (Uggerby Å) überein. Breite und Tiefe im Einzelnen: ???
+**Der Skir ist ein kleiner Fluss, durchwatbar** - kein Bach. Damit stimmen Name (*-aa*), Wasserrad ([C-002](#c-002-tibuns-elektrizitätsquelle-)) und reales Gegenstück (Uggerby Å) überein. Breite und Tiefe im Einzelnen: entschieden in [C-155 ✓](#c-155-breite-und-tiefe-des-skir-) - **4-6 Schritt breit, knietief** an der Furt
 
-**Der Wald am Skir und der heilige Hain [Vilund](../Orte/sonstiges.md) sind derselbe Ort** - ein Waldstück in der Heide, das beides trägt. **Der Ring liegt nicht an der Zeremonienstelle**, sondern ein Stück davon entfernt im selben Wald. Wie weit: ???
+**Der Wald am Skir und der heilige Hain [Vilund](../Orte/sonstiges.md) sind derselbe Ort** - ein Waldstück in der Heide, das beides trägt. **Der Ring liegt nicht an der Zeremonienstelle**, sondern ein Stück davon entfernt im selben Wald. Wie weit: **???** → [C-156](#c-156-der-wald-am-skir---größe-abstand-stehendes-gewässer-)
 
 **Das ist der stärkere Kontrast als zwei getrennte Orte:** Das Volk geht in den Wald, um an der Lichtung zu opfern, und geht dabei an dem vorbei, was wirklich dort liegt. Es verehrt einen Ort, an dem nichts ist - und übersieht wenige Schritte weiter das Ding, das eine Frau verschluckt.
 
-> **Streichvermerk:** Der **„See/Tümpel stromaufwärts als Badeplatz der Jugend"** oben stammte nicht vom Autor und ist gestrichen (Rückfrage 08.09.2026: *„Was für ein Badeplatz??"*). Ob es im Wald ein stehendes Gewässer gibt, ist **offen · ???**. Eingetragen in der Altlast-Tabelle von [C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-).
+> **Streichvermerk:** Der **„See/Tümpel stromaufwärts als Badeplatz der Jugend"** oben stammte nicht vom Autor und ist gestrichen (Rückfrage 08.09.2026: *„Was für ein Badeplatz??"*). Ob es im Wald ein stehendes Gewässer gibt, ist **offen · ???** → [C-156](#c-156-der-wald-am-skir---größe-abstand-stehendes-gewässer-). Eingetragen in der Altlast-Tabelle von [C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-).
 
 Nachgezogen in [Skirraa.md](../Orte/Skirraa.md), [sonstiges.md](../Orte/sonstiges.md), [Tibun.md](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen](../Plots/Plot-1/Szenen.md), beiden Wala-Dateien und den [Bild-Prompts](Bild-Prompts.md) - überall „Bach" → „Fluss".
 
@@ -936,7 +952,7 @@ Der Autor hat das Geheimnis-Konzept selbst verworfen: **Wie die Nomaden navigier
 
 **Damit hinfällig:** die Schweigebitte des Neffen aus [C-060 ✓](#c-060-girlin-und-der-neffe-) und [C-105](#c-105-der-neffe---name-eigenschaften-schweigebitte-). Der Neffe braucht ein anderes Profil → dort vermerkt.
 
-**Verbleibende ???:** ab wann genau Girlin als „eine der Ihren" gilt, und wie die Bitte an den Clan konkret ergeht.
+**Verbleibende ???:** ab wann genau Girlin als „eine der Ihren" gilt, und wie die Bitte an den Clan konkret ergeht → [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-).
 
 ---
 
@@ -1090,7 +1106,7 @@ Die alte Autorennotiz nennt es „ein unbekanntes **Metall**". [C-004 ✓](#c-00
 
 Erzählerisch entscheidend, weil daran hängt, **wie eine Figur von 550 es einordnet**: „ein Metall, das ich nicht kenne" ist eine ganz andere Reaktion als „das ist kein Metall, das ist gar nichts, was ich kenne". Berührt [C-037](#c-037-ringoptik-im-erzähltext-ohne-anachronismus-) und [C-074](#c-074-haptik-der-ringoberfläche-). Klein, aber sollte vor der Fundszene stehen.
 
-**Entschieden (Autor, 08.09.2026):** **Metall auf den ersten Blick.** Der Ring sieht aus wie Metall, und eine Figur greift zuerst zu dieser Schublade; beim Anfassen verhält er sich falsch (temperaturlos, siehe [C-074 ✓](#c-074-haptik-der-ringoberfläche-)). Die Irritation kommt erst beim zweiten Hinsehen - erzählerisch ergiebiger als sofortige Ratlosigkeit, weil die Figur eine Erwartung mitbringt, die dann bricht. Eingetragen in [Portalringe.md](../Technik/Portalringe.md). **Offen bleibt (???):** ob er beim Anschlagen klingt und wie schwer er sich anfühlt - beides sind weitere Stellen, an denen die Metall-Erwartung brechen oder halten kann.
+**Entschieden (Autor, 08.09.2026):** **Metall auf den ersten Blick.** Der Ring sieht aus wie Metall, und eine Figur greift zuerst zu dieser Schublade; beim Anfassen verhält er sich falsch (temperaturlos, siehe [C-074 ✓](#c-074-haptik-der-ringoberfläche-)). Die Irritation kommt erst beim zweiten Hinsehen - erzählerisch ergiebiger als sofortige Ratlosigkeit, weil die Figur eine Erwartung mitbringt, die dann bricht. Eingetragen in [Portalringe.md](../Technik/Portalringe.md). **Offen bleibt (???):** ob er beim Anschlagen klingt und wie schwer er sich anfühlt → [C-158](#c-158-klang-und-gewicht-des-rings-).
 ---
 
 ### C-076: Abklingdauer des grünen Leuchtens ✓
@@ -1402,7 +1418,7 @@ Damit ist jeder künftige Name prüfbar - der Namenstest des [Weltenbau-Leitfade
 
 Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Menschen/Wuestenvolk/Azzim-u-Tawan.md`, `Kulturen/Kel-Aman/` umbenannt, alle Links und [SUMMARY.md](../SUMMARY.md) angepasst. (`Menschen/Wuestenvolk/Kel-Aman.md` ist seit dem 05.09.2026 in [Kulturen/Kel Aman](../Kulturen/Kel-Aman/README.md) aufgelöst; der Figurenordner heißt seit dem 05.09.2026 `Menschen/Kel-Aman/`.)
 
-**Kleiner Restpunkt:** ob die Filiation `u-`/`ult-` auch im **Erzähltext** auftaucht oder nur im Wiki steht · **???**
+**Kleiner Restpunkt:** ob die Filiation `u-`/`ult-` auch im **Erzähltext** auftaucht oder nur im Wiki steht · **???** → [C-159](#c-159-filiation-im-erzähltext-der-kel-aman-)
 
 **Nicht Teil dieser Challenge:** „Atem der Erde", „Augen des Geistes", „Kinder des Windes" und die matrilinearen Clan-Mütter sind Begriffe und Bräuche, keine Namen → [C-003](#c-003-kel-aman---kulturelle-tiefe-). Die Namen des Nordvolks → [C-092](#c-092-namenssystem-des-nordvolks-).
 
@@ -1492,7 +1508,7 @@ Die untere Halbkugel misst 1,50 m Radius → **rund 7 m³ Wüstensand**, etwa 11
 - **Setzung:** Lockerer Sand sackt gegenüber gewachsenem Boden - eine flache Senke, keine Grube.
 - **Wasser:** Sand ist durchlässig, der Regen sickert durch. Der **Bach schneidet die Kante an** und trägt hellen Sand ab; noch Wochen später ist das Ufer bachabwärts hell gesäumt.
 - **Langfristig:** Wüstensand ist nährstofffrei - dort wächst jahrelang nichts. Eine kahle helle Fläche mitten in der Heide. **Der Ort markiert sich selbst**, niemand muss ihn kennzeichnen.
-- **Das Verräterische:** was im Sand steckt. **Entschieden (Autor, 07.09.2026): ein Skarabäus, mit dem Sand aus dem Fezzan mitgekommen und an der Skir liegend.** Er gehört nicht nach Jütland. **Die Kugelgrenze hat ihn zerteilt:** An der Skir liegt die eine Hälfte, im Fezzan die andere - [Girlin](../Menschen/Nordvolk/Girlin.md) findet sie dort neben glatt durchtrennten Steinen aus Skirraa. Dasselbe Tier an zwei Orten, sauber geschnitten, ohne dass eine der beiden Figuren von der anderen Hälfte weiß. Ob noch weiteres im Sand steckt, ist offen · **???**
+- **Das Verräterische:** was im Sand steckt. **Entschieden (Autor, 07.09.2026): ein Skarabäus, mit dem Sand aus dem Fezzan mitgekommen und an der Skir liegend.** Er gehört nicht nach Jütland. **Die Kugelgrenze hat ihn zerteilt:** An der Skir liegt die eine Hälfte, im Fezzan die andere - [Girlin](../Menschen/Nordvolk/Girlin.md) findet sie dort neben glatt durchtrennten Steinen aus Skirraa. Dasselbe Tier an zwei Orten, sauber geschnitten, ohne dass eine der beiden Figuren von der anderen Hälfte weiß. Sonst steckt **nichts** im Sand ([C-168 ✓](#c-168-was-außer-dem-skarabäus-im-sand-steckt-)) - ein einziger Fremdkörper, kein Fundhaufen
 
 #### Die Auflösung des Widerspruchs (Autor, 31.08.2026)
 **Das Dorf glaubt das Ereignis - es glaubt nur Tibuns Deutung nicht.**
@@ -1516,9 +1532,9 @@ Der Ort wird **nicht abgesperrt und nicht bewacht** - er wird gemieden. Die Wala
 - Und die Rechtsgrundlage für Semunds Wiederheirat ist mitgeliefert → [C-095](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-semund-neu-heiraten-).
 
 **Neu offen daraus:**
-- Wenn Tibun das Tabu **jahrelang bricht und nichts passiert** - bröckelt die Angst der anderen dann? Wer bemerkt es zuerst? · **???**
-- Was geschieht, wenn er später eine **große Wasseranlage** dort baut ([C-002](#c-002-tibuns-elektrizitätsquelle-))? Ein Wasserrad an der Skir ist nicht zu verbergen. Das ist der Punkt, an dem das Dorf reagieren **muss** - und der Kampf um den Ring beginnt, den der Leitfaden bisher vermisst. · **???**
-- Kommt die wandernde Wala im Verlauf der zehn Winter **zurück**? Vom Autor als **nicht vorrangig** eingestuft - wird beim Schreiben entschieden, wenn eine Szene es verlangt. · **???**
+- Wenn Tibun das Tabu **jahrelang bricht und nichts passiert** - bröckelt die Angst der anderen dann? Wer bemerkt es zuerst? · **???** → [C-160](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
+- Was geschieht, wenn er später eine **große Wasseranlage** dort baut ([C-002](#c-002-tibuns-elektrizitätsquelle-))? Ein Wasserrad an der Skir ist nicht zu verbergen. Das ist der Punkt, an dem das Dorf reagieren **muss** - und der Kampf um den Ring beginnt, den der Leitfaden bisher vermisst. · **???** → [C-160](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
+- ~~Kommt die wandernde Wala im Verlauf der zehn Winter **zurück**?~~ **Entschieden (Autor, 08.09.2026): Ja - sie kehrt zurück und bleibt bei ihrem Spruch** ([C-050](#c-050-wandernde-wala---offene-felder-)).
 
 ---
 
@@ -1554,7 +1570,7 @@ Das widerspricht der Frist und dem Vorrang der religiösen Autorität nicht: Erl
 | **Millia übernimmt Webstuhl und Herd** | Ein Gewichtswebstuhl ist kein Andenken, sondern das wichtigste Arbeitsgerät im Haus. Ihn zehn Winter ungenutzt stehen zu lassen, kann sich niemand leisten - Sentimentalität ist dieser Epoche fremd. Ein Haus braucht eine Herrin. |
 | **[Tibun](../Menschen/Nordvolk/Tibun.md) erbt nichts** | Er ist der Einzige, der weiß, dass sie lebt - und der Einzige, dem nichts von ihr bleibt. |
 | **Er nimmt sich den Webkamm** | Ein Stück ihres Frauenguts, das rechtlich Truda zusteht. Ein kleiner Diebstahl an der eigenen Schwester, den er zehn Winter mit sich trägt. |
-| **Die Herkunftssippe** | hat keinen Anspruch, weil Kinder da sind - **könnte** ihn aber erheben. Als Konfliktlinie verfügbar, nicht gesetzt. · **???** |
+| **Die Herkunftssippe** | hat keinen Anspruch, weil Kinder da sind - **könnte** ihn aber erheben. Als Konfliktlinie verfügbar, nicht gesetzt. · **???** → [C-161](#c-161-erhebt-girlins-herkunftssippe-anspruch-) |
 
 **Warum der Webkamm und nicht ein Bernstein:** Der Bernstein ist im Plot bereits besetzt - er ist der Schlüssel zur [Elektrizität](../Technik/Elektrizitaet.md). Wäre das Erinnerungsstück an die Mutter zugleich das Werkzeug, das sie zurückholt, wird die Geschichte glatt und rutscht in Richtung Deus ex Machina. Der Webkamm ist besser, **weil er nichts kann**: Werkzeug statt Schmuck, Arbeit statt Wert. - **Regel dazu:** Der Kamm bleibt ein Kamm. Horn und Knochen laden sich beim Reiben zwar auf, aber daraus einen stillen Vorgriff auf Tibuns Entdeckung zu machen, wäre derselbe Fehler.
 
@@ -1594,7 +1610,7 @@ Aus dem korrigierten Altersgerüst ([C-096 ✓](#c-096-korrektur---girlins-alter
 |---|---|
 | **Eines** | zwischen Tibun und Truda (Girlin ~21-23) |
 | **Zwei** | nach Truda |
-| **Das letzte** | **kurz vor Girlins Verschwinden** - ein bis zwei Winter davor, Girlin 32 oder 33. Genaues Jahr: **???** |
+| **Das letzte** | **kurz vor Girlins Verschwinden** - ein bis zwei Winter davor, Girlin 32 oder 33. Genaues Jahr: **???** → [C-162](#c-162-das-letzte-tote-kind---jahr-und-sichtbarkeit-) |
 
 Damit sind es fünf Schwangerschaften in sechzehn Ehejahren bei zwei überlebenden Kindern. Das ist für 550 kein Unglück, sondern der **Durchschnitt** - grob jedes dritte bis vierte Kind erreichte das Erwachsenenalter nicht.
 
@@ -1604,7 +1620,7 @@ Damit sind es fünf Schwangerschaften in sechzehn Ehejahren bei zwei überlebend
 - **Es verstärkt Girlins Motiv, ohne es zu erklären.** Sie hat Kinder verloren, die sie nicht zurückholen konnte. Tibun und Truda **kann** sie zurückholen - das ist der Unterschied, an dem sich ihr Wille festhält ([C-025](#c-025-girlin---charakter--fähigkeiten-)).
 - **Truda war alt genug, um sich zu erinnern** (7 oder 8), Tibun ebenfalls (14 oder 15, also um die Zeit des *Prologs*).
 
-**Offen:** ob und wie es im Erzähltext sichtbar wird - ein Grab, ein Satz, ein Name, den niemand ausspricht. Der Autor hält sich die Möglichkeit offen. · **???**
+**Offen:** ob und wie es im Erzähltext sichtbar wird - ein Grab, ein Satz, ein Name, den niemand ausspricht. Der Autor hält sich die Möglichkeit offen. · **???** → [C-162](#c-162-das-letzte-tote-kind---jahr-und-sichtbarkeit-)
 
 ---
 
@@ -1650,9 +1666,9 @@ Betrifft [C-002](#c-002-tibuns-elektrizitätsquelle-) und [C-020](#c-020-vorwarn
 Ein Dach an der Stelle, die die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) zum Tabu erklärt hat ([C-094 ✓](#c-094-der-sand-an-der-skir---was-das-dorf-sieht-und-wie-es-deutet-)), ist keine heimliche Arbeit mehr, sondern eine **öffentliche Ansage**. Damit hat der Nordstrang in den Jahren +9 bis +10 endlich einen eigenen Konflikt, statt nur auf das Finale zu warten - und der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) bekommt eine Antwort auf seine Frage *„Wer will den Ring außer Tibun?"*.
 
 **Zu klären · ???**
-- **Womit baut er?** Bauholz, Arbeitskraft und Werkzeug sind in dieser Epoche teuer. Wovon bezahlt er das nach acht Jahren Wanderschaft? Berührt [C-034](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft-).
+- **Womit baut er?** Bauholz, Arbeitskraft und Werkzeug sind in dieser Epoche teuer. Wovon bezahlt er das nach acht Jahren Wanderschaft? → [C-163](#c-163-womit-tibun-die-werkstatt-bezahlt-)
 - **Duldet oder verbietet das Dorf es?** Ein Tabubruch dieser Größe verlangt eine Reaktion - Warnung, Boykott, Gewalt, Anrufung des Things.
-- **Was tut die Wala?** Sie ist wandernd, also nicht ständig da. Kommt sie zurück? Ihr Urteil hat den Sand zum Zeichen der Götter erklärt - Tibun stellt ein Dach darüber.
+- **Was tut die Wala?** Ihr Urteil hat den Sand zum Zeichen der Götter erklärt - Tibun stellt ein Dach darüber. **Dass sie zurückkehrt und bei ihrem Spruch bleibt, ist entschieden** (Autor, 08.09.2026, [C-050](#c-050-wandernde-wala---offene-felder-)); wie sie auf die Werkstatt reagiert, gehört zu [C-160](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-).
 - **Wie steht [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) dazu**, und wie [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) → [C-077](#c-077-tibun-und-truda-nach-girlins-verschwinden-)?
 - **Was rettet ihn davor, vertrieben zu werden?** Ohne Antwort steht die Werkstatt nicht zehn Monate, geschweige denn bis zum Finale.
 
@@ -1668,10 +1684,10 @@ Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor---ladu
 - **Niemand versucht, ihn zu vertreiben.** Wer sich an diesen Ort begibt, ist **selber schuld**; die anderen wollen lediglich nicht mit hineingezogen werden - **anheftendes Pech**, keine Strafe. Die Frage *„Was rettet ihn vor der Vertreibung?"* ist damit gegenstandslos und gestrichen.
 - **[Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) duldet ihn**, neutral bis familiär - aber **nur fern vom Ring** und **unter Vermeidung des Themas**.
 - **Die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) wird gerufen** (oder das Thing). Sie **sieht es sich an**, **deutet es wie zuvor** - er ist selber schuld - und **schärft jedem erneut ein, dass dieser Ort den Zorn der Götter auf einen lädt**. Sie **lässt ihn gewähren**.
-  - Als Motiv im Raum, vom Autor mit *vielleicht* formuliert und deshalb nicht beschlossen: dass sie **selbst mehr über den Ring wissen möchte**, dabei aber ihr **Gesicht verlöre** · **???**
+  - Als Motiv im Raum, vom Autor mit *vielleicht* formuliert und deshalb nicht beschlossen: dass sie **selbst mehr über den Ring wissen möchte**, dabei aber ihr **Gesicht verlöre** · **???** → [C-050](#c-050-wandernde-wala---offene-felder-)
 - **Truda weiß, was er tut** - er sagt es ihr. Sie **hält ihn für verloren** und will ihn **zur Vernunft bringen** → [C-077](#c-077-tibun-und-truda-nach-girlins-verschwinden-).
 
-**Weiterhin offen · ???** Womit er baut - Bauholz, Werkzeug und Arbeitskraft nach acht Jahren Hafenarbeit ([C-034](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft-)). Da ihm niemand hilft, muss er alles allein bewältigen oder kaufen.
+**Weiterhin offen · ???** Womit er baut - Bauholz, Werkzeug und Arbeitskraft; da ihm niemand hilft, muss er alles allein bewältigen oder kaufen → [C-163](#c-163-womit-tibun-die-werkstatt-bezahlt-).
 
 **Tragweite:** Weil Tibuns Aufbruch aus Kaupvik nichts kostet ([C-115](#c-115-tibuns-wanderjahre---die-stationen-fehlen-)), ist dies **der einzige Konflikt des Nordstrangs zwischen Jahr +1 und dem Finale** → [C-118](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-).
 
@@ -1730,7 +1746,7 @@ Kein Clan schleppt ein Weltwunder durch die Wüste, weil eine Fremde heim will. 
 
 **Das liefert zugleich [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) endlich ein nachvollziehbares Motiv** → [C-107](#c-107-azzims-motiv---wasser-statt-sklaverei-). Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) nennt den Wassertausch die *größte ungenutzte Konsequenz der eigenen Mechanik*; hier wird sie zum Träger des halben Wüstenstrangs.
 
-**Offen:** Wann und wie erfahren die Kel Aman davon, **bevor** je gezündet wurde? Bellbrim kann es nur **behaupten** - also braucht der Transport entweder einen Vertrauensvorschuss oder einen ersten Beweis · **???**
+~~**Offen:** Wann und wie erfahren die Kel Aman davon, **bevor** je gezündet wurde? Bellbrim kann es nur **behaupten** - also braucht der Transport entweder einen Vertrauensvorschuss oder einen ersten Beweis · **???**~~ **Gegenstandslos** - das Wassermotiv ist gestrichen; der Clan transportiert aus Sippenpflicht.
 
 
 ---
@@ -1761,15 +1777,15 @@ Der Partner Girlins steht fest ([C-060 ✓](#c-060-girlin-und-der-neffe-)), die 
 1. **Er löst sich in Jahr +5 vom Clan** und zieht mit Girlin und dem Kind zu [Bellbrim](../Menschen/Andere/Bellbrim.md) - er verliert dafür seine Sippe.
 2. **Er hilft, die Hilfe des Clans zu erwirken.** Wichtig: **Girlin bittet selbst** - sie ist stark und unabhängig, er bittet nicht für sie. Sein Einfluss hilft ihr; **sie arbeiten als Team**.
 3. **Er hält die vier am Leben** - Jagd, Handel, Wege. Die unspektakuläre Arbeit, die alles andere erst erlaubt.
-4. **Er verteidigt die Schlucht im Finale.** Was ihn das kostet, ist offen · **???**
+4. **Er verteidigt die Schlucht im Finale.** Was ihn das kostet → [C-151 ✓](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-): verwundet, überlebt.
 
-**Weiterhin offen · ???** Name nach dem Kel-Aman-Muster ([C-090 ✓](#c-090-kel-aman---eigenname-und-namenssystem-)), Alter, Gewerbe.
+~~**Weiterhin offen · ???** Name nach dem Kel-Aman-Muster, Alter, Gewerbe.~~ **Alles entschieden (Autor, 08.09.2026):** *Sekkan*, etwa 37 in Jahr +3 (gleicher Jahrgang wie Girlin), Karawanenführer und Jäger - siehe [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md).
 
 **Entschieden (Autor, 08.09.2026):** Der Neffe heißt **Sekkan**, ist bei Beziehungsbeginn (Jahr +3) **etwa 37** und damit **so alt wie [Girlin](../Menschen/Nordvolk/Girlin.md)** (Korrektur vom 08.09.2026; zunächst stand hier 45). Im Clan ist er **Karawanenführer/Wegekenner und Jäger**. Beides trägt seine spätere Rolle: Die Routen- und Brunnenkenntnis erklärt, wovon die vier in der Schlucht leben; das Geländewissen des Jägers erklärt die Verteidigung im Finale. Zwei gleich alte Menschen mit je einer zerbrochenen Ehe - die Verbindung steht auf Augenhöhe, ohne Altersgefälle in eine Richtung.
 
 Eigene Datei angelegt: [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md); Name in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen](../Plots/Plot-1/Szenen.md) und [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) nachgezogen.
 
-**Ausgelagert:** was ihn die Verteidigung der Schlucht kostet → [C-151](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-). Der **Häuptling**, sein Onkel, ist weiterhin eine Figur ohne Namen und Eigenschaften → [C-152](#c-152-der-häuptling-der-kel-aman-ist-namenlos-).
+**Ausgelagert:** was ihn die Verteidigung der Schlucht kostet → [C-151 ✓](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-). Der **Häuptling**, sein Onkel, ist weiterhin eine Figur ohne Namen und Eigenschaften → [C-152](#c-152-ishman---häuptling-der-kel-aman-).
 
 ---
 
@@ -1793,7 +1809,7 @@ Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) hält [Azzim](../Menschen/Kel-
 
 Ein Mann, der einen Ring beansprucht, der Wasser in die Wüste schiebt, ist kein Bösewicht, sondern jemand mit dem einzig vernünftigen Interesse weit und breit. Er kann dabei die Interessen seiner eigenen Leute vertreten und trotzdem Girlins Gegner sein. Das ist der **dritte Konflikt mit zwei verständlichen Seiten**, den die Prüfliste anmahnt.
 
-**Offen:** Ob Sklaverei als Motiv daneben bestehen bleibt oder ersetzt wird; ob Azzim für sich handelt oder für eine Gruppe; ob er den Wassereffekt **selbst gesehen** hat oder nur davon gehört · **???**
+~~**Offen:** Ob Sklaverei als Motiv daneben bestehen bleibt oder ersetzt wird; ob Azzim für sich handelt oder für eine Gruppe; ob er den Wassereffekt **selbst gesehen** hat oder nur davon gehört · **???**~~ **Gegenstandslos, soweit es Wasser betrifft** - Azzim weiß nichts vom Ring. Ob er für sich oder eine Gruppe handelt, steht in [C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-) und [C-029](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-).
 Berührt [C-089](#c-089-azzim---verhältnis-zum-ring-harte-regel-) und [C-028](#c-028-azzim-u-tawan---herkunft--hintergrund-).
 
 
@@ -1839,7 +1855,7 @@ Das fällt sauber aus der Kettenlösung selbst und braucht keine Sonderregel.
 
 > Hier stand zwischenzeitlich eine „Uhr des Finales" (Tibun kämpft, bis das Rad genug gedreht hat). Das war eine Erfindung beim Mitschreiben, keine Autorenentscheidung, und ist zurückgenommen - in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-).
 
-**Offen bleibt nur der Normalbetrieb:** Ob 30 Minuten auch für Tibuns geplante Reisen gelten (dann ist der Ring ein Werkzeug mit halbstündiger Taktung) · **???** Berührt [C-002](#c-002-tibuns-elektrizitätsquelle-).
+**Nachgeschärft (Autor, 08.09.2026, [C-164 ✓](#c-164-gilt-die-halbe-stunde-ladezeit-auch-im-normalbetrieb-)):** Die 30 Minuten gehören **dem Rad, nicht dem Ring**. Der Ring ist immer startklar; die Wartezeit ist die Ladezeit von Tibuns Bernsteinrad. Eine „halbstündige Taktung" des Rings gibt es nicht.
 
 ---
 
@@ -1870,7 +1886,7 @@ Die Kopplung ist eine Eigenschaft des **Ringpaares**, nicht des Standorts ([C-01
 **Weiterhin offen (Bauliches, nicht mehr blockierend) · ???**
 - ~~**Wie steht der Ring am neuen Ort?** Aufgerichtet, eingegraben, auf einem Fundament?~~ **Entschieden (Autor, 03.09.2026): Der Ring wird niemals aufgerichtet.** Er liegt, wie jeder Ring liegt - Aufrichten wäre unnötig. Deckt sich mit den [Bild-Prompts](Bild-Prompts.md), die das aufrecht stehende „Tor" ausdrücklich ausschließen. Ob er zusätzlich eingegraben oder unterlegt wird, bleibt offen · **???** Betrifft [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe-).
 - **Die Mulde entsteht von vorn.** Die Tauschkugel liegt relativ zum Ring fest, schneidet am neuen Standort also unberührtes Erdreich.
-- Der [C-018-Ausgangstext](#c-018-widerspruch---transport-des-wüstenrings-) merkt an: *Wer gräbt, macht die eigene Anlage beim ersten Auslösen zunichte.* Gilt das auch für ein Fundament?
+- Der [C-018-Ausgangstext](#c-018-widerspruch---transport-des-wüstenrings-) merkt an: *Wer gräbt, macht die eigene Anlage beim ersten Auslösen zunichte.* Gilt das auch für ein Fundament? · **???** → [C-084](#c-084-mulde-standfläche-und-die-rohen-ringe-)
 
 ---
 
@@ -2076,6 +2092,8 @@ Damit steht: **Tibuns einziger Preis liegt in Jahr 0/+1** - die Mutter, der Unfa
 |---|---|---|
 | Ein „See/Tümpel stromaufwärts als **Badeplatz der Jugend**" am Skir | **gestrichen** - nie entschieden; Rückfrage des Autors: *„Was für ein Badeplatz??"*. Ob es dort ein stehendes Gewässer gibt, ist offen | [C-055 ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-) |
 | Der Weltenbau-Leitfaden führte weiter „Der Ring liegt an einem Bach → Wasserbrücke nach Süden" als offenen Punkt | **als überholt markiert** - der Ring liegt auf trockenem Grund, Wasser als Motiv ist verworfen | [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md), Schicht 6 |
+| Ein allgemeiner **Bestattungsbrauch des Nordvolks für alle toten Kinder** (Säuglinge aufs Hofgelände, ältere ins Gräberfeld), im Indikativ formuliert | **zurückgenommen** - der Autor hat nur den **Einzelfall** von Girlins letztem Kind entschieden. Der archäologische Befund steht jetzt als *Grundlage*, nicht als Setzung; der allgemeine Brauch ist `???` | [Nordvolk](../Kulturen/Nordvolk/README.md#umgang-mit-toten-kindern), [C-162 ✓](#c-162-das-letzte-tote-kind---jahr-und-sichtbarkeit-) |
+| „Ein besserer Antrieb oder eine größere Reibfläche **verkürzt** die 30 Minuten" | **gestrichen** - folgt zwar logisch aus der Autorenaussage (die Ladezeit gehört dem Rad), ist aber selbst nicht entschieden. Jetzt `???` | [Tibuns Generator](../Technik/Tibuns-Generator.md#ladezeit---sie-gehört-dem-rad-nicht-dem-ring), [C-164 ✓](#c-164-gilt-die-halbe-stunde-ladezeit-auch-im-normalbetrieb-) |
 
 **Zu tun · ???** Das **übrige Wiki ist auf denselben Fehler zu prüfen** - insbesondere alles, was in Sitzungen ohne ausdrückliche Autorenentscheidung entstanden ist. Verdachtsstellen: [C-089](#c-089-azzim---verhältnis-zum-ring-harte-regel-), [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) (Abschnitt *Schicht 6*), [Kel-Aman](../Kulturen/Kel-Aman/README.md).
 
@@ -2170,8 +2188,8 @@ Der Rahmen steht: Solange der Clan sie schützt (bis +8), scheitert jeder Zugrif
 - **Sein Motiv ist doppelt:** ihr **Wert** als seltene Ware, und ab dem ersten Fehlschlag die **Demütigung**. Das eine erklärt den Anfang, das andere die Hartnäckigkeit über sieben Jahre. Berührt [C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-): In Auftritt 2 **redet** er und bietet einen Handel an - er ist nicht nur Räuber.
 - **Er sieht beim Transport nicht, wohin der Ring gebracht wird.** Deshalb muss er die Schlucht in +9 erst finden.
 - **Die Formulierung des Autors gilt - aber nur für Auftritt 3.** Fliehen, verstecken, verfolgt werden: ein Vorgang in +9, nicht mehrere.
-- **Wie er von ihr erfährt, bleibt offen** · **???** Als Richtung notiert, nicht beschlossen: Er bekommt Gerede mit und sucht sie dann auf dem Basar auf.
-- **Verlauf der Verhandlung in Auftritt 2 ist offen** · **???** - für das Gerüst ohne Belang.
+- **Wie er von ihr erfährt, bleibt offen** · **???** → [C-165](#c-165-wie-azzim-von-girlin-erfährt-)
+- **Verlauf der Verhandlung in Auftritt 2 ist offen** · **???** - für das Gerüst ohne Belang → [C-165](#c-165-wie-azzim-von-girlin-erfährt-).
 
 ---
 
@@ -2610,23 +2628,35 @@ Die alte Volksseite sah vor, dass [Bellbrim](../Menschen/Andere/Bellbrim.md) von
 
 ---
 
-### C-151: Was die Verteidigung der Schlucht Sekkan kostet ○
+### C-151: Was die Verteidigung der Schlucht Sekkan kostet ✓
 
 Aus [C-105 ✓](#c-105-der-neffe---name-eigenschaften-schweigebitte-) übrig geblieben: [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) verteidigt im Finale die Schlucht gegen [Azzims](../Menschen/Kel-Aman/Azzim-u-Tawan.md) Leute ([Szenen.md](../Plots/Plot-1/Szenen.md)). Offen ist, **was ihn das kostet** - stirbt er, wird er verwundet, überlebt er unversehrt?
 
 Die Frage hat Gewicht, weil [Girlin](../Menschen/Nordvolk/Girlin.md) im Finale **bei ihm bleibt** ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)). Stirbt er, ist diese Entscheidung hinfällig und der ganze Wüstenstrang endet anders. Überlebt er unversehrt, war der Angriff folgenlos - und der teuerste Preis im Buch bleibt bei [Tibun](../Menschen/Nordvolk/Tibun.md) allein. Nichts festgelegt.
 
+**Entschieden (Autor, 08.09.2026):** **Sekkan wird verwundet und überlebt.** Der Angriff kostet sichtbar etwas, ohne den Wüstenstrang zu kippen - [Girlins](../Menschen/Nordvolk/Girlin.md) Entscheidung zu bleiben ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)) bleibt tragfähig, und der Preis der Verteidigung steht trotzdem im Bild.
+
+**Ausgelagert und entschieden:** Er **verliert das linke Auge** - die Folge bleibt sichtbar → [C-166 ✓](#c-166-bleibt-sekkans-wunde-).
+
 ---
 
-### C-152: Der Häuptling der Kel Aman ist namenlos ○
+### C-152: Ishman - Häuptling der Kel Aman ○
 
 Der **Häuptling des Clans** trägt an mehreren Stellen Gewicht - er ist [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Onkel, und die **Sippenpflicht ihm gegenüber** ist der einzige Grund, warum der Clan den Ring überhaupt transportiert ([C-061 ✗](#c-061-navigationswissen-des-häuptlings-)). Trotzdem hat er weder Namen noch Alter noch Eigenschaften und keine eigene Datei.
 
 Zusätzlich offen: Wie reagiert **er persönlich** darauf, dass sein Neffe in Jahr +5 die Sippe verlässt? Er ist derjenige, der den Bruch aussprechen oder hinnehmen muss - das ist eine Szene, die es bisher nicht gibt.
 
+**Teilentscheidung (Autor, 08.09.2026):** Der Häuptling ist in Jahr 0 **etwa 55**, also rund zwanzig Jahre älter als [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) - eine ganze Generation über ihm, Onkel im klassischen Sinn. Im Finale (Jahr +10) wäre er etwa 65.
+
+**Er heißt Ishman** (Autor, 08.09.2026). Der Name folgt dem Muster der [Kel Aman](../Kulturen/Kel-Aman/README.md) (Männernamen auf `-an`) und klingt bewusst nah an *Sekkan* - Onkel und Neffe hören sich als Sippe an. Eigene Datei angelegt: [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md).
+
+> **Einwand notiert, vom Autor überstimmt:** Die Endung `-man` liest sich auf Deutsch unwillkürlich als „Mann", und Ishman/Sekkan sind im Fließtext leicht zu verwechseln. Der Autor hat sich bewusst für die Sippenähnlichkeit entschieden.
+
+**Offen bleiben** seine Eigenschaften, ein möglicher Vatersname (`u-`) und vor allem **seine Reaktion auf den Bruch in Jahr +5** · **???**
+
 ---
 
-### C-153: Haduriks Nachfolge in Tingsal ○
+### C-153: Haduriks Nachfolge in Tingsal ✓
 
 [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) ist in Jahr 0 **etwa 60** ([C-048](#c-048-hadurik---offene-felder-)). Über die zehn Jahre der Handlung wird er 70 - für die Epoche ein hohes Alter.
 
@@ -2637,9 +2667,13 @@ Zusätzlich offen: Wie reagiert **er persönlich** darauf, dass sein Neffe in Ja
 
 Nichts festgelegt.
 
+**Entschieden (Autor, 08.09.2026):** **Hadurik erlebt das Finale.** Mit etwa 70 hält er die Thinghalle noch, als [Tibun](../Menschen/Nordvolk/Tibun.md) zurückkommt - über die zehn Jahre wechselt in [Tingsal](../Orte/Tingsal.md) nichts an der Autorität. Was der Nordstrang über Rang und Erlaubnis erzählt, gilt am Ende wie am Anfang gegenüber demselben Mann.
+
+**Damit entfällt der Nachfolgestreit als Handlung.** Ein Erbe existiert, die Frage bleibt aber außerhalb der Erzählzeit → [C-167 ✓](#c-167-wer-folgt-hadurik-in-tingsal-).
+
 ---
 
-### C-154: Woher die Autorität der Walas kommt ○
+### C-154: Woher die Autorität der Walas kommt ✓
 
 Die beiden Wala-Zwillinge sind in Jahr 0 **etwa 35** und **von auswärts zugewandert** (Autor, 08.09.2026, [C-049](#c-049-wala-von-tingsal---offene-felder-)). Damit tragen ihr Ansehen **weder Alter noch Sippe**: Sie haben in der Gegend keinen Hof, keine Verwandten und keine Jahrzehnte hinter sich.
 
@@ -2649,6 +2683,253 @@ Ihr Wort wiegt trotzdem schwer genug, um eine Frau für tot zu erklären, eine S
 - Ausbildung bei einer älteren Wala, deren Rang sie geerbt haben?
 - Etwas, das sie mitgebracht haben und niemand kennt?
 
-Erzählerisch heikel: Wenn niemand weiß, woher sie kommen, weiß auch niemand, **warum man ihnen glauben soll** - und genau darauf beruht der gesamte Nordstrang nach [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden. Nichts festgelegt.
+Erzählerisch heikel: Wenn niemand weiß, woher sie kommen, weiß auch niemand, **warum man ihnen glauben soll** - und genau darauf beruht der gesamte Nordstrang nach [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden.
+
+**Entschieden (Autor, 08.09.2026): alle vier zusammen.** Die Autorität ruht nicht auf einer Quelle, sondern auf vier, die sich gegenseitig stützen:
+
+1. **Früh gezeigte Gabe** - etwas Vorhergesagtes ist öffentlich eingetroffen.
+2. **Erbe einer älteren Wala** - ausgebildet bei einer Vorgängerin, deren Rang sie übernommen haben.
+3. **Die Zwillingsgeburt** - zwei Frauen mit einer Stimme gelten selbst als Zeichen.
+4. **Das Fremdsein** - gerade weil sie zu keiner Sippe gehören, gelten sie als unparteiisch.
+
+Das löst den Widerspruch sauber: Punkt 4 macht aus dem Mangel (keine Sippe, kein Hof) das Argument. Wer keinen Hof hat, gewinnt an keinem Spruch etwas.
+
+**Noch offen · ???** Welche Vorhersage eingetroffen ist (1) und wer die ältere Wala war (2). Beides ist Hintergrund, nicht Handlung.
+
+---
+
+### C-155: Breite und Tiefe des Skir ✓
+
+Aus [C-055 ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-) beim Lückenaudit (08.09.2026) ausgelagert: Der [Skir](../Orte/Skirraa.md) ist als **kleiner Fluss, durchwatbar** entschieden - Zahlen dazu gab es nicht.
+
+**Entschieden (Autor, 08.09.2026): schmal und knietief.** An der Furt **etwa 4-6 Schritt breit**, an der tiefsten durchwatbaren Stelle **knietief**. Damit kommt **ein Kind allein hinüber** - der Weg zum Wald und zum Ring ist für [Tibun](../Menschen/Nordvolk/Tibun.md) kein Hindernis.
+
+Bezugsebene: Maße gelten **an der Furt beim Weiler**, nicht flussabwärts.
+
+**Ausgelagert:** Ob dieser Durchfluss für [Tibuns Wasserrad](#c-002-tibuns-elektrizitätsquelle-) reicht und wie er über das Jahr schwankt → [C-169](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-).
+
+---
+
+### C-156: Der Wald am Skir - Größe, Abstand, stehendes Gewässer ○
+
+Aus [C-055 ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-) beim Lückenaudit (08.09.2026) ausgelagert. Entschieden ist: Der Wald am Skir **trägt beides** - den heiligen Hain [Vilund](../Orte/sonstiges.md) und den Ring -, und der Ring liegt **nicht** an der Zeremonienstelle.
+
+**Zu klären · ???**
+- **Wie weit** liegen Zeremonienstelle und Ring auseinander - in Sichtweite, ein paar hundert Schritte, eine halbe Stunde?
+- **Wie groß** ist der Hain überhaupt, und wie groß das Waldstück drumherum?
+- Gibt es im Wald ein **stehendes Gewässer** (See, Tümpel, Moor)? Der frühere „Badeplatz der Jugend" war eine nicht gedeckte Erfindung und ist gestrichen ([C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)).
+
+Der Abstand entscheidet mit, wie oft jemand zufällig am Ring vorbeikommt - und damit, wie glaubhaft es ist, dass ihn zehn Jahre lang niemand beansprucht.
+
+---
+
+### C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ○
+
+Aus [C-061 ✗](#c-061-navigationswissen-des-häuptlings-) beim Lückenaudit (08.09.2026) ausgelagert; dort stand es als Restpunkt ohne eigene Stelle.
+
+Das Hindernis vor dem Transport hat drei Phasen - **Zugehörigkeit → Wissen → Bitte** ([Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md)). Zwei davon sind unausgefüllt:
+
+**Zu klären · ???**
+- **Ab wann gilt [Girlin](../Menschen/Nordvolk/Girlin.md) als „eine der Ihren"?** Reicht die Verbindung mit [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), braucht es das Kind, braucht es Jahre - und gibt es einen Moment, an dem es kippt?
+- **Wie ergeht die Bitte konkret?** Vor wem trägt sie sie vor, in welcher Form, mit welcher Formel? Sie bittet selbst ([Szene 25](../Plots/Plot-1/Szenen.md)) - was das bei den [Kel Aman](../Kulturen/Kel-Aman/README.md) für eine sippenlose Frau bedeutet, ist offen.
+
+Hängt an [C-003](#c-003-kel-aman---kulturelle-tiefe-) und [C-106](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-).
+
+---
+
+### C-158: Klang und Gewicht des Rings ✓
+
+Aus [C-075 ✓](#c-075-ist-das-ringmaterial-ein-metall-) beim Lückenaudit (08.09.2026) ausgelagert.
+
+Entschieden ist: **Metall auf den ersten Blick**, beim Anfassen **temperaturlos** ([C-074 ✓](#c-074-haptik-der-ringoberfläche-)). Offen sind die beiden weiteren Stellen, an denen die Metall-Erwartung brechen oder halten kann:
+
+**Entschieden (Autor, 08.09.2026): Beides verhält sich wie Metall.** Er **klingt wie Metall**, und er **wiegt sich wie Metall** - was eine Hand am Reif erwartet, bekommt sie auch.
+
+Damit ist die **Temperaturlosigkeit der einzige Bruch**. Zwei von drei Prüfungen gehen glatt durch: Wer den Ring beklopft und hebt, hat keinen Grund zu zweifeln. Erst die bloße Hand widerspricht - und sie widerspricht nicht laut, sondern durch etwas, das *fehlt*. Das ist die sparsamere Variante: ein einziges falsches Detail wiegt schwerer als drei.
+
+Eingetragen in [Portalringe - Haptik](../Technik/Portalringe.md#haptik).
+
+---
+
+### C-159: Filiation im Erzähltext der Kel Aman ✓
+
+Aus [C-090 ✓](#c-090-kel-aman---eigenname-und-namenssystem-) beim Lückenaudit (08.09.2026) ausgelagert; dort als „kleiner Restpunkt" notiert.
+
+Das Namenssystem der [Kel Aman](../Kulturen/Kel-Aman/README.md) kennt die Abstammungsform `u-` („Sohn des") und `ult-` („Tochter des"). [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) trägt sie, [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) nicht.
+
+**Entschieden (Autor, 08.09.2026): Die Filiation taucht im Erzähltext auf, und zwar bei allen Figuren.** Nicht nur dort, wo Rang oder Herkunft betont wird - wer genannt wird, wird mit Vatersnamen genannt. Das macht die Form zum hörbaren Merkmal der Kultur statt zu einem Ehrentitel für wenige.
+
+**Folge:** Jede Kel-Aman-Figur braucht einen Vatersnamen. Für [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) fehlt er → [C-170](#c-170-vatersnamen-für-sekkan-und-ishman-).
+
+---
+
+### C-160: Bröckelt die Angst des Dorfes über die Zeit? ○
+
+Aus [C-094 ✓](#c-094-der-sand-an-der-skir---was-das-dorf-sieht-und-wie-es-deutet-) und [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) beim Lückenaudit (08.09.2026) zusammengezogen - in beiden stand der Punkt offen, in keiner hatte er eine Stelle.
+
+Entschieden ist die **Grundhaltung**: Das Dorf warnt, meidet und hilft nicht; niemand vertreibt ihn ([C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-)). Offen ist, was daraus über die Zeit wird:
+
+**Zu klären · ???**
+- [Tibun](../Menschen/Nordvolk/Tibun.md) bricht das Tabu **dauerhaft und sichtbar** - und es passiert nichts. Bröckelt die Angst der anderen dann? **Wer bemerkt es zuerst?**
+- Was geschieht, wenn er später die **große Wasseranlage** baut ([C-002](#c-002-tibuns-elektrizitätsquelle-))? Ein Wasserrad am Skir ist nicht zu verbergen - das ist der Punkt, an dem das Dorf reagieren **muss**.
+
+Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) vermisst genau hier den Kampf um den Ring.
+
+---
+
+### C-161: Erhebt Girlins Herkunftssippe Anspruch? ○
+
+Aus [C-095 ✓](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-semund-neu-heiraten-) beim Lückenaudit (08.09.2026) ausgelagert; dort steht die Konfliktlinie als *verfügbar, nicht gesetzt*.
+
+Nach [C-095 ✓](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-semund-neu-heiraten-) hat die Herkunftssippe **keinen Anspruch**, weil Kinder da sind - sie **könnte** ihn aber erheben.
+
+**Zu klären · ???** Tut sie es? Gibt es diese Sippe überhaupt noch, und wo sitzt sie ([C-024](#c-024-girlin---herkunft--vorgeschichte-))? Ein Auftritt ihrer Leute nach der Toterklärung wäre Druck auf [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) und auf [Millias](../Menschen/Nordvolk/Nebenfiguren/Millia.md) Einzug - oder er entfällt ersatzlos.
+
+---
+
+### C-162: Das letzte tote Kind - Jahr und Sichtbarkeit ✓
+
+Aus [C-097 ✓](#c-097-girlins-kinderfolge---die-neun-jahre-lücke-) beim Lückenaudit (08.09.2026) ausgelagert.
+
+Entschieden ist: [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) und [Girlin](../Menschen/Nordvolk/Girlin.md) haben **drei Kinder verloren**, das letzte ein bis zwei Winter vor ihrem Verschwinden.
+
+**Entschieden (Autor, 08.09.2026): ein einziger Satz - und das Kind hat ein Grab.**
+
+Im Erzähltext wird der Verlust **einmal beiläufig genannt und nie ausgeführt**. Das trägt [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) rasche Neubindung, ohne sie zu erklären: Ein Haus, in dem schon dreimal ein Kind starb, braucht kein weiteres Wort.
+
+**Die Umstände (Autor, 08.09.2026):**
+
+| | |
+|---|---|
+| **Alter** | **Säugling, wenige Wochen** |
+| **Grabort** | **auf dem Hofgelände**, Grube nahe am Haus |
+| **Markierung** | **keine** - kein Hügel, kein Stein. Nur die Familie kennt die Stelle |
+
+Das ist für 550 der **Normalfall**, nicht die Ausnahme: Säuglinge kommen nicht ins Gräberfeld, sondern bleiben beim Hof. Festgehalten in [Nordvolk - Umgang mit toten Kindern](../Kulturen/Nordvolk/README.md#umgang-mit-toten-kindern).
+
+**Bewusst nicht entschieden:** Ob [Girlin](../Menschen/Nordvolk/Girlin.md) in einer Szene an der Stelle vorbeigeht und hinsieht. Der Autor hält das für die Schreibphase offen - mit dem Vorbehalt, dass ein unmarkiertes Grab für den Leser ohne Erklärung nicht lesbar ist und ihr Blick damit ins Leere gehen würde.
+
+**Noch offen · ???** Das genaue Jahr - Girlin wäre 32 oder 33 gewesen. Für den einen Satz nicht zwingend nötig.
+
+---
+
+### C-163: Womit Tibun die Werkstatt bezahlt ✓
+
+Aus [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) beim Lückenaudit (08.09.2026) ausgelagert. Der Punkt verwies bisher auf [C-034 ✓](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft-) - das ist geschlossen und beantwortet nur, wovon er **unterwegs** lebt, nicht, wovon er **baut**.
+
+Bauholz, Werkzeug und Arbeitskraft sind in dieser Epoche teuer, und **niemand hilft ihm** - das Dorf meidet ihn ([C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-)).
+
+**Entschieden (Autor, 08.09.2026): aus beidem - Ersparnissen aus [Kaupvik](../Orte/Kaupvik.md) und dem, was der Wald am Skir hergibt.**
+
+Acht Jahre Hafenarbeit und Handel: Er kommt **nicht mittellos** zurück und kann kaufen, was der Wald nicht liefert - Eisenwerkzeug, Bernstein, Beschläge. Das Holz schlägt er **selbst**. Nichts davon kommt aus dem Weiler; das Dorf meidet ihn und hilft nicht ([C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-)).
+
+Erzählerisch sauber: Die Rückkehr bringt einen **sichtbaren Gegenwert** der acht Jahre mit. Die Wanderschaft war nicht nur Suche, sie hat ihn auch in die Lage versetzt zu bauen.
+
+**Noch offen · ???**
+- Was davon ein Mann **ohne Helfer in einem Winter** überhaupt schafft.
+- Ob er im **Wald am Skir** ungestraft Holz schlagen kann - dasselbe Waldstück trägt den heiligen Hain [Vilund](../Orte/sonstiges.md), und die Tabustelle liegt dort. Der Weiler duldet zwar, dass er dort *ist* - ob er dort auch **Bäume fällen** darf, ist etwas anderes. Berührt [C-160](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-).
+
+Berührt [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-).
+
+---
+
+### C-164: Gilt die halbe Stunde Ladezeit auch im Normalbetrieb? ✓
+
+Aus [C-109 ✓](#c-109-ladezeit-des-konduktors-) beim Lückenaudit (08.09.2026) ausgelagert.
+
+Für das Finale ist die Ladezeit entschieden. Offen ist der **Normalbetrieb**: Gelten dieselben 30 Minuten auch für [Tibuns](../Menschen/Nordvolk/Tibun.md) geplante spätere Reisen?
+
+**Entschieden (Autor, 08.09.2026): Die Frage war falsch gestellt - der Ring hat gar keine Ladezeit.**
+
+> Der **Ring** ist **immer startklar** und wartet auf nichts. Die 30 Minuten sind die Zeit, die **Tibuns Aufbau** braucht, um genug Ladung auf dem **Bernsteinrad** zu erzeugen.
+
+Damit ist die halbe Stunde **keine Eigenschaft der Portalringe**, sondern eine Grenze **seines Geräts**. Folgen:
+
+- **Keine „halbstündige Taktung" des Rings.** Der Engpass sitzt im Gerät, nicht im Ring.
+- **Noch offen · ???** Ob sich die 30 Minuten durch besseren Antrieb, größere Reibfläche oder ein zweites Rad verkürzen lassen. Das folgt zwar nahe, ist aber nicht entschieden - berührt [C-126](#c-126-der-postring---was-passt-hinein-).
+
+Eingetragen in [Tibuns Generator](../Technik/Tibuns-Generator.md#ladezeit---sie-gehört-dem-rad-nicht-dem-ring). Berührt [C-002](#c-002-tibuns-elektrizitätsquelle-).
+
+---
+
+### C-165: Wie Azzim von Girlin erfährt ✓
+
+Aus [C-123 ✓](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-) beim Lückenaudit (08.09.2026) ausgelagert.
+
+Zahl und Zeitpunkte von [Azzims](../Menschen/Kel-Aman/Azzim-u-Tawan.md) frühen Auftritten stehen. Nicht entschieden ist, **wie er überhaupt auf sie kommt**.
+
+**Entschieden (Autor, 08.09.2026): über Gerede auf dem Basar.** Die bisher nur als Richtung notierte Fassung **gilt jetzt**: Er hört von der Fremden und sucht sie dort auf. Kein Zufallsblick, kein Dritter, der ihn hinschickt - es braucht keine zusätzliche Figur.
+
+Das hält den Basar als **Angelpunkt beider Begegnungen**: Dort erfährt er von ihr, und dort findet er die vier später wieder ([C-132](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt-)). Wer sich zeigt, wird beredet.
+
+**Noch offen · ???** Was das Gerede an ihr betont - fremd, allein, ohne Sippe, oder etwas Konkreteres.
+
+Der **Verlauf der Verhandlung in Auftritt 2** bleibt daneben offen, ist aber vom Autor als für das Gerüst belanglos eingestuft. Berührt [C-116](#c-116-azzim-tritt-zu-spät-auf-) und [C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-).
+
+---
+
+### C-166: Bleibt Sekkans Wunde? ✓
+
+Aus [C-151 ✓](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-) beim Lückenaudit (08.09.2026) ausgelagert.
+
+Entschieden war: [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) wird bei der Verteidigung der Schlucht **verwundet und überlebt**.
+
+**Entschieden (Autor, 08.09.2026): Er verliert das linke Auge.** Die Folge ist **bleibend und von außen sichtbar** - der Angriff bleibt über das Finale hinaus an ihm ablesbar.
+
+**Noch offen · ???** Was das für ihn als Jäger und Wegekenner bedeutet - ob er weitermachen kann und wie er sich umstellt.
+
+**Noch offen · ???** Der Hergang der Verletzung - wodurch das Auge verlorengeht und in welchem Moment des Kampfes.
+
+---
+
+### C-167: Wer folgt Hadurik in Tingsal? ✓
+
+Aus [C-153 ✓](#c-153-haduriks-nachfolge-in-tingsal-) beim Lückenaudit (08.09.2026) ausgelagert.
+
+Entschieden war: [Hadurik](../Menschen/Nordvolk/Nebenfiguren/Hadurik.md) **erlebt das Finale** und hält die Thinghalle über die ganzen zehn Jahre. Ein Nachfolgestreit als Handlung entfällt damit.
+
+**Entschieden (Autor, 08.09.2026): Ein Erbe existiert, die Frage bleibt außerhalb der Erzählzeit.** [Tingsal](../Orte/Tingsal.md) hat eine gesicherte Nachfolge - es entsteht kein Machtvakuum, das jemand ausnutzen könnte. Im Buch wird die Nachfolge aber **nicht verhandelt und nicht beantwortet**; sie liefert keinen Ton und keinen Strang.
+
+**Noch offen · ???** Wer der Erbe ist (Sohn, Verwandter, anderer) - relevant nur, falls eine Szene ihn beiläufig braucht. Siehe [C-048](#c-048-hadurik---offene-felder-).
+
+---
+
+### C-168: Was außer dem Skarabäus im Sand steckt ✓
+
+Aus [C-094 ✓](#c-094-der-sand-an-der-skir---was-das-dorf-sieht-und-wie-es-deutet-) beim Lückenaudit (08.09.2026) ausgelagert.
+
+Entschieden war, dass mit dem Sand ein **Skarabäus** aus dem Fezzan an die [Skir](../Orte/Skirraa.md) kommt, von der Kugelgrenze zerteilt.
+
+**Entschieden (Autor, 08.09.2026): Es bleibt beim Skarabäus - sonst steckt nichts im Sand.** Ein einziger Fremdkörper, kein Fundhaufen. Der Sand ist reiner Sand; das eine Tier trägt die ganze Last des Beweises. Damit bleibt die Stelle ein Rätsel und wird nicht zum Ausstellungsstück.
+
+Gegenrichtung: was der Norden verliert → [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-).
+
+---
+
+### C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○
+
+Aus [C-155 ✓](#c-155-breite-und-tiefe-des-skir-) ausgelagert (08.09.2026).
+
+Entschieden ist die Geometrie an der Furt: **4-6 Schritt breit, knietief** - ein schmaler, flacher Fluss.
+
+**Zu klären · ???**
+- Trägt dieser Durchfluss [Tibuns Wasserrad](#c-002-tibuns-elektrizitätsquelle-)? Ein knietiefer Lauf gibt wenig Fallhöhe her; ohne Stauwehr oder ein unterschlächtiges Rad an einer Engstelle wird es dünn.
+- Wie stark schwankt der Skir über das Jahr - führt er im Sommer weniger, friert er im Winter?
+- Falls ein **Wehr** nötig ist: Das wäre ein sichtbarer Eingriff am Fluss und damit ein Punkt für [C-160](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-) - das Dorf müsste darauf reagieren.
+
+---
+
+### C-170: Vatersnamen für Sekkan und Ishman ○
+
+Aus [C-159 ✓](#c-159-filiation-im-erzähltext-der-kel-aman-) ausgelagert (08.09.2026).
+
+Entschieden ist: Die Filiation `u-`/`ult-` steht im Erzähltext **bei allen Figuren**. Damit reicht der bloße Vorname nicht mehr.
+
+**Zu klären · ???**
+- Wie heißt [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Vater? Damit hängt zusammen, **über welche Seite** [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) sein Onkel ist - Vaterbruder oder Mutterbruder. Das ist bisher nicht festgelegt und berührt die Sippenpflicht, mit der der Clan später hilft.
+- Wie heißt [Ishmans](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) Vater?
+- Trägt [Girlin](../Menschen/Nordvolk/Girlin.md) bei den Kel Aman eine Form mit `ult-`, oder bleibt sie namentlich fremd? Berührt [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-).
+
+Namensmuster: [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster) - konsonantisch oder auf `-an`.
 
 ---

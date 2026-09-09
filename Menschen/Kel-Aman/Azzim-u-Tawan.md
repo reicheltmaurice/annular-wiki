@@ -36,6 +36,8 @@
 
 Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Schmuggel) und wird im Finale durch den Ring zu Tibun teleportiert. Siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md).
 
+**Wie er auf Girlin kommt** (Autor, 08.09.2026): über **Gerede auf dem Basar**. Er hört von der Fremden und sucht sie dort auf - kein Zufallsblick, kein Dritter, der ihn hinschickt. Warum ausgerechnet sie und was das Gerede an ihr betont: **???**
+
 > **Harte Regel - der Ring ist niemals sein Motiv.** Azzim **weiß bis zum Ende nichts vom Ring**. Er verfolgt Girlin und Bellbrim aus eigenen Gründen; dass ihn der Ring im Finale nach Norden wirft, ist für ihn eine Katastrophe, kein Ziel. Erst dort, gestrandet, kommt er selbst auf den Gedanken, was ein wiederholbarer Übergang in einer Wüste bedeuten würde - als Schlusspointe und Aufhänger für spätere Geschichten, nicht als Antrieb in Plot 1.
 
 ---

@@ -36,5 +36,15 @@ Weitere Epitheta können frei erfunden werden, solange sie zur Eigenschaft des G
 ## Kultur, Werte, Tabus
 Noch nicht ausgearbeitet.
 
+## Umgang mit toten Kindern
+
+**Entschieden ist bisher nur ein Einzelfall** (Autor, 08.09.2026): [Girlins](../../Menschen/Nordvolk/Girlin.md) letztes Kind, ein Säugling von wenigen Wochen, liegt in einer **unmarkierten Grube auf dem Hofgelände** - kein Hügel, kein Stein; nur die Familie kennt die Stelle. Ein allgemeiner Brauch des Nordvolks ist daraus **nicht** abgeleitet · **???**
+
+> **Historische Grundlage** (Recherche, keine Setzung): In eisenzeitlichen Gräberfeldern Skandinaviens fehlen Säuglinge nahezu vollständig, während sich Kinderbestattungen im Siedlungsbereich finden - unter Hausböden, in Wandgräbchen, Pfostengruben, aufgelassenen Vorratsgruben. Ältere Kinder erscheinen dagegen im regulären Gräberfeld. Der Einzelfall folgt diesem Befund.
+>
+> **Nicht** belegt für 550 ist die spätere altnordische Vorstellung, ein Kind werde erst durch Namensgebung Mitglied der Sippe; die steht nur in Rechtstexten des 12./13. Jahrhunderts. Sie wird hier **nicht** als Begründung verwendet - der Grabort sagt damit nichts über den Wert des Kindes aus.
+
+**Offen · ???** Wie das Nordvolk allgemein mit toten Kindern umgeht, ob ältere Kinder ins Gräberfeld kommen und wie die Familien trauern.
+
 ## Sprache und Redewendungen
 Noch nicht ausgearbeitet.

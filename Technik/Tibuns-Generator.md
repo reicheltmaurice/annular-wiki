@@ -38,6 +38,16 @@ Die erzeugte Ladung ist nur der **Auslöser**, nicht die Energiequelle. Reibungs
 
 ---
 
+## Ladezeit - sie gehört dem Rad, nicht dem Ring
+
+**Der Ring hat keine Ladezeit.** Er ist **jederzeit startklar** und wartet auf nichts (Autor, 08.09.2026). Die **rund 30 Minuten** sind ausschließlich die Zeit, die **Tibuns Aufbau** braucht, um auf dem Bernsteinrad genug Ladung zu erzeugen.
+
+Die Wartezeit ist damit keine Eigenschaft der Portalringe, sondern eine **Grenze seines Geräts**. Für den Erzähltext heißt das: Wer einen Ring zündet, wartet auf die Maschine, nie auf den Ring.
+
+> Ob sich die 30 Minuten durch einen besseren Antrieb oder eine größere Reibfläche verkürzen lassen, ist **nicht entschieden** · **???** (Streichvermerk 08.09.2026, siehe [C-119](../Notizen/Challenges.md#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-))
+
+---
+
 ## Zündablauf
 
 1. Das Rad dreht schnell bis zur **Sättigung** - ein blaues Glimmen (Korona) zeigt an, dass es bereit ist.

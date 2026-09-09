@@ -34,7 +34,9 @@ Prägend und für Szenen nutzbar:
 | Abstammung statt Familienname: `u-` „Sohn des", `ult-` „Tochter des" | *Masin u-Gulan* |
 | Gruppen mit `Kel-` „die von…" | *Kel Garama* |
 
-Ob die Filiation `u-`/`ult-` auch im **Erzähltext** auftaucht oder nur im Wiki steht · **???**
+Die Filiation `u-`/`ult-` taucht **im Erzähltext auf, und zwar bei allen Figuren** (Autor, 08.09.2026) - nicht nur dort, wo Rang oder Herkunft betont wird. Wer genannt wird, wird mit Vatersnamen genannt.
+
+Folge: Jede Kel-Aman-Figur braucht einen **Vatersnamen**. Bei [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) ist er noch offen · **???**
 
 ### Bewaffnung
 

@@ -95,6 +95,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 ### Rückkehr & Vollendung (Jahr +9 → +10, Tibun 25 → 26)
 - Rückkehr **direkt nach Skirraa** - genauer: zum Ring am Fluss
 - Bau der **großen Wasseranlage** (Bernsteinrad, wasserradgetrieben) unter einer **überdachten Werkstatt über der Tabustelle**
+- **Womit er das bezahlt** (Autor, 08.09.2026): aus **Ersparnissen aus [Kaupvik](../../Orte/Kaupvik.md)** (acht Jahre Hafenarbeit und Handel - er kommt nicht mittellos zurück) und aus **dem, was der Wald am Skir hergibt** (Holz schlägt er selbst). Beides zusammen; nichts davon kommt aus dem Weiler, der ihn meidet. Was in einem Winter ohne Helfer davon zu schaffen ist: **???**
 - **Der Konflikt mit dem Weiler** (entschieden 02.09.2026):
   - Die Dorfbewohner **warnen** ihn, sind ängstlich und ärgerlich. **Niemand hilft ihm, er wird gemieden**
   - **[Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md) und neugierige Kinder meiden ihn nicht ganz** - sie sind die einzige Verbindung zum Weiler
@@ -113,7 +114,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Konflikt:** Sprache und Kulturbarriere
 - **Ihr Ziel steht von der ersten Stunde an fest:** Der Ring hat sie hergebracht, der Ring ist der einzige Rückweg - ein Fußmarsch in den Norden ist für sie keine Möglichkeit, sondern eine Todesart. Sie beginnt nicht bei der Frage *ob*, sondern bei *wie*
 - Begegnet [Bellbrim](../../Menschen/Andere/Bellbrim.md), die übersetzen kann und als Erste versteht, was der Ring ist
-- **Jahr +3 (spätestens):** Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem **Neffen des Häuptlings**, beginnt - dessen Frau ist zuvor mit einem anderen Mann durchgebrannt
+- **Jahr +3 (spätestens):** Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem **Neffen des Häuptlings [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md)**, beginnt - dessen Frau ist zuvor mit einem anderen Mann durchgebrannt
 
 ### Das Kind und der Entschluss (Jahr +3 → +5)
 
@@ -130,7 +131,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 ### Die Bitte und die Trennung (Jahr +5)
 - **Das Hindernis hatte drei Phasen** (02.09.2026): Zugehörigkeit → Wissen → Bitte. Erst als feststeht, dass man den Ring **auslösen** kann, lohnt der Transport überhaupt
 - **Girlin bittet selbst.** Sie ist stark und unabhängig; Sekkan bittet nicht für sie. **Er unterstützt sie, und sein Einfluss hilft** - sie arbeiten als Team (entschieden 03.09.2026)
-- **Warum der Clan hilft: Sippenpflicht.** **Sekkan ist Blut des Häuptlings**. Man tut es für ihn, nicht für sie
+- **Warum der Clan hilft: Sippenpflicht.** **Sekkan ist Blut des Häuptlings [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md)**. Man tut es für ihn, nicht für sie
   > **Frühere Fassung gestrichen:** Der Satz *„Motiv des Clans ist nicht Girlins Heimweh, sondern Wasser"* stammte nicht vom Autor
 - **Die Trennung vom Clan liegt hier, nicht nach dem Transport** (entschieden 03.09.2026): **Girlin, Sekkan und das Kind lösen sich in Jahr +5 vom Clan** und ziehen zu [Bellbrim](../../Menschen/Andere/Bellbrim.md) in die **Schlucht**. Für ihn ist das der Verlust seiner Sippe - der teuerste Preis, den im Buch jemand außer Tibun zahlt
 - **Folge:** Girlin ist **ab +5 ohne Sippenschutz**, nicht erst ab +8. Was sie trotzdem vier Jahre lang schützt, ist **kein Schutz, sondern Lage**: Die **Schlucht kennen sehr wenige**, und **Azzim ist eine Weile unterwegs** (entschieden 03.09.2026)

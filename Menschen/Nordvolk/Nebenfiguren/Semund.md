@@ -41,7 +41,9 @@
 
 ## Vor Girlins Verschwinden
 
-Semund und [Girlin](../Girlin.md) haben **drei Kinder verloren** - das letzte ein bis zwei Winter vor ihrem Verschwinden. Als der Ring ihm die Frau nimmt, ist sein Haus also längst eines des Verlusts. Das ist der Schlüssel zu seiner schnellen Neubindung an [Millia](Millia.md): **Er hat nicht ersetzt, er hat aufgehört zu verlieren.**
+Semund und [Girlin](../Girlin.md) haben **drei Kinder verloren** - das letzte ein bis zwei Winter vor ihrem Verschwinden. Das letzte war ein **Säugling von wenigen Wochen** (Autor, 08.09.2026). Es liegt nach dem Brauch des Nordvolks **auf dem Hofgelände**, in einer unmarkierten Grube nahe am Haus - kein Grabhügel, kein Stein; nur die Familie kennt die Stelle (siehe [Nordvolk](../../../Kulturen/Nordvolk/README.md#umgang-mit-toten-kindern)).
+
+Im Erzähltext wird der Verlust **mit einem einzigen Satz** sichtbar - beiläufig genannt, nie ausgeführt. Ob die Stelle in einer Szene vorkommt, entscheidet sich beim Schreiben. Das genaue Jahr: ??? Als der Ring ihm die Frau nimmt, ist sein Haus also längst eines des Verlusts. Das ist der Schlüssel zu seiner schnellen Neubindung an [Millia](Millia.md): **Er hat nicht ersetzt, er hat aufgehört zu verlieren.**
 
 ---
 

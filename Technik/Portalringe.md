@@ -151,7 +151,17 @@ Das Material ist mystisch und nicht identifizierbar. Für die Bearbeitung gilt:
 
 > **Haptikreferenz, kein Material.** „Gebürstetes Aluminium" beschreibt wie bei der Optik nur das *Gefühl*. Das Material bleibt unbekannt; der Begriff gehört auf die Autorenebene und steht nie im Erzähltext.
 
-**Auf den ersten Blick Metall.** Der Ring sieht aus wie Metall, und eine Figur von 550 greift zuerst zu dieser Schublade. Beim Anfassen verhält er sich falsch - die Irritation kommt erst beim zweiten Hinsehen. Wie genau sich das äußert (Klang beim Anschlagen, Gewicht in der Hand), ist ???.
+**Auf den ersten Blick Metall.** Der Ring sieht aus wie Metall, und eine Figur von 550 greift zuerst zu dieser Schublade. Beim Anfassen verhält er sich falsch - die Irritation kommt erst beim zweiten Hinsehen.
+
+**Klang und Gewicht bestätigen die Metall-Erwartung** (Autor, 08.09.2026):
+
+| Prüfung | Ergebnis |
+|---|---|
+| **Anschlagen** | **klingt wie Metall** |
+| **Anheben** | **wiegt sich wie Metall** - was eine Hand am Reif erwartet, bekommt sie auch |
+| **Anfassen** | **temperaturlos** - die einzige Stelle, an der die Erwartung bricht |
+
+Damit ist die Temperaturlosigkeit **der einzige Bruch**. Zwei von drei Prüfungen gehen glatt durch; wer den Ring beklopft und hebt, hat keinen Grund zu zweifeln. Erst die bloße Hand widerspricht - und sie widerspricht nicht laut, sondern durch etwas, das *fehlt*.
 
 ### Optik & Alterung
 

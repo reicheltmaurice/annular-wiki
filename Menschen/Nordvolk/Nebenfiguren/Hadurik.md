@@ -16,7 +16,9 @@
 
 **Familie**
 
-???
+| | |
+|---|---|
+| **Nachfolger** | Ein Erbe **existiert** - er hält die Thinghalle nach Hadurik. Wer es ist (Sohn, Verwandter, anderer): ??? |
 
 ---
 
@@ -36,7 +38,9 @@
 
 Regionaler Anführer mit Thinghalle in [Tingsal](../../../Orte/Tingsal.md). Rolle und Verhältnis zu [Tibun](../Tibun.md) / [Skirraa](../../../Orte/Skirraa.md): ???
 
-**Er ist alt.** Damit läuft die Frage der **Nachfolge** im Hintergrund mit - wer nach ihm die Thinghalle hält, ist offen und Konfliktstoff für [Tingsal](../../../Orte/Tingsal.md). Ob er das Finale zehn Jahre später überhaupt erlebt: ???
+**Er erlebt das Finale.** Mit etwa 70 ist er bei [Tibuns](../Tibun.md) Rückkehr noch im Amt - [Tingsal](../../../Orte/Tingsal.md) hat dieselbe Autorität wie bei dessen Aufbruch. Kein Wechsel an der Thinghalle über die zehn Jahre.
+
+**Er ist alt.** Ein **Nachfolger existiert** - die Thinghalle bleibt nach ihm besetzt, ein Machtvakuum entsteht nicht. Die Frage liegt aber **außerhalb der Erzählzeit**: Im Buch wird sie nicht verhandelt und nicht beantwortet. Wer der Erbe ist: ???
 
 Der Name ist germanisch-zweigliedrig (*hadu* „Kampf" + *rik* „Herrscher") - bewusst schwerer und herrschaftlicher als die Dorffiguren, markiert Rang.
 
