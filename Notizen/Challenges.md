@@ -90,7 +90,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-142: Wie die geschriebenen Szenen gegliedert werden ○](#c-142-wie-die-geschriebenen-szenen-gegliedert-werden-)
 - [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-146: Was Girlin vom Flip wahrnimmt ○](#c-146-was-girlin-vom-flip-wahrnimmt-)
-- [C-149: Wie die Kel Aman den Ring religiös einordnen ○](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-)
+
 - [C-150: Was Bellbrim vom Wissen der Kel Aman hat ○](#c-150-was-bellbrim-vom-wissen-der-kel-aman-hat-)
 - [C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ○](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-)
 - [C-160: Bröckelt die Angst des Dorfes über die Zeit? ○](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
@@ -164,6 +164,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-145: „Ohne Hindernis" wird zu niedrig gezählt ✓](#c-145-ohne-hindernis-wird-zu-niedrig-gezählt-)
 - [C-147: Die Nummer ist die Erzählreihenfolge ✓](#c-147-die-nummer-ist-die-erzählreihenfolge-)
 - [C-148: Der Statusmarker im Titel bricht die Anker ✓](#c-148-der-statusmarker-im-titel-bricht-die-anker-)
+- [C-149: Wie die Kel Aman den Ring religiös einordnen ✓](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-)
 - [C-151: Was die Verteidigung der Schlucht Sekkan kostet ✓](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-)
 - [C-153: Haduriks Nachfolge in Tingsal ✓](#c-153-haduriks-nachfolge-in-tingsal-)
 - [C-154: Woher die Autorität der Walas kommt ✓](#c-154-woher-die-autorität-der-walas-kommt-)
@@ -636,7 +637,6 @@ Tibun ist rund **8 Jahre** allein unterwegs (17 → 25, [Zeitleiste](../Plots/Pl
 - **Gefolgschaft/Dienst** bei einem Häuptling oder Hof - sesshafter, würde die lange Reisedauer aber eher bremsen.
 Nicht dringend, aber nötig, damit die 8 Jahre nicht als abstrakter Zeitraum stehen. Berührt [C-022](#c-022-tibuns-reise---dauer-motiv-hof-).
 
-
 **Im Kern beantwortet (Autor, 02.09.2026)** über [C-115](#c-115-tibuns-wanderjahre---die-stationen-fehlen-):
 Die Reise dauert **Wochen, nicht Jahre**. Es gibt **eine Zwischenstation**, an der er sich einer **Gruppe anschließt**, um weiterzureisen - dort lernt er, ohne Sippe zu überleben (Anschluss, Arbeit gegen Schutz).
 Die acht Jahre danach verbringt er **in [Kaupvik](../Orte/Kaupvik.md)**: **Hafenarbeit**, dazu **Handel mit Bernstein und eigenes Sammeln**. Damit ist die Existenzgrundlage geklärt; das Authentizitätsproblem des schutzlosen Siebzehnjährigen entfällt, weil er nicht acht Jahre allein auf der Straße ist.
@@ -889,7 +889,6 @@ Offene Punkte:
 
 Die Fassung der Skizze (Wasserrad) ist damit die kanonkonforme. Denkbar bliebe eine Mischform: Tibun **wollte** den Blitzeffekt vorführen, der Unfall passiert aber am mechanischen Antrieb - dann trägt er die Schuld an einem Experiment, das ihn selbst nie hätte verletzen können. Nicht entschieden.
 
-
 **Teilentschieden (Autor, 02.09.2026) - fürs Buch-Gerüst festgehalten:**
 - **Der Unfall passiert.** Das steht fest und ist damit gesetzter Bestandteil der Ereigniskette (Jahr 0/+1).
 - **Verletzt wird eine Nebenfigur** - nicht [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), nicht [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md).
@@ -903,7 +902,6 @@ Die Fassung der Skizze (Wasserrad) ist damit die kanonkonforme. Denkbar bliebe e
 ### C-059: Tibuns Zieheltern in Kaupvik ○
 
 [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil---zwei-parallele-stränge) (Tibun 8-9): Tibun kommt in [Kaupvik](../Orte/Kaupvik.md) bei einem **Paar** unter, arbeitet mit dem Mann am Hafen, die beiden werden Freunde, der Mann wird Tibuns **neue Bezugsperson**. Beide Figuren existieren im Wiki noch nicht - keine Namen, kein Gewerbe, keine Herkunft. Dramaturgisch wichtig: Das ist der Gegenentwurf zu [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) und damit die emotionale Achse der Wanderjahre. Berührt [C-034](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft-) (Lebensgrundlage).
-
 
 **Teilentschieden (Autor, 02.09.2026):** Die Zieheltern **bleiben am Ende zurück** - lebend, im Guten. Ein Abschied, kein Verlust, kein Bruch. Sie sind damit das, was Tibun aufgibt, nicht das, was ihm genommen wird.
 **Offen weiter:** Namen, Gewerbe, Herkunft, und ab welchem Jahr er bei ihnen wohnt (Rahmen: Jahr +1 bis +9, [C-115](#c-115-tibuns-wanderjahre---die-stationen-fehlen-)) · **???**
@@ -944,7 +942,7 @@ Hängt an [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-) und [C-080](#c
 
 **Teilweise beantwortet (31.08.2026) - der Grund für das Schweigen steht:** Der **Neffe hat den Häuptling darum gebeten** ([C-060 ✓](#c-060-girlin-und-der-neffe-)). Wer den Ring findet, verliert Girlin und das Kind. Damit ist der Deus-ex-Machina-Verdacht ausgeräumt: Der Häuptling hatte einen Grund, und der Grund ist nicht Willkür, sondern die Sippe.
 
-**Folge für den Aufbau:** Ab dem Transport (Jahr +5, [C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-)) ist der Ring kein Geheimnis mehr - vier Jahre lang schleppt ihn ein ganzes Volk durch die Wüste. Das Schweigen muss also **davor** liegen und **brechen**. Der Wüstenstrang bekommt damit seine Mitte: erst das Schweigen, dann der Bruch, dann der Transport.
+**Folge für den Aufbau:** Ab dem Transport (+7/+8, [C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-)) ist der Ring kein Geheimnis mehr - ein ganzes Volk schleppt ihn durch die Wüste. *(Korrigiert 09.09.2026: hier stand „ab Jahr +5" und „vier Jahre lang"; der Zug liegt in +7/+8 und dauert ein paar Wochen.)* Das Schweigen muss also **davor** liegen und **brechen**. Der Wüstenstrang bekommt damit seine Mitte: erst das Schweigen, dann der Bruch, dann der Transport.
 
 ---
 
@@ -1689,7 +1687,6 @@ Ein Dach an der Stelle, die die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wa
 
 Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-) und hält den Konduktor trocken - was in Nordjütland das größte praktische Problem der ganzen Anlage ist. Der Bau löst also ein technisches Problem und schafft ein gesellschaftliches.
 
-
 ---
 
 **Entschieden (Autor, 02.09.2026) - der Konflikt ist Ansteckungsangst, kein Vertreibungskonflikt.**
@@ -1739,7 +1736,6 @@ Der Tausch ist symmetrisch. Bei **Zündung 1** ([C-062 ✓](#c-062-azzims-ankunf
 
 **Offen:** Was genau Tibun in dem Moment sieht und begreift. Für ihn ist Azzims Ankunft nach zehn Jahren der **erste Beweis**, dass am anderen Ende Menschen leben · **???**
 
-
 **Zusätzliche Möglichkeit (Autor, 09.09.2026): ein Baum.** Wächst am Ringort ein Baum, so dass er in das getauschte Volumen ragt, wird er **komplett durchgeschnitten** - und der abgetrennte Teil steht danach **in der Wüste**. Das ist die sichtbarste Form dessen, was die Kugelgrenze tut: Bei [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden sieht [Tibun](../Menschen/Nordvolk/Tibun.md) halbierte Steine und glatt durchtrennte Wurzeln ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)) - ein Baumstumpf mit spiegelglatter Schnittfläche, dessen Krone auf der anderen Seite der Welt liegt, ist dasselbe Prinzip in groß.
 
 **Der Baum wächst seit Jahren und schon vor dem Beben durch den Ring hindurch** (Autor, 09.09.2026) - der Stamm steht in der Ringöffnung, während der Ring noch vergraben liegt.
@@ -1756,12 +1752,12 @@ Der Tausch ist symmetrisch. Bei **Zündung 1** ([C-062 ✓](#c-062-azzims-ankunf
 
 ### C-103: Transportlogistik des Wüstenrings ○
 
-Folgt aus [C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-). Rund 5,7 t sollen von Jahr +5 bis +8 durch die Sahara bewegt werden ([C-117 ✓](#c-117-ringgeometrie-neu-vermessen-)). **Das Verfahren ist offen** → [C-125](#c-125-das-transportverfahren-ist-offen-); die Punkte hier hängen daran.
+Folgt aus [C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-). Rund 5,7 t sollen durch die Sahara bewegt werden ([C-117 ✓](#c-117-ringgeometrie-neu-vermessen-)) - der Zug liegt in **+7/+8** und dauert **ein paar Wochen** (Autor, 09.09.2026); die alte Spanne „Jahr +5 bis +8" ist überholt. **Das Verfahren ist offen** → [C-125](#c-125-das-transportverfahren-ist-offen-); die Punkte hier hängen daran.
 
 **Zu klären · ???**
 - **Entfernung** vom Fundort zur Schlucht. Ohne festes Verfahren gibt es keine Tagesleistung und damit auch keine Entfernungsschätzung. Die früher hier stehende Rechnung (1-3 km am Tag) beruhte auf einem nicht abgesegneten Verfahren und ist gestrichen.
 - **Wie viele Männer, wie viele Zugtiere**, und wer ernährt sie?
-- **Wasser und Nahrung** für die Mannschaft über Monate in der Wüste. Das gilt unabhängig vom Verfahren.
+- **Wasser und Nahrung** für die Mannschaft über die Wochen des Zuges. Das gilt unabhängig vom Verfahren.
 - **Wer trägt die Kosten** und was verlangt er dafür?
 
 ---
@@ -1775,7 +1771,6 @@ Kein Clan schleppt ein Weltwunder durch die Wüste, weil eine Fremde heim will. 
 **Das liefert zugleich [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) endlich ein nachvollziehbares Motiv** → [C-107](#c-107-azzims-motiv---wasser-statt-sklaverei-). Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) nennt den Wassertausch die *größte ungenutzte Konsequenz der eigenen Mechanik*; hier wird sie zum Träger des halben Wüstenstrangs.
 
 ~~**Offen:** Wann und wie erfahren die Kel Aman davon, **bevor** je gezündet wurde? Bellbrim kann es nur **behaupten** - also braucht der Transport entweder einen Vertrauensvorschuss oder einen ersten Beweis · **???**~~ **Gegenstandslos** - das Wassermotiv ist gestrichen; der Clan transportiert aus Sippenpflicht.
-
 
 ---
 
@@ -1845,7 +1840,6 @@ Ein Mann, der einen Ring beansprucht, der Wasser in die Wüste schiebt, ist kein
 
 ~~**Offen:** Ob Sklaverei als Motiv daneben bestehen bleibt oder ersetzt wird; ob Azzim für sich handelt oder für eine Gruppe; ob er den Wassereffekt **selbst gesehen** hat oder nur davon gehört · **???**~~ **Gegenstandslos, soweit es Wasser betrifft** - Azzim weiß nichts vom Ring. Ob er für sich oder eine Gruppe handelt, steht in [C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-) und [C-029](#c-029-azzim-u-tawan---charakter-motivation--fähigkeiten-).
 Berührt [C-089](#c-089-azzim---verhältnis-zum-ring-harte-regel-) und [C-028](#c-028-azzim-u-tawan---herkunft--hintergrund-).
-
 
 ---
 
@@ -1985,7 +1979,6 @@ Der Grund liegt nicht in Erkenntnis, sondern in Arithmetik: Eine Reise zu Fuß a
 - **Wie viel Zeit vergeht sichtbar?** Der Leser muss acht Jahre altern sehen, nicht nur lesen.
 
 Betrifft [C-059](#c-059-tibuns-zieheltern-in-kaupvik-) (Zieheltern als Endpunkt) und [C-022 ✓](#c-022-tibuns-reise---dauer-motiv-hof-).
-
 
 ---
 
@@ -2128,6 +2121,7 @@ Damit steht: **Tibuns einziger Preis liegt in Jahr 0/+1** - die Mutter, der Unfa
 | Der Weltenbau-Leitfaden führte weiter „Der Ring liegt an einem Bach → Wasserbrücke nach Süden" als offenen Punkt | **als überholt markiert** - der Ring liegt auf trockenem Grund, Wasser als Motiv ist verworfen | [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md), Schicht 6 |
 | Ein allgemeiner **Bestattungsbrauch des Nordvolks für alle toten Kinder** (Säuglinge aufs Hofgelände, ältere ins Gräberfeld), im Indikativ formuliert | **zurückgenommen** - der Autor hat nur den **Einzelfall** von Girlins letztem Kind entschieden. Der archäologische Befund steht jetzt als *Grundlage*, nicht als Setzung; der allgemeine Brauch ist `???` | [Nordvolk](../Kulturen/Nordvolk/README.md#umgang-mit-toten-kindern), [C-162 ✓](#c-162-das-letzte-tote-kind---jahr-und-sichtbarkeit-) |
 | „Ein besserer Antrieb oder eine größere Reibfläche **verkürzt** die 30 Minuten" | **gestrichen** - folgt zwar logisch aus der Autorenaussage (die Ladezeit gehört dem Rad), ist aber selbst nicht entschieden. Jetzt `???` | [Tibuns Generator](../Technik/Tibuns-Generator.md#ladezeit---sie-gehört-dem-rad-nicht-dem-ring), [C-164 ✓](#c-164-gilt-die-halbe-stunde-ladezeit-auch-im-normalbetrieb-) |
+| Grüne Steine wie die Ringrunen seien den Kel Aman „Augen des Geistes", heilig | **gestrichen** - nie entschieden; Autor: *„das habe ich nie entschieden. das kann weg."* Der Ring ist ihnen kein Heiligtum | [Kel Aman](../Kulturen/Kel-Aman/README.md#was-der-ring-ihnen-bedeutet), [C-149 ✓](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-) |
 
 **Zu tun · ???** Das **übrige Wiki ist auf denselben Fehler zu prüfen** - insbesondere alles, was in Sitzungen ohne ausdrückliche Autorenentscheidung entstanden ist. Verdachtsstellen: [C-089](#c-089-azzim---verhältnis-zum-ring-harte-regel-), [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) (Abschnitt *Schicht 6*), [Kel-Aman](../Kulturen/Kel-Aman/README.md).
 
@@ -2643,11 +2637,13 @@ Aufgefallen am 04.09.2026 beim Bau des erzeugten Zeitgerüsts, das den Status je
 
 ---
 
-### C-149: Wie die Kel Aman den Ring religiös einordnen ○
+### C-149: Wie die Kel Aman den Ring religiös einordnen ✓
 
 Aufgefallen am 05.09.2026 beim Auflösen der Kel-Aman-Dublette: Der Hook stand nur in der alten Volksseite und war sonst nirgends erfasst.
 
-Das Transportmotiv ist entschieden - **Sippenpflicht** ([C-104 ✗](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-)). Damit ist aber nicht beantwortet, **was der Ring den Kel Aman bedeutet**, während sie ihn drei Jahre lang durch die Wüste schleppen ([C-103](#c-103-transportlogistik-des-wüstenrings-)).
+Das Transportmotiv ist entschieden - **Sippenpflicht** ([C-104 ✗](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-)). Damit ist aber nicht beantwortet, **was der Ring den Kel Aman bedeutet**, während sie ihn durch die Wüste schleppen ([C-103](#c-103-transportlogistik-des-wüstenrings-)).
+
+> **Altlast gestrichen (09.09.2026):** Hier stand *„drei Jahre lang"*. Die Zahl stammte aus der überholten Fassung der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und nicht vom Autor.
 
 **Zu klären · ???**
 - Halten sie ihn für ein Heiligtum, für Beutegut, für ein Werkzeug - oder streiten sie darüber?
@@ -2655,6 +2651,16 @@ Das Transportmotiv ist entschieden - **Sippenpflicht** ([C-104 ✗](#c-104-wasse
 - Die alte Fassung machte die **grünen Runen** zum Grund der Verehrung. Deren Aussehen ist selbst offen ([C-013](#c-013-runen---anordnung-anzahl-aussehen-)), und die Religion des Volkes ist unausgearbeitet ([C-003](#c-003-kel-aman---kulturelle-tiefe-)) - die Frage hängt an beiden.
 
 **Erbauer-Regel bleibt unberührt:** Auch eine religiöse Deutung darf nicht erklären, woher die Ringe stammen.
+
+**Entschieden (Autor, 09.09.2026):**
+
+- **Kein Heiligtum, kein Schatz.** Der Ring ist für die Kel Aman ein **schweres, unheimliches Ding** - keine Verehrung, kein Beutewert. Was ihn bewegt, ist allein die **Sippenpflicht** gegenüber [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md); ohne den Neffen läge er, wo er liegt.
+- **Aber er ist ständiges Thema.** Der Clan redet über ihn - Gerede, Vermutungen, Geschichten am Feuer. Nicht Andacht, sondern Beschäftigung: Ein Ding, das niemand erklären kann, hört nicht auf, besprochen zu werden.
+- **Der Transport dauert ein paar Wochen** (Autor, 09.09.2026) - nicht Jahre. Das begrenzt auch, wie lange dieses Gerede läuft.
+
+Damit ist die religiöse Einordnung **keine**: Es gibt keine Deutung, die der Clan teilt, nur ein unerklärliches Ding und viele Meinungen dazu. Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md).
+
+**Offen bleibt · ???** ob eine dieser Meinungen im Erzähltext eine Stimme bekommt - etwa, dass jemand den Zug verlassen will.
 
 ---
 

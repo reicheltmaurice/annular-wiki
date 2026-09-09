@@ -62,6 +62,14 @@ Der Preis liegt deshalb nicht in einer Strafe, sondern im **Entzug**: Wer geht, 
 
 Offen · **???**: Worin der Ausgleich bei einer geregelten Trennung besteht. Ob auf den Verfahrensbruch von Sekkans Frau **Gewalt** folgt oder ob es bei einer offenen Rechnung zwischen den Sippen bleibt. Wann Ishman Girlin aufnimmt und ob sie und Sekkan tatsächlich heiraten.
 
+### Was der Ring ihnen bedeutet
+
+**Kein Heiligtum, kein Schatz** (Autor, 09.09.2026). Der Ring in der Wüste ist für die Kel Aman ein **schweres, unheimliches Ding** - sie verehren ihn nicht, und sie sehen in ihm auch keine Beute. Dass er überhaupt bewegt wird, liegt allein an der **Sippenpflicht** gegenüber [Sekkan u-Werdan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md); für die Sache selbst hätte niemand einen Finger gerührt.
+
+**Geredet wird trotzdem ständig darüber.** Der Ring ist über den ganzen Zug hinweg Thema - Vermutungen, Gerede, Geschichten am Feuer. Nicht Andacht, sondern Beschäftigung mit etwas, das niemand erklären kann.
+
+Es gibt also **keine gemeinsame Deutung**, sondern viele Meinungen. Ob eine davon im Erzähltext eine Stimme bekommt, ist offen · **???**
+
 ## Noch nicht ausgearbeitet
 
 - Kultur, Werte, Tabus · Religion und Rituale · soziale Struktur · Redewendungen · Verhältnis zu Sesshaften · **???**
@@ -84,7 +92,7 @@ Allgemeines Wüstenvolk-Material dazu: [Erscheinung & Lebensweise](Erscheinung.m
 
 - Glaube an den „Atem der Erde" - ein unsichtbarer Geist, der durch Wind und Sturm spricht.
 - Sandstürme als Botschaften oder Prüfungen des Geistes.
-- Grüne Steine (wie die Runen der Ringe) als „Augen des Geistes", heilig.
+> **Gestrichen am 09.09.2026 (Autor):** *„Grüne Steine (wie die Runen der Ringe) als ,Augen des Geistes', heilig."* - **nie entschieden**, stammte aus dem Altmaterial. Der Ring ist den Kel Aman kein Heiligtum (siehe [Was der Ring ihnen bedeutet](#was-der-ring-ihnen-bedeutet)).
 
 ### Rituale · ???
 

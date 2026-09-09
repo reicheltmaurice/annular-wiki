@@ -151,7 +151,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 ### Der Transport (Jahr +7 → +8)
 - **Der Clan kommt wieder**, und **Girlin bricht mit ihm auf**, um den Ring zu holen (entschieden 03.09.2026). Zwischen Bitte (+5) und Aufbruch liegen zwei Jahre, weil **der Clan eigene Wege hat** - Weidewechsel, Handelszüge, Jahreszeiten. Man tut es, wenn der Zug ohnehin passt, nicht auf Zuruf
   - **Offen:** wie Girlin in der Schlucht erfährt, dass der Clan kommt · **???**
-- **Der Transport dauert Wochen bis wenige Monate**, kein Jahresvorhaben (entschieden 03.09.2026)
+- **Der Transport dauert ein paar Wochen** (Autor, 09.09.2026), kein Jahresvorhaben. Die frühere Angabe *„Wochen bis wenige Monate"* (03.09.2026) ist damit auf **Wochen** eingegrenzt
   > **Frühere Fassung gestrichen:** *„Der Transport (Jahr +5 → +8)"*, *„ein Vorhaben über Jahre, kein Beat"* und *„vier Jahre lang schleppt ein ganzes Volk den Ring"* stammten nicht vom Autor
 - Der 3-m-Ring wiegt rund **5,7 t**. Er wird bewegt - **wie**, ist offen · **???**
   > **Frühere Fassung gestrichen:** „auf Schlitten über befeuchtete Piste, ausschließlich über Hammada und Serir" stammte nicht vom Autor
