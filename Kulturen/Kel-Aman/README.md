@@ -36,7 +36,9 @@ Prägend und für Szenen nutzbar:
 
 Die Filiation `u-`/`ult-` taucht **im Erzähltext auf, und zwar bei allen Figuren** (Autor, 08.09.2026) - nicht nur dort, wo Rang oder Herkunft betont wird. Wer genannt wird, wird mit Vatersnamen genannt.
 
-Folge: Jede Kel-Aman-Figur braucht einen **Vatersnamen**. Bei [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) ist er noch offen · **???**
+Folge: Jede Kel-Aman-Figur braucht einen **Vatersnamen**. Festgelegt (Autor, 09.09.2026): **Sekkan u-Werdan** und **Ishman u-Gulan** - die Vaterlinien unterscheiden sich, denn Ishman ist Sekkans **Mutterbruder**.
+
+**Fremde Namen werden verformt.** [Girlin](../../Menschen/Nordvolk/Girlin.md) heißt bei den Kel Aman **Gilint** (Autor, 09.09.2026). Zwei Dinge geschehen dabei: Das Cluster `-rl-` verliert den einen Liquid - dieselbe Dissimilation, die aus *peregrinus* das Wort *Pilger* macht -, und weil ein Frauenname für sie ein umklammerndes `t` braucht, kommt eines ans Ende. Die falsche Aussprache setzt sich durch und wird ihr Name. Eine `ult-`Form bekommt sie **nicht** - sie bleibt ohne Vaterlinie und damit hörbar sippenlos.
 
 ### Bewaffnung
 

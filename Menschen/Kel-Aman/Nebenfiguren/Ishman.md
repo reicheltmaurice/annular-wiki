@@ -18,8 +18,9 @@
 
 | | |
 |---|---|
-| **Neffe** | [Sekkan](Sekkan.md) |
-| **Vatersname** (`u-`) | ??? |
+| **Neffe** | [Sekkan u-Werdan](Sekkan.md) - **Schwestersohn** (Ishman ist Mutterbruder) |
+| **Vatersname** (`u-`) | **Gulan** - voller Name: **Ishman u-Gulan** |
+| **Schwester** | Sekkans Mutter - Name ??? |
 | **Weitere Familie** | ??? |
 
 ---
@@ -44,13 +45,13 @@
 
 Sein Verhältnis zu Girlin als sippenloser Fremder, sein Charakter und sein Auftreten: ???
 
-**Der Name** folgt dem Muster der Kel Aman (Männernamen konsonantisch oder auf `-an`) und klingt bewusst nah an *Sekkan* - Onkel und Neffe hören sich als Sippe an.
+**Der Name** folgt dem Muster der Kel Aman (Männernamen konsonantisch oder auf `-an`) und klingt bewusst nah an *Sekkan* - Onkel und Neffe hören sich als Sippe an. Die **Vatersnamen unterscheiden sich** (Autor, 09.09.2026): *Ishman u-Gulan* und *Sekkan u-Werdan* - die Sippenpflicht läuft über Ishmans Schwester, nicht über eine gemeinsame Vaterlinie.
 
 ---
 
 ## Verbindungen zu anderen Charakteren
 
-- Neffe: [Sekkan](Sekkan.md)
+- Neffe: [Sekkan u-Werdan](Sekkan.md) - Sohn seiner Schwester
 - Verhältnis zu [Girlin](../../Nordvolk/Girlin.md): ???
 - Verhältnis zu [Azzim u-Tawan](../Azzim-u-Tawan.md): ???
 

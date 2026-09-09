@@ -102,9 +102,10 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-156: Der Wald am Skir - Größe, Abstand, stehendes Gewässer ○](#c-156-der-wald-am-skir---größe-abstand-stehendes-gewässer-)
 - [C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ○](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-)
 - [C-160: Bröckelt die Angst des Dorfes über die Zeit? ○](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
-- [C-161: Erhebt Girlins Herkunftssippe Anspruch? ○](#c-161-erhebt-girlins-herkunftssippe-anspruch-)
 - [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
-- [C-170: Vatersnamen für Sekkan und Ishman ○](#c-170-vatersnamen-für-sekkan-und-ishman-)
+- [C-171: Sekkans Eltern - Namen und Verbleib ○](#c-171-sekkans-eltern---namen-und-verbleib-)
+- [C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ○](#c-172-wo-girlins-umbenennung-zu-gilint-erzählt-wird-)
+- [C-173: Der Staubschleier hat auch Skirraa getroffen ○](#c-173-der-staubschleier-hat-auch-skirraa-getroffen-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -183,6 +184,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-166: Bleibt Sekkans Wunde? ✓](#c-166-bleibt-sekkans-wunde-)
 - [C-167: Wer folgt Hadurik in Tingsal? ✓](#c-167-wer-folgt-hadurik-in-tingsal-)
 - [C-168: Was außer dem Skarabäus im Sand steckt ✓](#c-168-was-außer-dem-skarabäus-im-sand-steckt-)
+- [C-161: Erhebt Girlins Herkunftssippe Anspruch? ✓](#c-161-erhebt-girlins-herkunftssippe-anspruch-)
+- [C-170: Vatersnamen für Sekkan und Ishman ✓](#c-170-vatersnamen-für-sekkan-und-ishman-)
 
 ---
 
@@ -2759,7 +2762,7 @@ Das Namenssystem der [Kel Aman](../Kulturen/Kel-Aman/README.md) kennt die Abstam
 
 **Entschieden (Autor, 08.09.2026): Die Filiation taucht im Erzähltext auf, und zwar bei allen Figuren.** Nicht nur dort, wo Rang oder Herkunft betont wird - wer genannt wird, wird mit Vatersnamen genannt. Das macht die Form zum hörbaren Merkmal der Kultur statt zu einem Ehrentitel für wenige.
 
-**Folge:** Jede Kel-Aman-Figur braucht einen Vatersnamen. Für [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) fehlt er → [C-170](#c-170-vatersnamen-für-sekkan-und-ishman-).
+**Folge:** Jede Kel-Aman-Figur braucht einen Vatersnamen. Für [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) fehlt er → [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishman-).
 
 ---
 
@@ -2777,13 +2780,19 @@ Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) vermisst genau hier den Kampf 
 
 ---
 
-### C-161: Erhebt Girlins Herkunftssippe Anspruch? ○
+### C-161: Erhebt Girlins Herkunftssippe Anspruch? ✓
 
 Aus [C-095 ✓](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-semund-neu-heiraten-) beim Lückenaudit (08.09.2026) ausgelagert; dort steht die Konfliktlinie als *verfügbar, nicht gesetzt*.
 
 Nach [C-095 ✓](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-semund-neu-heiraten-) hat die Herkunftssippe **keinen Anspruch**, weil Kinder da sind - sie **könnte** ihn aber erheben.
 
-**Zu klären · ???** Tut sie es? Gibt es diese Sippe überhaupt noch, und wo sitzt sie ([C-024](#c-024-girlin---herkunft--vorgeschichte-))? Ein Auftritt ihrer Leute nach der Toterklärung wäre Druck auf [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) und auf [Millias](../Menschen/Nordvolk/Nebenfiguren/Millia.md) Einzug - oder er entfällt ersatzlos.
+**Entschieden (Autor, 09.09.2026): Niemand kommt, weil es niemanden mehr gibt.** [Girlins](../Menschen/Nordvolk/Girlin.md) Herkunftsweiler ist **während ihrer Ehejahre** eingegangen - **erst Hungerjahre, dann eine Seuche**, die den geschwächten Ort leerräumt. Nach der Toterklärung meldet sich deshalb niemand; die Konfliktlinie um [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Neubindung und [Millias](../Menschen/Nordvolk/Nebenfiguren/Millia.md) Einzug entfällt ersatzlos.
+
+**Girlin weiß davon.** Sie hat es über die Jahre mitbekommen. Als sie in der Wüste landet, gibt es hinter ihr nichts mehr außer Skirraa - ihre Kinder sind der einzige Rückweg, den sie hat. Das verschärft ihr Ziel aus [C-024](#c-024-girlin---herkunft--vorgeschichte-): Wiedervereinigung, nicht Rückkehr.
+
+**Historisch trägt das ohne Abstriche.** Girlin ist in Jahr 0 (= 550 n.Chr.) 34 und kam mit etwa 18 nach [Skirraa](../Orte/Skirraa.md); ihre Ehejahre sind also **ca. 534-550**. In dieses Fenster fallen zwei belegte Ereignisse: der **Staubschleier von 536/537** (Vulkanwinter, mehrere Jahre ohne Ernte - in Skandinavien archäologisch als Bevölkerungseinbruch mit reihenweise aufgegebenen Höfen fassbar; er hallt später als *Fimbulwinter* nach) und ab **541 die Justinianische Pest** (Yersinia pestis, in Gräbern Süddeutschlands und Englands nachgewiesen; für Skandinavien ist der direkte Nachweis dünn, die Handelswege dorthin gab es). Ein einzelner Weiler, der in diesen Jahren leergeht, ist der Normalfall, nicht die Ausnahme.
+
+**Weiter offen · ???** Welcher Weiler es war und wo er lag → [C-024](#c-024-girlin---herkunft--vorgeschichte-). In welchem Jahr genau er einging, ob Girlin damals noch Leute dort hatte, und **wie sie es erfahren hat**. Ob im Erzähltext eine Ursache benannt wird - keine Figur der Epoche könnte eine Seuche als solche bezeichnen; sie kennen nur, was sie sehen.
 
 ---
 
@@ -2919,17 +2928,71 @@ Entschieden ist die Geometrie an der Furt: **4-6 Schritt breit, knietief** - ein
 
 ---
 
-### C-170: Vatersnamen für Sekkan und Ishman ○
+### C-170: Vatersnamen für Sekkan und Ishman ✓
 
 Aus [C-159 ✓](#c-159-filiation-im-erzähltext-der-kel-aman-) ausgelagert (08.09.2026).
 
 Entschieden ist: Die Filiation `u-`/`ult-` steht im Erzähltext **bei allen Figuren**. Damit reicht der bloße Vorname nicht mehr.
 
-**Zu klären · ???**
-- Wie heißt [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Vater? Damit hängt zusammen, **über welche Seite** [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) sein Onkel ist - Vaterbruder oder Mutterbruder. Das ist bisher nicht festgelegt und berührt die Sippenpflicht, mit der der Clan später hilft.
-- Wie heißt [Ishmans](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) Vater?
-- Trägt [Girlin](../Menschen/Nordvolk/Girlin.md) bei den Kel Aman eine Form mit `ult-`, oder bleibt sie namentlich fremd? Berührt [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-).
+**Entschieden (Autor, 09.09.2026):**
 
-Namensmuster: [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster) - konsonantisch oder auf `-an`.
+| Figur | Voller Name | Anmerkung |
+|---|---|---|
+| [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) | **Sekkan u-Werdan** | |
+| [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) | **Ishman u-Gulan** | |
+| [Girlin](../Menschen/Nordvolk/Girlin.md) | **Gilint** | keine `ult-`Form |
+
+**Ishman ist Sekkans Mutterbruder.** Die Sippenpflicht, mit der der Clan später hilft, läuft also über Ishmans Schwester - deshalb unterscheiden sich die beiden Vatersnamen hörbar. Sekkans Mutter hat noch keinen Namen · **???**
+
+**Girlin heißt in der Wüste Gilint.** Die Kel Aman sprechen den fremden Namen kollektiv falsch aus, und die falsche Form setzt sich durch: Das Cluster `-rl-` verliert einen Liquid (dieselbe Dissimilation wie in *peregrinus* → *Pilger*), und weil ein Frauenname bei ihnen ein umklammerndes `t` braucht, kommt eines ans Ende. Eine `ult-`Form bekommt sie ausdrücklich **nicht** - sie bleibt namentlich ohne Vaterlinie und damit hörbar sippenlos. Das entkoppelt den Namen von [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-): Zugehörigkeit entscheidet sich dort, nicht am Namen.
+
+**Ausgelagert:** Erzählstelle der Umbenennung → [C-172](#c-172-wo-girlins-umbenennung-zu-gilint-erzählt-wird-). Namen und Verbleib von Sekkans Eltern → [C-171](#c-171-sekkans-eltern---namen-und-verbleib-).
+
+Eingetragen in [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Ishman.md](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md), [Girlin.md](../Menschen/Nordvolk/Girlin.md) und [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster).
+
+---
+
+### C-171: Sekkans Eltern - Namen und Verbleib ○
+
+Aus [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishman-) ausgelagert (09.09.2026).
+
+Mit dem Vatersnamen steht fest, dass [Sekkan u-Werdan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) einen Vater namens **Werdan** hat und dass seine Mutter die Schwester [Ishmans](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) ist. Beide Personen sind sonst leer.
+
+**Zu klären · ???**
+- Wie heißt Sekkans **Mutter**? Sie ist die Trägerin der Sippenpflicht, über die der Clan später hilft - sie ist die Verbindung zwischen Ishman und Sekkan.
+- **Leben die beiden noch**, in Jahr 0 und in Jahr +5? Sekkan ist bei Beziehungsbeginn etwa 37; Eltern in dem Alter können leben oder tot sein.
+- Falls sie leben: Wie stehen sie zu [Girlin](../Menschen/Nordvolk/Girlin.md), und vor allem zum **Bruch mit dem Clan in Jahr +5**? Eine lebende Mutter macht diesen Bruch teurer als ein Bruch nur mit dem Onkel - berührt [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-).
+
+---
+
+### C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ○
+
+Aus [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishman-) ausgelagert (09.09.2026).
+
+Entschieden ist: [Girlin](../Menschen/Nordvolk/Girlin.md) heißt bei den [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster) **Gilint**, weil sie ihren Namen kollektiv falsch aussprechen und die falsche Form sich durchsetzt.
+
+**Das Problem:** *Gilint* steht klanglich weit genug von *Girlin* weg, dass der Leser die beiden nicht automatisch zusammenschaltet - im Nordstrang steht der eine Name, im Wüstenstrang der andere.
+
+**Zu klären · ???**
+- Wird die Umbenennung **einmal erzählt** - eine Szene, in der sie hört, wie sie genannt wird -, oder taucht Gilint einfach auf und der Leser schließt selbst?
+- **Wann** setzt sich die Form durch: gleich in den ersten Wochen oder erst über die Jahre?
+- Wie reagiert Girlin darauf? Sie kann es hinnehmen, korrigieren oder annehmen - drei verschiedene Aussagen darüber, wie sehr sie sich dort einrichtet.
+- Was heißt das für den **Erzähltext**: Nennt der Wüstenstrang sie durchgehend Gilint, oder bleibt sie für den Erzähler Girlin und nur die Figuren sagen Gilint? Berührt [C-139](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-).
+
+---
+
+### C-173: Der Staubschleier hat auch Skirraa getroffen ○
+
+Aufgefallen bei [C-161 ✓](#c-161-erhebt-girlins-herkunftssippe-anspruch-) (09.09.2026).
+
+Dort ist entschieden, dass [Girlins](../Menschen/Nordvolk/Girlin.md) Herkunftsweiler an Hungerjahren und einer Seuche eingeht - historisch verankert im **Staubschleier von 536/537** und der **Pestwelle ab 541**.
+
+**Das Problem:** Diese Jahre haben [Skirraa](../Orte/Skirraa.md) genauso getroffen. Ein Vulkanwinter macht nicht an der Weilergrenze halt. Rechnet man die Zeitleiste durch, ist Girlin bei ihrer Ankunft etwa 18 und [Tibun](../Menschen/Nordvolk/Tibun.md) wird um 534 geboren - **die Hungerjahre fallen also in Tibuns erste Lebensjahre**, und Semunds Hof steht mittendrin.
+
+**Zu klären · ???**
+- Wie ist Skirraa durch diese Jahre gekommen? Ein Ort, der ohne Verluste durchkommt, während der Nachbarweiler stirbt, braucht einen Grund - Küstenlage und Fischfang wären einer.
+- Fällt das in [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Zeit als Hirte und Züchter ([C-045](#c-045-semund---offene-felder-))? Vieh stirbt in solchen Jahren zuerst.
+- **Erinnert sich Tibun daran?** Er wäre 2 bis 4 gewesen - zu jung für eigene Erinnerung, alt genug, dass es die Verhältnisse prägt, in die er hineinwächst.
+- Kommt das im Erzähltext überhaupt vor, oder bleibt es reine Autorenebene wie bei Girlin?
 
 ---

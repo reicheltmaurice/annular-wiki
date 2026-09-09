@@ -18,7 +18,9 @@
 
 | | |
 |---|---|
-| **Onkel** | [Ishman](Ishman.md), Häuptling des Clans, **etwa 55** (Jahr 0) |
+| **Vatersname** (`u-`) | **Werdan** - voller Name: **Sekkan u-Werdan** |
+| **Onkel** | [Ishman u-Gulan](Ishman.md), Häuptling des Clans, **etwa 55** (Jahr 0) - **Mutterbruder** |
+| **Mutter** | Schwester Ishmans - Name ??? |
 | **Frühere Ehefrau** | mit einem anderen Mann durchgebrannt - Name ??? |
 | **Partnerin** | [Girlin](../../Nordvolk/Girlin.md) |
 | **Kind** | Girlins drittes Kind, geboren Jahr +4 - ??? |
@@ -27,7 +29,7 @@
 
 ## Frühes Leben
 
-??? Im Clan aufgewachsen, Blut des Häuptlings [Ishman](Ishman.md).
+??? Im Clan aufgewachsen, Blut des Häuptlings [Ishman](Ishman.md) - über die **Mutter** (Autor, 09.09.2026).
 
 ---
 
@@ -57,7 +59,7 @@ Im Finale bleibt Girlin **bei ihm** - er lebt, gezeichnet: einäugig.
 ## Verbindungen zu anderen Charakteren
 
 - Partnerin: [Girlin](../../Nordvolk/Girlin.md)
-- Onkel: [Ishman](Ishman.md), Häuptling der Kel Aman
+- Onkel: [Ishman u-Gulan](Ishman.md), Häuptling der Kel Aman - Bruder seiner Mutter
 - Lebt mit: [Bellbrim](../../Andere/Bellbrim.md)
 - Gegenspieler im Finale: [Azzim u-Tawan](../Azzim-u-Tawan.md)
 

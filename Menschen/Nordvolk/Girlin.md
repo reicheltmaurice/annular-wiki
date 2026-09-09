@@ -11,8 +11,10 @@
 | | |
 |---|---|
 | **Rolle** | Mutter von Tibun |
+| **Name bei den [Kel Aman](../../Kulturen/Kel-Aman/README.md)** | **Gilint** (Autor, 09.09.2026) - sie sprechen den fremden Namen kollektiv falsch aus; die Form setzt sich durch und bleibt ihr Name in der Wüste. **Keine `ult-`Form** - sie bleibt namentlich ohne Vaterlinie. Ob und wo die Umbenennung erzählt wird: ??? |
 | **Alter** | **34** (Auftakt und Verschwinden, Jahr 0) · 44 (Finale) - 10 Jahre in der Wüste, siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md). Bei Tibuns Geburt **18**, bei Trudas **25** |
 | **Herkunft** | **Zugezogen aus einem Nachbarweiler** - dieselbe Kultur und Sprache, aber nicht dieselben Leute. Welcher Weiler und warum sie kam: ??? |
+| **Herkunftssippe** | **Es gibt sie nicht mehr** (Autor, 09.09.2026). Der Weiler ist während ihrer Ehejahre eingegangen - erst Hungerjahre, dann eine Seuche im geschwächten Ort. **Girlin weiß davon.** Nach ihrer Toterklärung erhebt deshalb niemand Anspruch. Jahr, Umstände und wie sie es erfuhr: ??? |
 
 **Familie**
 
@@ -34,7 +36,18 @@ Das prägt ihren Willen mehr als alles andere. Sie hat Kinder verloren, die sie 
 
 Dass sie schon einmal einen Ort verlassen und sich in einer fremden Gemeinschaft eingerichtet hat, ist ihre wichtigste Vorprägung: In der Wüste tut sie zum zweiten Mal, was sie einmal überstanden hat - nur ohne Sprache und ohne Rückweg.
 
-Herkunftsort, Grund des Zuzugs und verbliebene Familie: ???
+**Ihre Herkunftssippe gibt es nicht mehr.** Der Weiler ist während ihrer Ehejahre eingegangen - erst Hungerjahre, dann eine Seuche im geschwächten Ort. Sie hat es über die Jahre mitbekommen. Als sie in der Wüste landet, liegt hinter ihr nichts mehr außer [Skirraa](../../Orte/Skirraa.md): Ihre Kinder sind der einzige Rückweg, den sie überhaupt noch hat.
+
+**Historische Verankerung (Autorenebene, erscheint nie im Erzähltext).** Girlin ist in Jahr 0 (= 550 n.Chr.) 34 und kam mit etwa 18 nach Skirraa; ihre Ehejahre sind damit **ca. 534-550**. In dieses Fenster fallen zwei real belegte Ereignisse:
+
+| Ereignis | Datierung | Befund |
+|---|---|---|
+| **Staubschleier** (später als *Fimbulwinter* nachhallend) | 536/537 und die Folgejahre | Ein Vulkanwinter: mehrere Sommer ohne Ernte. In Skandinavien archäologisch als Bevölkerungseinbruch fassbar - reihenweise aufgegebene Höfe und Weiler. |
+| **Justinianische Pest** | ab 541 | *Yersinia pestis*, in Gräbern Süddeutschlands und Englands genetisch nachgewiesen. Für Skandinavien ist der direkte Nachweis dünn; die Handelswege dorthin gab es. |
+
+Ein einzelner Weiler, der in diesen Jahren leerläuft, ist damit der Normalfall der Epoche und keine Erfindung. **Im Erzähltext werden diese Namen und Ursachen nie benannt** - keine Figur der Zeit könnte eine Seuche oder einen Vulkanwinter als solchen bezeichnen. Sie kennen nur, was sie sehen: Jahre ohne Sommer, dann Tote.
+
+Herkunftsort, Grund des Zuzugs und in welchem Jahr genau der Weiler einging: ???
 
 ---
 
