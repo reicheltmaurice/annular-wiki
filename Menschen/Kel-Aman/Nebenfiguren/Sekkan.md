@@ -23,7 +23,7 @@
 | **Mutter** | Schwester Ishmans - Name ??? |
 | **Frühere Ehefrau** | mit einem anderen Mann durchgebrannt - Name ???. Sie ging **ohne das geregelte Verfahren** ([Ehe und Trennung](../../../Kulturen/Kel-Aman/README.md#ehe-und-trennung)): Zwischen den beiden Sippen steht seither eine ungeregelte Sache |
 | **Partnerin** | [Girlin](../../Nordvolk/Girlin.md) - ob sie heiraten, hängt an ihrer Aufnahme in den Clan: ??? |
-| **Kind** | Girlins drittes Kind, geboren Jahr +4 - ??? |
+| **Tochter** | **Tamant ult-Sekkan**, geboren Jahr +4, im Finale **6** - Girlins drittes Kind |
 
 ---
 

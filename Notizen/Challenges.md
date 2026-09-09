@@ -57,7 +57,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-071: Prolog - Tibuns Alter und Heiratsantrag ○](#c-071-prolog---tibuns-alter-und-heiratsantrag-)
 - [C-077: Tibun und Truda nach Girlins Verschwinden ○](#c-077-tibun-und-truda-nach-girlins-verschwinden-)
 - [C-079: Tibuns Alpträume - und der Traum als Ideenquelle ○](#c-079-tibuns-alpträume---und-der-traum-als-ideenquelle-)
-- [C-081: Girlins drittes Kind in der Wüste ○](#c-081-girlins-drittes-kind-in-der-wüste-)
 - [C-083: Zitate als Kapitel-Motti ○](#c-083-zitate-als-kapitel-motti-)
 - [C-084: Mulde, Standfläche und die rohen Ringe ○](#c-084-mulde-standfläche-und-die-rohen-ringe-)
 - [C-085: Titel für Plot 1 ○](#c-085-titel-für-plot-1-)
@@ -105,6 +104,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-171: Sekkans Eltern - Namen und Verbleib ○](#c-171-sekkans-eltern---namen-und-verbleib-)
 - [C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ○](#c-172-wo-girlins-umbenennung-zu-gilint-erzählt-wird-)
 - [C-173: Der Staubschleier hat auch Skirraa getroffen ○](#c-173-der-staubschleier-hat-auch-skirraa-getroffen-)
+- [C-174: Wer bei Tamants Geburt hilft ○](#c-174-wer-bei-tamants-geburt-hilft-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -183,6 +183,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-166: Bleibt Sekkans Wunde? ✓](#c-166-bleibt-sekkans-wunde-)
 - [C-167: Wer folgt Hadurik in Tingsal? ✓](#c-167-wer-folgt-hadurik-in-tingsal-)
 - [C-168: Was außer dem Skarabäus im Sand steckt ✓](#c-168-was-außer-dem-skarabäus-im-sand-steckt-)
+- [C-081: Girlins drittes Kind in der Wüste ✓](#c-081-girlins-drittes-kind-in-der-wüste-)
 - [C-106: Durchgebrannte Ehefrau bei den Kel Aman ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)
 - [C-161: Erhebt Girlins Herkunftssippe Anspruch? ✓](#c-161-erhebt-girlins-herkunftssippe-anspruch-)
 - [C-170: Vatersnamen für Sekkan und Ishman ✓](#c-170-vatersnamen-für-sekkan-und-ishman-)
@@ -527,7 +528,7 @@ Im Wüsten-Arc überlebt sie zehn Winter, verständigt sich mit [Bellbrim](../Me
 
 **Sie lernt die Sprache aktiv**, weil sie erkennt, dass ihr das hilft. Keine Verweigerung, kein Rückzug: Sie arbeitet an ihrer Lage, statt sie zu erleiden. (Dauer und Verlauf → offene Sprachfrage im [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md).)
 
-**Sie will in der Wüste leben - sobald ihre Kinder wieder bei ihr sind oder es ihnen erwiesen gut geht.** Neue Liebe und das Wüstenkind ([C-081](#c-081-girlins-drittes-kind-in-der-wüste-)) binden sie dorthin. Beides steht nebeneinander, nicht gegeneinander.
+**Sie will in der Wüste leben - sobald ihre Kinder wieder bei ihr sind oder es ihnen erwiesen gut geht.** Neue Liebe und das Wüstenkind ([C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-)) binden sie dorthin. Beides steht nebeneinander, nicht gegeneinander.
 
 #### Was das für den Plot bedeutet
 
@@ -918,13 +919,13 @@ Der Vorschlag lautete „Häuptling statt Neffe". Der Autor hat begründet abgel
 **Beschlossen:**
 - Partner ist der **Neffe des Häuptlings**.
 - Übernommen aus Plot 1: **Seine Frau brennt zuvor mit einem anderen Mann durch.** Er ist öffentlich gedemütigt und allein, sie ist gestrandet und weiß nicht, ob ihr Mann lebt. Zwei Menschen mit demselben Riss.
-- Beginn spätestens **Jahr +3** (erzwungen durch [C-081](#c-081-girlins-drittes-kind-in-der-wüste-): Kind in Jahr +4).
+- Beginn spätestens **Jahr +3** (erzwungen durch [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-): Kind in Jahr +4).
 
 **Der Einwand gegen den Neffen - eine Figur ohne Eigenschaften - löst sich über [C-061](#c-061-navigationswissen-des-häuptlings-):** Der **Neffe bittet seinen Onkel zu schweigen.** Der Häuptling kennt den Ringstandort und behält ihn zehn Jahre für sich, weil sein Neffe ihn darum gebeten hat - wer den Ring findet, verliert die Frau und das Kind. Damit hat der Neffe eine **Handlung** statt einer Beziehung, eine **Schuld**, und der Wüstenstrang bekommt einen Konflikt **von innen** statt nur Azzim von außen.
 
 **Weiterhin offen:** Name und Eigenschaften des Neffen → [C-105](#c-105-der-neffe---name-eigenschaften-schweigebitte-). Was kulturell gilt, wenn eine Kel-Aman-Frau ihren Mann verlässt → [C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-).
 
-Hängt an [C-081](#c-081-girlins-drittes-kind-in-der-wüste-) und [C-080](#c-080-girlins-entführung-und-rettung-) (läuft dort parallel).
+Hängt an [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-) und [C-080](#c-080-girlins-entführung-und-rettung-) (läuft dort parallel).
 
 ---
 
@@ -969,7 +970,7 @@ Beides ist vereinbar, wenn die Auslösung **von der Wüstenseite** kommt (Kampf 
 
 Das löst das Zahlungsproblem sauber: Tibun zündet, Tibun reist, Tibun findet seine Mutter. Zehn Jahre Arbeit münden in genau die Tat, auf die sie hinarbeiten. Beide vorhandenen Varianten lassen ihn dagegen passiv in seiner Werkstatt stehen, während das Finale zu ihm kommt.
 
-**Preis:** Das Wiedersehen findet dann in der Wüste statt, nicht daheim, und Girlins Rückkehr ([C-082](#c-082-girlins-entscheidung-zur-rückreise-)) wird zur gemeinsamen Rückreise - mit allem, was [C-081](#c-081-girlins-drittes-kind-in-der-wüste-) daran hängt. Außerdem ist unklar, wo Azzim in dieser Variante bleibt.
+**Preis:** Das Wiedersehen findet dann in der Wüste statt, nicht daheim, und Girlins Rückkehr ([C-082](#c-082-girlins-entscheidung-zur-rückreise-)) wird zur gemeinsamen Rückreise - mit allem, was [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-) daran hängt. Außerdem ist unklar, wo Azzim in dieser Variante bleibt.
 
 ---
 
@@ -1183,7 +1184,7 @@ Berührt [C-060](#c-060-girlin-und-der-neffe-): In Plot 1 steht die Entführung 
 
 ---
 
-### C-081: Girlins drittes Kind in der Wüste ○
+### C-081: Girlins drittes Kind in der Wüste ✓
 
 Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 8): *„Sie bekommt ein weiteres Kind."* - es ist ihr **drittes** (nach Tibun und Truda). Fehlt in [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und dem gesamten Wiki. **Von allen Fundstücken der schwerste Punkt.**
 
@@ -1209,11 +1210,13 @@ Daraus folgt: Die Beziehung ([C-060](#c-060-girlin-und-der-neffe-)) beginnt spä
 
 **Folge aus dem beschlossenen Finale:** Girlin **bleibt** in der Wüste ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)) - die Wahl „Kind bleibt / Kind kommt mit / sie bleibt" ist damit zugunsten der dritten Möglichkeit entschieden, und zwar **bevor** Tibun ankommt. Der Rückkehr-Antrieb bricht dadurch nicht, weil er sich verlagert: nicht sie geht heim, sondern [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) soll geholt werden.
 
-**Weiterhin offen:** Name und Geschlecht des Kindes, und ob Truda je davon erfährt. Wo das Kind während des Finales ist → [C-112](#c-112-das-wüstenkind-während-des-finales-) · **???**
+**Entschieden (Autor, 09.09.2026): Es ist ein Mädchen und heißt [Tamant ult-Sekkan](../Menschen/Nordvolk/Girlin.md).** Damit zieht [Girlin](../Menschen/Nordvolk/Girlin.md) in der Wüste eine Tochter groß, während die erste - [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) - ohne sie aufwächst. Der Spiegel des Nordstrangs ist damit gesetzt, ohne dass ihn jemand aussprechen muss.
+
+**Truda erfährt es nicht im Buch.** Nach dem Ende reisen **Girlin und [Tibun](../Menschen/Nordvolk/Tibun.md) gemeinsam** in den Norden, um Truda zu sehen und zu holen - **das liegt außerhalb des Erzählten** (Autor, 09.09.2026). Das Buch endet vor dieser Reise; ob Truda je von Tamant erfährt, ist damit keine Frage mehr, die der Text beantwortet.
+
+**Weiterhin offen:** Wo Tamant während des Finales ist → [C-112](#c-112-das-wüstenkind-während-des-finales-). Wer bei ihrer Geburt hilft → [C-174](#c-174-wer-bei-tamants-geburt-hilft-) · **???**
 
 Berührt zudem den Ring: Es reist, wer **vollständig innerhalb** der Kugel steht ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)) - ein Kind auf dem Arm reist mit, ein Kind daneben nicht. Die Mechanik zwingt zu einer Entscheidung in **einem Augenblick**, ohne Rückweg. Das ist erzählerisch enorm brauchbar.
-
-**Nichts festgelegt** - das ist eine der größten offenen Weichen des Gesamtwerks.
 
 ---
 
@@ -1223,7 +1226,7 @@ Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Girlin 11): *„Nach langem Zögern und
 
 Das ist eine **dramaturgische Lücke, kein bloßer fehlender Beat.** In der Skizze wird Girlin am Ende von Ereignissen getrieben: Azzim greift an, sie flieht, es kommt zum Kampf, und die Zusammenführung passiert. In Plot 1 **entscheidet** sie sich. Nach zehn Jahren, in denen sie ausschließlich heimwill, ist das Zögern der eigentliche Charakterbeweis - sie hat sich in der Wüste ein Leben aufgebaut, und der Ring nimmt es ihr wieder weg.
 
-Hängt unmittelbar an [C-081](#c-081-girlins-drittes-kind-in-der-wüste-): **Ohne** das Wüstenkind ist das Zögern schwach begründbar (warum sollte sie zaudern?). **Mit** Kind ist es zwingend. Die beiden Beats stützen einander - das spricht dafür, dass sie in Plot 1 zusammengehörten.
+Hängt unmittelbar an [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-): **Ohne** das Wüstenkind ist das Zögern schwach begründbar (warum sollte sie zaudern?). **Mit** Kind ist es zwingend. Die beiden Beats stützen einander - das spricht dafür, dass sie in Plot 1 zusammengehörten.
 
 **Entschieden (Autor, 31.08.2026): Sie reist gar nicht - sie hat sich entschieden zu BLEIBEN.**
 
@@ -1305,7 +1308,7 @@ Das Projekt heißt **Annular** - das ist der Name des **Universums** ([Plots/REA
 
 **Was der Titel tragen muss:** die Zweisträngigkeit (Norden/Wüste), die zehn Jahre Trennung, und dass beide **unabhängig voneinander dasselbe erfinden**. Was er *nicht* tragen sollte: den Ring - der gehört auf die Universumsebene und ist in „Annular" bereits vergeben.
 
-**Vorsicht, verfrüht:** Der thematische Schwerpunkt ist noch nicht fest. [C-081](#c-081-girlins-drittes-kind-in-der-wüste-) (drittes Kind) und [C-082](#c-082-girlins-entscheidung-zur-rückreise-) (Entschluss zur Rückreise) können die Geschichte von „Trennung und Wiederfinden" zu „Frau zwischen zwei Familien" verschieben - das wären zwei verschiedene Titel. Ein Arbeitstitel genügt vorerst.
+**Vorsicht, verfrüht:** Der thematische Schwerpunkt ist noch nicht fest. [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-) (drittes Kind) und [C-082](#c-082-girlins-entscheidung-zur-rückreise-) (Entschluss zur Rückreise) können die Geschichte von „Trennung und Wiederfinden" zu „Frau zwischen zwei Familien" verschieben - das wären zwei verschiedene Titel. Ein Arbeitstitel genügt vorerst.
 
 **???**
 
@@ -1597,9 +1600,9 @@ Das ist für 550 auffällig früh. Germanische Frauen heirateten nach den antike
 
 Bei [Trudas](../Menschen/Nordvolk/Nebenfiguren/Truda.md) Geburt war sie **25**. [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) (35 beim Verschwinden) war bei Tibuns Geburt **19** - ein stimmiges Paar.
 
-**Nachgezogen:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Girlin.md](../Menschen/Nordvolk/Girlin.md), [Plot-1/README](../Plots/Plot-1/README.md), C-023, [C-081](#c-081-girlins-drittes-kind-in-der-wüste-) (Wüstenjahre jetzt 34 → 44).
+**Nachgezogen:** [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Girlin.md](../Menschen/Nordvolk/Girlin.md), [Plot-1/README](../Plots/Plot-1/README.md), C-023, [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-) (Wüstenjahre jetzt 34 → 44).
 
-**Folge, die zu prüfen bleibt:** Girlins drittes Kind fiele damit in ihre **späten Dreißiger**. Biologisch unproblematisch, im 6. Jahrhundert aber ein deutlich höheres Risiko - was [C-081](#c-081-girlins-drittes-kind-in-der-wüste-) eher stärkt als schwächt.
+**Folge, die zu prüfen bleibt:** Girlins drittes Kind fiele damit in ihre **späten Dreißiger**. Biologisch unproblematisch, im 6. Jahrhundert aber ein deutlich höheres Risiko - was [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-) eher stärkt als schwächt.
 
 ---
 
@@ -1771,7 +1774,7 @@ Der Partner Girlins steht fest ([C-060 ✓](#c-060-girlin-und-der-neffe-)), die 
 
 **Was er tragen muss:**
 - Seine **Frau ist zuvor durchgebrannt** ([C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)) - seine Demütigung ist der Grund, warum er und Girlin zueinanderfinden.
-- Er ist **Vater von Girlins drittem Kind** ([C-081](#c-081-girlins-drittes-kind-in-der-wüste-)).
+- Er ist **Vater von Girlins drittem Kind** ([C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-)).
 - **Neu (02.09.2026):** Nach dem Transport **löst er sich mit Girlin und dem Kind vom Clan** und bleibt bei [Bellbrim](../Menschen/Andere/Bellbrim.md) - **er verliert dafür seine Sippe** ([C-061](#c-061-navigationswissen-des-häuptlings-)). Das ist der teuerste Preis, den im Buch jemand außer Tibun zahlt, und derzeit die stärkste Handlung, die ihm zur Verfügung steht.
 - Im Finale bleibt Girlin **bei ihm** ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)) - er muss also stark genug sein, dass diese Entscheidung einleuchtet.
 
@@ -1899,7 +1902,7 @@ Die Kopplung ist eine Eigenschaft des **Ringpaares**, nicht des Standorts ([C-01
 
 ### C-112: Das Wüstenkind während des Finales ○
 
-Girlins drittes Kind ist im Finale **sechs** ([C-081](#c-081-girlins-drittes-kind-in-der-wüste-)) - alt genug, um zu sprechen, zu laufen und zuzusehen. Während des Angriffs auf die Schlucht und zweier Zündungen ist es irgendwo.
+Girlins drittes Kind ist im Finale **sechs** ([C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-)) - alt genug, um zu sprechen, zu laufen und zuzusehen. Während des Angriffs auf die Schlucht und zweier Zündungen ist es irgendwo.
 
 **Das ist keine Nebenfrage.** Es reist, wer vollständig in der Kugel steht ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)). Ein sechsjähriges Kind in der Nähe eines zündenden Rings ist eine Katastrophe, die jederzeit passieren kann - und Girlin weiß das besser als jeder andere Mensch auf der Welt.
 
@@ -2998,5 +3001,19 @@ Dort ist entschieden, dass [Girlins](../Menschen/Nordvolk/Girlin.md) Herkunftswe
 - Fällt das in [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Zeit als Hirte und Züchter ([C-045](#c-045-semund---offene-felder-))? Vieh stirbt in solchen Jahren zuerst.
 - **Erinnert sich Tibun daran?** Er wäre 2 bis 4 gewesen - zu jung für eigene Erinnerung, alt genug, dass es die Verhältnisse prägt, in die er hineinwächst.
 - Kommt das im Erzähltext überhaupt vor, oder bleibt es reine Autorenebene wie bei Girlin?
+
+---
+
+### C-174: Wer bei Tamants Geburt hilft ○
+
+Aus [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-) ausgelagert (09.09.2026); der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) führt den Punkt unter „Krankheit, Geburt, Tod" schon länger als offen.
+
+[Girlin](../Menschen/Nordvolk/Girlin.md) bekommt in **Jahr +4** ihre Tochter **Tamant ult-Sekkan** - mit 38, in einem fremden Volk, in einer Sprache, die sie erst seit vier Wintern spricht. Es ist ihre **sechste** Geburt; drei ihrer Kinder haben nicht überlebt.
+
+**Zu klären · ???**
+- Wer ist dabei? Gibt es bei den [Kel Aman](../Kulturen/Kel-Aman/README.md) Frauen mit dieser Aufgabe, und wie ist ihr Stand im Clan?
+- Wird eine Fremde von ihnen versorgt wie eine der Ihren - und hängt das daran, ob [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) sie zu diesem Zeitpunkt schon aufgenommen hat ([C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-), [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-))?
+- Ist die Geburt eine **Szene** oder bleibt sie hinter dem Schnitt? Szene 22 in [Szenen.md](../Plots/Plot-1/Szenen.md) hat bisher weder Will noch Hindernis.
+- Was tut [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) in dieser Zeit - ist er dabei oder gehört das nicht zu seiner Rolle?
 
 ---

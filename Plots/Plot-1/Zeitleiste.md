@@ -123,7 +123,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Jahr +3 bis +5: [Azzims](../../Menschen/Kel-Aman/Azzim-u-Tawan.md) erster Auftritt** - auf dem **Basar**. Ein **Zugriffsversuch, den der Clan abwehrt**. Ab hier kennen sich beide als Feind
   - Wie er von ihr erfährt, ist offen. Als Richtung notiert, nicht beschlossen: Er bekommt Gerede mit und sucht sie dann auf dem Basar auf · **???**
   - **Sein Motiv ist doppelt:** ihr **Wert** als seltene Ware - und ab dem gescheiterten Zugriff die **Demütigung**. Das eine erklärt, warum er anfängt; das andere, warum er nicht ablässt
-- **Jahr +4: Girlins drittes Kind wird geboren** (Girlin 38, Kind im Finale 6)
+- **Jahr +4: Girlins drittes Kind wird geboren** - **Tamant ult-Sekkan**, ein Mädchen (Girlin 38, Kind im Finale 6)
 - **Mit der Geburt kippt ihr Ziel** (entschieden 03.09.2026): aus *nach Hause gehen* wird *ich bleibe in meinem neuen Zuhause*. Der Entschluss zur Rückreise fällt damit **sechs Jahre vor dem Finale**, nicht am Ende
 - **Er ist nicht endgültig.** Er **wackelt und wird bestätigt** - mehrfach, und jedes Mal teurer
 - **Damit ändert sich der Zweck des Rings.** Sie will nicht mehr selbst zurück. Sie will **eine Nachricht schicken**, damit ihre Familie weiß, dass sie lebt. **Dafür** wird der Ring geholt - nicht mehr für ihre Heimreise

@@ -256,7 +256,7 @@ Bernstein durch Handel und eigenes Sammeln.
 
 ### 19 · Sekkan
 
-> **POV:** Girlin · **Jahr +3** · **Offen:** Durchgebrannte Ehefrau bei den Kel Aman · Ishman - Eigenschaften und Haltung
+> **POV:** Girlin · **Jahr +3** · **Offen:** Ishman - Eigenschaften und Haltung
 
 Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem Neffen des Häuptlings [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md).
 
@@ -291,18 +291,18 @@ Ein Seil rutscht unter Last, wird heiß, raucht.
 
 ### 22 · Das dritte Kind
 
-> **POV:** Girlin · **Jahr +4** · **Offen:** Girlins drittes Kind in der Wüste
+> **POV:** Girlin · **Jahr +4** · **Offen:** Wer bei Tamants Geburt hilft
 
-Girlins Kind wird in der Wüste geboren.
+Girlins Tochter **Tamant ult-Sekkan** wird in der Wüste geboren.
 
 - **Will:** ???
 - **Hindernis:** ???
-- **Ausgang:** Das Kind ist da. Im Finale wird es sechs sein.
+- **Ausgang:** Das Kind ist da. Im Finale wird sie sechs sein.
 
 
 ### 23 · Das Ziel kippt
 
-> **POV:** Girlin · **Jahr +4** · **Offen:** Girlins drittes Kind in der Wüste
+> **POV:** Girlin · **Jahr +4** · **Offen:** -
 
 Mit der Geburt verschiebt sich, was sie will.
 
