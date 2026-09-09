@@ -11,6 +11,7 @@
 | | |
 |---|---|
 | **Rolle** | Mutter von Tibun |
+| **Stand bei den [Kel Aman](../../Kulturen/Kel-Aman/README.md)** | Als Sippenlose könnte sie nicht heiraten - Ehe ist dort ein Vertrag zwischen Sippen. Deshalb tritt der **Clan an die Stelle ihrer Sippe**: [Ishman u-Gulan](../Kel-Aman/Nebenfiguren/Ishman.md) nimmt sie förmlich auf (Autor, 09.09.2026). Wann das geschieht und ob sie und [Sekkan](../Kel-Aman/Nebenfiguren/Sekkan.md) heiraten: ??? |
 | **Name bei den [Kel Aman](../../Kulturen/Kel-Aman/README.md)** | **Gilint** (Autor, 09.09.2026) - sie sprechen den fremden Namen kollektiv falsch aus; die Form setzt sich durch und bleibt ihr Name in der Wüste. **Keine `ult-`Form** - sie bleibt namentlich ohne Vaterlinie. Ob und wo die Umbenennung erzählt wird: ??? |
 | **Alter** | **34** (Auftakt und Verschwinden, Jahr 0) · 44 (Finale) - 10 Jahre in der Wüste, siehe [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md). Bei Tibuns Geburt **18**, bei Trudas **25** |
 | **Herkunft** | **Zugezogen aus einem Nachbarweiler** - dieselbe Kultur und Sprache, aber nicht dieselben Leute. Welcher Weiler und warum sie kam: ??? |

@@ -69,7 +69,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-101: Girlins Nachricht - Vorhaben ohne Ausführung ○](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-)
 - [C-102: Was bei Zündung 1 aus dem Norden verschwindet ○](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-)
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
-- [C-106: Durchgebrannte Ehefrau bei den Kel Aman ○](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)
 - [C-108: Der Kampf in der Schlucht während Tibuns Ankunft ○](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-)
 - [C-110: Der Schlusssatz - wissen die Figuren, was er kostet? ○](#c-110-der-schlusssatz---wissen-die-figuren-was-er-kostet-)
 - [C-112: Das Wüstenkind während des Finales ○](#c-112-das-wüstenkind-während-des-finales-)
@@ -184,6 +183,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-166: Bleibt Sekkans Wunde? ✓](#c-166-bleibt-sekkans-wunde-)
 - [C-167: Wer folgt Hadurik in Tingsal? ✓](#c-167-wer-folgt-hadurik-in-tingsal-)
 - [C-168: Was außer dem Skarabäus im Sand steckt ✓](#c-168-was-außer-dem-skarabäus-im-sand-steckt-)
+- [C-106: Durchgebrannte Ehefrau bei den Kel Aman ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)
 - [C-161: Erhebt Girlins Herkunftssippe Anspruch? ✓](#c-161-erhebt-girlins-herkunftssippe-anspruch-)
 - [C-170: Vatersnamen für Sekkan und Ishman ✓](#c-170-vatersnamen-für-sekkan-und-ishman-)
 
@@ -922,7 +922,7 @@ Der Vorschlag lautete „Häuptling statt Neffe". Der Autor hat begründet abgel
 
 **Der Einwand gegen den Neffen - eine Figur ohne Eigenschaften - löst sich über [C-061](#c-061-navigationswissen-des-häuptlings-):** Der **Neffe bittet seinen Onkel zu schweigen.** Der Häuptling kennt den Ringstandort und behält ihn zehn Jahre für sich, weil sein Neffe ihn darum gebeten hat - wer den Ring findet, verliert die Frau und das Kind. Damit hat der Neffe eine **Handlung** statt einer Beziehung, eine **Schuld**, und der Wüstenstrang bekommt einen Konflikt **von innen** statt nur Azzim von außen.
 
-**Weiterhin offen:** Name und Eigenschaften des Neffen → [C-105](#c-105-der-neffe---name-eigenschaften-schweigebitte-). Was kulturell gilt, wenn eine Kel-Aman-Frau ihren Mann verlässt → [C-106](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-).
+**Weiterhin offen:** Name und Eigenschaften des Neffen → [C-105](#c-105-der-neffe---name-eigenschaften-schweigebitte-). Was kulturell gilt, wenn eine Kel-Aman-Frau ihren Mann verlässt → [C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-).
 
 Hängt an [C-081](#c-081-girlins-drittes-kind-in-der-wüste-) und [C-080](#c-080-girlins-entführung-und-rettung-) (läuft dort parallel).
 
@@ -1770,7 +1770,7 @@ Der Partner Girlins steht fest ([C-060 ✓](#c-060-girlin-und-der-neffe-)), die 
 > **Die Schweigebitte ist gestrichen** (02.09.2026, [C-061](#c-061-navigationswissen-des-häuptlings-)). Damit fällt die **einzige eigene Handlung** weg, die diese Figur bisher hatte - der Titel dieser Challenge ist überholt, der Bedarf umso größer.
 
 **Was er tragen muss:**
-- Seine **Frau ist zuvor durchgebrannt** ([C-106](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)) - seine Demütigung ist der Grund, warum er und Girlin zueinanderfinden.
+- Seine **Frau ist zuvor durchgebrannt** ([C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)) - seine Demütigung ist der Grund, warum er und Girlin zueinanderfinden.
 - Er ist **Vater von Girlins drittem Kind** ([C-081](#c-081-girlins-drittes-kind-in-der-wüste-)).
 - **Neu (02.09.2026):** Nach dem Transport **löst er sich mit Girlin und dem Kind vom Clan** und bleibt bei [Bellbrim](../Menschen/Andere/Bellbrim.md) - **er verliert dafür seine Sippe** ([C-061](#c-061-navigationswissen-des-häuptlings-)). Das ist der teuerste Preis, den im Buch jemand außer Tibun zahlt, und derzeit die stärkste Handlung, die ihm zur Verfügung steht.
 - Im Finale bleibt Girlin **bei ihm** ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)) - er muss also stark genug sein, dass diese Entscheidung einleuchtet.
@@ -1792,15 +1792,19 @@ Eigene Datei angelegt: [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md);
 
 ---
 
-### C-106: Durchgebrannte Ehefrau bei den Kel Aman ○
+### C-106: Durchgebrannte Ehefrau bei den Kel Aman ✓
 
 Aus [C-060 ✓](#c-060-girlin-und-der-neffe-): Die Frau des Neffen verlässt ihn für einen anderen Mann. Der Beat trägt zwei Figuren - aber die **Kultur dahinter fehlt vollständig**.
 
-**Zu klären · ???**
-- Gibt es bei den Kel Aman **Scheidung**, und kann eine Frau sie betreiben?
-- Ist Weggehen ein **Rechtsbruch, eine Ehrsache oder eine Selbstverständlichkeit**? Bei berbersprachigen Gruppen der Region hatten Frauen historisch teils erhebliche Freiheiten - das ist verwertbar, aber es muss entschieden sein.
-- Was bedeutet es für den **Mann** und was für die **Sippe des Liebhabers**? Folgt Gewalt?
-- Und was heißt das für **Girlin**, die als Fremde ohne Sippe an seine Seite tritt? Was ist sie dort rechtlich?
+**Entschieden (Autor, 09.09.2026):** Der Grundsatz ist, dass **Ehe ein Vertrag zwischen Sippen** ist, nicht zwischen zwei Personen. Beide Antworten folgen daraus.
+
+**Trennung ja, aber geregelt.** Eine Frau kann die Ehe von sich aus beenden - das Recht steht ihr zu. Es läuft über ihre Sippe und mit einem Ausgleich. [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Frau hat also nicht das Recht gebrochen, sondern das **Verfahren**: Sie ging einfach. Zwischen den beiden Sippen steht seither eine ungeregelte Sache. Damit ist der Beat weder folgenlos noch eine Blutsache - er ist eine offene Rechnung.
+
+**Girlin kann als Sippenlose nicht heiraten** - es gibt niemanden, der den Vertrag schließen könnte. Deshalb tritt der **Clan an die Stelle ihrer Sippe**: [Ishman u-Gulan](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) nimmt sie förmlich auf, der Clan wird ihre Sippe. Das gibt der Zugehörigkeit einen greifbaren Akt statt eines Gefühls - und verteuert [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Bruch in Jahr +5 zusätzlich: Er verlässt dann nicht nur seine eigene Sippe, sondern auch die, die Girlin gerade erst bekommen hat. Wann die Aufnahme geschieht → [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-).
+
+**Weiter offen · ???** Worin der Ausgleich bei einer geregelten Trennung besteht. Ob auf den Verfahrensbruch **Gewalt** folgt oder es bei der offenen Rechnung bleibt. Ob Sekkan und Girlin nach der Aufnahme tatsächlich heiraten.
+
+Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md#ehe-und-trennung), [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Girlin.md](../Menschen/Nordvolk/Girlin.md).
 
 Gehört zur Schicht „Ordnung" des [Weltenbau-Leitfadens](Weltenbau-Leitfaden.md) und zu [C-003](#c-003-kel-aman---kulturelle-tiefe-).
 
@@ -2736,7 +2740,7 @@ Das Hindernis vor dem Transport hat drei Phasen - **Zugehörigkeit → Wissen �
 - **Ab wann gilt [Girlin](../Menschen/Nordvolk/Girlin.md) als „eine der Ihren"?** Reicht die Verbindung mit [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), braucht es das Kind, braucht es Jahre - und gibt es einen Moment, an dem es kippt?
 - **Wie ergeht die Bitte konkret?** Vor wem trägt sie sie vor, in welcher Form, mit welcher Formel? Sie bittet selbst ([Szene 25](../Plots/Plot-1/Szenen.md)) - was das bei den [Kel Aman](../Kulturen/Kel-Aman/README.md) für eine sippenlose Frau bedeutet, ist offen.
 
-Hängt an [C-003](#c-003-kel-aman---kulturelle-tiefe-) und [C-106](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-).
+Hängt an [C-003](#c-003-kel-aman---kulturelle-tiefe-) und [C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-).
 
 ---
 

@@ -44,10 +44,19 @@ Folge: Jede Kel-Aman-Figur braucht einen **Vatersnamen**. Festgelegt (Autor, 09.
 
 Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reitertaktik. **Keine Krummsäbel** - für 550 n.Chr. zu früh.
 
+### Ehe und Trennung
+
+**Ehe ist ein Vertrag zwischen Sippen**, nicht zwischen zwei Personen (Autor, 09.09.2026). Daraus folgt beides:
+
+**Eine Frau kann die Ehe beenden - aber nur geregelt.** Das Recht steht ihr zu; es läuft über ihre Sippe und mit einem Ausgleich. Wer stattdessen einfach weggeht, hat nicht das Recht gebrochen, sondern das **Verfahren** - und lässt zwei Sippen mit etwas zurück, das nun ungeregelt zwischen ihnen steht. Genau das ist [Sekkan u-Werdan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) geschehen: Seine Frau ging mit einem anderen Mann, ohne dass irgendetwas geregelt wurde.
+
+**Wer keine Sippe hat, kann nicht heiraten.** Es gibt niemanden, der den Vertrag schließen könnte. Für [Girlin](../../Menschen/Nordvolk/Girlin.md) als sippenlose Fremde tritt deshalb der **Clan selbst an die Stelle der Sippe**: [Ishman u-Gulan](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) nimmt sie förmlich auf, der Clan wird ihre Sippe, und erst danach wäre eine Ehe überhaupt möglich.
+
+Offen · **???**: Worin der Ausgleich bei einer geregelten Trennung besteht. Ob auf den Verfahrensbruch von Sekkans Frau **Gewalt** folgt oder ob es bei einer offenen Rechnung zwischen den Sippen bleibt. Wann Ishman Girlin aufnimmt und ob sie und Sekkan tatsächlich heiraten.
+
 ## Noch nicht ausgearbeitet
 
 - Kultur, Werte, Tabus · Religion und Rituale · soziale Struktur · Redewendungen · Verhältnis zu Sesshaften · **???**
-- Was kulturell gilt, wenn eine Kel-Aman-Frau ihren Mann verlässt · **???**
 
 ---
 
