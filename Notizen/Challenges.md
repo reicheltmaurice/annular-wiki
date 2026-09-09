@@ -95,7 +95,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-171: Sekkans Eltern - Namen und Verbleib ○](#c-171-sekkans-eltern---namen-und-verbleib-)
 - [C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ○](#c-172-wo-girlins-umbenennung-zu-gilint-erzählt-wird-)
 - [C-173: Der Staubschleier hat auch Skirraa getroffen ○](#c-173-der-staubschleier-hat-auch-skirraa-getroffen-)
-- [C-174: Wer bei Tamants Geburt hilft ○](#c-174-wer-bei-tamants-geburt-hilft-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -189,6 +188,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-177: Bewuchs auf einem frisch freigelegten Ring ✓](#c-177-bewuchs-auf-einem-frisch-freigelegten-ring-)
 - [C-161: Erhebt Girlins Herkunftssippe Anspruch? ✓](#c-161-erhebt-girlins-herkunftssippe-anspruch-)
 - [C-170: Vatersnamen für Sekkan und Ishman ✓](#c-170-vatersnamen-für-sekkan-und-ishman-)
+- [C-174: Wer bei Tamants Geburt hilft ✓](#c-174-wer-bei-tamants-geburt-hilft-)
 - [C-175: Behält Girlin den Sippenschutz nach dem Wegzug? ✓](#c-175-behält-girlin-den-sippenschutz-nach-dem-wegzug-)
 - [C-176: Sekkans Preis ist entfallen ✗](#c-176-sekkans-preis-ist-entfallen-)
 
@@ -3074,17 +3074,22 @@ Dort ist entschieden, dass [Girlins](../Menschen/Nordvolk/Girlin.md) Herkunftswe
 
 ---
 
-### C-174: Wer bei Tamants Geburt hilft ○
+### C-174: Wer bei Tamants Geburt hilft ✓
 
 Aus [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-) ausgelagert (09.09.2026); der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) führt den Punkt unter „Krankheit, Geburt, Tod" schon länger als offen.
 
 [Girlin](../Menschen/Nordvolk/Girlin.md) bekommt in **Jahr +4** ihre Tochter **Tamant ult-Sekkan** - mit 38, in einem fremden Volk, in einer Sprache, die sie erst seit vier Wintern spricht. Es ist ihre **sechste** Geburt; drei ihrer Kinder haben nicht überlebt.
 
-**Zu klären · ???**
-- Wer ist dabei? Gibt es bei den [Kel Aman](../Kulturen/Kel-Aman/README.md) Frauen mit dieser Aufgabe, und wie ist ihr Stand im Clan?
-- Wird eine Fremde von ihnen versorgt wie eine der Ihren - und hängt das daran, ob [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) sie zu diesem Zeitpunkt schon aufgenommen hat ([C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-), [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-))?
-- Ist die Geburt eine **Szene** oder bleibt sie hinter dem Schnitt? Szene 22 in [Szenen.md](../Plots/Plot-1/Szenen.md) hat bisher weder Will noch Hindernis.
-- Was tut [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) in dieser Zeit - ist er dabei oder gehört das nicht zu seiner Rolle?
+**Entschieden (Autor, 09.09.2026):**
+
+- **Es helfen die erfahrenen Frauen des Clans.** Keine Rolle, kein Amt, kein besonderer Stand - die Älteren, die es können.
+- **Der Stand der Gebärenden spielt keine Rolle.** Die Hilfe hängt **nicht** daran, ob [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) Girlin schon aufgenommen hat: Bei einer Geburt fragt niemand danach. Damit ist dieser Punkt von [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-) entkoppelt.
+- **[Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) ist nicht da** - er ist mit einer Karawane unterwegs. Girlin bekommt das Kind ohne ihn, unter Frauen eines fremden Volkes.
+- **Die Geburt ist eine eigene Szene**, nicht hinter dem Schnitt. [Szene 22](../Plots/Plot-1/Szenen.md) hat damit ein Hindernis: Sie ist allein unter Fremden.
+
+Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md#geburt), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen](../Plots/Plot-1/Szenen.md), [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Girlin](../Menschen/Nordvolk/Girlin.md).
+
+**Offen bleibt · ???** Was Girlin in dieser Szene **will** - das Beat-Feld ist weiter leer.
 
 ---
 

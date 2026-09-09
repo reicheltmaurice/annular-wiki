@@ -52,6 +52,12 @@ Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reit
 
 **Wer keine Sippe hat, kann nicht heiraten.** Es gibt niemanden, der den Vertrag schließen könnte. Für [Girlin](../../Menschen/Nordvolk/Girlin.md) als sippenlose Fremde tritt deshalb der **Clan selbst an die Stelle der Sippe**: [Ishman u-Gulan](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) nimmt sie förmlich auf, der Clan wird ihre Sippe, und erst danach wäre eine Ehe überhaupt möglich.
 
+### Geburt
+
+**Geburtshilfe ist keine Rolle und kein Amt** (Autor, 09.09.2026). Es helfen die **erfahrenen Frauen** - die Älteren, die es können. Niemand hat dafür einen besonderen Stand im Clan.
+
+**Der Stand der Gebärenden spielt keine Rolle.** Bei einer Geburt fragt niemand danach, ob eine Frau aufgenommen ist oder von außen kommt: Die Frauen kommen, weil ein Kind kommt. Deshalb wird auch [Girlin](../../Menschen/Nordvolk/Girlin.md) bei Tamants Geburt in Jahr +4 versorgt wie eine der Ihren, unabhängig davon, wie weit ihre Aufnahme zu diesem Zeitpunkt gediehen ist.
+
 ### Weggang aus der Sippe
 
 **Fortzuziehen ist extrem unüblich und selten** (Autor, 09.09.2026). Es ist kein Verstoß und wird nicht bestraft - wer geht, wird nicht verstoßen, und der Clan bringt Verständnis auf, wie man es dafür aufbringt, dass ein Kind aus dem Haus geht. Aber es tut kaum jemand.

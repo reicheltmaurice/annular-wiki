@@ -23,7 +23,7 @@
 |---|---|
 | **Sohn** | [Tibun](Tibun.md) |
 | **Tochter** | [Truda](Nebenfiguren/Truda.md) |
-| **Drittes Kind** | **Tamant ult-Sekkan** (Autor, 09.09.2026), ein **Mädchen**. Geboren in der Wüste, Jahr +4 (Girlin 38), im Finale **6**. Vater: [Sekkan u-Werdan](../Kel-Aman/Nebenfiguren/Sekkan.md) |
+| **Drittes Kind** | **Tamant ult-Sekkan** (Autor, 09.09.2026), ein **Mädchen**. Geboren in der Wüste, Jahr +4 (Girlin 38), im Finale **6**. Vater: [Sekkan u-Werdan](../Kel-Aman/Nebenfiguren/Sekkan.md) - **bei der Geburt nicht anwesend**; es helfen erfahrene Frauen des Clans |
 | **Verstorbene Kinder** | **drei** - eines zwischen Tibun und Truda, zwei danach; das letzte **ein bis zwei Winter vor ihrem Verschwinden**, ein **Säugling von wenigen Wochen**, begraben in einer unmarkierten Grube auf dem Hofgelände |
 | **Ehemann** | [Semund](Nebenfiguren/Semund.md) |
 

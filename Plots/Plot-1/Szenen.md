@@ -291,12 +291,12 @@ Ein Seil rutscht unter Last, wird heiß, raucht.
 
 ### 22 · Das dritte Kind
 
-> **POV:** Girlin · **Jahr +4** · **Offen:** Wer bei Tamants Geburt hilft
+> **POV:** Girlin · **Jahr +4** · **Offen:** -
 
-Girlins Tochter **Tamant ult-Sekkan** wird in der Wüste geboren.
+Girlins Tochter **Tamant ult-Sekkan** wird in der Wüste geboren - **als eigene Szene**, nicht hinter dem Schnitt (Autor, 09.09.2026). Es ist Girlins sechste Geburt, sie ist 38. Geholfen wird ihr von **erfahrenen Frauen des Clans**; **Sekkan ist nicht da** - er ist mit einer Karawane unterwegs.
 
 - **Will:** ???
-- **Hindernis:** ???
+- **Hindernis:** Sie bekommt das Kind ohne Sekkan, unter Frauen eines fremden Volkes
 - **Ausgang:** Das Kind ist da. Im Finale wird sie sechs sein.
 
 
@@ -313,7 +313,7 @@ Mit der Geburt verschiebt sich, was sie will.
 
 ### 24 · Der Ring bekommt einen neuen Zweck
 
-> **POV:** Girlin · **Jahr +4** · **Offen:** Girlins Nachricht - Vorhaben ohne Ausführung
+> **POV:** Girlin · **Jahr +4** · **Offen:** -
 
 Nicht mehr ihre Heimreise.
 
@@ -460,7 +460,7 @@ Rückkehr zum Ring; Bau der großen Wasseranlage.
 
 ### 37 · Die Nachricht liegt bereit
 
-> **POV:** Girlin · **Jahr +9** · **Offen:** Girlins Nachricht - Vorhaben ohne Ausführung
+> **POV:** Girlin · **Jahr +9** · **Offen:** -
 
 Fertig und wetterfest verpackt: ein Bündel aus einer **Strähne ihres eigenen Haars**, einem **gewebten Stück** aus ihrer Hand und ihrer **Mantelfibel**. Kein Schriftstück - im Norden kann niemand lesen, das weiß sie. Es ist für ihre **Familie** gedacht, und sie wählt, was ihre Leute auch ohne Schrift deuten.
 

@@ -126,6 +126,9 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - Wie er von ihr erfährt, ist offen. Als Richtung notiert, nicht beschlossen: Er bekommt Gerede mit und sucht sie dann auf dem Basar auf · **???**
   - **Sein Motiv ist doppelt:** ihr **Wert** als seltene Ware - und ab dem gescheiterten Zugriff die **Demütigung**. Das eine erklärt, warum er anfängt; das andere, warum er nicht ablässt
 - **Jahr +4: Girlins drittes Kind wird geboren** - **Tamant ult-Sekkan**, ein Mädchen (Girlin 38, Kind im Finale 6)
+  - **Geholfen wird ihr von erfahrenen Frauen des Clans** (Autor, 09.09.2026) - keine Rolle, kein Amt, die Älteren, die das können. Ihr Stand spielt dabei keine Rolle: Bei einer Geburt fragt niemand danach
+  - **[Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) ist nicht da** (Autor, 09.09.2026) - er ist mit einer Karawane unterwegs. Girlin bekommt das Kind ohne ihn, unter Frauen eines fremden Volkes
+  - **Die Geburt ist eine eigene Szene** (Autor, 09.09.2026), nicht hinter dem Schnitt ([Szene 22](Szenen.md))
 - **Mit der Geburt kippt ihr Ziel** (entschieden 03.09.2026): aus *nach Hause gehen* wird *ich bleibe in meinem neuen Zuhause*. Der Entschluss zur Rückreise fällt damit **sechs Jahre vor dem Finale**, nicht am Ende
 - **Er ist nicht endgültig.** Er **wackelt und wird bestätigt** - mehrfach, und jedes Mal teurer
 - **Damit ändert sich der Zweck des Rings.** Sie will nicht mehr selbst zurück. Sie will **eine Nachricht schicken**, damit ihre Familie weiß, dass sie lebt. **Dafür** wird der Ring geholt - nicht mehr für ihre Heimreise
