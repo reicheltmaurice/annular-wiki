@@ -111,7 +111,8 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 ## Girlins Strang (Jahr 0 → +10, Girlin 34 → 44 - **10 Jahre in der Wüste**)
 
 ### Ankunft und erste Jahre (Jahr 0 → +3)
-- Sie wacht in einer Wüste auf (Jahr 0); die [Kel Aman](../../Kulturen/Kel-Aman/README.md) sehen das Ereignis von Weitem und sammeln sie auf
+- Sie wacht in einer Wüste auf (Jahr 0); die [Kel Aman](../../Kulturen/Kel-Aman/README.md) sammeln sie auf
+- **Wie sie auf die Stelle aufmerksam werden** (Autor, 09.09.2026): Es ist **Nacht**, und das **grüne Runenleuchten** ist weithin über die Wüste sichtbar - es klingt über drei Sekunden ab ([Portalringe](../../Technik/Portalringe.md)). **Aufbrechen tut nachts aber niemand.** Sie kommen erst bei Tageslicht; Girlin liegt bis dahin **stundenlang bewusstlos** mit ihrer Kopfwunde in der Mulde. Wie viele Stunden und in welchem Zustand sie gefunden wird: **???**
 - **Konflikt:** Sprache und Kulturbarriere
 - **Ihr Ziel steht von der ersten Stunde an fest:** Der Ring hat sie hergebracht, der Ring ist der einzige Rückweg - ein Fußmarsch in den Norden ist für sie keine Möglichkeit, sondern eine Todesart. Sie beginnt nicht bei der Frage *ob*, sondern bei *wie*
 - Begegnet [Bellbrim](../../Menschen/Andere/Bellbrim.md), die übersetzen kann und als Erste versteht, was der Ring ist

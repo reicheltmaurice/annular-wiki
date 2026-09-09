@@ -26,7 +26,7 @@ Bei Aktivierung rotieren sie 180° um einen Durchmesser (Achse in der Ringebene)
 
 ## Aktivierung & Tausch
 
-Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Drehung definiert eine **Kugel**, deren Inhalt mit dem des Partnerrings ausgetauscht wird..
+Bei der Aktivierung **flippt** der Ring um 180° um einen Durchmesser. Diese Drehung definiert eine **Kugel**, deren Inhalt mit dem des Partnerrings ausgetauscht wird. **Drehung und Tausch sind ein einziger Vorgang** (Autor, 09.09.2026) - es gibt keinen Zwischenzustand, in dem der Reif schon dreht und der Inhalt noch da ist.
 
 - **Tauschvolumen = Innenkugel.** Maßgeblich ist die **Innenkante** des Rings: Die Tausch-Kugel hat den Innendurchmesser (**3,00 m** beim 3-m-Ring, Radius 1,50 m). **Der Ringkörper wird nicht mitgetauscht** - er liegt vollständig außerhalb.
 - **Der Reif durchläuft Materie wie ein Geist.** Während der Drehung durchdringt der Ringkörper alles, was ihm im Weg liegt - Erdreich, Fundament, einen danebenstehenden Menschen -, **ohne es anzutasten**. Kein Pflügen, kein Pulverisieren, keine Spur. Deshalb braucht es kein freigeräumtes Umfeld.
@@ -188,6 +188,8 @@ Das erklärt zugleich die Mechanik: Nur die Runen glühen (Energie läuft in den
 **Zwei Leuchtzustände:**
 - **Erfolgreiche Kopplung:** kurzer grüner Puls - Bestätigung, dass die Verdrahtung greift (diegetisches Feedback für den Runenschmied).
 - **Aktivierung / Teleport:** intensives, anhaltendes Glühen. **Ab dem Moment, in dem der Tausch abgeschlossen ist, klingt es über 3 Sekunden ab** - stetig dunkler werdend, kein abruptes Erlöschen.
+
+**Einen dritten Zustand gibt es nicht: Der Ring warnt nie vor** (Autor, 09.09.2026). Kein Vorpulsen, kein Countdown, kein Vorlauf - der Flip kommt immer schlagartig, gleich wie er ausgelöst wird und gleich, wer ihn auslöst. Wer im Ring steht, hat keine Zeit zu reagieren, und die Gegenstelle wird nicht gewarnt. Das gilt auch für die Erbauer: Die Ringe sind gleichgültig gegen das, was in ihnen steht.
 
 ---
 

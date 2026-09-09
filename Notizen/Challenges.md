@@ -16,11 +16,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-009: Häuptling von Tingsal ○](#c-009-häuptling-von-tingsal-)
 - [C-011: Kreis oder Spirale? ○](#c-011-kreis-oder-spirale-struktur-des-kreislaufs-)
 - [C-013: Runen - Anordnung, Anzahl, Aussehen ○](#c-013-runen---anordnung-anzahl-aussehen-)
-- [C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft ○](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft-)
-- [C-015: Verhältnis Drehung ↔ Tausch ○](#c-015-verhältnis-drehung--tausch-)
 - [C-017: Weitere Ringgrößen ○](#c-017-weitere-ringgrößen-)
 - [C-019: Ursache von Erwachen und Zusammenbruch ○](#c-019-ursache-von-erwachen-und-zusammenbruch-)
-- [C-020: Vorwarnung vor dem Flip? ○](#c-020-vorwarnung-vor-dem-flip-)
 - [C-024: Girlin - Herkunft & Vorgeschichte ○](#c-024-girlin---herkunft--vorgeschichte-)
 - [C-025: Girlin - Charakter & Fähigkeiten ○](#c-025-girlin---charakter--fähigkeiten-)
 - [C-026: Bellbrim - historische Plausibilität & Herkunft ○](#c-026-bellbrim---historische-plausibilität--herkunft-)
@@ -180,6 +177,9 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-166: Bleibt Sekkans Wunde? ✓](#c-166-bleibt-sekkans-wunde-)
 - [C-167: Wer folgt Hadurik in Tingsal? ✓](#c-167-wer-folgt-hadurik-in-tingsal-)
 - [C-168: Was außer dem Skarabäus im Sand steckt ✓](#c-168-was-außer-dem-skarabäus-im-sand-steckt-)
+- [C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft ✓](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft-)
+- [C-015: Verhältnis Drehung ↔ Tausch ✓](#c-015-verhältnis-drehung--tausch-)
+- [C-020: Vorwarnung vor dem Flip? ✓](#c-020-vorwarnung-vor-dem-flip-)
 - [C-081: Girlins drittes Kind in der Wüste ✓](#c-081-girlins-drittes-kind-in-der-wüste-)
 - [C-106: Durchgebrannte Ehefrau bei den Kel Aman ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)
 - [C-128: Fundort und Freilegung des Skir-Rings ✓](#c-128-fundort-und-freilegung-des-skir-rings-)
@@ -382,17 +382,25 @@ Wie sind die Runen auf den Ringen gestaltet (Anzahl, Anordnung, Form, Position a
 
 ---
 
-### C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft ○
+### C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft ✓
 
-Durch den Tausch (C-012) wird **keine Erde/kein Sand aufgewirbelt** - der früher erwogene „Staubfontäne"-Effekt entfällt. Wie wird die Kel-Aman-Karawane dann auf die plötzlich erschienene Girlin aufmerksam?
+Durch den Tausch ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)) wird **keine Erde und kein Sand aufgewirbelt** - der früher erwogene „Staubfontäne"-Effekt entfällt. Wie wird die Kel-Aman-Karawane dann auf die plötzlich erschienene [Girlin](../Menschen/Nordvolk/Girlin.md) aufmerksam?
 
-**Idee (Autor):** Es ist **Nacht**, und das **grüne Leuchten der Runen** (C-010) ist weithin über die Wüste sichtbar.
+**Entschieden (Autor, 09.09.2026): das nächtliche Runenleuchten - aber sie kommen erst am nächsten Tag.** Es ist Nacht, das grüne Glühen ist weithin über die Wüste sichtbar und klingt über drei Sekunden ab ([C-010 ✓](#c-010-ringsystem---kopplungsmechanik-)). Man sieht es, aber **niemand bricht nachts in die Wüste auf**. Die Karawane kommt bei Tageslicht.
+
+**Folge für Girlin:** Sie liegt **stundenlang bewusstlos** in der Mulde, mit der Kopfwunde aus ihrem Sturz über den Ring ([Portalringe](../Technik/Portalringe.md)). Ihre Ankunft ist damit kein Aufgefundenwerden im Moment des Ereignisses, sondern eine Nacht allein in der Wüste, von der sie nichts mitbekommt.
+
+**Offen · ???** Wie viele Stunden vergehen und in welchem Zustand sie gefunden wird. Was sie beim Aufwachen als Erstes sieht - siehe auch [C-146](#c-146-was-girlin-vom-flip-wahrnimmt-).
+
+Eingetragen in der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md).
 
 ---
 
-### C-015: Verhältnis Drehung ↔ Tausch ○
+### C-015: Verhältnis Drehung ↔ Tausch ✓
 
-Ist die 180°-Drehung ein **simultaner Vorgang** mit dem Tausch (die Kugel wird in einem transformiert) - oder dreht der Ring erst physisch und tauscht **danach**? Praktisch entschärft, seit der Reif Materie folgenlos durchdringt (C-012) - es gibt keine durchfurchende Materie mehr. Konzeptuell aber offen. Klein.
+Ist die 180°-Drehung ein **simultaner Vorgang** mit dem Tausch, oder dreht der Ring erst physisch und tauscht **danach**?
+
+**Entschieden (Autor, 09.09.2026): ein einziger Vorgang.** Drehung und Tausch sind dasselbe Ereignis; es gibt keinen Zwischenzustand, in dem der Reif schon dreht und der Inhalt noch da ist. Die 100-150 ms aus [C-136](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-) sind die Dauer dieses einen Vorgangs, keine Abfolge zweier Schritte.
 
 ---
 
@@ -438,19 +446,17 @@ Was treibt die Phasen des Ring-Kreislaufs ([Welt/README.md](../Welt/README.md))?
 
 ---
 
-### C-020: Vorwarnung vor dem Flip? ○
+### C-020: Vorwarnung vor dem Flip? ✓
 
-Flippt der Ring bei Aktivierung sofort, oder kündigt er sich an (z. B. mehrfach kurz aufleuchtende Runen) - und warnt die **Gegenstelle** mit?
+Flippt der Ring bei Aktivierung sofort, oder kündigt er sich an - und warnt die **Gegenstelle** mit?
 
-**Tendenz (Claude): Warnung hängt an der Laderampe, nicht am Flip.** Konsistent mit C-002 (Ladungsaufbau bis zur Sättigung) und C-008 (Girlins Blitz = schlagartig):
-- **Kontrollierte Ladung** (Erbauer-/Tibun-Betrieb): während die Ladung steigt, pulsen die Runen - langsam → schnell/heller, sichtbarer Countdown; an der Schwelle Dauerglühen → Flip. Beide gepaarten Ringe pulsen **synchron** (passt zu C-012 simultan + C-010 feste Kopplung).
-- **Schlagartige Überladung** (Blitz): keine Rampe → sofortiger Flip, kein Vorlauf. Erklärt, warum Girlin keine Chance hatte (physikalisch keine Warnzeit, nicht „Wissen fehlte").
+**Entschieden (Autor, 09.09.2026): Es gibt nie eine Vorwarnung.** Der Flip kommt immer schlagartig, auch im Erbauer-Betrieb. Keine beschleunigenden Pulse, kein Countdown, kein Vorlauf - die Ringe sind gleichgültig gegen das, was in ihnen steht.
 
-Vorteil: löst Normalbetrieb-Dramatik **und** Girlin-Unfall ohne Sonderregel; liefert C-014 die nächtliche Optik (bei Girlin: beide Ringe schlagartig, kein Vorlauf → plötzliches Aufleuchten + Girlin).
-**Gegenoption:** Erbauer als kalt-gleichgültig → gar keine Warnung, immer sofortiger Flip (düsterer, aber ohne Puls-Optik und ohne saubere Girlin-Erklärung).
+**Damit fällt eine Sonderregel weg.** [Girlins](../Menschen/Nordvolk/Girlin.md) Blitz und [Tibuns](../Menschen/Nordvolk/Tibun.md) Kettenzündung ([C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-)) sind derselbe Vorgang wie jede andere Auslösung; es braucht keine zweite Betriebsart für die Erbauer. Girlin hatte keine Chance, weil es **physikalisch keine Warnzeit gibt** - nicht, weil ihr Wissen fehlte.
 
-**Wichtig seit 31.08.2026:** Tibuns Anlage arbeitet **nicht** mit einer Laderampe am Ring. Das Bernsteinrad lädt einen isolierten **Konduktor**, die Zündung erfolgt über eine herabfallende **Kette** - punktuell, gezielt, augenblicklich ([C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-)). Seine Zündung ist damit **derselbe Vorgang wie Girlins Blitz**, nur gewollt: schlagartige Entladung ohne Vorlauf. Eine pulsende Vorwarnung am Ring gibt es bei dieser Bauweise also nicht - die Rampe sitzt am Speicher, nicht am Ring. Das entzieht der „Tendenz Claude" oben ihren Hauptanwendungsfall; sie gilt allenfalls noch für den **Erbauer-Betrieb**. Zu prüfen.
-Erweitert die Signal-Grammatik aus C-010 (Puls=Kopplung / Dauerglühen=Aktivierung) um *beschleunigende Pulse = Ladewarnung*. Noch nicht entschieden.
+**Die Signal-Grammatik aus [C-010 ✓](#c-010-ringsystem---kopplungsmechanik-) bleibt, wie sie ist:** Puls = Kopplung, Dauerglühen = Aktivierung. Ein drittes Signal *beschleunigende Pulse = Ladewarnung* gibt es nicht.
+
+Eingetragen in [Portalringe.md](../Technik/Portalringe.md).
 
 ---
 
