@@ -55,6 +55,7 @@
 * [Gratsiedlung](Orte/Gratsiedlung.md)
 * [Sonstige Orte](Orte/sonstiges.md)
 * [Bellbrims Werkstatt](Orte/Bellbrims-Werkstatt.md)
+* [Der Basar](Orte/Basar.md)
 
 ## Technik
 

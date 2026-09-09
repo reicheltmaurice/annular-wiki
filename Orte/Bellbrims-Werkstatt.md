@@ -6,22 +6,9 @@ Die Idee ist, dass Bellbrim in dieser abgelegenen Gegend ihre Forschungen zu den
 In dieser Schlucht gibt es eine Höhle oder ein Höhlensystem, das als Werkstatt dient.
 Dort gibt es einen unterirdischen Wasserlauf, der für ihre Experimente genutzt wird und der später auch als Energiequelle für den Wassergenerator dient.
 
-## Der Basar - einen Tagesmarsch entfernt
+## Der Basar
 
-**Der Basar liegt einen Tagesmarsch von der Schlucht** (Autor, 09.09.2026). Er ist damit kein Unternehmen, sondern ein Nachbar - man geht hin, wenn man etwas braucht, und ist bald wieder da.
-
-Er ist zugleich der **einzige Grund, die Schlucht zu verlassen**: Der Generatorbau verlangt Material, das die Schlucht nicht hergibt ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)). **Welches Material** das ist, hängt an der noch offenen Bauart des Wüstengenerators · **???**
-
-**Womit bezahlt wird** (Autor, 09.09.2026) - alles vier, was die Schlucht hergibt:
-
-| | |
-|---|---|
-| **Gewebtes** | [Girlins](../Menschen/Nordvolk/Girlin.md) Handwerk |
-| **Jagdbeute und Häute** | [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Beitrag |
-| **Feldfrüchte** | was sie in der Schlucht anbauen |
-| **[Bellbrims](../Menschen/Andere/Bellbrim.md) Wissen** | Heilkunde und Gelehrsamkeit - Dienstleistung statt Ware |
-
-**Wer geht, wechselt** (Autor, 09.09.2026). Meist gehen **zwei**, und **mindestens einer bleibt beim Kind** ([Tamant](../Menschen/Nordvolk/Girlin.md)). Feste Rollen gibt es nicht.
+**Einen Tagesmarsch entfernt** liegt [der Basar](Basar.md) (Autor, 09.09.2026) - der einzige Ort, an dem die Schluchtgemeinschaft regelmäßig unter Menschen geht, und damit der einzige Weg, auf dem [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) sie finden kann. Womit sie dort bezahlen und wer hingeht, steht auf der [Basar-Seite](Basar.md).
 
 ## Merkmale
 - Felsige Umgebung

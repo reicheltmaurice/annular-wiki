@@ -2359,7 +2359,7 @@ Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): Der Basar
 - **Der Basar liegt einen Tagesmarsch entfernt.** Er ist kein Unternehmen, sondern ein Nachbar. Das stützt zugleich +9: Azzim kann ihr von dort bis zur Schlucht folgen.
 - **Wer geht, wechselt.** Meist gehen **zwei**, und **mindestens einer bleibt beim Kind**. Feste Rollen gibt es nicht - deshalb ist es kein Bruch, dass Girlin in +9 dabei ist.
 
-Eingetragen in [Bellbrims Werkstatt](../Orte/Bellbrims-Werkstatt.md#der-basar---einen-tagesmarsch-entfernt), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Szenen](../Plots/Plot-1/Szenen.md) (Szene 29).
+Eingetragen in die neue Ortsdatei [Der Basar](../Orte/Basar.md) (angelegt 09.09.2026 auf Wunsch des Autors), dazu [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Szenen](../Plots/Plot-1/Szenen.md) (Szene 29).
 
 **Offen bleibt · ???** **Welches Material** der Generator überhaupt braucht - das hängt an seiner Bauart → [C-135](#c-135-der-wüstengenerator---bauart-offen-).
 

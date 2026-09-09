@@ -8,3 +8,4 @@ Wichtige Orte in der Welt von **Annular**.
 - [Gratsiedlung](Gratsiedlung.md)
 - [Sonstige Orte](sonstiges.md)
 - [Bellbrims Werkstatt](Bellbrims-Werkstatt.md)
+- [Der Basar](Basar.md)

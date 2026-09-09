@@ -370,7 +370,7 @@ Experimente mit Wasserfall und Wasserrad.
 
 > **POV:** Girlin · **Jahr +5** · **Offen:** Der Wüstengenerator - Bauart offen
 
-Der Generatorbau verlangt Material, das die Schlucht nicht hergibt. Der Basar liegt einen **Tagesmarsch** entfernt. Bezahlt wird mit Gewebtem, Jagdbeute und Häuten, Feldfrüchten und Bellbrims Wissen; **wer geht, wechselt** - meist zwei, einer bleibt beim Kind. Welches Material sie brauchen, hängt an der Bauart des Generators · **???**
+Der Generatorbau verlangt Material, das die Schlucht nicht hergibt. [Der Basar](../../Orte/Basar.md) liegt einen **Tagesmarsch** entfernt. Bezahlt wird mit Gewebtem, Jagdbeute und Häuten, Feldfrüchten und Bellbrims Wissen; **wer geht, wechselt** - meist zwei, einer bleibt beim Kind. Welches Material sie brauchen, hängt an der Bauart des Generators · **???**
 
 - **Will:** Material beschaffen
 - **Hindernis:** Sie müssen dafür das Versteck verlassen - der einzige Weg, auf dem Azzim sie finden kann
