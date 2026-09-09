@@ -27,7 +27,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 ## Vor der Geschichte
 - Bau der ersten Portalringe durch unbekannte Zivilisation
-- Der Skir-Ring liegt seit Jahrtausenden vergraben im Wald am Skir nahe [Skirraa](../../Orte/Skirraa.md)
+- Der Skir-Ring liegt seit Jahrtausenden vergraben am **Waldrand von [Vilund](../../Orte/sonstiges.md)** am Skir nahe [Skirraa](../../Orte/Skirraa.md) - auf der hohen Uferböschung, ein paar Meter über dem Wasser
 
 ## Jahr 0 - der Auftakt (Tibun 16, Girlin 34)
 
@@ -43,7 +43,8 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 ### 1. Das Beben
 - Weltweites Beben (Erwachen des Ringsystems)
-  > **Frühere Fassung gestrichen:** „löst einen Erdrutsch am Steilufer der Skir aus und legt den vergrabenen Portalring frei" stammte nicht vom Autor
+- **Das Beben löst am Skir einen Erdrutsch aus und legt den vergrabenen Portalring frei** (Autor, 09.09.2026). Die Stelle liegt am **Waldrand von [Vilund](../../Orte/sonstiges.md)**, auf einer hohen Uferböschung: Der Ring bleibt oben auf der Böschung liegen, der Skir läuft ein paar Meter tiefer vorbei. Einzelheiten: [Skirraa](../../Orte/Skirraa.md#der-ring-im-wald-vilund)
+  > Am 02.09.2026 war eine gleichlautende Fassung gestrichen worden, weil sie nicht vom Autor stammte. Sie ist am 09.09.2026 **vom Autor selbst gesetzt** worden.
 - Die Menschen haben Angst; Folgen im Weiler offen
 - **Der Prolog besteht aus diesem Ereignis** ([Kapitelstruktur](Kapitelstruktur.md#was-am-04092026-entschieden-wurde---prolog-und-anfang))
 

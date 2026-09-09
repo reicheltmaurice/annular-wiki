@@ -79,7 +79,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-124: Die Zwischenstation - Ort und Gruppe ○](#c-124-die-zwischenstation---ort-und-gruppe-)
 - [C-125: Das Transportverfahren ist offen ○](#c-125-das-transportverfahren-ist-offen-)
 - [C-126: Der Postring - was passt hinein? ○](#c-126-der-postring---was-passt-hinein-)
-- [C-128: Fundort und Freilegung des Skir-Rings ○](#c-128-fundort-und-freilegung-des-skir-rings-)
 - [C-129: Die Schutzlücke verschiebt sich von +8 auf +5 ○](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5-)
 - [C-130: Wie der Transport terminiert wird ○](#c-130-wie-der-transport-terminiert-wird-)
 - [C-131: Generatorarbeit ohne Ring ○](#c-131-generatorarbeit-ohne-ring-)
@@ -96,7 +95,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-146: Was Girlin vom Flip wahrnimmt ○](#c-146-was-girlin-vom-flip-wahrnimmt-)
 - [C-149: Wie die Kel Aman den Ring religiös einordnen ○](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-)
 - [C-150: Was Bellbrim vom Wissen der Kel Aman hat ○](#c-150-was-bellbrim-vom-wissen-der-kel-aman-hat-)
-- [C-156: Der Wald am Skir - Größe, Abstand, stehendes Gewässer ○](#c-156-der-wald-am-skir---größe-abstand-stehendes-gewässer-)
 - [C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ○](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-)
 - [C-160: Bröckelt die Angst des Dorfes über die Zeit? ○](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
 - [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
@@ -184,7 +182,10 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-168: Was außer dem Skarabäus im Sand steckt ✓](#c-168-was-außer-dem-skarabäus-im-sand-steckt-)
 - [C-081: Girlins drittes Kind in der Wüste ✓](#c-081-girlins-drittes-kind-in-der-wüste-)
 - [C-106: Durchgebrannte Ehefrau bei den Kel Aman ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)
+- [C-128: Fundort und Freilegung des Skir-Rings ✓](#c-128-fundort-und-freilegung-des-skir-rings-)
 - [C-152: Ishman - Häuptling der Kel Aman ✓](#c-152-ishman---häuptling-der-kel-aman-)
+- [C-156: Der Wald am Skir - Größe, Abstand, stehendes Gewässer ✓](#c-156-der-wald-am-skir---größe-abstand-stehendes-gewässer-)
+- [C-177: Bewuchs auf einem frisch freigelegten Ring ✓](#c-177-bewuchs-auf-einem-frisch-freigelegten-ring-)
 - [C-161: Erhebt Girlins Herkunftssippe Anspruch? ✓](#c-161-erhebt-girlins-herkunftssippe-anspruch-)
 - [C-170: Vatersnamen für Sekkan und Ishman ✓](#c-170-vatersnamen-für-sekkan-und-ishman-)
 - [C-175: Behält Girlin den Sippenschutz nach dem Wegzug? ✓](#c-175-behält-girlin-den-sippenschutz-nach-dem-wegzug-)
@@ -1732,6 +1733,19 @@ Der Tausch ist symmetrisch. Bei **Zündung 1** ([C-062 ✓](#c-062-azzims-ankunf
 
 **Offen:** Was genau Tibun in dem Moment sieht und begreift. Für ihn ist Azzims Ankunft nach zehn Jahren der **erste Beweis**, dass am anderen Ende Menschen leben · **???**
 
+
+**Zusätzliche Möglichkeit (Autor, 09.09.2026): ein Baum.** Wächst am Ringort ein Baum, so dass er in das getauschte Volumen ragt, wird er **komplett durchgeschnitten** - und der abgetrennte Teil steht danach **in der Wüste**. Das ist die sichtbarste Form dessen, was die Kugelgrenze tut: Bei [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden sieht [Tibun](../Menschen/Nordvolk/Tibun.md) halbierte Steine und glatt durchtrennte Wurzeln ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)) - ein Baumstumpf mit spiegelglatter Schnittfläche, dessen Krone auf der anderen Seite der Welt liegt, ist dasselbe Prinzip in groß.
+
+**Der Baum wächst seit Jahren und schon vor dem Beben durch den Ring hindurch** (Autor, 09.09.2026) - der Stamm steht in der Ringöffnung, während der Ring noch vergraben liegt.
+
+**Was der Flip mit ihm macht** (aus der gesetzten Geometrie gerechnet, [Portalringe](../Technik/Portalringe.md)): Das Kugelzentrum liegt in der Ringebene, der Radius beträgt 1,50 m. Ein mittig stehender Stamm von 0,06 m Radius wird bei √(1,50² − 0,06²) = **1,4988 m über der Ringebene** durchtrennt - die Kugelfläche ist dort so flach, dass es praktisch ein **ebener Schnitt auf 1,50 m** ist. In die Wüste geht damit ein rund **3 m langes Stammstück samt Wurzelballen**, eingebettet in nordische Erde. Im Norden bleibt der Baum **ab 1,50 m aufwärts ohne Fuß** - und stürzt.
+
+**Es ist eine junge, dünne Birke** (Autor, 09.09.2026) - die Pionierart auf Vendsyssels Sand- und Heideböden. Sie **hält den Ring nicht auf**: 5,7 Tonnen gegen einen dünnen Stamm, sie knickt. Dass der Ring auf der Böschung liegen bleibt, erklärt sich aus Erdreich und Gewicht, nicht aus dem Baum.
+
+**Der Baum ist kein lauteres Zeugnis als die Steine** (Autor, 09.09.2026): Niemand stört sich mehr an einem durchgeschnittenen Baum als an glatt geschnittenen Steinen - beides ist gleich ungewöhnlich. Für [Tibuns](../Menschen/Nordvolk/Tibun.md) Glaubwürdigkeit im Dorf ändert sich dadurch nichts.
+
+**Der Stumpf in der Wüste ist kein Geheimnis** (Autor, 09.09.2026): Ihn sieht jeder, der hingeht - genau wie die halben Steine und den halben Skarabäus ([C-168 ✓](#c-168-was-außer-dem-skarabäus-im-sand-steckt-)). Es braucht keinen besonderen Zeugen und keine Entdeckungsszene.
+
 ---
 
 ### C-103: Transportlogistik des Wüstenrings ○
@@ -2269,20 +2283,29 @@ Aus [C-117 ✓](#c-117-ringgeometrie-neu-vermessen-) (02.09.2026): Der 0,30-m-Ri
 
 ---
 
-### C-128: Fundort und Freilegung des Skir-Rings ○
+### C-128: Fundort und Freilegung des Skir-Rings ✓
 
 **Vom Autor beanstandet (02.09.2026):** *„Der Ring liegt im Wald in der Nähe des Baches."* Der zuvor im Wiki stehende **Erdrutsch am Steilufer** war nicht vom Autor gedeckt und ist gestrichen ([C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)).
 
 **Was steht:** Der Ring liegt **im Wald nahe dem Bach Skir** bei [Skirraa](../Orte/Skirraa.md), nicht in Vilund. Der Bach ist Alltagsort - das erklärt zwanglos, warum [Tibun](../Menschen/Nordvolk/Tibun.md) und [Girlin](../Menschen/Nordvolk/Girlin.md) dort sind ([C-008 ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)).
 
-**Zu entscheiden · ???**
-- **Liegt der Ring offen oder verborgen?** Hier steckt ein bisher unbemerkter Widerspruch im Wiki:
-  - [C-008 ✓](#c-008-anzahl-und-bekanntheit-der-ringe-) begründete die Unbekanntheit des Rings damit, dass er **vergraben** sei.
-  - [C-036 ✓](#c-036-altert-der-ring-patina-moos-ablagerungen-) und der Bildprompt P-001 zeigen ihn dagegen **offen im Wald liegend, von Moos und Flechten überwachsen** - genau darin liegt das Unheimliche: Bewuchs oben, makelloses Material darunter. Ein vergrabener Ring kann nicht bemoost sein.
-  - Beides zugleich geht nicht. **Der Autor entscheidet, welche Fassung gilt.**
-- **Wie tritt er in Erscheinung?** Wenn er offen liegt, braucht es keine Freilegung - dann ist die Frage, warum ihn niemand beachtet hat. Wenn er verborgen liegt, braucht es einen Auslöser.
-- **Welche Rolle spielt das Beben?** Es ist als Erwachen des Ringsystems gesetzt ([C-008 ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)) und weltweit spürbar. Ob es am Fundort etwas bewirkt, hängt an der Antwort oben → berührt [C-056](#c-056-prolog---folgen-des-bebens-im-dorf-) und [C-055](#c-055-der-skir---gewässer-see-und-fundort-des-rings-).
-- **Betroffen:** [Bild-Prompts P-002](Bild-Prompts.md) (Erdrutsch-Szene, bis zur Klärung nicht rendern), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Skirraa](../Orte/Skirraa.md).
+**Entschieden (Autor, 09.09.2026) - der Widerspruch ist zugunsten von *vergraben* aufgelöst:**
+
+| | |
+|---|---|
+| **Lage im Gelände** | Am **Waldrand** von [Vilund](../Orte/sonstiges.md), einen **Steinwurf** von der Zeremonienstelle. Der Skir hat dort eine **hohe Uferböschung** in den Wald geschnitten: **Fluss unten, Ring oben** - ein paar Meter über dem Wasser |
+| **Vorher** | **Jahrelang vergraben**, niemand weiß von ihm |
+| **Freilegung** | **Erdbeben und ein Erdrutsch** legen ihn frei |
+| **Danach** | Er rutscht **nicht in den Skir**, sondern bleibt auf der Böschung liegen; der Fluss zieht ein paar Meter tiefer vorbei |
+| **Lage des Rings** | **Liegend**, und **leicht schräg** - vom Erdrutsch und dem Gefälle verschoben. [Girlin](../Menschen/Nordvolk/Girlin.md) **stolpert über den Rand** |
+
+**Der Erdrutsch am Steilufer ist damit gesetzt** - dieselbe Bewegung, die am 02.09.2026 als nicht gedeckte Wiki-Erfindung gestrichen wurde, kommt jetzt vom Autor selbst.
+
+**Warum den Ring niemand beansprucht, ist damit ebenfalls beantwortet** (Autor, 09.09.2026): **Vorher war er vergraben; danach ist der Ort Tabu.** Das Tabu der [wandernden Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) **beginnt erst mit Girlins Verschwinden** - vorher gab es keines - und es gilt **der Stelle, nicht dem Wald**: Vilund bleibt begehbar. Zwischen Freilegung und Tabu liegt kaum Zeit.
+
+**Offen geblieben · ???** Wie die Tabuzone markiert oder abgegrenzt ist - und ob man sie deshalb von der Zeremonienstelle aus sehen kann. Der **Bewuchs** → [C-177](#c-177-bewuchs-auf-einem-frisch-freigelegten-ring-).
+
+Nachgezogen in [Skirraa](../Orte/Skirraa.md#der-ring-im-wald-vilund) und [sonstiges.md](../Orte/sonstiges.md).
 
 ---
 
@@ -2732,16 +2755,24 @@ Bezugsebene: Maße gelten **an der Furt beim Weiler**, nicht flussabwärts.
 
 ---
 
-### C-156: Der Wald am Skir - Größe, Abstand, stehendes Gewässer ○
+### C-156: Der Wald am Skir - Größe, Abstand, stehendes Gewässer ✓
 
 Aus [C-055 ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-) beim Lückenaudit (08.09.2026) ausgelagert. Entschieden ist: Der Wald am Skir **trägt beides** - den heiligen Hain [Vilund](../Orte/sonstiges.md) und den Ring -, und der Ring liegt **nicht** an der Zeremonienstelle.
 
-**Zu klären · ???**
-- **Wie weit** liegen Zeremonienstelle und Ring auseinander - in Sichtweite, ein paar hundert Schritte, eine halbe Stunde?
-- **Wie groß** ist der Hain überhaupt, und wie groß das Waldstück drumherum?
-- Gibt es im Wald ein **stehendes Gewässer** (See, Tümpel, Moor)? Der frühere „Badeplatz der Jugend" war eine nicht gedeckte Erfindung und ist gestrichen ([C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)).
+**Entschieden (Autor, 09.09.2026):**
 
-Der Abstand entscheidet mit, wie oft jemand zufällig am Ring vorbeikommt - und damit, wie glaubhaft es ist, dass ihn zehn Jahre lang niemand beansprucht.
+| Frage | Antwort |
+|---|---|
+| Abstand Zeremonienstelle ↔ Ring | **Ein Steinwurf** - getrennte Orte im selben Wald. Man kommt nicht zufällig vorbei, aber man weiß, wo es ist |
+| Größe des Waldes | **Klein** - in einer halben Stunde zu durchqueren |
+| Zeremonienstelle | **Kleine Lichtung**, geschmückt und markiert: Altar, Sitzbänke oder -stämme, Feuerplatz |
+| Stehendes Gewässer | **Nein** - kein See, kein Tümpel, kein Moor. Nur der fließende Skir |
+
+**Hain und Wald sind nicht zwei Dinge.** Auf Nachfrage des Autors geklärt: „Hain" ist keine Ortsangabe neben dem Wald, sondern eine Aussage über ihn - ein Baumbestand, der als geweiht gilt (lateinisch *lucus*). Das Wiki führte bis dahin einen Hain *im* Wald, was doppelt zählte.
+
+**Es gilt (Autor, 09.09.2026):** **[Vilund](../Orte/sonstiges.md) ist der Name des Waldes.** **Nicht der ganze Wald ist heilig** - heilig ist die Zeremonienstelle darin, und die trägt **keinen eigenen Namen**.
+
+Nachgezogen in [sonstiges.md](../Orte/sonstiges.md) und [Skirraa](../Orte/Skirraa.md#der-ring-im-wald-vilund).
 
 ---
 
@@ -2930,7 +2961,7 @@ Entschieden war, dass mit dem Sand ein **Skarabäus** aus dem Fezzan an die [Ski
 
 **Entschieden (Autor, 08.09.2026): Es bleibt beim Skarabäus - sonst steckt nichts im Sand.** Ein einziger Fremdkörper, kein Fundhaufen. Der Sand ist reiner Sand; das eine Tier trägt die ganze Last des Beweises. Damit bleibt die Stelle ein Rätsel und wird nicht zum Ausstellungsstück.
 
-Gegenrichtung: was der Norden verliert → [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-).
+Gegenrichtung: was der Norden verliert → [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-). Dort steht seit dem 09.09.2026 als zusätzliche Möglichkeit ein **durchgeschnittener Baum**, der in der Wüste wieder auftaucht.
 
 ---
 
@@ -3055,5 +3086,21 @@ Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots
 **Der Autor hat klargestellt:** Der Preis bleibt. **Fortzuziehen ist bei den Kel Aman extrem unüblich und selten** - Sekkan tut etwas, das kaum jemand tut. Es ist nur keine Strafe, sondern **Entzug**: Er fühlt sich unwohl, vermisst seine Sippe und seine Aufgaben und hat lange mit dem Weggang zu tun.
 
 Damit trägt sein Beitrag zum dritten Konflikt weiterhin ([C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)), und Szene 26 in [Szenen.md](../Plots/Plot-1/Szenen.md) hat wieder ein Hindernis. Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md#weggang-aus-der-sippe) und [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md).
+
+---
+
+### C-177: Bewuchs auf einem frisch freigelegten Ring ✓
+
+Aufgefallen bei [C-128 ✓](#c-128-fundort-und-freilegung-des-skir-rings-) (09.09.2026).
+
+[C-036 ✓](#c-036-altert-der-ring-patina-moos-ablagerungen-) legt fest: Der Ring altert nicht, aber **Moos, Flechten und Erde setzen sich auf ihm ab**. Das Unheimliche daran ist der bewachsene Ring **ohne jede Spur von Alter darunter** - der Schock kommt beim Freilegen des Bewuchses.
+
+**Das Problem:** Mit [C-128 ✓](#c-128-fundort-und-freilegung-des-skir-rings-) ist der Ring **jahrelang vergraben** und wird erst durch den Erdrutsch freigelegt. Ein Stück, das eben aus der Böschung gekommen ist, trägt **Erde** - **Moos und Flechten wachsen nicht unter der Erde**.
+
+**Entschieden (Autor, 09.09.2026): Der Ring ist einfach dreckig.** Nicht komplett bedeckt, nicht malerisch bemoost - beschmutzt. Erdbeben und Erdrutsch lassen **Erde, Lehm und Pflanzenreste** an ihm zurück; was davon abfällt, gibt makelloses Material frei. Der Effekt aus [C-036 ✓](#c-036-altert-der-ring-patina-moos-ablagerungen-) bleibt damit erhalten, er wird nur schmutziger und weniger idyllisch: Dreck abwischen statt Moos abziehen.
+
+Grünlicher Algenfilm, mitgerissene Moospolster, Wurzelfilz - was davon im Bild steht, entscheidet sich beim Schreiben der Szene, nicht hier (Autor, 09.09.2026).
+
+**[P-001](Bild-Prompts.md)** zeigt den Ring sauber bemoost im Wald liegend und passt nicht zum Fundhergang · **???**. Für **andere Ringe** ([C-017](#c-017-weitere-ringgrößen-)) ändert sich nichts.
 
 ---

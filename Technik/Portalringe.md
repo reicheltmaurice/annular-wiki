@@ -171,6 +171,8 @@ Damit ist die Temperaturlosigkeit **der einzige Bruch**. Zwei von drei Prüfunge
 
 **Bewuchs ja, Angriff nein.** Moos, Flechten und Erde setzen sich wie an jedem Stein an der Oberfläche fest - sie liegen aber nur *auf* ihr. Zieht man den Bewuchs ab, kommt makelloses Material zum Vorschein, als wäre es gestern gefertigt. Das ist das eigentliche Unheimlichkeitssignal beim Fund: nicht ein Ring ohne Bewuchs, sondern ein bewachsener Ring **ohne jede Spur von Alter darunter**.
 
+**Beim Skir-Ring ist es Dreck, nicht Bewuchs** (Autor, 09.09.2026). Er lag jahrelang vergraben und kommt durch einen Erdrutsch heraus ([Skirraa](../Orte/Skirraa.md#der-ring-im-wald-vilund)): Erde, Lehm, Pflanzenreste. Der Effekt bleibt derselbe, nur schmutziger - Dreck abwischen statt Moos abziehen.
+
 Visualisierung: [Bild-Prompts](../Notizen/Bild-Prompts.md).
 
 ---

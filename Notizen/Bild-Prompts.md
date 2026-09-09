@@ -136,7 +136,7 @@ MARKINGS: Exactly 12 discrete angular geometric glyphs on the outer equator only
 
 SETTING: A dense stand of alder, willow and birch - twisted, wind-shaped, hung with moss. Damp black soil, ferns, deadfall, fallen leaves gathered in the ring's opening. Soft green filtered light through the canopy, mist between the trunks, utterly silent.
 
-CAMERA: Elevated three-quarter view from roughly 3 m up, so the opening reads clearly as an ellipse and the ring's height above ground is unmistakable.
+CAMERA: Elevated three-quarter view from roughly 3 m up, so the opening reads clearly as an ellipse, the ring's height above ground is unmistakable, and the drop to the stream below is visible.
 
 NEGATIVE: no green glow, no light emission, no portal effect, no energy, no upright or standing ring, no gold, no mirror polish, no machinery, no sci-fi, no industrial setting, no stream, no river, no water, no people, no modern objects, no rust, no patina.
 ```
@@ -147,13 +147,13 @@ Arbeitsdateien in [Bilder/](Bilder/). Formverbindlich ist der Block oben (flache
 
 ## P-002: Fundszene
 
-> **Nicht kanonisch · ???** Dieser Prompt zeigt einen Erdrutsch am Steilufer. **Der Erdrutsch ist gestrichen** - der Ring liegt im Wald am Fluss. Der Prompt bleibt als Materialarchiv stehen, bis feststeht, wie der Ring in Erscheinung tritt, und ist bis dahin **nicht zu rendern**.
+> **Wieder kanonisch (09.09.2026).** Der Erdrutsch am Steilufer ist vom Autor gesetzt: Der Ring liegt am Waldrand von [Vilund](../Orte/sonstiges.md) auf einer **hohen Uferböschung** des Skir, jahrelang vergraben, und wird durch Beben und Erdrutsch freigelegt - er bleibt dabei auf der Böschung, der Fluss läuft ein paar Meter tiefer. Angepasst wurden **Umgebung** (Waldrand statt offene Heide) und **Lage** (leicht schräg). Der **Bewuchs** ist noch offen · **???**
 
 ```
-Photorealistic. Northern Jutland heathland, Vendsyssel, near the Skagerrak coast. A fresh landslide has torn open a steep stream bank, exposing a colossal ring lying flat in the slump debris.
+Photorealistic. Northern Jutland, Vendsyssel, near the Skagerrak coast. At the edge of a small wood, a fresh landslide has torn open a high, steep stream bank, exposing a colossal ring lying in the slump debris a few metres above the water.
 
 THE RING - exact geometry, this is critical:
-A single seamless giant flat bangle lying FLAT and HORIZONTAL on the ground, circular opening facing straight up at the sky. A wide, flat, slender band: rounded-rectangle cross-section with a flat outer face and a flat inner bore, all four edges softly chamfered with a small radius (width 0.50 m axial, thickness 0.15 m radial, edge radius 0.03 m). Slab-like, NOT a chunky wedding band, NOT oval, NOT half-round, NO circular pipe/doughnut tube, NO well-curb, NO sharp knife edges. Outer diameter 3.30 m. Knee height on an adult.
+A single seamless giant flat bangle lying DOWN on the ground - not upright, not standing - tilted slightly out of level by the slump, so the circular opening faces up at the sky at a shallow angle. A wide, flat, slender band: rounded-rectangle cross-section with a flat outer face and a flat inner bore, all four edges softly chamfered with a small radius (width 0.50 m axial, thickness 0.15 m radial, edge radius 0.03 m). Slab-like, NOT a chunky wedding band, NOT oval, NOT half-round, NO circular pipe/doughnut tube, NO well-curb, NO sharp knife edges. Outer diameter 3.30 m. Knee height on an adult.
 
 SURFACE - the key contrast of the image:
 The bare material looks exactly like BRUSHED ALUMINIUM: matte silver-grey, fine directional grain running circumferentially. No mirror shine, no seams, no welds, no casting marks.
@@ -162,11 +162,11 @@ The landslide has ripped away most of the covering: wet clay, torn moss mats and
 
 MARKINGS: Exactly 12 discrete angular glyphs on the outer equator only, clock-hour spacing; clay may pack some. Inner curve blank. UNLIT.
 
-SETTING: Raw torn earth, exposed roots, collapsed heather turf, sparse alder and willow scrub along the bank. Low diffuse northern light, overcast, wind-bent vegetation, damp air.
+SETTING: The edge of a small deciduous wood meeting open heath. Raw torn earth, exposed roots, collapsed turf, oak and alder trunks at the top of the bank. Well below the ring, the narrow stream runs along the foot of the slope. Low diffuse northern light, overcast, damp air.
 
 CAMERA: Elevated three-quarter view from roughly 3 m up, so the opening reads clearly as an ellipse and the ring's height above ground is unmistakable.
 
-NEGATIVE: no green glow, no light emission, no portal effect, no energy, no upright or standing ring, no gold, no mirror polish, no machinery, no sci-fi, no industrial setting, no people, no modern objects, no rust, no patina.
+NEGATIVE: no green glow, no light emission, no portal effect, no energy, no upright or standing ring, no gold, no mirror polish, no machinery, no sci-fi, no industrial setting, no people, no modern objects, no rust, no patina, no ring in the water.
 ```
 
 ---
@@ -176,7 +176,7 @@ NEGATIVE: no green glow, no light emission, no portal effect, no energy, no upri
 
 Zum Festnageln von Größe und Material - nüchtern, ohne Stimmung.
 
-**Fallen:** Generatoren machen den Querschnitt zu einem dicken Rohr, einem Wulst oder einem scharfkantigen Bord. Abgerundetes Rechteck erzwingen (0,50 m breit, 0,15 m radial, Eckradius 0,03 m); Kniehöhe am Körper; 24 Glyphen am Außenäquator.
+**Fallen:** Generatoren machen den Querschnitt zu einem dicken Rohr, einem Wulst oder einem scharfkantigen Bord. Abgerundetes Rechteck erzwingen (0,50 m breit, 0,15 m radial, Eckradius 0,03 m); Kniehöhe am Körper; 12 Glyphen am Außenäquator.
 
 ```
 Photorealistic technical study, neutral presentation. A colossal flat bangle lying flat and horizontal on open heathland, circular opening facing straight up at the sky.
