@@ -78,7 +78,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-129: Die Schutzlücke verschiebt sich von +8 auf +5 ○](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5-)
 - [C-130: Wie der Transport terminiert wird ○](#c-130-wie-der-transport-terminiert-wird-)
 - [C-131: Generatorarbeit ohne Ring ○](#c-131-generatorarbeit-ohne-ring-)
-- [C-132: Womit die Schluchtgemeinschaft auf dem Basar bezahlt ○](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt-)
 - [C-133: Azzims Leute für den Angriff ○](#c-133-azzims-leute-für-den-angriff-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
@@ -157,6 +156,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-122: Der Wüstenstrang zwischen +8 und +10 ✓](#c-122-der-wüstenstrang-zwischen-8-und-10-)
 - [C-123: Azzims frühe Auftritte - vier, entschieden ✓](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-)
 - [C-127: Referenzdichte 7,8 g/cm³ ✓](#c-127-referenzdichte-)
+- [C-132: Womit die Schluchtgemeinschaft auf dem Basar bezahlt ✓](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt-)
 - [C-134: Die Nachricht - Art und Lesbarkeit im Norden ✓](#c-134-die-nachricht---art-und-lesbarkeit-im-norden-)
 - [C-137: Aufbau der Challenges-Datei ✓](#c-137-detailabschnitte-ab-c-099-stehen-unter-der-falschen-überschrift-)
 - [C-138: Abstand zwischen Beben und Blitz ✓](#c-138-abstand-zwischen-beben-und-blitz-)
@@ -2349,15 +2349,19 @@ Berührt [C-135](#c-135-der-wüstengenerator---bauart-offen-).
 
 ---
 
-### C-132: Womit die Schluchtgemeinschaft auf dem Basar bezahlt ○
+### C-132: Womit die Schluchtgemeinschaft auf dem Basar bezahlt ✓
 
 Aus [C-122](#c-122-der-wüstenstrang-zwischen-8-und-10-) (03.09.2026): Der Basar ist ein **wiederkehrender Ort** - der Generatorbau verlangt Material, das die Schlucht nicht hergibt. Das ist zugleich der einzige Grund, warum die vier ihr Versteck verlassen, und damit der einzige Weg, auf dem Azzim sie wiederfinden kann.
 
-**Zu klären · ???**
-- **Womit bezahlen sie?** Genannt sind Jagd, Weben, Landwirtschaft und Handel als Lebensgrundlage (Autor, 03.09.2026) - was davon zu Tauschware taugt, ist offen.
-- **Welches Material** braucht der Generator überhaupt? Hängt an [C-135](#c-135-der-wüstengenerator---bauart-offen-).
-- **Wer geht?** Vier Personen, davon ein Kind und eine auffällige Fremde. Wer sich zeigt, riskiert erkannt zu werden - genau das passiert in +9.
-- **Wo liegt der Basar**, und wie weit ist er von der Schlucht? Berührt [C-088 ✓](#c-088-verortung-der-wüste-).
+**Entschieden (Autor, 09.09.2026):**
+
+- **Bezahlt wird mit allem vier:** **Gewebtem** aus [Girlins](../Menschen/Nordvolk/Girlin.md) Hand, **Jagdbeute und Häuten** von [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), **Feldfrüchten** aus der Schlucht und **[Bellbrims](../Menschen/Andere/Bellbrim.md) Wissen** - Heilkunde und Gelehrsamkeit als Dienstleistung statt Ware. Damit trägt jeder der vier etwas bei, und die Gemeinschaft ist wirtschaftlich nicht von einer Person abhängig.
+- **Der Basar liegt einen Tagesmarsch entfernt.** Er ist kein Unternehmen, sondern ein Nachbar. Das stützt zugleich +9: Azzim kann ihr von dort bis zur Schlucht folgen.
+- **Wer geht, wechselt.** Meist gehen **zwei**, und **mindestens einer bleibt beim Kind**. Feste Rollen gibt es nicht - deshalb ist es kein Bruch, dass Girlin in +9 dabei ist.
+
+Eingetragen in [Bellbrims Werkstatt](../Orte/Bellbrims-Werkstatt.md#der-basar---einen-tagesmarsch-entfernt), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Szenen](../Plots/Plot-1/Szenen.md) (Szene 29).
+
+**Offen bleibt · ???** **Welches Material** der Generator überhaupt braucht - das hängt an seiner Bauart → [C-135](#c-135-der-wüstengenerator---bauart-offen-).
 
 ---
 

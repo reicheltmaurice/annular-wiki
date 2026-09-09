@@ -146,7 +146,10 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **Offen:** was daran ohne Ring überhaupt prüfbar ist · **???**
 - **Das Kind wächst auf.** Diese Jahre sind das, was Girlin später nicht aufgibt
 - **Der Basar bleibt ein wiederkehrender Ort:** Der Generatorbau verlangt Material, das die Schlucht nicht hergibt (entschieden 03.09.2026, aus Skizzen-Beat 13). Das ist der **einzige Grund, warum sie ihr Versteck verlassen** - und damit der einzige Weg, auf dem Azzim sie wiederfinden kann
-  - **Offen:** womit sie bezahlen · **???**
+- **Der Basar liegt einen Tagesmarsch entfernt** (Autor, 09.09.2026). Er ist kein Unternehmen, sondern ein Nachbar - deshalb kann Azzim ihr in +9 auch bis zur Schlucht folgen
+- **Bezahlt wird mit allem, was die Schlucht hergibt** (Autor, 09.09.2026): Gewebtes aus Girlins Hand, Jagdbeute und Häute von Sekkan, Feldfrüchte - und **Bellbrims Wissen** als Dienstleistung. Einzelheiten: [Bellbrims Werkstatt](../../Orte/Bellbrims-Werkstatt.md#der-basar---einen-tagesmarsch-entfernt)
+- **Wer geht, wechselt** (Autor, 09.09.2026): meist **zwei**, und **mindestens einer bleibt beim Kind**. Feste Rollen gibt es nicht
+  - **Offen:** welches Material der Generator überhaupt braucht - hängt an seiner Bauart · **???**
 
 ### Der Transport (Jahr +7 → +8)
 - **Der Clan kommt wieder**, und **Girlin bricht mit ihm auf**, um den Ring zu holen (entschieden 03.09.2026). Zwischen Bitte (+5) und Aufbruch liegen zwei Jahre, weil **der Clan eigene Wege hat** - Weidewechsel, Handelszüge, Jahreszeiten. Man tut es, wenn der Zug ohnehin passt, nicht auf Zuruf

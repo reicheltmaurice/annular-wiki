@@ -368,9 +368,9 @@ Experimente mit Wasserfall und Wasserrad.
 
 ### 29 · Der Basar
 
-> **POV:** Girlin · **Jahr +5** · **Offen:** Womit die Schluchtgemeinschaft auf dem Basar bezahlt
+> **POV:** Girlin · **Jahr +5** · **Offen:** Der Wüstengenerator - Bauart offen
 
-Der Generatorbau verlangt Material, das die Schlucht nicht hergibt.
+Der Generatorbau verlangt Material, das die Schlucht nicht hergibt. Der Basar liegt einen **Tagesmarsch** entfernt. Bezahlt wird mit Gewebtem, Jagdbeute und Häuten, Feldfrüchten und Bellbrims Wissen; **wer geht, wechselt** - meist zwei, einer bleibt beim Kind. Welches Material sie brauchen, hängt an der Bauart des Generators · **???**
 
 - **Will:** Material beschaffen
 - **Hindernis:** Sie müssen dafür das Versteck verlassen - der einzige Weg, auf dem Azzim sie finden kann
