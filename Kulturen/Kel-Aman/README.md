@@ -52,6 +52,14 @@ Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reit
 
 **Wer keine Sippe hat, kann nicht heiraten.** Es gibt niemanden, der den Vertrag schließen könnte. Für [Girlin](../../Menschen/Nordvolk/Girlin.md) als sippenlose Fremde tritt deshalb der **Clan selbst an die Stelle der Sippe**: [Ishman u-Gulan](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) nimmt sie förmlich auf, der Clan wird ihre Sippe, und erst danach wäre eine Ehe überhaupt möglich.
 
+### Weggang aus der Sippe
+
+**Fortzuziehen ist extrem unüblich und selten** (Autor, 09.09.2026). Es ist kein Verstoß und wird nicht bestraft - wer geht, wird nicht verstoßen, und der Clan bringt Verständnis auf, wie man es dafür aufbringt, dass ein Kind aus dem Haus geht. Aber es tut kaum jemand.
+
+Der Preis liegt deshalb nicht in einer Strafe, sondern im **Entzug**: Wer geht, verliert seine Aufgaben, seinen Platz und die tägliche Nähe. [Sekkan u-Werdan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) vermisst nach seinem Wegzug in Jahr +5 beides und hat lange damit zu tun.
+
+**Die Zugehörigkeit endet dabei nicht** - der Schutz durch die Sippe aber praktisch schon: Sie ist nicht vor Ort und nicht schnell genug erreichbar, um sie um Hilfe zu bitten. Das trifft ab Jahr +5 auch [Girlin](../../Menschen/Nordvolk/Girlin.md).
+
 Offen · **???**: Worin der Ausgleich bei einer geregelten Trennung besteht. Ob auf den Verfahrensbruch von Sekkans Frau **Gewalt** folgt oder ob es bei einer offenen Rechnung zwischen den Sippen bleibt. Wann Ishman Girlin aufnimmt und ob sie und Sekkan tatsächlich heiraten.
 
 ## Noch nicht ausgearbeitet

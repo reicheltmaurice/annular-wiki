@@ -340,8 +340,8 @@ Sie bittet den Clan, den Ring zu holen.
 Die drei lösen sich und ziehen zu Bellbrim.
 
 - **Will:** Bei Bellbrim am Ring arbeiten
-- **Hindernis:** Für Sekkan bedeutet es den Verlust seiner Sippe - der teuerste Preis außer Tibuns
-- **Ausgang:** Sie ziehen in die Schlucht. Ab hier ist Girlin ohne Sippenschutz.
+- **Hindernis:** Aus der Sippe fortzuziehen tut kaum jemand - niemand hält Sekkan auf, und trotzdem kostet es ihn
+- **Ausgang:** Sie ziehen in die Schlucht - im Guten. Ab hier ist Girlin ohne Sippenschutz: nicht ausgestoßen, nur zu weit weg, um zu rufen.
 
 
 ### 27 · Das Tischmodell

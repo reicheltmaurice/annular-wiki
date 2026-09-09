@@ -96,7 +96,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-146: Was Girlin vom Flip wahrnimmt ○](#c-146-was-girlin-vom-flip-wahrnimmt-)
 - [C-149: Wie die Kel Aman den Ring religiös einordnen ○](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-)
 - [C-150: Was Bellbrim vom Wissen der Kel Aman hat ○](#c-150-was-bellbrim-vom-wissen-der-kel-aman-hat-)
-- [C-152: Ishman - Häuptling der Kel Aman ○](#c-152-ishman---häuptling-der-kel-aman-)
 - [C-156: Der Wald am Skir - Größe, Abstand, stehendes Gewässer ○](#c-156-der-wald-am-skir---größe-abstand-stehendes-gewässer-)
 - [C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ○](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-)
 - [C-160: Bröckelt die Angst des Dorfes über die Zeit? ○](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
@@ -185,8 +184,11 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-168: Was außer dem Skarabäus im Sand steckt ✓](#c-168-was-außer-dem-skarabäus-im-sand-steckt-)
 - [C-081: Girlins drittes Kind in der Wüste ✓](#c-081-girlins-drittes-kind-in-der-wüste-)
 - [C-106: Durchgebrannte Ehefrau bei den Kel Aman ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)
+- [C-152: Ishman - Häuptling der Kel Aman ✓](#c-152-ishman---häuptling-der-kel-aman-)
 - [C-161: Erhebt Girlins Herkunftssippe Anspruch? ✓](#c-161-erhebt-girlins-herkunftssippe-anspruch-)
 - [C-170: Vatersnamen für Sekkan und Ishman ✓](#c-170-vatersnamen-für-sekkan-und-ishman-)
+- [C-175: Behält Girlin den Sippenschutz nach dem Wegzug? ✓](#c-175-behält-girlin-den-sippenschutz-nach-dem-wegzug-)
+- [C-176: Sekkans Preis ist entfallen ✗](#c-176-sekkans-preis-ist-entfallen-)
 
 ---
 
@@ -1775,7 +1777,9 @@ Der Partner Girlins steht fest ([C-060 ✓](#c-060-girlin-und-der-neffe-)), die 
 **Was er tragen muss:**
 - Seine **Frau ist zuvor durchgebrannt** ([C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)) - seine Demütigung ist der Grund, warum er und Girlin zueinanderfinden.
 - Er ist **Vater von Girlins drittem Kind** ([C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-)).
-- **Neu (02.09.2026):** Nach dem Transport **löst er sich mit Girlin und dem Kind vom Clan** und bleibt bei [Bellbrim](../Menschen/Andere/Bellbrim.md) - **er verliert dafür seine Sippe** ([C-061](#c-061-navigationswissen-des-häuptlings-)). Das ist der teuerste Preis, den im Buch jemand außer Tibun zahlt, und derzeit die stärkste Handlung, die ihm zur Verfügung steht.
+- **Neu (02.09.2026):** Nach dem Transport **löst er sich mit Girlin und dem Kind vom Clan** und bleibt bei [Bellbrim](../Menschen/Andere/Bellbrim.md) ([C-061](#c-061-navigationswissen-des-häuptlings-)).
+
+> **Überholt (09.09.2026, [C-152 ✓](#c-152-ishman---häuptling-der-kel-aman-)):** Hier stand, er verliere dafür seine Sippe - *der teuerste Preis, den im Buch jemand außer Tibun zahlt*. Der Wegzug ist einvernehmlich; niemand wird verstoßen. Der Preis bleibt, aber als **Entzug**: Fortzuziehen ist extrem unüblich, und Sekkan vermisst Sippe und Aufgaben ([C-176 ✗](#c-176-sekkans-preis-ist-entfallen-)).
 - Im Finale bleibt Girlin **bei ihm** ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)) - er muss also stark genug sein, dass diese Entscheidung einleuchtet.
 
 **Handlungen entschieden (Autor, 03.09.2026) - die Lücke ist geschlossen.** Er hat jetzt vier eigene Handlungen:
@@ -1791,7 +1795,7 @@ Der Partner Girlins steht fest ([C-060 ✓](#c-060-girlin-und-der-neffe-)), die 
 
 Eigene Datei angelegt: [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md); Name in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen](../Plots/Plot-1/Szenen.md) und [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) nachgezogen.
 
-**Ausgelagert:** was ihn die Verteidigung der Schlucht kostet → [C-151 ✓](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-). Der **Häuptling**, sein Onkel, ist weiterhin eine Figur ohne Namen und Eigenschaften → [C-152](#c-152-ishman---häuptling-der-kel-aman-).
+**Ausgelagert:** was ihn die Verteidigung der Schlucht kostet → [C-151 ✓](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-). Der **Häuptling**, sein Onkel, ist weiterhin eine Figur ohne Namen und Eigenschaften → [C-152 ✓](#c-152-ishman---häuptling-der-kel-aman-).
 
 ---
 
@@ -2650,7 +2654,7 @@ Die Frage hat Gewicht, weil [Girlin](../Menschen/Nordvolk/Girlin.md) im Finale *
 
 ---
 
-### C-152: Ishman - Häuptling der Kel Aman ○
+### C-152: Ishman - Häuptling der Kel Aman ✓
 
 Der **Häuptling des Clans** trägt an mehreren Stellen Gewicht - er ist [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Onkel, und die **Sippenpflicht ihm gegenüber** ist der einzige Grund, warum der Clan den Ring überhaupt transportiert ([C-061 ✗](#c-061-navigationswissen-des-häuptlings-)). Trotzdem hat er weder Namen noch Alter noch Eigenschaften und keine eigene Datei.
 
@@ -2662,7 +2666,15 @@ Zusätzlich offen: Wie reagiert **er persönlich** darauf, dass sein Neffe in Ja
 
 > **Einwand notiert, vom Autor überstimmt:** Die Endung `-man` liest sich auf Deutsch unwillkürlich als „Mann", und Ishman/Sekkan sind im Fließtext leicht zu verwechseln. Der Autor hat sich bewusst für die Sippenähnlichkeit entschieden.
 
-**Offen bleiben** seine Eigenschaften, ein möglicher Vatersname (`u-`) und vor allem **seine Reaktion auf den Bruch in Jahr +5** · **???**
+**Entschieden (Autor, 09.09.2026): Ishman ist ein gütiger, freundlicher alter Herr.** Der Vatersname steht seit [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishman-): **Ishman u-Gulan**.
+
+**Es gibt keinen Bruch in Jahr +5.** Niemand im Clan hat ein Problem damit, dass [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) fortzieht. Er wird vermisst und seine Fähigkeiten fehlen, aber er wird nicht verstoßen: Der Clan hat Verständnis, so wie man Verständnis dafür hat, dass ein Kind aus dem Haus geht. Kein Bann, kein Spruch, kein Streit.
+
+**Der Preis bleibt, er ist nur anderer Art** (Autor, 09.09.2026, auf Nachfrage präzisiert): **Fortzuziehen ist bei den Kel Aman extrem unüblich und selten.** Sekkan tut etwas, das kaum jemand tut. Was ihn das kostet, ist keine Strafe, sondern **Entzug** - er fühlt sich unwohl, vermisst seine Sippe und seine Aufgaben und hat lange mit dem Weggang zu tun. Die Fallhöhe der Entscheidung bleibt damit erhalten; sie verlagert sich nur von einer sozialen Ächtung nach innen.
+
+**Weiter offen · ???** Ob es für den Weggang überhaupt eine Szene braucht, wenn niemand widerspricht. Sein Auftreten im Einzelnen. Was die Güte im Konflikt mit [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) bedeutet: Ein freundlicher alter Mann, der Sippenpflicht über ein Kaufangebot stellt, muss trotzdem hart genug sein, um ihn abzuweisen.
+
+**Nachgezogen:** [Ishman.md](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md), [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md).
 
 ---
 
@@ -3015,5 +3027,33 @@ Aus [C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-) ausgelagert (09.09.2
 - Wird eine Fremde von ihnen versorgt wie eine der Ihren - und hängt das daran, ob [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) sie zu diesem Zeitpunkt schon aufgenommen hat ([C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-), [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-))?
 - Ist die Geburt eine **Szene** oder bleibt sie hinter dem Schnitt? Szene 22 in [Szenen.md](../Plots/Plot-1/Szenen.md) hat bisher weder Will noch Hindernis.
 - Was tut [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) in dieser Zeit - ist er dabei oder gehört das nicht zu seiner Rolle?
+
+---
+
+### C-175: Behält Girlin den Sippenschutz nach dem Wegzug? ✓
+
+Aufgefallen bei [C-152 ✓](#c-152-ishman---häuptling-der-kel-aman-) (09.09.2026).
+
+Zwei Entscheidungen stehen nebeneinander und ergeben zusammen eine offene Frage:
+- Der Clan **nimmt [Girlin](../Menschen/Nordvolk/Girlin.md) förmlich auf** und wird ihre Sippe ([C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)).
+- Der Wegzug in Jahr +5 ist **einvernehmlich** - niemand wird verstoßen ([C-152 ✓](#c-152-ishman---häuptling-der-kel-aman-)).
+
+**Daraus folgt die Frage:** Endet die Zugehörigkeit mit dem Wegzug, oder besteht sie fort - nur eben auf Entfernung? Die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) sagte bisher, Girlin sei **ab +5 ohne Sippenschutz**; die Stelle steht jetzt auf `???`.
+
+**Entschieden (Autor, 09.09.2026): Die Zugehörigkeit bleibt, der Schutz ist trotzdem weg.** Girlin wird nicht verstoßen und niemand spricht etwas aus - **die Sippe ist schlicht nicht vor Ort und nicht schnell genug erreichbar**, um sie um Hilfe zu bitten. Ein Schutz, den man nicht rechtzeitig rufen kann, schützt nicht. Die Aussage der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) - *ab +5 ohne Sippenschutz* - gilt damit unverändert weiter, nur mit anderer Begründung: Entfernung, nicht Ausschluss.
+
+Für [Azzim](../Menschen/Kel-Aman/Azzim-u-Tawan.md) ändert sich dadurch nichts: In Jahr +7/+8 scheitert er am Clan, weil Girlin **dabei** ist; ab +5 in der Schlucht wäre der Clan Tage entfernt.
+
+Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) und [Kel Aman](../Kulturen/Kel-Aman/README.md#weggang-aus-der-sippe).
+
+---
+
+### C-176: Sekkans Preis ist entfallen ✗
+
+**Zurückgezogen am 09.09.2026 - die Prämisse war falsch.** Angelegt in der Annahme, mit dem einvernehmlichen Wegzug ([C-152 ✓](#c-152-ishman---häuptling-der-kel-aman-)) sei [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Preis ersatzlos entfallen.
+
+**Der Autor hat klargestellt:** Der Preis bleibt. **Fortzuziehen ist bei den Kel Aman extrem unüblich und selten** - Sekkan tut etwas, das kaum jemand tut. Es ist nur keine Strafe, sondern **Entzug**: Er fühlt sich unwohl, vermisst seine Sippe und seine Aufgaben und hat lange mit dem Weggang zu tun.
+
+Damit trägt sein Beitrag zum dritten Konflikt weiterhin ([C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)), und Szene 26 in [Szenen.md](../Plots/Plot-1/Szenen.md) hat wieder ein Hindernis. Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md#weggang-aus-der-sippe) und [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md).
 
 ---

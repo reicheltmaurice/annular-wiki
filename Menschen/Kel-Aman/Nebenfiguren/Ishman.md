@@ -41,9 +41,11 @@
 
 **Er ist der Grund, warum der Ring überhaupt durch die Wüste transportiert wird.** Der Clan hilft [Girlin](../../Nordvolk/Girlin.md) nicht ihretwegen, sondern aus **Sippenpflicht** gegenüber seinem Neffen [Sekkan](Sekkan.md) - dem eigenen Blut (siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md)).
 
-**Jahr +5: Sein Neffe verlässt die Sippe.** Ishman ist derjenige, der den Bruch aussprechen oder hinnehmen muss. Wie er darauf reagiert - und ob es dafür eine Szene gibt: ???
+**Jahr +5: Sein Neffe zieht fort - und es gibt keinen Streit** (Autor, 09.09.2026). Ishman spricht keinen Bruch aus, weil es keinen gibt: Der Clan hat Verständnis, so wie man Verständnis dafür hat, dass ein Kind aus dem Haus geht. Verstoßen wird [Sekkan](Sekkan.md) nicht - **selten ist es trotzdem**: Fortzuziehen tut bei den Kel Aman kaum jemand. Was Ishman dabei empfindet und ob es dafür eine Szene braucht: ???
 
-Sein Verhältnis zu Girlin als sippenloser Fremder, sein Charakter und sein Auftreten: ???
+**Charakter: ein gütiger, freundlicher alter Herr** (Autor, 09.09.2026). Das ist der Grund, warum der Weggang folgenlos bleibt - nicht Schwäche, sondern eine Haltung, die niemanden festhalten muss.
+
+Sein Verhältnis zu Girlin als Fremder ohne Sippe - er ist es, der sie in den Clan aufnimmt ([Ehe und Trennung](../../../Kulturen/Kel-Aman/README.md#ehe-und-trennung)) - und sein Auftreten im Einzelnen: ???
 
 **Der Name** folgt dem Muster der Kel Aman (Männernamen konsonantisch oder auf `-an`) und klingt bewusst nah an *Sekkan* - Onkel und Neffe hören sich als Sippe an. Die **Vatersnamen unterscheiden sich** (Autor, 09.09.2026): *Ishman u-Gulan* und *Sekkan u-Werdan* - die Sippenpflicht läuft über Ishmans Schwester, nicht über eine gemeinsame Vaterlinie.
 
