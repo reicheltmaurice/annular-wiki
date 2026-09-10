@@ -89,6 +89,12 @@ Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reit
 
 **Der Älteste Abarkan u-Nahar kennt [Bellbrims](../../Menschen/Andere/Bellbrim.md) Höhlenabschnitt** (Autor, 10.09.2026) - als einziger Mensch außerhalb der Schlucht. **Für die Handlung hat er keine Bedeutung**; er trägt einen Namen nur, damit er in einem Dialog vorkommen kann.
 
+### Wann eine Fremde dazugehört
+
+**Wer zu einem der Ihren gehört, gehört dazu** (Autor, 10.09.2026). [Girlin](../../Menschen/Nordvolk/Girlin.md) gilt **ab der Verbindung mit [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) in Jahr +3** als eine der Ihren - es braucht weder Jahre noch eine Prüfung.
+
+**Offiziell binden sich die beiden, als Girlin die Schwangerschaft bemerkt** (Autor, 10.09.2026), also im Lauf von +3/+4. Das Kind ist der Anlass, nicht die Bedingung: Zugehörig ist sie schon vorher.
+
 ### Geburt
 
 **Geburtshilfe ist keine Rolle und kein Amt** (Autor, 09.09.2026). Es helfen die **erfahrenen Frauen** - die Älteren, die es können. Niemand hat dafür einen besonderen Stand im Clan.

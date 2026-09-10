@@ -324,12 +324,12 @@ Nicht mehr ihre Heimreise.
 
 ### 25 · Die Bitte
 
-> **POV:** Girlin · **Jahr +5** · **Offen:** Ishman - Eigenschaften und Haltung
+> **POV:** Girlin · **Jahr +5** · **Offen:** -
 
-Sie bittet den Clan, den Ring zu holen.
+Sie bittet den Clan, den Ring zu holen - **vor [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) und dem Ältestenrat** (Autor, 10.09.2026), förmlich vor der Versammlung. Der Häuptling entscheidet nicht allein.
 
 - **Will:** Der Clan soll den Ring in die Schlucht bringen
-- **Hindernis:** Drei Phasen stehen davor: Zugehörigkeit, Wissen, Bitte
+- **Hindernis:** Sie muss vor der Versammlung bestehen - zugehörig ist sie seit +3, aber sie bittet um einen Zug, der den Clan enormen Aufwand kostet
 - **Ausgang:** Der Clan sagt zu - aus Sippenpflicht gegenüber Sekkan, nicht ihretwegen.
 
 

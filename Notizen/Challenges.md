@@ -87,7 +87,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-146: Was Girlin vom Flip wahrnimmt ○](#c-146-was-girlin-vom-flip-wahrnimmt-)
 
-- [C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ○](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-)
 - [C-160: Bröckelt die Angst des Dorfes über die Zeit? ○](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
 - [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
 
@@ -165,6 +164,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-153: Haduriks Nachfolge in Tingsal ✓](#c-153-haduriks-nachfolge-in-tingsal-)
 - [C-154: Woher die Autorität der Walas kommt ✓](#c-154-woher-die-autorität-der-walas-kommt-)
 - [C-155: Breite und Tiefe des Skir ✓](#c-155-breite-und-tiefe-des-skir-)
+- [C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ✓](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-)
 - [C-158: Klang und Gewicht des Rings ✓](#c-158-klang-und-gewicht-des-rings-)
 - [C-159: Filiation im Erzähltext der Kel Aman ✓](#c-159-filiation-im-erzähltext-der-kel-aman-)
 - [C-162: Das letzte tote Kind - Jahr und Sichtbarkeit ✓](#c-162-das-letzte-tote-kind---jahr-und-sichtbarkeit-)
@@ -2813,17 +2813,23 @@ Nachgezogen in [sonstiges.md](../Orte/sonstiges.md) und [Skirraa](../Orte/Skirra
 
 ---
 
-### C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ○
+### C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ✓
 
 Aus [C-061 ✗](#c-061-navigationswissen-des-häuptlings-) beim Lückenaudit (08.09.2026) ausgelagert; dort stand es als Restpunkt ohne eigene Stelle.
 
 Das Hindernis vor dem Transport hat drei Phasen - **Zugehörigkeit → Wissen → Bitte** ([Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md)). Zwei davon sind unausgefüllt:
 
-**Zu klären · ???**
-- **Ab wann gilt [Girlin](../Menschen/Nordvolk/Girlin.md) als „eine der Ihren"?** Reicht die Verbindung mit [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), braucht es das Kind, braucht es Jahre - und gibt es einen Moment, an dem es kippt?
-- **Wie ergeht die Bitte konkret?** Vor wem trägt sie sie vor, in welcher Form, mit welcher Formel? Sie bittet selbst ([Szene 25](../Plots/Plot-1/Szenen.md)) - was das bei den [Kel Aman](../Kulturen/Kel-Aman/README.md) für eine sippenlose Frau bedeutet, ist offen.
+**Entschieden (Autor, 10.09.2026):**
 
-Hängt an [C-003](#c-003-kel-aman---kulturelle-tiefe-) und [C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-).
+- **Zugehörig ist sie ab der Verbindung mit [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) in Jahr +3.** Wer zu einem der Ihren gehört, gehört dazu - es braucht weder Jahre noch eine Prüfung noch das Kind.
+- **Offiziell binden sich die beiden, als [Girlin](../Menschen/Nordvolk/Girlin.md) die Schwangerschaft bemerkt** - im Lauf von +3/+4, vor Tamants Geburt. Das Kind ist der **Anlass**, nicht die Bedingung. Damit ist auch die offene Frage aus [C-106 ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-) beantwortet, ob die beiden sich binden.
+- **Die Bitte ergeht vor [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) und dem Ältestenrat** - förmlich vor der Versammlung, nicht unter vier Augen. Der Häuptling entscheidet nicht allein ([Ältestenrat](../Kulturen/Kel-Aman/README.md#ältestenrat), festgelegt am selben Tag).
+
+**Was das für [Szene 25](../Plots/Plot-1/Szenen.md) heißt:** Das Hindernis ist nicht mehr ihre Zugehörigkeit - die steht seit +3. Es ist die Versammlung selbst: Sie bittet um einen Zug, der den Clan enormen Aufwand kostet ([C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-)).
+
+Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md), [Girlin](../Menschen/Nordvolk/Girlin.md), [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Szenen](../Plots/Plot-1/Szenen.md) und [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md).
+
+**Offen bleibt · ???** Form und Formel der Bitte im Einzelnen - was man bei den Kel Aman sagt, wenn man vor den Rat tritt. Hängt an [C-003](#c-003-kel-aman---kulturelle-tiefe-).
 
 ---
 

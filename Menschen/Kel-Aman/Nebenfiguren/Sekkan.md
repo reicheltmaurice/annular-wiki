@@ -22,7 +22,7 @@
 | **Onkel** | [Ishman u-Gulan](Ishman.md), Häuptling des Clans, **etwa 55** (Jahr 0) - **Mutterbruder** |
 | **Mutter** | **Tanast**, Schwester [Ishmans](Ishman.md) (Autor, 10.09.2026). **Sie lebt** - über sie läuft die Sippenpflicht, mit der der Clan später hilft |
 | **Frühere Ehefrau** | mit einem anderen Mann durchgebrannt - Name ???. Sie ging **ohne das geregelte Verfahren** ([Ehe und Trennung](../../../Kulturen/Kel-Aman/README.md#ehe-und-trennung)): Zwischen den beiden Sippen steht seither eine ungeregelte Sache |
-| **Partnerin** | [Girlin](../../Nordvolk/Girlin.md) - ob sie heiraten, hängt an ihrer Aufnahme in den Clan: ??? |
+| **Partnerin** | [Girlin](../../Nordvolk/Girlin.md), ab Jahr +3. **Offiziell binden sich die beiden, als Girlin die Schwangerschaft bemerkt** (Autor, 10.09.2026) - vor Tamants Geburt in +4 |
 | **Tochter** | **Tamant ult-Sekkan**, geboren Jahr +4, im Finale **6** - Girlins drittes Kind. **Bei der Geburt ist er nicht da** (Autor, 09.09.2026): Er ist mit einer Karawane unterwegs |
 
 ---
