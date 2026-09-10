@@ -92,7 +92,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ○](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-)
 - [C-160: Bröckelt die Angst des Dorfes über die Zeit? ○](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
 - [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
-- [C-171: Sekkans Eltern - Namen und Verbleib ○](#c-171-sekkans-eltern---namen-und-verbleib-)
 - [C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ○](#c-172-wo-girlins-umbenennung-zu-gilint-erzählt-wird-)
 - [C-173: Der Staubschleier hat auch Skirraa getroffen ○](#c-173-der-staubschleier-hat-auch-skirraa-getroffen-)
 
@@ -188,6 +187,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-177: Bewuchs auf einem frisch freigelegten Ring ✓](#c-177-bewuchs-auf-einem-frisch-freigelegten-ring-)
 - [C-161: Erhebt Girlins Herkunftssippe Anspruch? ✓](#c-161-erhebt-girlins-herkunftssippe-anspruch-)
 - [C-170: Vatersnamen für Sekkan und Ishman ✓](#c-170-vatersnamen-für-sekkan-und-ishman-)
+- [C-171: Sekkans Eltern - Namen und Verbleib ✓](#c-171-sekkans-eltern---namen-und-verbleib-)
 - [C-174: Wer bei Tamants Geburt hilft ✓](#c-174-wer-bei-tamants-geburt-hilft-)
 - [C-175: Behält Girlin den Sippenschutz nach dem Wegzug? ✓](#c-175-behält-girlin-den-sippenschutz-nach-dem-wegzug-)
 - [C-176: Sekkans Preis ist entfallen ✗](#c-176-sekkans-preis-ist-entfallen-)
@@ -3029,16 +3029,24 @@ Eingetragen in [Sekkan.md](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Ishman
 
 ---
 
-### C-171: Sekkans Eltern - Namen und Verbleib ○
+### C-171: Sekkans Eltern - Namen und Verbleib ✓
 
 Aus [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishman-) ausgelagert (09.09.2026).
 
 Mit dem Vatersnamen steht fest, dass [Sekkan u-Werdan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) einen Vater namens **Werdan** hat und dass seine Mutter die Schwester [Ishmans](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) ist. Beide Personen sind sonst leer.
 
-**Zu klären · ???**
-- Wie heißt Sekkans **Mutter**? Sie ist die Trägerin der Sippenpflicht, über die der Clan später hilft - sie ist die Verbindung zwischen Ishman und Sekkan.
-- **Leben die beiden noch**, in Jahr 0 und in Jahr +5? Sekkan ist bei Beziehungsbeginn etwa 37; Eltern in dem Alter können leben oder tot sein.
-- Falls sie leben: Wie stehen sie zu [Girlin](../Menschen/Nordvolk/Girlin.md), und vor allem zum **Bruch mit dem Clan in Jahr +5**? Eine lebende Mutter macht diesen Bruch teurer als ein Bruch nur mit dem Onkel - berührt [C-157](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-).
+**Entschieden (Autor, 10.09.2026):**
+
+- **Die Mutter heißt Tanast** - Ishmans Schwester, Trägerin der Sippenpflicht. Der Name folgt dem Muster der Kel Aman (Frauennamen von `t` umklammert).
+- **Beide Eltern leben**, in Jahr 0 wie in Jahr +5. Sekkan hat also eine vollständige Herkunftsfamilie im Clan, nicht nur einen Onkel.
+- **Sie nehmen [Girlin](../Menschen/Nordvolk/Girlin.md) an**: Sie ist die Frau ihres Sohnes und die Mutter ihrer Enkelin - dass sie eine Fremde ist, steht dem nicht im Weg.
+- **Tanast trägt den Wegzug in +5 schwer.** Kein Widerspruch, kein Bruch - aber sie leidet sichtbar. Damit ist Sekkans Preis nicht nur Entzug von Aufgaben und Nähe, sondern eine Mutter, die zurückbleibt und es nicht verbirgt.
+
+**Was das an bestehenden Festlegungen ändert:** nichts, es verschärft sie. *„Niemand verstößt ihn, der Clan hat Verständnis"* ([C-152 ✓](#c-152-ishman---häuptling-der-kel-aman-)) bleibt gültig - Verständnis und Schmerz schließen sich nicht aus. Der Wegzug bleibt streitfrei und wird trotzdem teurer.
+
+Eingetragen in [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md), [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster) (Namenstabelle der Sippe) und [Zeitleiste](../Plots/Plot-1/Zeitleiste.md).
+
+**Offen bleibt · ???** Ob Tanast und Werdan im Erzähltext auftreten oder nur genannt werden, und ob es für Tanasts Reaktion eine Szene braucht.
 
 ---
 

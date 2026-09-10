@@ -20,7 +20,7 @@
 |---|---|
 | **Neffe** | [Sekkan u-Werdan](Sekkan.md) - **Schwestersohn** (Ishman ist Mutterbruder) |
 | **Vatersname** (`u-`) | **Gulan** - voller Name: **Ishman u-Gulan** |
-| **Schwester** | Sekkans Mutter - Name ??? |
+| **Schwester** | **Tanast**, [Sekkans](Sekkan.md) Mutter (Autor, 10.09.2026). **Sie lebt**, ebenso ihr Mann **Werdan** |
 | **Weitere Familie** | ??? |
 
 ---
@@ -47,13 +47,13 @@
 
 Sein Verhältnis zu Girlin als Fremder ohne Sippe - er ist es, der sie in den Clan aufnimmt ([Ehe und Trennung](../../../Kulturen/Kel-Aman/README.md#ehe-und-trennung)) - und sein Auftreten im Einzelnen: ???
 
-**Der Name** folgt dem Muster der Kel Aman (Männernamen konsonantisch oder auf `-an`) und klingt bewusst nah an *Sekkan* - Onkel und Neffe hören sich als Sippe an. Die **Vatersnamen unterscheiden sich** (Autor, 09.09.2026): *Ishman u-Gulan* und *Sekkan u-Werdan* - die Sippenpflicht läuft über Ishmans Schwester, nicht über eine gemeinsame Vaterlinie.
+**Der Name** folgt dem Muster der Kel Aman (Männernamen konsonantisch oder auf `-an`) und klingt bewusst nah an *Sekkan* - Onkel und Neffe hören sich als Sippe an. Die **Vatersnamen unterscheiden sich** (Autor, 09.09.2026): *Ishman u-Gulan* und *Sekkan u-Werdan* - die Sippenpflicht läuft über Ishmans Schwester, nicht über eine gemeinsame Vaterlinie. **Diese Schwester heißt Tanast und lebt** (Autor, 10.09.2026); die Pflicht läuft damit über eine Lebende, nicht über eine Verstorbene.
 
 ---
 
 ## Verbindungen zu anderen Charakteren
 
-- Neffe: [Sekkan u-Werdan](Sekkan.md) - Sohn seiner Schwester
+- Neffe: [Sekkan u-Werdan](Sekkan.md) - Sohn seiner Schwester **Tanast**
 - Verhältnis zu [Girlin](../../Nordvolk/Girlin.md): ???
 - Verhältnis zu [Azzim u-Tawan](../Azzim-u-Tawan.md): ???
 
