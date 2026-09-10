@@ -76,7 +76,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-129: Die Schutzlücke verschiebt sich von +8 auf +5 ○](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5-)
 - [C-130: Wie der Transport terminiert wird ○](#c-130-wie-der-transport-terminiert-wird-)
 - [C-131: Generatorarbeit ohne Ring ○](#c-131-generatorarbeit-ohne-ring-)
-- [C-133: Azzims Leute für den Angriff ○](#c-133-azzims-leute-für-den-angriff-)
 - [C-135: Der Wüstengenerator - Bauart offen ○](#c-135-der-wüstengenerator---bauart-offen-)
 - [C-136: Flipdauer und Kantengeschwindigkeit passen nicht zusammen ○](#c-136-flipdauer-und-kantengeschwindigkeit-passen-nicht-zusammen-)
 - [C-139: Erzählreihenfolge - verschränkt oder blockweise ○](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-)
@@ -151,6 +150,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-123: Azzims frühe Auftritte - vier, entschieden ✓](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-)
 - [C-127: Referenzdichte 7,8 g/cm³ ✓](#c-127-referenzdichte-)
 - [C-132: Womit die Schluchtgemeinschaft auf dem Basar bezahlt ✓](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt-)
+- [C-133: Azzims Leute für den Angriff ✓](#c-133-azzims-leute-für-den-angriff-)
 - [C-134: Die Nachricht - Art und Lesbarkeit im Norden ✓](#c-134-die-nachricht---art-und-lesbarkeit-im-norden-)
 - [C-137: Aufbau der Challenges-Datei ✓](#c-137-detailabschnitte-ab-c-099-stehen-unter-der-falschen-überschrift-)
 - [C-138: Abstand zwischen Beben und Blitz ✓](#c-138-abstand-zwischen-beben-und-blitz-)
@@ -1856,10 +1856,10 @@ Berührt [C-089](#c-089-azzim---verhältnis-zum-ring-harte-regel-) und [C-028](#
 
 ### C-108: Der Kampf in der Schlucht während Tibuns Ankunft ○
 
-Zwischen Zündung 1 und Zündung 2 liegen **Minuten** ([C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)). In der Wüste ist der Kampf also **noch nicht vorbei**, wenn Tibun aus dem Nichts in der Schlucht landet - ohne Waffe, ohne Vorräte, im Hemd. *(Die frühere Fassung „in einer Pfütze jütischen Bachwassers" ist gestrichen - der Ring im Norden liegt auf trockenem Grund, 03.09.2026.)*
+Zwischen Zündung 1 und Zündung 2 liegen **Minuten** ([C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)). Die Ausgangsannahme war, dass der Kampf in der Wüste deshalb **noch läuft**, wenn Tibun aus dem Nichts in der Schlucht landet - ohne Waffe, ohne Vorräte, im Hemd. **Das gilt nicht mehr** (siehe unten): Azzims Leute sind bis dahin fort. *(Die frühere Fassung „in einer Pfütze jütischen Bachwassers" ist gestrichen - der Ring im Norden liegt auf trockenem Grund, 03.09.2026.)*
 
 **Zu klären · ???**
-- **Wie geht der Kampf ohne Azzim weiter?** Sein Verschwinden mitten im Gefecht ist für seine Leute ein Ereignis - brechen sie ab, oder kämpfen sie weiter?
+- ~~**Wie geht der Kampf ohne Azzim weiter?**~~ **Beantwortet über [C-133 ✓](#c-133-azzims-leute-für-den-angriff-)** (Autor, 10.09.2026): Es sind **drei bis vier eigene Leute**, und sie **brechen ab und fliehen**. Sie kämpfen nicht weiter und plündern nicht. **Tibun trifft keinen von ihnen mehr an** (Autor, 10.09.2026) - wenn er in der Schlucht steht, ist der Kampf vorbei. Die frühere Fassung *„mitten im laufenden Kampf"* ist damit überholt.
 - ~~**Woran erkennt eine Mutter ihren Sohn nach zehn Jahren?**~~ **Beantwortet (Autor, 31.08.2026).** Sie erkennt ihn an **seinen Augen und seinem Gesicht** - so stark verändert er sich nicht. Dazu der Gedanke, der die Erkennung ohnehin trägt: **„Wer soll sonst durchkommen."** Der Ort und der Ring lassen keine zweite Möglichkeit zu; das Gesicht bestätigt nur, was schon feststeht. Tibun sagt etwas, sie erkennt ihn. **Wird in der Geschichte ausformuliert**, nicht hier festgelegt.
 
   > Die Anmerkung, das Erkennen besser nicht am Gesicht festzumachen, ist damit hinfällig und zurückgenommen.
@@ -1939,7 +1939,7 @@ Girlins drittes Kind ist im Finale **sechs** ([C-081 ✓](#c-081-girlins-drittes
 
 **Damit ist auch die Reichweitenfrage beantwortet.** Es reist, wer vollständig in der Kugel steht ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)) - der Fels trennt die beiden davon. Nähe zum Geschehen ohne Gefahr, ohne dass ein Abstand ausgerechnet werden muss.
 
-**Neu daraus:** Der Ring liegt in einer **eigenen Kammer** der Höhle, und daneben liegt eine zweite mit Sichtverbindung → eingetragen in [Bellbrims Werkstatt](../Orte/Bellbrims-Werkstatt.md#die-ringkammer-und-die-nachbarkammer), dazu [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md).
+**Neu daraus:** Der Ring liegt in einer **eigenen Kammer** der Höhle, und daneben liegt eine zweite mit Sichtverbindung → eingetragen in [Bellbrims Werkstatt](../Orte/Bellbrims-Werkstatt.md#die-ringkammer), dazu [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md).
 
 ---
 
@@ -2196,7 +2196,7 @@ Beim Füllen stellte sich heraus, dass die Voraussetzungen der Challenge falsch 
 - **+9:** Azzims dritter Auftritt auf dem Basar; sie entkommt, **er folgt ihr und findet die Schlucht**. Danach holt er Leute.
 - **+10:** Generator fertig → **Zweifel** → Entschluss bestätigt → **Angriff**.
 
-**Damit ist die Ausgangsfrage erledigt.** Was in diesen Jahren noch offen ist, steht in [C-130](#c-130-wie-der-transport-terminiert-wird-), [C-131](#c-131-generatorarbeit-ohne-ring-), [C-132](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt-), [C-133](#c-133-azzims-leute-für-den-angriff-) und [C-135](#c-135-der-wüstengenerator---bauart-offen-).
+**Damit ist die Ausgangsfrage erledigt.** Was in diesen Jahren noch offen ist, steht in [C-130](#c-130-wie-der-transport-terminiert-wird-), [C-131](#c-131-generatorarbeit-ohne-ring-) und [C-135](#c-135-der-wüstengenerator---bauart-offen-); [C-132 ✓](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt-) und [C-133 ✓](#c-133-azzims-leute-für-den-angriff-) sind entschieden.
 
 ---
 
@@ -2385,15 +2385,25 @@ Eingetragen in die neue Ortsdatei [Der Basar](../Orte/Basar.md) (angelegt 09.09.
 
 ---
 
-### C-133: Azzims Leute für den Angriff ○
+### C-133: Azzims Leute für den Angriff ✓
 
 Aus [C-123](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-) (03.09.2026): Nach dem gescheiterten Zugriff in **+9** kennt Azzim die Schlucht - aber *„eine Schlucht mit Fels nimmt man nicht allein"*. Er **holt Leute**; das kostet die Zeit bis +10.
 
-**Zu klären · ???**
-- **Woher kommen sie** - eigene Leute, gemietete Männer, Schuldner?
-- **Wie viele?** Davon hängt ab, wie der Kampf in der Schlucht aussieht ([C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-)) und wie glaubhaft es ist, dass drei Erwachsene ihn überstehen.
-- **Was kostet ihn das?** Wer Männer bezahlt, muss liefern - das erhöht den Druck auf ihn und könnte die zweite Seite liefern, die [C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-) sucht.
-- **Was wird aus ihnen** nach Azzims Tod? Sie stehen im Finale noch in der Schlucht, wenn Tibun ankommt.
+---
+
+**Entschieden (Autor, 10.09.2026).**
+
+| Frage | Antwort |
+|---|---|
+| **Woher** | **Eigene Leute** - Männer, die ohnehin für ihn arbeiten. Keine Gemieteten, keine Schuldner. |
+| **Wie viele** | **Drei bis vier.** Der enge Fels stellt sie einzeln; [Girlin](../Menschen/Nordvolk/Girlin.md) und [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) können darin bestehen. |
+| **Was es ihn kostet** | **Nichts** außer Zeit. Er dingt niemanden und verspricht keinen Anteil. |
+| **Nach seinem Verschwinden** | Sie **brechen ab und fliehen**. Zu unheimlich, was sie sehen, und ohne Anführer bleibt keiner. Sie kämpfen nicht weiter und plündern nicht. |
+
+- Eingetragen in [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md).
+- **Beantwortet zugleich die erste Teilfrage von [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-)** („Wie geht der Kampf ohne Azzim weiter?").
+- **Für [C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-) liefert das nichts.** Die Hoffnung, aus bezahlten Männern entstehe wirtschaftlicher Druck, ist damit hinfällig - der Zug kostet ihn nichts. Seine zweite Seite muss anderswoher kommen.
+- **Nachgetragen (Autor, 10.09.2026):** [Tibun](../Menschen/Nordvolk/Tibun.md) **trifft keinen von ihnen mehr an**. Wenn er Minuten später in der Schlucht steht, ist der Kampf vorbei - nachgezogen in [Szene 45](../Plots/Plot-1/Szenen.md).
 
 ---
 

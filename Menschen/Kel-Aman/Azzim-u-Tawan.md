@@ -40,6 +40,10 @@ Antagonist im Wüsten-Handlungsstrang: bedroht Girlin und Bellbrim (Sklaverei/Sc
 
 > **Harte Regel - der Ring ist niemals sein Motiv.** Azzim **weiß bis zum Ende nichts vom Ring**. Er verfolgt Girlin und Bellbrim aus eigenen Gründen; dass ihn der Ring im Finale nach Norden wirft, ist für ihn eine Katastrophe, kein Ziel. Erst dort, gestrandet, kommt er selbst auf den Gedanken, was ein wiederholbarer Übergang in einer Wüste bedeuten würde - als Schlusspointe und Aufhänger für spätere Geschichten, nicht als Antrieb in Plot 1.
 
+**Seine Leute** (Autor, 10.09.2026): Für den Angriff auf [die Schlucht](../../Orte/Bellbrims-Werkstatt.md) in Jahr +10 bringt er **drei bis vier Männer** mit - **eigene Leute**, die ohnehin für ihn arbeiten. Er muss keinen dingen und keinen bezahlen: **der Zug kostet ihn nichts** außer Zeit. Aus dem Angriff entsteht damit kein wirtschaftlicher Druck auf ihn - was ihn treibt, bleibt der Wert der Frau und die Demütigung der Fehlschläge. Drei bis vier genügen, weil der enge Fels sie ohnehin einzeln stellt; [Girlin](../Nordvolk/Girlin.md) und [Sekkan](Nebenfiguren/Sekkan.md) können darin bestehen.
+
+**Als er mitten im Gefecht verschwindet** (Autor, 10.09.2026), **brechen seine Leute ab und fliehen**. Was sie sehen, ist zu unheimlich, und ohne den, der sie führt, bleibt keiner. Sie kämpfen nicht weiter und sie plündern nicht. **Als [Tibun](../Nordvolk/Tibun.md) Minuten später ankommt, trifft er keinen von ihnen mehr an** (Autor, 10.09.2026) - die Schlucht ist leer bis auf die, die dort leben.
+
 ---
 
 ## Verbindungen zu anderen Charakteren

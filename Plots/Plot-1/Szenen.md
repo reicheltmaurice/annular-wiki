@@ -440,7 +440,7 @@ Das Modell läuft, Wissen und Bernstein reichen.
 
 ### 35 · Azzim, Auftritt 3
 
-> **POV:** Girlin · **Jahr +9** · **Offen:** Azzims Leute für den Angriff
+> **POV:** Girlin · **Jahr +9** · **Offen:** -
 
 Auf dem Basar erkennt er sie und greift zu.
 
@@ -521,7 +521,7 @@ Der Generator ist fertig - und der Zweifel kehrt zurück.
 
 ### 42 · Der Angriff - Zündung 1
 
-> **POV:** Girlin · **Jahr +10** · **Offen:** Was bei Zündung 1 aus dem Norden verschwindet · Azzims Leute für den Angriff · Das Wüstenkind während des Finales
+> **POV:** Girlin · **Jahr +10** · **Offen:** Was bei Zündung 1 aus dem Norden verschwindet
 
 Azzim fällt mit seinen Leuten über die Schlucht her.
 
@@ -530,6 +530,8 @@ Azzim fällt mit seinen Leuten über die Schlucht her.
 - **Ausgang:** Im Kampf löst der Wüstengenerator aus. Azzim wird nach Jütland geworfen.
 
 > **Streichvermerk (05.09.2026):** Hier stand „Azzim will die Schlucht nehmen" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Girlins Wollen in dieser Szene ist offen.
+
+> **Seine Leute** (Autor, 10.09.2026): **drei bis vier eigene Männer**. Als der Generator ihn wegreißt, **brechen sie ab und fliehen** - sie kämpfen nicht weiter und plündern nicht. Bellbrim und das Kind sehen alles aus der Nachbarkammer, durch Fels getrennt.
 
 
 ### 43 · Azzim vor den Füßen
@@ -558,8 +560,10 @@ Azzim wirft ihn in den Ring und würgt ihn am Boden.
 
 > **POV:** Girlin · **Jahr +10** · **Offen:** Der Kampf in der Schlucht während Tibuns Ankunft · Der Schlusssatz - wissen die Figuren, was er kostet?
 
-Er steht in der Schlucht, mitten im laufenden Kampf.
+Er steht in der Schlucht, und die Angreifer sind fort.
 
 - **Will:** ???
-- **Hindernis:** Der Kampf ist noch nicht vorbei
+- **Hindernis:** ???
 - **Ausgang:** Sie erkennen einander. Beide bleiben. „Jetzt holen wir deine Schwester…“
+
+> **Streichvermerk (10.09.2026):** Hier stand „mitten im laufenden Kampf" und als Hindernis „Der Kampf ist noch nicht vorbei". **Azzims Leute fliehen, sobald er verschwindet, und Tibun trifft keinen von ihnen mehr an** (Autor, 10.09.2026) - der Kampf ist vorbei, wenn er ankommt. Welches Hindernis stattdessen trägt, ist offen.

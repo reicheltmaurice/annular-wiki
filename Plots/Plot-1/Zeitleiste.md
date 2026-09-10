@@ -185,6 +185,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **Drei Dinge treiben den Zweifel:** der **laufende Generator** (die Tür stünde offen, sie muss sie selbst zumachen), **Azzims Auftritt in +9** (ihr neues Zuhause ist nicht sicher) und das **älter werdende Kind** (je größer es wird, desto weiter rücken die beiden im Norden weg)
   - Sie hat den Preis also **bezahlt, bevor Tibun ankommt**
 - **Azzims vierter Auftritt ist der Angriff selbst** - er fällt mit dem Finale zusammen
+- **Er bringt drei bis vier eigene Leute mit** (Autor, 10.09.2026) - Männer, die ohnehin für ihn arbeiten. Er dingt niemanden und verspricht keinen Anteil: **der Zug kostet ihn nichts** außer Zeit. Die kleine Zahl trägt den Kampf, weil der enge Fels sie einzeln stellt
 - **[Bellbrim](../../Menschen/Andere/Bellbrim.md) kämpft nicht** (Autor, 10.09.2026). Sie bewacht **[Tamant](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md)** und tut sonst nichts - der Kampf bleibt bei [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und Girlin. Mit 50 ist sie keine Kämpferin, und sie hat die wichtigere Aufgabe
 - **Die beiden sind in einer benachbarten Kammer** (Autor, 10.09.2026): **sicher und durch eine Tür geschützt**, aber durch ein **Fenster oder ein Loch im Höhlenfels** überschauen sie die **Ringkammer**. Sie sehen Kampf, Zündungen und Tibuns Ankunft (entschieden 03.09.2026) - das Kind als Zeuge, der nicht versteht, was er sieht
   - Damit ist auch die Reichweitenfrage beantwortet: Der Fels trennt sie vom Ring. Was reist, ist allein, was in der Kugel steht ([Portalringe](../../Technik/Portalringe.md)) - die beiden stehen außerhalb
@@ -213,6 +214,7 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 - Azzim greift die Schlucht an; im Kampf wird der **Wüstengenerator ausgelöst**
 - **Azzim** steht vollständig in der Kugel und wird nach Jütland geworfen
 - Gegenrichtung: **kein Mensch** - nur Sand und Gerät
+- **Seine Leute brechen ab und fliehen** (Autor, 10.09.2026), sobald er vor ihren Augen verschwindet. Zu unheimlich, was sie sehen, und ohne den, der sie führt, bleibt keiner. Sie kämpfen nicht weiter und plündern nicht. **Tibun trifft bei seiner Ankunft Minuten später keinen von ihnen mehr an** - wenn er in der Schlucht steht, ist der Kampf vorbei
 - Der **Skir-Ring** flippt mit. **Tibuns geladener Konduktor ist davon nicht betroffen** - die Kette liegt im Dachstuhl, der Stromkreis ist offen. Er kann **jederzeit** zünden; die Frage ist nur, ob er die Hand frei bekommt
 
 ### Der Kampf im Norden (Minuten, kein Tag)
@@ -240,7 +242,7 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 - **Girlins Nachricht geht nicht über.** Sie **liegt fertig und wetterfest verpackt bereit** (03.09.2026) - ein Bündel aus einer Strähne ihres eigenen Haars, einem gewebten Stück und ihrer Mantelfibel (Autor, 09.09.2026) - sie kommt nur nicht mehr dazu, es in den Ring zu legen. Der Angriff und die beiden Zündungen überholen ihr Vorhaben. Der Leser sieht das Ding und sieht es liegen bleiben
 
 ### Schluss
-- Wiedersehen in der Schlucht, mitten im noch laufenden Kampf. Girlin erkennt ihn an **Augen und Gesicht** - und daran, dass niemand sonst durch den Ring kommen könnte. Keine Sprachbarriere zwischen beiden
+- Wiedersehen in der Schlucht, **kurz nachdem die Angreifer geflohen sind** (Autor, 10.09.2026). Girlin erkennt ihn an **Augen und Gesicht** - und daran, dass niemand sonst durch den Ring kommen könnte. Keine Sprachbarriere zwischen beiden
 - Girlin **bleibt** in der Wüste. Tibun bleibt bei ihr. Der Ring ist ab jetzt **Werkzeug statt Unglück** - Tibun kann bauen, Girlin und Bellbrim haben es bewiesen
 - **Das Buch endet mit der Entscheidung, nicht mit ihrer Ausführung:**
 
