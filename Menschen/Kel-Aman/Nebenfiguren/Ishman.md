@@ -39,6 +39,8 @@
 
 ## Bedeutung in der Geschichte
 
+**Er entscheidet nicht allein.** Neben ihm steht ein **Rat der Ältesten** (Autor, 10.09.2026) - er führt und spricht nach außen, gebunden bleibt er an den Rat ([Kel Aman](../../../Kulturen/Kel-Aman/README.md#ältestenrat)). Zusammensetzung und Befugnisse: ???
+
 **Er ist der Grund, warum der Ring überhaupt durch die Wüste transportiert wird.** Der Clan hilft [Girlin](../../Nordvolk/Girlin.md) nicht ihretwegen, sondern aus **Sippenpflicht** gegenüber seinem Neffen [Sekkan](Sekkan.md) - dem eigenen Blut (siehe [Zeitleiste](../../../Plots/Plot-1/Zeitleiste.md)).
 
 **Jahr +5: Sein Neffe zieht fort - und es gibt keinen Streit** (Autor, 09.09.2026). Ishman spricht keinen Bruch aus, weil es keinen gibt: Der Clan hat Verständnis, so wie man Verständnis dafür hat, dass ein Kind aus dem Haus geht. Verstoßen wird [Sekkan](Sekkan.md) nicht - **selten ist es trotzdem**: Fortzuziehen tut bei den Kel Aman kaum jemand. Was Ishman dabei empfindet und ob es dafür eine Szene braucht: ???

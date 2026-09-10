@@ -146,7 +146,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 ### Die Jahre in der Schlucht (Jahr +5 → +7)
 - **Die vier leben zusammen.** [Bellbrim](../../Menschen/Andere/Bellbrim.md) lebt dort seit Jahren und war versorgt; die drei Neuen **helfen ihr** - Jagd, Weben, Landwirtschaft, Handel (entschieden 03.09.2026). Sekkan **hält die vier am Leben** - eine seiner vier eigenen Handlungen
-- **Die Arbeit am Generator beginnt hier** - Jahre bevor der Ring da ist. Experimente mit **Wasserfall und Wasserrad** (Skizzen-Beat 12)
+- **Die Arbeit am Generator beginnt hier** - Jahre bevor der Ring da ist. Experimente mit **Wasserfall und Wasserrad** (Skizzen-Beat 12). Der Wasserfall fällt von oben durch den Fels und durch ein Loch im Boden weiter in die Tiefe; **stehendes Wasser gibt es dort nicht** (Autor, 10.09.2026)
   - **Wie der Generator in der Wüste aussieht und funktioniert, ist offen** · **???**. Er ist **nicht** als dasselbe Gerät wie Tibuns Bernsteinrad festgelegt
   - **Offen:** was daran ohne Ring überhaupt prüfbar ist · **???**
 - **Das Kind wächst auf.** Diese Jahre sind das, was Girlin später nicht aufgibt
@@ -168,6 +168,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **Offen:** Verlauf und Einzelheiten der Verhandlung - für das Gerüst ohne Belang · **???**
 - **Ziel:** die **Schlucht** bei Bellbrim - Schatten, Fels, Verteidigungslage. Sie ist danach Werkstatt, Zuflucht und Finalort in einem
 - **Jahr +8: Der Ring liegt in der Schlucht.** Der Clan zieht weiter
+  - Genauer: in der **Ringkammer** des Höhlensystems (Autor, 10.09.2026) - der Kammer, durch die der unterirdische **Wasserfall** fällt. Ring und Kraftquelle liegen damit am selben Ort ([Bellbrims Werkstatt](../../Orte/Bellbrims-Werkstatt.md#die-ringkammer))
 - **Der Ring wird nie aufgerichtet** (entschieden 03.09.2026). Er liegt, wie jeder Ring liegt - Aufrichten wäre unnötig. Damit ist die offene Frage nach der Wiederaufstellung des Rings beantwortet
 
 ### Vollendung, Zweifel und Angriff (Jahr +8 → +10)
@@ -183,6 +184,9 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **Drei Dinge treiben den Zweifel:** der **laufende Generator** (die Tür stünde offen, sie muss sie selbst zumachen), **Azzims Auftritt in +9** (ihr neues Zuhause ist nicht sicher) und das **älter werdende Kind** (je größer es wird, desto weiter rücken die beiden im Norden weg)
   - Sie hat den Preis also **bezahlt, bevor Tibun ankommt**
 - **Azzims vierter Auftritt ist der Angriff selbst** - er fällt mit dem Finale zusammen
+- **[Bellbrim](../../Menschen/Andere/Bellbrim.md) kämpft nicht** (Autor, 10.09.2026). Sie bewacht **[Tamant](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md)** und tut sonst nichts - der Kampf bleibt bei [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und Girlin. Mit 50 ist sie keine Kämpferin, und sie hat die wichtigere Aufgabe
+- **Die beiden sind in einer benachbarten Kammer** (Autor, 10.09.2026): **sicher und durch eine Tür geschützt**, aber durch ein **Fenster oder ein Loch im Höhlenfels** überschauen sie die **Ringkammer**. Sie sehen Kampf, Zündungen und Tibuns Ankunft (entschieden 03.09.2026) - das Kind als Zeuge, der nicht versteht, was er sieht
+  - Damit ist auch die Reichweitenfrage beantwortet: Der Fels trennt sie vom Ring. Was reist, ist allein, was in der Kugel steht ([Portalringe](../../Technik/Portalringe.md)) - die beiden stehen außerhalb
 
 ### Azzim - die vier Auftritte im Überblick (entschieden 03.09.2026)
 - **Azzim weiß nichts vom Ring** - nicht vorher, nicht beim Transport, nicht im Finale. Er erfährt es **nie** in der Wüste

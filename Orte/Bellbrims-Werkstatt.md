@@ -1,10 +1,34 @@
 # Bellbrims Werkstatt
 
-Abgelegene Felsschlucht in der Wüste, in der Bellbrim lebt und ihre Forschungen betreibt.
-Die Lage ist geheim und schwer zu erreichen für Unwissende.
-Die Idee ist, dass Bellbrim in dieser abgelegenen Gegend ihre Forschungen zu den Portalringen durchführt.
-In dieser Schlucht gibt es eine Höhle oder ein Höhlensystem, das als Werkstatt dient.
-Dort gibt es einen unterirdischen Wasserlauf, der für ihre Experimente genutzt wird und der später auch als Energiequelle für den Wassergenerator dient.
+Abgelegene Felsschlucht in der Wüste. **Die Schlucht enthält ein großes Höhlensystem** (Autor, 10.09.2026); darin lebt [Bellbrim](../Menschen/Andere/Bellbrim.md) und betreibt ihre Forschungen zu den Portalringen.
+
+---
+
+## Das Höhlensystem
+
+**Bellbrim hat sich über Jahre eingerichtet** (Autor, 10.09.2026) - ihr Abschnitt der Höhlen ist gewachsene Wohnung und Werkstatt, kein Unterschlupf. **Sie wohnt dort allein**, bis [Girlin](../Menschen/Nordvolk/Girlin.md), [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und das Kind in Jahr +5 dazukommen.
+
+**Niemand kennt ihren Höhlenabschnitt** - **außer dem Ältesten [Abarkan u-Nahar](../Kulturen/Kel-Aman/README.md#ältestenrat) aus [Ishmans](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) Rat** (Autor, 10.09.2026), also aus [Sekkans](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) Sippe. Das ist der Grund, warum die vier hier überhaupt sicher sind. **Für die Handlung hat er keine Bedeutung** - der Name existiert nur für einen möglichen Dialog; er erklärt nur, wie die Verbindung zwischen Clan und Gelehrter zustande kommt ([Ältestenrat](../Kulturen/Kel-Aman/README.md#ältestenrat)).
+
+Das System ist größer als das, was sie nutzt - der bewohnte Teil ist ein Abschnitt, nicht die ganze Höhle.
+
+---
+
+## Die Ringkammer
+
+**Der Ring liegt in einer eigenen Kammer** (Autor, 10.09.2026). Er wird nie aufgerichtet, er liegt (entschieden 03.09.2026); hierher wird er nach dem Transport in +8 gebracht, und hier kommt [Tibun](../Menschen/Nordvolk/Tibun.md) im Finale an.
+
+**Durch diese Kammer fällt ein unterirdischer Wasserfall** (Autor, 10.09.2026):
+
+- Er kommt **von oben durch eine Öffnung im Fels**,
+- durchquert die Kammer,
+- und fällt **durch ein Loch im Boden** weiter in die Tiefe.
+
+**In der Kammer steht kein Wasser.** Kein See, kein Fluss, kein Becken - das Wasser ist immer nur im Fall. Damit hat die Kammer beides zugleich: den Ring und die Kraftquelle für den Generator, ohne dass irgendetwas geflutet wäre.
+
+## Die Nachbarkammer
+
+**Daneben liegt eine zweite Kammer** - **sicher und durch eine Tür geschützt**, aber mit einem **Fenster oder einem Loch im Höhlenfels**, durch das man die Ringkammer überschaut. Dort sind im Finale Bellbrim und das Kind: nah genug, um alles zu sehen, durch den Fels getrennt von dem, was der Ring mitnimmt.
 
 ## Der Basar
 
@@ -12,7 +36,7 @@ Dort gibt es einen unterirdischen Wasserlauf, der für ihre Experimente genutzt 
 
 ## Merkmale
 - Felsige Umgebung
-- Versteckte Höhlen
+- Großes Höhlensystem, davon ein bewohnter Abschnitt
 - Improvisierte Werkstätten und Laborbereiche
 
 ## Inspiration

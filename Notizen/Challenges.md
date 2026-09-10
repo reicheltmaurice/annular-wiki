@@ -66,7 +66,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
 - [C-108: Der Kampf in der Schlucht während Tibuns Ankunft ○](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-)
 - [C-110: Der Schlusssatz - wissen die Figuren, was er kostet? ○](#c-110-der-schlusssatz---wissen-die-figuren-was-er-kostet-)
-- [C-112: Das Wüstenkind während des Finales ○](#c-112-das-wüstenkind-während-des-finales-)
 - [C-113: Bellbrims Sprache - Verhältnis zu C-026 ○](#c-113-bellbrims-sprache---verhältnis-zu-c-026-)
 - [C-116: Azzim tritt zu spät auf ○](#c-116-azzim-tritt-zu-spät-auf-)
 - [C-118: Der Nordstrang verliert zwischen +1 und +9 nichts ○](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)
@@ -146,6 +145,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-107: Azzims Motiv Wasser ✗](#c-107-azzims-motiv---wasser-statt-sklaverei-)
 - [C-109: Ladezeit des Konduktors ✓](#c-109-ladezeit-des-konduktors-)
 - [C-111: Kopplung ist nicht ortsgebunden ✓](#c-111-wiederaufstellung-des-rings-nach-dem-transport-kernfrage-)
+- [C-112: Das Wüstenkind während des Finales ✓](#c-112-das-wüstenkind-während-des-finales-)
 - [C-114: Girlin weiß von Anfang an vom Rückweg ✓](#c-114-girlin-weiß-von-anfang-an-dass-der-ring-ihr-rückweg-ist-)
 - [C-115: Tibuns Wanderjahre → Kaupvik-Jahre ✓](#c-115-tibuns-wanderjahre---die-stationen-fehlen-)
 - [C-117: Ringgeometrie neu vermessen ✓](#c-117-ringgeometrie-neu-vermessen-)
@@ -1920,7 +1920,7 @@ Die Kopplung ist eine Eigenschaft des **Ringpaares**, nicht des Standorts ([C-01
 
 ---
 
-### C-112: Das Wüstenkind während des Finales ○
+### C-112: Das Wüstenkind während des Finales ✓
 
 Girlins drittes Kind ist im Finale **sechs** ([C-081 ✓](#c-081-girlins-drittes-kind-in-der-wüste-)) - alt genug, um zu sprechen, zu laufen und zuzusehen. Während des Angriffs auf die Schlucht und zweier Zündungen ist es irgendwo.
 
@@ -1932,7 +1932,14 @@ Girlins drittes Kind ist im Finale **sechs** ([C-081 ✓](#c-081-girlins-drittes
 
 **Entschieden (Autor, 03.09.2026):** Das Kind ist **bei [Bellbrim](../Menschen/Andere/Bellbrim.md)** - und es **sieht Tibuns Ankunft**. Der Schluss bekommt damit einen Zeugen, der nicht versteht, was er sieht.
 
-**Folge, noch offen · ???** Bellbrim ist damit aus dem Kampf heraus und bewacht das Kind. Ob sie im Finale überhaupt eingreift, ist damit implizit entschieden - ausgesprochen ist es nicht.
+**Ausgesprochen (Autor, 10.09.2026):**
+
+- **[Bellbrim](../Menschen/Andere/Bellbrim.md) greift nicht ein** - weder kämpfend noch helfend. Sie bewacht das Kind, sonst nichts. Der Kampf bleibt bei [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Girlin](../Menschen/Nordvolk/Girlin.md); mit 50 ist sie keine Kämpferin, und das Kind ist die wichtigere Aufgabe.
+- **Die beiden sind in einer benachbarten Kammer** - **sicher und durch eine Tür geschützt**, aber durch ein **Fenster oder ein Loch im Höhlenfels** überschauen sie die **Ringkammer**. Sie sehen Kampf, Zündungen und [Tibuns](../Menschen/Nordvolk/Tibun.md) Ankunft: das Kind als Zeuge, der nicht versteht, Bellbrim als Zeugin, die nicht beteiligt ist.
+
+**Damit ist auch die Reichweitenfrage beantwortet.** Es reist, wer vollständig in der Kugel steht ([C-012 ✓](#c-012-aktivierungsverhalten-des-rings-)) - der Fels trennt die beiden davon. Nähe zum Geschehen ohne Gefahr, ohne dass ein Abstand ausgerechnet werden muss.
+
+**Neu daraus:** Der Ring liegt in einer **eigenen Kammer** der Höhle, und daneben liegt eine zweite mit Sichtverbindung → eingetragen in [Bellbrims Werkstatt](../Orte/Bellbrims-Werkstatt.md#die-ringkammer-und-die-nachbarkammer), dazu [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Bellbrim](../Menschen/Andere/Bellbrim.md).
 
 ---
 
@@ -2840,6 +2847,8 @@ Das Namenssystem der [Kel Aman](../Kulturen/Kel-Aman/README.md) kennt die Abstam
 **Entschieden (Autor, 08.09.2026): Die Filiation taucht im Erzähltext auf, und zwar bei allen Figuren.** Nicht nur dort, wo Rang oder Herkunft betont wird - wer genannt wird, wird mit Vatersnamen genannt. Das macht die Form zum hörbaren Merkmal der Kultur statt zu einem Ehrentitel für wenige.
 
 **Folge:** Jede Kel-Aman-Figur braucht einen Vatersnamen. Für [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und [Ishman](../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) fehlt er → [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishman-).
+
+**Präzisiert (Autor, 10.09.2026): Die Filiation identifiziert, sie ist keine Anrede.** In der **Anrede** unter Anwesenden steht nur der Rufname (*„Abarkan"*); die volle Form gehört zur **Einführung** einer Figur und zur **Rede über** einen Abwesenden. So funktionieren Filiationsnamen auch real - sie sagen, wer jemand ist, nicht wie man ihn ruft. Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster).
 
 ---
 

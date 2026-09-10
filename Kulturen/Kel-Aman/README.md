@@ -34,7 +34,17 @@ Prägend und für Szenen nutzbar:
 | Abstammung statt Familienname: `u-` „Sohn des", `ult-` „Tochter des" | *Masin u-Gulan* |
 | Gruppen mit `Kel-` „die von…" | *Kel Garama* |
 
-Die Filiation `u-`/`ult-` taucht **im Erzähltext auf, und zwar bei allen Figuren** (Autor, 08.09.2026) - nicht nur dort, wo Rang oder Herkunft betont wird. Wer genannt wird, wird mit Vatersnamen genannt.
+Die Filiation `u-`/`ult-` taucht **im Erzähltext auf, und zwar bei allen Figuren** (Autor, 08.09.2026) - nicht nur dort, wo Rang oder Herkunft betont wird.
+
+**Präzisiert (Autor, 10.09.2026): Die Filiation identifiziert, sie ist keine Anrede.**
+
+| Situation | Form |
+|---|---|
+| **Anrede** unter Anwesenden | nur der Rufname - *„Abarkan"*, *„Sekkan"* |
+| **Einführung** einer Figur | volle Form - *„Abarkan u-Nahar"* |
+| **Rede über** einen Abwesenden | volle Form, wo es der Klarheit dient |
+
+So funktionieren Filiationsnamen auch real: Sie sagen, **wer** jemand ist, nicht wie man ihn ruft. Niemand spricht sein Gegenüber mit dem Vatersnamen an.
 
 Folge: Jede Kel-Aman-Figur braucht einen **Vatersnamen**. Festgelegt (Autor, 09.09.2026): **Sekkan u-Werdan** und **Ishman u-Gulan** - die Vaterlinien unterscheiden sich, denn Ishman ist Sekkans **Mutterbruder**.
 
@@ -48,6 +58,7 @@ Folge: Jede Kel-Aman-Figur braucht einen **Vatersnamen**. Festgelegt (Autor, 09.
 | **Sekkan u-Werdan** | Karawanenführer, Ishmans Neffe |
 | **Tamant ult-Sekkan** | seine Tochter mit Girlin, geboren +4 |
 | **Gilint** | [Girlin](../../Menschen/Nordvolk/Girlin.md) - ohne `ult-`Form, siehe unten |
+| **Abarkan u-Nahar** | Ältester aus Ishmans Rat - kennt Bellbrims Höhlenabschnitt, sonst ohne Rolle |
 
 **Fremde Namen werden verformt.** [Girlin](../../Menschen/Nordvolk/Girlin.md) heißt bei den Kel Aman **Gilint** (Autor, 09.09.2026). Zwei Dinge geschehen dabei: Das Cluster `-rl-` verliert den einen Liquid - dieselbe Dissimilation, die aus *peregrinus* das Wort *Pilger* macht -, und weil ein Frauenname für sie ein umklammerndes `t` braucht, kommt eines ans Ende. Die falsche Aussprache setzt sich durch und wird ihr Name. Eine `ult-`Form bekommt sie **nicht** - sie bleibt ohne Vaterlinie und damit hörbar sippenlos.
 
@@ -69,6 +80,14 @@ Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reit
 **Eine Frau kann die Ehe beenden - aber nur geregelt.** Das Recht steht ihr zu; es läuft über ihre Sippe und mit einem Ausgleich. Wer stattdessen einfach weggeht, hat nicht das Recht gebrochen, sondern das **Verfahren** - und lässt zwei Sippen mit etwas zurück, das nun ungeregelt zwischen ihnen steht. Genau das ist [Sekkan u-Werdan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) geschehen: Seine Frau ging mit einem anderen Mann, ohne dass irgendetwas geregelt wurde.
 
 **Wer keine Sippe hat, kann nicht heiraten.** Es gibt niemanden, der den Vertrag schließen könnte. Für [Girlin](../../Menschen/Nordvolk/Girlin.md) als sippenlose Fremde tritt deshalb der **Clan selbst an die Stelle der Sippe**: [Ishman u-Gulan](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) nimmt sie förmlich auf, der Clan wird ihre Sippe, und erst danach wäre eine Ehe überhaupt möglich.
+
+### Ältestenrat
+
+**Der Häuptling entscheidet nicht allein** (Autor, 10.09.2026): Neben [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md) steht ein **Rat der Ältesten**. Das entspricht dem historischen Bild - bei berberischen und nomadischen Gruppen führt der Häuptling und spricht nach außen, gebunden bleibt er an die Versammlung der Familienoberhäupter (berberisch *djemaa*, bei den Tuareg ein Rat der Clanältesten).
+
+**Zusammensetzung, Größe und Befugnisse sind offen** · **???** - ebenso, ob der Rat im Erzähltext je auftritt.
+
+**Der Älteste Abarkan u-Nahar kennt [Bellbrims](../../Menschen/Andere/Bellbrim.md) Höhlenabschnitt** (Autor, 10.09.2026) - als einziger Mensch außerhalb der Schlucht. **Für die Handlung hat er keine Bedeutung**; er trägt einen Namen nur, damit er in einem Dialog vorkommen kann.
 
 ### Geburt
 
