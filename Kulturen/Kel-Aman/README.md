@@ -51,6 +51,13 @@ Folge: Jede Kel-Aman-Figur braucht einen **Vatersnamen**. Festgelegt (Autor, 09.
 
 **Fremde Namen werden verformt.** [Girlin](../../Menschen/Nordvolk/Girlin.md) heißt bei den Kel Aman **Gilint** (Autor, 09.09.2026). Zwei Dinge geschehen dabei: Das Cluster `-rl-` verliert den einen Liquid - dieselbe Dissimilation, die aus *peregrinus* das Wort *Pilger* macht -, und weil ein Frauenname für sie ein umklammerndes `t` braucht, kommt eines ans Ende. Die falsche Aussprache setzt sich durch und wird ihr Name. Eine `ult-`Form bekommt sie **nicht** - sie bleibt ohne Vaterlinie und damit hörbar sippenlos.
 
+**Wie das erzählt wird** (Autor, 10.09.2026):
+
+- **Die Form gilt ab den ersten Wochen.** Es gibt nie eine Phase, in der sie richtig genannt wird - die Kel Aman sprechen ihren Namen von Anfang an so aus.
+- **Es gibt keine eigene Szene dafür**, aber auch kein Rätsel: Ein Satz im Dialog stellt es beiläufig klar.
+- **Sie nimmt den Namen an.** Sie korrigiert nicht dauerhaft und macht ihn sich zu eigen - ein Maß dafür, wie weit sie sich dort einrichtet.
+- **Der Erzähler nennt sie trotzdem weiter [Girlin](../../Menschen/Nordvolk/Girlin.md).** *Gilint* sagen ausschließlich die Figuren. So verliert der Leser sie zwischen Nord- und Wüstenstrang nicht aus den Augen.
+
 ### Bewaffnung
 
 Gerade, einschneidige Klingen · Speere und Wurfspieße · Bogen · leichte Reitertaktik. **Keine Krummsäbel** - für 550 n.Chr. zu früh.

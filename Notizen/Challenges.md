@@ -92,7 +92,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ○](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-)
 - [C-160: Bröckelt die Angst des Dorfes über die Zeit? ○](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
 - [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
-- [C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ○](#c-172-wo-girlins-umbenennung-zu-gilint-erzählt-wird-)
 - [C-173: Der Staubschleier hat auch Skirraa getroffen ○](#c-173-der-staubschleier-hat-auch-skirraa-getroffen-)
 
 **Gelöst / Entschieden**
@@ -188,6 +187,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-161: Erhebt Girlins Herkunftssippe Anspruch? ✓](#c-161-erhebt-girlins-herkunftssippe-anspruch-)
 - [C-170: Vatersnamen für Sekkan und Ishman ✓](#c-170-vatersnamen-für-sekkan-und-ishman-)
 - [C-171: Sekkans Eltern - Namen und Verbleib ✓](#c-171-sekkans-eltern---namen-und-verbleib-)
+- [C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ✓](#c-172-wo-girlins-umbenennung-zu-gilint-erzählt-wird-)
 - [C-174: Wer bei Tamants Geburt hilft ✓](#c-174-wer-bei-tamants-geburt-hilft-)
 - [C-175: Behält Girlin den Sippenschutz nach dem Wegzug? ✓](#c-175-behält-girlin-den-sippenschutz-nach-dem-wegzug-)
 - [C-176: Sekkans Preis ist entfallen ✗](#c-176-sekkans-preis-ist-entfallen-)
@@ -3050,7 +3050,7 @@ Eingetragen in [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), [Ishman](.
 
 ---
 
-### C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ○
+### C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ✓
 
 Aus [C-170 ✓](#c-170-vatersnamen-für-sekkan-und-ishman-) ausgelagert (09.09.2026).
 
@@ -3058,11 +3058,14 @@ Entschieden ist: [Girlin](../Menschen/Nordvolk/Girlin.md) heißt bei den [Kel Am
 
 **Das Problem:** *Gilint* steht klanglich weit genug von *Girlin* weg, dass der Leser die beiden nicht automatisch zusammenschaltet - im Nordstrang steht der eine Name, im Wüstenstrang der andere.
 
-**Zu klären · ???**
-- Wird die Umbenennung **einmal erzählt** - eine Szene, in der sie hört, wie sie genannt wird -, oder taucht Gilint einfach auf und der Leser schließt selbst?
-- **Wann** setzt sich die Form durch: gleich in den ersten Wochen oder erst über die Jahre?
-- Wie reagiert Girlin darauf? Sie kann es hinnehmen, korrigieren oder annehmen - drei verschiedene Aussagen darüber, wie sehr sie sich dort einrichtet.
-- Was heißt das für den **Erzähltext**: Nennt der Wüstenstrang sie durchgehend Gilint, oder bleibt sie für den Erzähler Girlin und nur die Figuren sagen Gilint? Berührt [C-139](#c-139-erzählreihenfolge---verschränkt-oder-blockweise-).
+**Entschieden (Autor, 10.09.2026):**
+
+- **Keine eigene Szene, aber auch kein Rätsel:** Ein **beiläufiger Satz im Dialog** stellt die Umbenennung klar. Der Leser muss nicht selbst schließen und bekommt trotzdem keinen Erklär-Moment.
+- **Die Form gilt ab den ersten Wochen.** Es gibt nie eine Phase, in der die Kel Aman sie richtig nennen.
+- **Sie nimmt den Namen an** - sie korrigiert nicht dauerhaft, sondern macht ihn sich zu eigen. Ein Maß dafür, wie weit sie sich dort einrichtet.
+- **Der Erzähler nennt sie weiter Girlin.** *Gilint* steht ausschließlich in Figurenrede. Damit ist das eingangs beschriebene Problem gelöst: Der Leser verliert sie zwischen den Strängen nicht aus den Augen, und die Verformung bleibt trotzdem hörbar.
+
+Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuster), [Girlin](../Menschen/Nordvolk/Girlin.md) und als **Schreibregel** in [Plot 1](../Plots/Plot-1/README.md#figuren) - dort, wo sie beim Schreiben gebraucht wird.
 
 ---
 
