@@ -90,7 +90,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ○](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-)
 - [C-160: Bröckelt die Angst des Dorfes über die Zeit? ○](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
 - [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
-- [C-173: Der Staubschleier hat auch Skirraa getroffen ○](#c-173-der-staubschleier-hat-auch-skirraa-getroffen-)
 
 **Gelöst / Entschieden**
 - [C-001: Epoche der Geschichte ✓](#c-001-epoche-der-geschichte-)
@@ -188,6 +187,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-170: Vatersnamen für Sekkan und Ishman ✓](#c-170-vatersnamen-für-sekkan-und-ishman-)
 - [C-171: Sekkans Eltern - Namen und Verbleib ✓](#c-171-sekkans-eltern---namen-und-verbleib-)
 - [C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ✓](#c-172-wo-girlins-umbenennung-zu-gilint-erzählt-wird-)
+- [C-173: Der Staubschleier hat auch Skirraa getroffen ✓](#c-173-der-staubschleier-hat-auch-skirraa-getroffen-)
 - [C-174: Wer bei Tamants Geburt hilft ✓](#c-174-wer-bei-tamants-geburt-hilft-)
 - [C-175: Behält Girlin den Sippenschutz nach dem Wegzug? ✓](#c-175-behält-girlin-den-sippenschutz-nach-dem-wegzug-)
 - [C-176: Sekkans Preis ist entfallen ✗](#c-176-sekkans-preis-ist-entfallen-)
@@ -3081,7 +3081,7 @@ Eingetragen in [Kel Aman](../Kulturen/Kel-Aman/README.md#sprache-und-namensmuste
 
 ---
 
-### C-173: Der Staubschleier hat auch Skirraa getroffen ○
+### C-173: Der Staubschleier hat auch Skirraa getroffen ✓
 
 Aufgefallen bei [C-161 ✓](#c-161-erhebt-girlins-herkunftssippe-anspruch-) (09.09.2026).
 
@@ -3089,11 +3089,14 @@ Dort ist entschieden, dass [Girlins](../Menschen/Nordvolk/Girlin.md) Herkunftswe
 
 **Das Problem:** Diese Jahre haben [Skirraa](../Orte/Skirraa.md) genauso getroffen. Ein Vulkanwinter macht nicht an der Weilergrenze halt. Rechnet man die Zeitleiste durch, ist Girlin bei ihrer Ankunft etwa 18 und [Tibun](../Menschen/Nordvolk/Tibun.md) wird um 534 geboren - **die Hungerjahre fallen also in Tibuns erste Lebensjahre**, und Semunds Hof steht mittendrin.
 
-**Zu klären · ???**
-- Wie ist Skirraa durch diese Jahre gekommen? Ein Ort, der ohne Verluste durchkommt, während der Nachbarweiler stirbt, braucht einen Grund - Küstenlage und Fischfang wären einer.
-- Fällt das in [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Zeit als Hirte und Züchter ([C-045](#c-045-semund---offene-felder-))? Vieh stirbt in solchen Jahren zuerst.
-- **Erinnert sich Tibun daran?** Er wäre 2 bis 4 gewesen - zu jung für eigene Erinnerung, alt genug, dass es die Verhältnisse prägt, in die er hineinwächst.
-- Kommt das im Erzähltext überhaupt vor, oder bleibt es reine Autorenebene wie bei Girlin?
+**Entschieden (Autor, 10.09.2026):**
+
+- **Skirraa kommt hart, aber lebend durch.** Es gibt Tote und verlorenes Vieh, der Ort bricht nicht zusammen. Damit steht der Unterschied zu [Girlins](../Menschen/Nordvolk/Girlin.md) Herkunftsweiler, der eingeht, ohne dass Skirraa unglaubwürdig verschont bliebe.
+- **[Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) verliert den größten Teil der Herde.** Der Hof überlebt; was danach auf der Weide steht, hat er über Jahre wieder aufgebaut. Das gibt seiner Rolle als Hirte und Züchter eine Vorgeschichte ([C-045](#c-045-semund---offene-felder-)).
+- **[Tibun](../Menschen/Nordvolk/Tibun.md) erinnert sich nicht** - er war zwei oder drei. Er kennt die Jahre nur vom Hörensagen.
+- **Im Erzähltext erscheinen sie als Erinnerung der Älteren**: Die Alten reden von den schlechten Jahren, ohne Erklärung, als etwas, das alle kennen. Keine Jahreszahl, kein Vulkan, keine Rückblende - die historische Verankerung bleibt Autorenebene.
+
+Eingetragen in [Skirraa](../Orte/Skirraa.md#die-hungerjahre-536-bis-etwa-541-autorenebene) (neuer Abschnitt), [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) und [Tibun](../Menschen/Nordvolk/Tibun.md).
 
 ---
 

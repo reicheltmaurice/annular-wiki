@@ -35,6 +35,8 @@
 
 **Hirte und Züchter.** Sein Können liegt beim Vieh: Er liest den Tieren an, was ihnen fehlt, und weiß, welches Mutterschaf zu welchem Bock gehört. Der Hof lebt von diesem Blick, nicht von Handelsgeschick.
 
+**Er hat die Herde einmal fast ganz verloren** (Autor, 10.09.2026). In den **Hungerjahren ab 536** - Tibun war zwei oder drei - stirbt der größte Teil des Bestands ([Skirraa](../../../Orte/Skirraa.md#die-hungerjahre-536-bis-etwa-541-autorenebene)). Der Hof überlebt, aber was danach auf der Weide steht, hat Semund über Jahre wieder aufgebaut. Ob und wie das im Erzähltext vorkommt: ???
+
 **Schweigsam.** Bei Menschen hat er dieselbe Sicherheit nicht. Er redet wenig, arbeitet weiter und hält aus - auch das Verschwinden seiner Frau. Genau das wirft [Tibun](../Tibun.md) ihm vor: dass er nichts sagt und trotzdem weitermacht, als sei nichts.
 
 ---

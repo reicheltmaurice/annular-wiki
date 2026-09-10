@@ -52,6 +52,18 @@ Alles hier vom Autor entschieden am 09.09.2026.
 
 ---
 
+## Die Hungerjahre (536 bis etwa 541, Autorenebene)
+
+**Der Staubschleier hat Skirraa genauso getroffen wie den Weiler, aus dem [Girlin](../Menschen/Nordvolk/Girlin.md) stammt** (Autor, 10.09.2026). Ein Vulkanwinter macht nicht an der Weilergrenze halt.
+
+**Skirraa kommt hart, aber lebend durch.** Es gibt Tote und verlorenes Vieh; der Ort bricht nicht zusammen. Was ihn trägt, ist die Lage: Fluss und Küste geben, was die Felder nicht hergeben - während [Girlins Herkunftsweiler](../Menschen/Nordvolk/Girlin.md) an Hunger und Seuche eingeht.
+
+**Zeitlicher Ort:** [Tibun](../Menschen/Nordvolk/Tibun.md) wird um 534 geboren (16 im Jahr 0 = 550) - die schlimmsten Jahre fallen also in seine ersten Lebensjahre. **Er erinnert sich nicht daran** (Autor, 10.09.2026): Er kennt sie nur vom Hörensagen. [Semunds](../Menschen/Nordvolk/Nebenfiguren/Semund.md) Hof verliert in diesen Jahren **den größten Teil der Herde**.
+
+**Im Erzähltext** erscheint das **als Erinnerung der Älteren** (Autor, 10.09.2026) - die Alten reden von den schlechten Jahren, ohne Erklärung, als etwas, das alle kennen. Keine Jahreszahl, keine Rückblende, kein Vulkan. Die historische Verankerung selbst bleibt Autorenebene; die Belege stehen bei [Girlin](../Menschen/Nordvolk/Girlin.md).
+
+---
+
 ## Bewohner
 - [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), Truda, Semund
 
