@@ -46,6 +46,14 @@ Sie **erbt Girlins Kleingut** (Schmuck, Fibeln, Truhe), verwahrt bis zu ihrer He
 
 ---
 
+## Das Jahr nach dem Verschwinden
+
+**Tibun kümmert sich nicht um sie** (Autor, 10.09.2026). Der Bruder, an dem sie hängt, **zieht sich zurück** - er sucht die Mutter, und die Neunjährige bleibt dabei allein. Was ein Sechzehnjähriger für sie hätte tun können, tut er nicht.
+
+**Ein Jahr später geht er ohne Abschied.** Sie ist zehn, sie erfährt es nicht vorher, sie wacht auf und er ist fort. **Sie fühlt sich verlassen** - der zweite Verlust in zwei Jahren, und dieser ist freiwillig.
+
+Daraus wird die Rechnung, die sie mit 19 aufmachen kann. Sie ist nicht die Schwester, die er zurückließ, weil er musste, sondern die, der er nicht einmal etwas sagte.
+
 ## Bedeutung in der Geschichte
 
 Als Kind **verspielt und neugierig**, und sie hängt sehr an ihrem Bruder [Tibun](../Tibun.md).

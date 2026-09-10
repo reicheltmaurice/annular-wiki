@@ -52,7 +52,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-068: Prolog - Brand und Brandblasen nachziehen ○](#c-068-prolog---brand-und-brandblasen-nachziehen-)
 - [C-069: Prolog - Fridas Familie und Stiefvater ○](#c-069-prolog---fridas-familie-und-stiefvater-)
 - [C-071: Prolog - Tibuns Alter und Heiratsantrag ○](#c-071-prolog---tibuns-alter-und-heiratsantrag-)
-- [C-077: Tibun und Truda nach Girlins Verschwinden ○](#c-077-tibun-und-truda-nach-girlins-verschwinden-)
 - [C-079: Tibuns Alpträume - und der Traum als Ideenquelle ○](#c-079-tibuns-alpträume---und-der-traum-als-ideenquelle-)
 - [C-083: Zitate als Kapitel-Motti ○](#c-083-zitate-als-kapitel-motti-)
 - [C-084: Mulde, Standfläche und die rohen Ringe ○](#c-084-mulde-standfläche-und-die-rohen-ringe-)
@@ -121,6 +120,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-074: Haptik der Ringoberfläche ✓](#c-074-haptik-der-ringoberfläche-)
 - [C-075: Ist das Ringmaterial ein Metall? ✓](#c-075-ist-das-ringmaterial-ein-metall-)
 - [C-076: Abklingdauer des grünen Leuchtens ✓](#c-076-abklingdauer-des-grünen-leuchtens-)
+- [C-077: Tibun und Truda nach Girlins Verschwinden ✓](#c-077-tibun-und-truda-nach-girlins-verschwinden-)
 - [C-078: Tibuns Verhältnis zu Millia ✓](#c-078-tibuns-verhältnis-zu-millia-)
 - [C-080: Girlins Entführung und Rettung ✗](#c-080-girlins-entführung-und-rettung-)
 - [C-082: Girlins Entscheidung zur Rückreise ✓](#c-082-girlins-entscheidung-zur-rückreise-)
@@ -1129,15 +1129,29 @@ Nicht bloß Kosmetik - die Dauer entscheidet mit über [C-014](#c-014-karawanen-
 **Entschieden (Autor, 08.09.2026):** **3 Sekunden**, gerechnet **ab dem Moment, in dem Flip bzw. Transport abgeschlossen ist** - mit stetig abnehmender Helligkeit, kein abruptes Erlöschen. Damit gilt die alte Autorennotiz („einige Sekunden") in präzisierter Form. Eingetragen in [Portalringe.md](../Technik/Portalringe.md). **Folge für [C-014](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft-):** Drei abklingende Sekunden reichen nicht, damit jemand erst durch das Licht aufmerksam wird. Wer den Ring in der Wüste leuchten sieht, muss ohnehin schon hingesehen haben - oder das Auffällige ist nicht das Licht, sondern was danach dasteht.
 ---
 
-### C-077: Tibun und Truda nach Girlins Verschwinden ○
+### C-077: Tibun und Truda nach Girlins Verschwinden ✓
 
 Aus [Plot 1](../Plots/Plot-1/Plot-1.md) (Tibun 5): *„Er muss sich um seine kleine Schwester kümmern."* Fehlt in der [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md) und im Wiki vollständig.
 
-Die Zahlen tragen den Beat: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) ist beim Verschwinden **9**, Tibun **16** ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)). Ein 16-Jähriger, der der 9-jährigen Schwester die Mutter ersetzt, während der Vater sich rasch neu bindet - das ist glaubwürdig und kostet nichts.
+Die Zahlen tragen den Beat: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) ist beim Verschwinden **9**, Tibun **16** ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)).
 
-**Der Haken:** Ein Jahr später **geht Tibun fort** ([C-022 ✓](#c-022-tibuns-reise---dauer-motiv-hof-), Aufbruch mit 17) und bleibt **acht Jahre** weg. Wenn er sich vorher um Truda kümmert, lässt er sie mit 10 zurück - bei dem Vater, den er verurteilt, und der Stiefmutter. Das macht seinen Aufbruch deutlich härter und wirft eine Frage auf, die die Zeitleiste bisher nicht stellt: **Was denkt Truda darüber?**
+---
 
-Beantwortet zugleich einen Teil von [C-047](#c-047-truda---offene-felder-) („bekommt Truda eine eigene Rolle?"). Nichts festgelegt.
+**Entschieden (Autor, 10.09.2026) - und zwar gegen die Skizze.**
+
+| Frage | Antwort |
+|---|---|
+| **Kümmert er sich?** | **Nein. Er zieht sich zurück.** Er sucht die Mutter, statt sich um die Schwester zu kümmern; Truda bleibt allein. |
+| **Abschied beim Aufbruch** | **Keiner.** Er geht ohne ein Wort - sie ist zehn. |
+| **Was sie denkt** | **Sie fühlt sich verlassen.** Zweiter Verlust in zwei Jahren. |
+| **Wie es erzählt wird** | **Beiläufig in den bestehenden Szenen von Jahr 0 und +1** und **noch einmal aufgerufen bei der Rückkehr** in +9. **Keine eigene Szene.** |
+
+**Der Skizzen-Beat ist damit überholt.** *„Er muss sich um seine kleine Schwester kümmern"* gilt nicht mehr - er müsste, und er tut es nicht. Vermerkt in der [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md).
+
+**Was das für den Nordstrang bedeutet:** Tibuns Vorwurf an den Vater - der hält nicht an Girlin fest - steht jetzt neben seinem eigenen Versäumnis an der Schwester. Beide lassen jemanden zurück; nur der eine merkt es nicht. Das ist die Rechnung, die [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) mit 19 aufmacht ([C-047](#c-047-truda---offene-felder-)), und es schärft den Kontrast zu Jahr +9, wo er ihr von sich aus sagt, was er tut.
+
+- Eingetragen in [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szenen](../Plots/Plot-1/Szenen.md) (10, 13).
+- **Beantwortet nicht** die übrigen Felder von [C-047](#c-047-truda---offene-felder-) (frühes Leben, Inspiration, Webkamm, was sie ihm bei der Rückkehr sagt).
 
 ---
 

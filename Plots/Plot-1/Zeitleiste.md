@@ -74,6 +74,8 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Die Verlobung** (Autor, 07.09.2026): Nach der Rückkehr der beiden **öffentliche Verlobung**. **Tibun ist sauer** - obwohl sein Verhältnis zu Millia selbst gut ist
 - **Der Unfall** (entschieden 02.09.2026): Tibun baut etwas und **verletzt dabei eine Nebenfigur**. Dass es geschieht, steht fest; **womit** er baut und **wie** der Unfall abläuft, ist bewusst noch nicht entschieden · **???**
 - **Wirkung - dreifach:** Schuld, Gewissenslast **und Ausschluss durch die Dorfbewohner**. Zusammen mit dem Ring ist das der Antrieb für den Aufbruch; er geht nicht nur zu etwas hin, sondern auch von etwas weg
+- **[Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md) bleibt allein** (Autor, 10.09.2026): Sie ist **9**, sie hängt an ihm - und **Tibun kümmert sich nicht um sie**. Er zieht sich zurück und sucht die Mutter. Der Skizzen-Beat *„er muss sich um die kleine Schwester kümmern"* ist damit überholt: Er müsste, und er tut es nicht
+- **Beim Aufbruch verabschiedet er sich nicht von ihr.** Sie ist zehn und erfährt es nicht vorher; **sie fühlt sich verlassen** - der zweite Verlust in zwei Jahren, und dieser ist freiwillig. Erzählt wird das **beiläufig** in den Szenen von Jahr 0 und +1 und **noch einmal aufgerufen bei der Rückkehr** in +9; keine eigene Szene
 
 ### Aufbruch und die Kaupvik-Jahre (Jahr +1 → +9, Tibun 17 → 25)
 

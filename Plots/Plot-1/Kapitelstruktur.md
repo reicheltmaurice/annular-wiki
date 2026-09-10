@@ -101,8 +101,8 @@ Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt wede
 
 - **nach Beat 1 (Suchtrupp):** Tibun trifft das Verschwinden seiner Mutter **sehr hart**
   → in der Skizze kein eigener Beat; im Wiki nur indirekt abgedeckt
-- **nach Beat 2 (Semund + Millia):** Tibun muss sich um seine **kleine Schwester** kümmern
-  → [Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md) ist zu diesem Zeitpunkt **9** ([Zeitleiste](Zeitleiste.md)). **???**
+- ~~**nach Beat 2 (Semund + Millia):** Tibun muss sich um seine **kleine Schwester** kümmern~~
+  → **Überholt (Autor, 10.09.2026):** Er kümmert sich **nicht**. Er zieht sich zurück und sucht die Mutter; [Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md) ist **9** ([Zeitleiste](Zeitleiste.md)) und bleibt allein. Beim Aufbruch ein Jahr später geht er **ohne Abschied**
 - **zu Beat 3 (Verhältnis zu Millia):** Plot 1 sagt **„Tibun mag Melia nicht"** - die Skizze sagt „hat nichts gegen sie". Widerspruch, **???**
 - **zu Beat 4 (Unfall):** Plot 1 verortet den Unfall am **„Blitzeffekt"**, die Skizze am **Wasserrad/Turm**. **???**
 - **nach Beat 4:** Tibun wird von **Alpträumen** geplagt - **im Traum** kommt ihm die Idee für den Generator

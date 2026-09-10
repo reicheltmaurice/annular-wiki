@@ -47,6 +47,12 @@ Nach [Girlins](Girlin.md) Toterklärung erbt [Truda](Nebenfiguren/Truda.md) das 
 
 ---
 
+## Die Schwester
+
+**Um [Truda](Nebenfiguren/Truda.md) kümmert er sich nicht** (Autor, 10.09.2026). Sie ist neun, sie hängt an ihm, und er **zieht sich zurück** - die Suche nach der Mutter nimmt ihn ganz. **Beim Aufbruch ein Jahr später verabschiedet er sich nicht von ihr.** Er wirft dem Vater vor, Girlin fallenzulassen, und lässt dabei selbst jemanden zurück, ohne es zu bemerken. Das ist die Rechnung, die bei seiner Rückkehr auf ihn wartet.
+
+---
+
 ## Bedeutung in der Geschichte
 
 Tibun ist die zentrale Figur der Handlung und treibt die Entdeckung der Portalringe voran.

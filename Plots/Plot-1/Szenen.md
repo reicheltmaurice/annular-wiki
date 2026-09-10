@@ -167,6 +167,8 @@ Tibun streitet ob seiner Version, missachtet das Tabu, Truda begleitet ihn bis z
 - **Hindernis:** Semund hat sie für tot erklärt
 - **Ausgang:** Für Tibun ein Verrat. Wie er zu Millia selbst steht: widersprüchlich überliefert.
 
+> **Truda beiläufig mitführen** (Autor, 10.09.2026): Sie hängt an ihm und ist da - **er kümmert sich nicht um sie**. Er sucht die Mutter, die Neunjährige bleibt allein. Nicht ausstellen, nur nebenherlaufen lassen.
+
 
 ### 11 · Tibuns Vater und Millia
 
@@ -192,13 +194,15 @@ Wiederkehr der beiden, öffentliche Verlobung, Tibun sauer trotz gutem Verhältn
 
 ### 13 · Unfall, Ausschluss und Aufbruch
 
-> **POV:** Tibun · **Jahr +1** · **Offen:** Wasserrad-Unfall und Tibuns Schuld · Tibun und Truda nach Girlins Verschwinden
+> **POV:** Tibun · **Jahr +1** · **Offen:** Wasserrad-Unfall und Tibuns Schuld
 
 Er baut etwas, und dabei wird jemand verletzt. Der Weiler rückt von ihm ab. Rund ein Jahr nach dem Verschwinden verlässt er den Weiler.
 
 - **Will:** Die Mutter finden. Dazu Bernstein, Ringwissen, Mechanik
 - **Hindernis:** Meidung durch die Dorfbewohner
 - **Ausgang:** Eine Nebenfigur wird verletzt, schwere Gewissensbisse. Schuld, Gewissenslast und Ausschluss - zusammen der Antrieb zum Aufbruch. Er geht - fort von der Schuld und hin zum Wissen.
+
+> **Kein Abschied von Truda** (Autor, 10.09.2026): Er geht **ohne ein Wort** zu ihr. Sie ist zehn und erfährt es nicht vorher. Beiläufig zeigen, nicht kommentieren - die Rechnung dafür kommt in Szene 40.
 
 
 ### 14 · Bellbrim
@@ -497,13 +501,15 @@ Sie wird gerufen und sieht es sich an.
 
 ### 40 · Truda hält ihn für verloren
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** Tibun und Truda nach Girlins Verschwinden · Truda - offene Felder
+> **POV:** Tibun · **Jahr +9** · **Offen:** Truda - offene Felder
 
 Er sagt ihr, was er tut.
 
 - **Will:** ???
 - **Hindernis:** ???
 - **Ausgang:** ???
+
+> **Was zwischen ihnen steht** (Autor, 10.09.2026): Er hat sich nach dem Verschwinden der Mutter nicht um sie gekümmert und ist **ohne Abschied** gegangen. Sie hat sich verlassen gefühlt. Hier - und nur hier - wird das aufgerufen. **Dass er ihr jetzt von sich aus sagt, was er tut, ist der Gegensatz dazu.**
 
 > **Streichvermerk (05.09.2026):** Hier stand „Truda will ihn zur Vernunft bringen" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Tibuns Wollen in dieser Szene ist offen.
 
