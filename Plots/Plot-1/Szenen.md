@@ -165,27 +165,27 @@ Tibun streitet ob seiner Version, missachtet das Tabu, Truda begleitet ihn bis z
 
 - **Will:** Dass der Vater an Girlin festhält - er weiß ja, dass sie lebt
 - **Hindernis:** Semund hat sie für tot erklärt
-- **Ausgang:** Für Tibun ein Verrat. Wie er zu Millia selbst steht: widersprüchlich überliefert.
+- **Ausgang:** Für Tibun ein Verrat. Gegen Millia selbst hat er nichts - er will aber auch nichts von ihr.
 
 > **Truda beiläufig mitführen** (Autor, 10.09.2026): Sie hängt an ihm und ist da - **er kümmert sich nicht um sie**. Er sucht die Mutter, die Neunjährige bleibt allein. Nicht ausstellen, nur nebenherlaufen lassen.
 
 
 ### 11 · Tibuns Vater und Millia
 
-> **POV:** Tibun · **Jahr 0** · **Offen:** Tibuns Verhältnis zu Millia · Millia - offene Felder
+> **POV:** Tibun · **Jahr 0** · **Offen:** -
 
 Semund und Millia reisen nach Tingsal (Erlaubnis der Wala), der Vater will Tibun mitnehmen, Tibun will nicht.
 
 - **Will:** Dass der Vater an Girlin festhält - er weiß ja, dass sie lebt
 - **Hindernis:** Semund hat sie für tot erklärt
-- **Ausgang:** Für Tibun ein Verrat. Wie er zu Millia selbst steht: widersprüchlich überliefert.
+- **Ausgang:** Für Tibun ein Verrat. Gegen Millia selbst hat er nichts - er will aber auch nichts von ihr.
 
 
 ### 12 · Semunds und Millias Verlobung
 
 > **POV:** Tibun · **Jahr 0** · **Offen:** -
 
-Wiederkehr der beiden, öffentliche Verlobung, Tibun sauer trotz gutem Verhältnis zu Millia.
+Wiederkehr der beiden, öffentliche Verlobung, Tibun sauer, obwohl er gegen Millia nichts hat.
 
 - **Will:** ???
 - **Hindernis:** ???

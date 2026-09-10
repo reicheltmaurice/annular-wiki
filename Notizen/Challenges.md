@@ -32,7 +32,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-043: Prolog - Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk ○](#c-043-prolog---herzschmerz-rahmen-nutzen-fürs-gesamtwerk-)
 - [C-044: Herkunft von Girlins Bernstein ○](#c-044-herkunft-von-girlins-bernstein-)
 - [C-045: Semund - offene Felder ○](#c-045-semund---offene-felder-)
-- [C-046: Millia - offene Felder ○](#c-046-millia---offene-felder-)
 - [C-047: Truda - offene Felder ○](#c-047-truda---offene-felder-)
 - [C-048: Hadurik - offene Felder ○](#c-048-hadurik---offene-felder-)
 - [C-049: Wala von Tingsal - offene Felder ○](#c-049-wala-von-tingsal---offene-felder-)
@@ -107,6 +106,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-038: Prolog - Ortsmaßstab in Skirraa ✓](#c-038-prolog---ortsmaßstab-in-skirraa-)
 - [C-039: Prolog - Funke entzündet Wolle ✓](#c-039-prolog---funke-entzündet-wolle-)
 - [C-040: Prolog - Fischerdorf vs. Heide-Weiler ✓](#c-040-prolog---fischerdorf-vs-heide-weiler-)
+- [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
 - [C-055: Der Skir - Gewässer, See und Fundort des Rings ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-)
 - [C-057: Prolog - warum sind Tibun und Girlin allein draußen? ✓](#c-057-prolog---warum-sind-tibun-und-girlin-allein-draußen-)
 - [C-060: Girlin und der Neffe ✓](#c-060-girlin-und-der-neffe-)
@@ -759,11 +759,29 @@ Aus [C-041](#c-041-prolog---bernstein-fundort-): Girlin schenkt Tibun den Bernst
 **Teilentscheidung (Autor, 08.09.2026):** Semunds Können liegt beim **Vieh** - Hirte und Züchter, der den Tieren ansieht, was ihnen fehlt. Bei Menschen hat er diese Sicherheit nicht: **schweigsam, arbeitet statt zu reden, hält aus.** Genau daran entzündet sich [Tibuns](../Menschen/Nordvolk/Tibun.md) Vorwurf - der Vater sagt nichts und macht weiter. Eingetragen in [Semund.md](../Menschen/Nordvolk/Nebenfiguren/Semund.md). **Weiter offen:** frühes Leben, Inspiration.
 ---
 
-### C-046: Millia - offene Felder ○
+### C-046: Millia - offene Felder ✓
 
-[Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md): Alter, Herkunft, Fähigkeiten, Inspiration auf `???`. Ihre Funktion (Girlins frühere Freundin, Semunds schneller Ersatz) ist geklärt; Vorgeschichte und Charakter nicht.
+[Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md): Alter, Herkunft, Fähigkeiten, Inspiration standen auf `???`. Ihre Funktion (Girlins frühere Freundin, Semunds schneller Ersatz) war geklärt; Vorgeschichte und Charakter nicht.
 
-**Teilentscheidung (Autor, 08.09.2026):** Millia ist **etwa so alt wie [Girlin](../Menschen/Nordvolk/Girlin.md)** (gleicher Jahrgang, etwa 34 in Jahr 0; exakte Zahl nicht festgelegt) und stammt **aus [Skirraa](../Orte/Skirraa.md)** selbst - dort aufgewachsen, daher die Freundschaft. Damit ist der Ersatz weder eine jüngere noch eine fremde Frau: Es gibt für [Tibun](../Menschen/Nordvolk/Tibun.md) nichts zu benennen, was falsch wäre. Eingetragen in [Millia.md](../Menschen/Nordvolk/Nebenfiguren/Millia.md). **Weiter offen:** Fähigkeiten, Inspiration, ob sie vorher verheiratet war und eigene Kinder hat.
+**Teilentscheidung (Autor, 08.09.2026):** Millia ist **etwa so alt wie [Girlin](../Menschen/Nordvolk/Girlin.md)** (gleicher Jahrgang, etwa 34 in Jahr 0; exakte Zahl nicht festgelegt) und stammt **aus [Skirraa](../Orte/Skirraa.md)** selbst - dort aufgewachsen, daher die Freundschaft. Damit ist der Ersatz weder eine jüngere noch eine fremde Frau: Es gibt für [Tibun](../Menschen/Nordvolk/Tibun.md) nichts zu benennen, was falsch wäre.
+
+---
+
+**Entschieden (Autor, 10.09.2026).**
+
+| Frage | Antwort |
+|---|---|
+| **Vorher gebunden?** | **Witwe.** Ihr Mann ist tot. Zwei Verwaiste finden zusammen; der Weiler findet daran nichts. |
+| **Eigene Kinder** | **Keine.** Sie bringt niemanden mit ins Haus - [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) bekommt keine fremden Geschwister. |
+| **Fähigkeiten** | **Nichts Besonderes.** Tüchtig und mehr nicht. Am Webstuhl steht sie, weil einer dort stehen muss; Truda webt besser. |
+| **Zu Girlins Kindern** | **Zu Truda findet sie einen Weg, zu Tibun nicht.** Beim Kind gelingt es, beim Sechzehnjährigen nicht. |
+
+**Präzisierung zu [C-078 ✓](#c-078-tibuns-verhältnis-zu-millia-)** (Autor, 10.09.2026): **Tibun hasst sie nicht - er hat aber auch kein Interesse an einer guten Beziehung.** *„Er will seine Mutter zurück haben."* Die bisherige Formulierung *„gutes Verhältnis zu Millia"* war damit zu warm: Es ist kein gutes Verhältnis, sondern die **Abwesenheit eines Vorwurfs**. Nachgezogen in [Szenen 10, 11, 12](../Plots/Plot-1/Szenen.md).
+
+**Dass sie nichts Besonderes kann, ist der Punkt.** An ihr gibt es nichts zu bewundern und nichts zu beanstanden. Wer sie ablehnen will, muss es ohne Grund tun - und genau das kann Tibun nicht, weshalb der Konflikt bei [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) bleibt, wo er hingehört.
+
+- **Weiter offen · ???** Inspiration/Besetzung, wer ihr erster Mann war und was aus seinem Besitz wurde.
+
 ---
 
 ### C-047: Truda - offene Felder ○
@@ -1167,6 +1185,8 @@ Das Wiki folgt bisher der Skizze ([C-022 ✓](#c-022-tibuns-reise---dauer-motiv-
 **Tendenz (Claude): Skizze.** „Er hat nichts gegen sie und trotzdem hält er es nicht aus" ist der schwierigere und lohnendere Satz.
 
 **Aussage des Autors (07.09.2026):** In der Szene *Semunds und Millias Verlobung* ist Tibun **sauer trotz gutem Verhältnis zu Millia** ([Szenen.md](../Plots/Plot-1/Szenen.md)). Das ist die **Skizzen-Fassung** - der Konflikt sitzt bei Semund, Millia bleibt unschuldig. Die Plot-1-Fassung ("Tibun mag Melia nicht") ist damit inhaltlich überholt. **Entschieden (Autor, 07.09.2026):** Die Skizzen-Fassung gilt.
+
+**Präzisiert (Autor, 10.09.2026)** über [C-046 ✓](#c-046-millia---offene-felder-): *„Tibun hasst sie nicht. Er hat aber auch kein Interesse an einer guten Beziehung. Er will seine Mutter zurück haben."* **„Gutes Verhältnis" ist damit zu warm.** Es ist kein gutes Verhältnis, sondern die Abwesenheit eines Vorwurfs - er hat nichts gegen sie und will auch nichts von ihr. [Millia](../Menschen/Nordvolk/Nebenfiguren/Millia.md) findet zu [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) einen Weg, zu ihm nicht.
 
 ---
 

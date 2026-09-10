@@ -103,7 +103,7 @@ Aus der älteren Plotfassung [Plot-1.md](Plot-1.md). Sie ist gröber (kennt wede
   → in der Skizze kein eigener Beat; im Wiki nur indirekt abgedeckt
 - ~~**nach Beat 2 (Semund + Millia):** Tibun muss sich um seine **kleine Schwester** kümmern~~
   → **Überholt (Autor, 10.09.2026):** Er kümmert sich **nicht**. Er zieht sich zurück und sucht die Mutter; [Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md) ist **9** ([Zeitleiste](Zeitleiste.md)) und bleibt allein. Beim Aufbruch ein Jahr später geht er **ohne Abschied**
-- **zu Beat 3 (Verhältnis zu Millia):** Plot 1 sagt **„Tibun mag Melia nicht"** - die Skizze sagt „hat nichts gegen sie". Widerspruch, **???**
+- **zu Beat 3 (Verhältnis zu Millia):** Plot 1 sagt **„Tibun mag Melia nicht"** - die Skizze sagt „hat nichts gegen sie". **Aufgelöst (Autor, 07. und 10.09.2026):** Die Skizze gilt. Er hasst sie nicht, **hat aber auch kein Interesse an einer guten Beziehung** - er will seine Mutter zurück. Kein gutes Verhältnis, sondern die Abwesenheit eines Vorwurfs
 - **zu Beat 4 (Unfall):** Plot 1 verortet den Unfall am **„Blitzeffekt"**, die Skizze am **Wasserrad/Turm**. **???**
 - **nach Beat 4:** Tibun wird von **Alpträumen** geplagt - **im Traum** kommt ihm die Idee für den Generator
   → kollidiert mit [Tibuns Generator](../../Technik/Tibuns-Generator.md) (Idee kommt durch den Hafenunfall). **???**
@@ -242,8 +242,8 @@ Darstellung: [Szenenliste](../../Notizen/Schaubilder/README.md) im Schaubilder-O
 | Nomaden bergen den Ring und bringen ihn zu Bellbrim | **entschieden** - Transport in die Schlucht, Jahr +5 bis +8. Verfahren offen |
 | Girlin und Neffe | **entschieden** - der **Neffe**, dessen Frau zuvor durchbrennt |
 | Häuptling offenbart Navigationswissen | **gestrichen 02.09.2026** - kein Geheimnis; drei Phasen statt Schweigen |
-| Tibun kümmert sich um Truda | **neu** aus [Plot 1](Plot-1.md) |
-| Tibun mag Millia nicht | **Widerspruch** zu Beat 3 |
+| Tibun kümmert sich um Truda | **überholt 10.09.2026** - er kümmert sich **nicht** und geht ohne Abschied |
+| Tibun mag Millia nicht | **aufgelöst 10.09.2026** - er hat nichts gegen sie und will auch nichts von ihr |
 | Alpträume / Idee im Traum | **neu**, kollidiert mit [Tibuns Generator](../../Technik/Tibuns-Generator.md) |
 | Girlin wird entführt und gerettet | **neu** aus [Plot 1](Plot-1.md) |
 | Girlin bekommt ein weiteres Kind | Jahr +4, Vater ist der **Neffe** |
