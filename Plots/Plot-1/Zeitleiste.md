@@ -94,6 +94,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **+5 bis +9:** Bau des **Tischmodells** (Prototyp des Bernsteinrad-Generators), weiter Bernstein
 - **Aufbruch in Jahr +9:** Das Tischmodell **läuft**, und er hält Wissen und Bernstein für ausreichend - **er hat damit recht**. Kein Irrtum, kein Scheitern im Maßstab
 - **Die Zieheltern bleiben zurück** - lebend, im Guten. Ein Abschied, kein Verlust
+- **In Skirraa hält das Tabu** (Autor, 10.09.2026): Die [Sandstelle](../../Orte/Skirraa.md) wird die ganzen acht Jahre **gemieden wie am ersten Tag**, und **man erzählt davon** - Kindern zur Warnung. Der Ort bleibt präsent, ohne dass ihn jemand betritt
 - **Folge:** Weil der Aufbruch nichts kostet, muss der Konflikt der Jahre +9/+10 **vollständig vom Dorf kommen**.
 
 ### Rückkehr & Vollendung (Jahr +9 → +10, Tibun 25 → 26)
@@ -106,6 +107,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
   - **Niemand versucht, ihn zu vertreiben.** Wer sich an diesen Ort begibt, ist selber schuld; die anderen wollen nur nicht mit hineingezogen werden - **anheftendes Pech**, keine Strafe. Damit ist die Frage „Was rettet ihn vor der Vertreibung?" gegenstandslos
   - **[Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md) duldet ihn** und verhält sich neutral bis familiär - aber **nur fern vom Ring und unter Vermeidung des Themas**
   - **Die [Wala](../../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) wird gerufen** (oder das Thing). Sie **sieht es sich an** und **deutet es wie zuvor**: Er ist selber schuld. Sie schärft jedem erneut ein, dass dieser Ort den **Zorn der Götter** auf einen lädt - und **lässt ihn gewähren**. Als Motiv im Raum: dass sie selbst mehr über den Ring wissen möchte, dabei aber ihr Gesicht verlöre · **???**
+  - **Die Angst bröckelt nicht** (Autor, 10.09.2026): Dass er das Tabu dauerhaft und sichtbar bricht und nichts geschieht, bemerkt **niemand** als Widerlegung - *„die Strafe wird schon noch kommen."* Das Ausbleiben ist Aufschub, kein Beweis. Die erneute Verhärtung durch die Wala trägt auch die **große Wasseranlage**: Der Weiler tut darüber hinaus **nichts** - kein Eingriff, keine Zerstörung, keine Nutzung
   - **Truda weiß, was er tut** - er sagt es ihr. Sie **hält ihn für verloren** und will ihn zur Vernunft bringen
 - **Finale:** Erste manuelle Zündung des Skir-Rings
 

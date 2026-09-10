@@ -83,8 +83,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-142: Wie die geschriebenen Szenen gegliedert werden ○](#c-142-wie-die-geschriebenen-szenen-gegliedert-werden-)
 - [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-146: Was Girlin vom Flip wahrnimmt ○](#c-146-was-girlin-vom-flip-wahrnimmt-)
-
-- [C-160: Bröckelt die Angst des Dorfes über die Zeit? ○](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
 - [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
 
 **Gelöst / Entschieden**
@@ -183,6 +181,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-152: Ishman - Häuptling der Kel Aman ✓](#c-152-ishman---häuptling-der-kel-aman-)
 - [C-156: Der Wald am Skir - Größe, Abstand, stehendes Gewässer ✓](#c-156-der-wald-am-skir---größe-abstand-stehendes-gewässer-)
 - [C-177: Bewuchs auf einem frisch freigelegten Ring ✓](#c-177-bewuchs-auf-einem-frisch-freigelegten-ring-)
+- [C-160: Bröckelt die Angst des Dorfes über die Zeit? ✓](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
 - [C-161: Erhebt Girlins Herkunftssippe Anspruch? ✓](#c-161-erhebt-girlins-herkunftssippe-anspruch-)
 - [C-170: Vatersnamen für Sekkan und Ishman ✓](#c-170-vatersnamen-für-sekkan-und-ishman-)
 - [C-171: Sekkans Eltern - Namen und Verbleib ✓](#c-171-sekkans-eltern---namen-und-verbleib-)
@@ -2898,17 +2897,28 @@ Das Namenssystem der [Kel Aman](../Kulturen/Kel-Aman/README.md) kennt die Abstam
 
 ---
 
-### C-160: Bröckelt die Angst des Dorfes über die Zeit? ○
+### C-160: Bröckelt die Angst des Dorfes über die Zeit? ✓
 
 Aus [C-094 ✓](#c-094-der-sand-an-der-skir---was-das-dorf-sieht-und-wie-es-deutet-) und [C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-) beim Lückenaudit (08.09.2026) zusammengezogen - in beiden stand der Punkt offen, in keiner hatte er eine Stelle.
 
-Entschieden ist die **Grundhaltung**: Das Dorf warnt, meidet und hilft nicht; niemand vertreibt ihn ([C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-)). Offen ist, was daraus über die Zeit wird:
+Entschieden war die **Grundhaltung**: Das Dorf warnt, meidet und hilft nicht; niemand vertreibt ihn ([C-100 ✓](#c-100-die-werkstatt-an-der-tabustelle-)).
 
-**Zu klären · ???**
-- [Tibun](../Menschen/Nordvolk/Tibun.md) bricht das Tabu **dauerhaft und sichtbar** - und es passiert nichts. Bröckelt die Angst der anderen dann? **Wer bemerkt es zuerst?**
-- Was geschieht, wenn er später die **große Wasseranlage** baut ([C-002](#c-002-tibuns-elektrizitätsquelle-))? Ein Wasserrad am Skir ist nicht zu verbergen - das ist der Punkt, an dem das Dorf reagieren **muss**.
+---
 
-Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) vermisst genau hier den Kampf um den Ring.
+**Entschieden (Autor, 10.09.2026): Sie bröckelt nicht.**
+
+| Frage | Antwort |
+|---|---|
+| **Die acht Jahre ohne Tibun** | Die Stelle wird **gemieden wie am ersten Tag** - und **man erzählt davon**, Kindern zur Warnung. Das Tabu lebt also weiter, obwohl niemand hingeht. |
+| **Während er offen dort arbeitet** | Die Angst bröckelt **nicht**. Irgendwann wird **die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) gerufen, und sie verhärtet das Tabu** - wie bereits in der [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) beschrieben. |
+| **Wer merkt, dass die Strafe ausbleibt** | **Niemand.** *„Die Strafe wird schon noch kommen."* Das Ausbleiben widerlegt nichts, es ist bloß Aufschub. |
+| **Reaktion auf das Wasserrad** | **Nichts darüber hinaus.** Dieselbe erneute Verhärtung durch die Wala trägt auch das - kein Eingriff, keine Zerstörung, keine Nutzung. |
+
+**Das schließt die Frage nach dem „Kampf um den Ring", den der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) hier vermisst:** Es gibt ihn nicht - und zwar aus einem Grund, der stärker ist als Feigheit. Ein Glaube, der das Ausbleiben der Strafe als Aufschub liest, ist nicht widerlegbar. Der Weiler muss nicht handeln, weil er sich im Recht weiß.
+
+- Eingetragen in [Skirraa](../Orte/Skirraa.md) und die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md).
+- **Randnutzen für [C-118](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-):** Die Warngeschichte hält den Ort in den acht Jahren ohne Tibun am Leben. Sie füllt die Lücke nicht, aber sie zeigt, dass in Skirraa etwas weiterläuft.
+- **Nicht berührt · ???** Das Motiv der Wala (dass sie selbst mehr wissen möchte, dabei aber ihr Gesicht verlöre) steht weiter offen.
 
 ---
 
