@@ -57,6 +57,16 @@ Die Wartezeit ist damit keine Eigenschaft der Portalringe, sondern eine **Grenze
 
 ---
 
+## Der Bauplatz - alles außerhalb der Tauschkugel
+
+**Die gesamte Anlage steht außerhalb des Kugelvolumens** (Autor, 10.09.2026). [Tibun](../Menschen/Nordvolk/Tibun.md) kennt die **Schnittwirkung der Kugelgrenze** aus der Sandmulde von Jahr 0 - halbierte Steine, glatt durchtrennte Wurzeln - und baut deshalb bewusst außerhalb.
+
+**Bezugsebene:** Das Kugelzentrum liegt in der **Ringebene**, der Radius beträgt **1,50 m** ([Portalringe](Portalringe.md)). Alles, was innerhalb dieser 1,50 m liegt, reist mit oder wird an der Grenze zerteilt.
+
+**Warum das das Finale trägt:** Bei **Zündung 1** löst der Ring aus, ohne dass Tibun etwas tut. Stünde die Anlage im Kugelvolumen, wäre sie in diesem Moment weg und er könnte nie zünden. Auch die **Kette hängt zu diesem Zeitpunkt noch oben im Dachstuhl** und damit außerhalb; sie fällt erst im Kampf herab und schließt dabei den Kreis.
+
+---
+
 ## Grenzen & Gefahr (Authentizität)
 
 Eine statische Entladung gibt einen schmerzhaften, im Dunkeln sichtbaren Funken - aber **keine Brandwunden**, dafür ist die Energie um Größenordnungen zu klein. Die reale Gefahr am Generator kommt aus dem **mechanischen** Teil: heißes durchrutschendes Seil, schnell laufende Rollen.

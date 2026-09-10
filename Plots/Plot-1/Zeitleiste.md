@@ -223,7 +223,9 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 ### Zündung 1 - aus der Wüste
 - Azzim greift die Schlucht an; im Kampf wird der **Wüstengenerator ausgelöst**
 - **Azzim** steht vollständig in der Kugel und wird nach Jütland geworfen
-- Gegenrichtung: **kein Mensch** - nur Sand und Gerät
+- Gegenrichtung: **kein Mensch** - **nur Erde und Sand** (Autor, 10.09.2026). Kein Wasser, kein Werkzeug, kein Gerät; eine Halbkugel Boden von rund **7 m³** (untere Hälfte der Tauschkugel, Radius 1,50 m ab der Ringebene). Der Tausch macht kein Schauspiel
+- **Tibuns Anlage steht vollständig außerhalb der Kugel** (Autor, 10.09.2026) - weil er die Schnittwirkung der Grenze kennt, hat er bewusst außerhalb gebaut. Auch die **Kette hängt in diesem Moment noch oben im Dachstuhl**. Nichts von der Anlage geht mit über, und er kann anschließend zünden
+- **Tibun begreift im Moment der fremden Zündung noch nichts** (Autor, 10.09.2026). Er sieht nur, **dass** etwas geschehen ist. **Die Erklärung liefert Azzim** - der Beweis kommt als Person, nicht als Schlussfolgerung
 - **Seine Leute brechen ab und fliehen** (Autor, 10.09.2026), sobald er vor ihren Augen verschwindet. Zu unheimlich, was sie sehen, und ohne den, der sie führt, bleibt keiner. Sie kämpfen nicht weiter und plündern nicht. **Tibun trifft bei seiner Ankunft Minuten später keinen von ihnen mehr an** - wenn er in der Schlucht steht, ist der Kampf vorbei
 - Der **Skir-Ring** flippt mit. **Tibuns geladener Konduktor ist davon nicht betroffen** - die Kette liegt im Dachstuhl, der Stromkreis ist offen. Er kann **jederzeit** zünden; die Frage ist nur, ob er die Hand frei bekommt
 

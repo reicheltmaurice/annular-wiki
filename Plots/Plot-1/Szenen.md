@@ -533,7 +533,7 @@ Der Generator ist fertig - und der Zweifel kehrt zurück.
 
 ### 42 · Der Angriff - Zündung 1
 
-> **POV:** Girlin · **Jahr +10** · **Offen:** Was bei Zündung 1 aus dem Norden verschwindet
+> **POV:** Girlin · **Jahr +10** · **Offen:** -
 
 Azzim fällt mit seinen Leuten über die Schlucht her.
 
@@ -555,6 +555,8 @@ Ein fremder Mann fällt aus dem Nichts neben den Ring.
 - **Will:** Auskunft über Girlin - der erste Beweis, dass drüben Menschen leben
 - **Hindernis:** Azzim will selbst zum Ring zurück
 - **Ausgang:** Beide wollen dasselbe Ding. Es kommt zum Kampf.
+
+> **Reihenfolge des Begreifens** (Autor, 10.09.2026): Im Moment der fremden Zündung sieht Tibun nur, **dass** etwas geschehen ist - eine Halbkugel Boden ist fort, sonst nichts. **Was es bedeutet, liefert erst der Mann im Sand.** Zehn Jahre lang hat er aus Spuren gelesen; beim einzigen Mal, das zählt, steht jemand vor ihm.
 
 
 ### 44 · Der Kampf - Zündung 2

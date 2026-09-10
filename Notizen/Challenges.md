@@ -57,7 +57,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-089: Azzim - Verhältnis zum Ring (harte Regel) ○](#c-089-azzim---verhältnis-zum-ring-harte-regel-)
 - [C-093: Prolog - Namen nach C-092 nachziehen ○](#c-093-prolog---namen-nach-c-092-nachziehen-)
 - [C-099: Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus ○](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-)
-- [C-102: Was bei Zündung 1 aus dem Norden verschwindet ○](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-)
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
 - [C-108: Der Kampf in der Schlucht während Tibuns Ankunft ○](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-)
 - [C-110: Der Schlusssatz - wissen die Figuren, was er kostet? ○](#c-110-der-schlusssatz---wissen-die-figuren-was-er-kostet-)
@@ -132,6 +131,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-097: Girlins Kinderfolge ✓](#c-097-girlins-kinderfolge---die-neun-jahre-lücke-)
 - [C-098: Woher Tibun die Schnittwirkung der Kugelgrenze kennt ✓](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-)
 - [C-100: Die Werkstatt an der Tabustelle ✓](#c-100-die-werkstatt-an-der-tabustelle-)
+- [C-102: Was bei Zündung 1 aus dem Norden verschwindet ✓](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-)
 - [C-104: Wasser als Motiv des Transports ✗](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-)
 - [C-101: Girlins Nachricht - Vorhaben ohne Ausführung ✓](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-)
 - [C-105: Der Neffe heißt Sekkan ✓](#c-105-der-neffe---name-eigenschaften-schweigebitte-)
@@ -1798,19 +1798,23 @@ Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor---ladu
 
 ---
 
-### C-102: Was bei Zündung 1 aus dem Norden verschwindet ○
+### C-102: Was bei Zündung 1 aus dem Norden verschwindet ✓
 
 Der Tausch ist symmetrisch. Bei **Zündung 1** ([C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)) kommt Azzim nach Jütland - **gleichzeitig geht eine Halbkugel Norden in die Wüste**, ohne jede Vorwarnung für Tibun.
 
 **Entschieden:** In der Gegenrichtung reist **kein Mensch** - nur Sand und Gerät.
 
-**Zu prüfen, sonst bricht das Finale:** Steht Tibuns **Anlage** im Kugelvolumen, ist sie nach Zündung 1 weg, und er kann nie zünden. Sauberste Auflösung - sie fällt aus [C-098](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-): **Weil er die Grenze kennt, hat er außerhalb gebaut.** Nur die Kette und die Zuleitung reichen hinein.
+**Das Finale hält - bestätigt (Autor, 10.09.2026): Alles steht außerhalb.** Weil Tibun die Schnittwirkung der Grenze kennt ([C-098 ✓](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-)), hat er **bewusst außerhalb gebaut**. Auch die **Kette hängt zum Zeitpunkt von Zündung 1 noch oben im Dachstuhl** und damit außerhalb der Kugel; sie fällt erst im Kampf herab und schließt dabei den Kreis. Nichts von der Anlage geht mit über.
 
-**Und was geht dann tatsächlich über?** Offen · **???**
+**Entschieden (Autor, 10.09.2026): nur Erde und Sand.** Eine Halbkugel Boden, sonst nichts - kein Wasser, kein Werkzeug, kein Gerät. Der Tausch macht kein Schauspiel.
+
+> **Menge, aus der gesetzten Geometrie:** Das Kugelzentrum liegt in der **Ringebene**, der Ring liegt flach, der Radius beträgt **1,50 m** ([Portalringe](../Technik/Portalringe.md)). Was im Boden steckt, ist die **untere Halbkugel**: V = ⅔ · π · 1,50³ = **7,07 m³**. Das ist dieselbe Menge, die in Jahr 0 als heller Wüstensand in [Skirraa](../Orte/Skirraa.md) ankam - nur in die andere Richtung.
 
 > **Gestrichen (Autor, 03.09.2026):** Die Fassung *„Der Ring liegt am Bach; bei jeder Zündung wandern rund 14 m³ jütisches Bachwasser und Erdreich in die Wüste"* stammte nicht vom Autor. **Der Ring im Norden liegt auf trockenem Grund** → [C-119](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-). Was das Kugelvolumen tatsächlich mitnimmt, ist damit unentschieden.
 
-**Offen:** Was genau Tibun in dem Moment sieht und begreift. Für ihn ist Azzims Ankunft nach zehn Jahren der **erste Beweis**, dass am anderen Ende Menschen leben · **???**
+**Entschieden (Autor, 10.09.2026): Er begreift es erst durch Azzim.** Im Moment der fremden Zündung sieht er nur, **dass** etwas geschehen ist - nicht was. **Die Erklärung liefert der Mann im Sand.** Damit bleibt Azzims Ankunft der **erste Beweis**, dass am anderen Ende Menschen leben, und der Beweis kommt als Person, nicht als Schlussfolgerung.
+
+> Das ist die stärkere Reihenfolge: Zehn Jahre lang hat Tibun aus Spuren gelesen - halbierte Steine, Sand, ein durchtrennter Baum. Beim einzigen Mal, das zählt, muss er nichts lesen. Es steht jemand vor ihm.
 
 **Zusätzliche Möglichkeit (Autor, 09.09.2026): ein Baum.** Wächst am Ringort ein Baum, so dass er in das getauschte Volumen ragt, wird er **komplett durchgeschnitten** - und der abgetrennte Teil steht danach **in der Wüste**. Das ist die sichtbarste Form dessen, was die Kugelgrenze tut: Bei [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden sieht [Tibun](../Menschen/Nordvolk/Tibun.md) halbierte Steine und glatt durchtrennte Wurzeln ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)) - ein Baumstumpf mit spiegelglatter Schnittfläche, dessen Krone auf der anderen Seite der Welt liegt, ist dasselbe Prinzip in groß.
 
