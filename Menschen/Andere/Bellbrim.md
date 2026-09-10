@@ -40,6 +40,8 @@
 
 Verbündete Girlins in der Wüste: Sie untersucht den Portalring und baut einen Wassergenerator. Siehe Handlungsstrang in der [Zeitleiste](../../Plots/Plot-1/Zeitleiste.md).
 
+**Vom Wissen der [Kel Aman](../../Kulturen/Kel-Aman/README.md) profitiert sie nicht** (Autor, 10.09.2026). Sternkunde und verborgene Wasserstellen bekommt sie nicht von ihnen - **was sie kann, bringt sie selbst mit**. Sie steht dem Clan damit nicht als Schuldnerin gegenüber.
+
 **Sie lebt allein in einem großen Höhlensystem** (Autor, 10.09.2026), in der Schlucht, über Jahre eingerichtet - Wohnung und Werkstatt in einem. **Ihren Höhlenabschnitt kennt niemand außer dem Ältesten [Abarkan u-Nahar](../../Kulturen/Kel-Aman/README.md#ältestenrat) aus [Ishmans](../Kel-Aman/Nebenfiguren/Ishman.md) Rat** (Autor, 10.09.2026) - eine Figur ohne Bedeutung für die Handlung. Ab Jahr +5 wohnen [Girlin](../Nordvolk/Girlin.md), Sekkan und das Kind bei ihr. Einzelheiten: [Bellbrims Werkstatt](../../Orte/Bellbrims-Werkstatt.md).
 
 **Im Finale kämpft sie nicht** (Autor, 10.09.2026). Während [Azzims](../Kel-Aman/Azzim-u-Tawan.md) Angriff **bewacht sie das Kind** - [Tamant](../Kel-Aman/Nebenfiguren/Sekkan.md), im Finale sechs - und greift nicht ein, auch nicht helfend. Der Kampf bleibt bei [Sekkan](../Kel-Aman/Nebenfiguren/Sekkan.md) und [Girlin](../Nordvolk/Girlin.md). Mit 50 ist sie keine Kämpferin, und das Kind ist die wichtigere Aufgabe.

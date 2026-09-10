@@ -87,7 +87,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
 - [C-146: Was Girlin vom Flip wahrnimmt ○](#c-146-was-girlin-vom-flip-wahrnimmt-)
 
-- [C-150: Was Bellbrim vom Wissen der Kel Aman hat ○](#c-150-was-bellbrim-vom-wissen-der-kel-aman-hat-)
 - [C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ○](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-)
 - [C-160: Bröckelt die Angst des Dorfes über die Zeit? ○](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
 - [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
@@ -162,6 +161,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-147: Die Nummer ist die Erzählreihenfolge ✓](#c-147-die-nummer-ist-die-erzählreihenfolge-)
 - [C-148: Der Statusmarker im Titel bricht die Anker ✓](#c-148-der-statusmarker-im-titel-bricht-die-anker-)
 - [C-149: Wie die Kel Aman den Ring religiös einordnen ✓](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-)
+- [C-150: Was Bellbrim vom Wissen der Kel Aman hat ✓](#c-150-was-bellbrim-vom-wissen-der-kel-aman-hat-)
 - [C-151: Was die Verteidigung der Schlucht Sekkan kostet ✓](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-)
 - [C-153: Haduriks Nachfolge in Tingsal ✓](#c-153-haduriks-nachfolge-in-tingsal-)
 - [C-154: Woher die Autorität der Walas kommt ✓](#c-154-woher-die-autorität-der-walas-kommt-)
@@ -2686,16 +2686,19 @@ Damit ist die religiöse Einordnung **keine**: Es gibt keine Deutung, die der Cl
 
 ---
 
-### C-150: Was Bellbrim vom Wissen der Kel Aman hat ○
+### C-150: Was Bellbrim vom Wissen der Kel Aman hat ✓
 
 Aufgefallen am 05.09.2026 beim Auflösen der Kel-Aman-Dublette: ebenfalls nur dort notiert.
 
 Die alte Volksseite sah vor, dass [Bellbrim](../Menschen/Andere/Bellbrim.md) von Kel-Aman-Wissen profitiert - **alte Sternkarten, verborgene Wasserstellen**. Beides steht bis heute nur im ungeprüften Altmaterial der [Kulturbeschreibung](../Kulturen/Kel-Aman/README.md) und ist vom Autor nicht gedeckt.
 
-**Zu klären · ???**
-- Gibt es dieses Wissen überhaupt, und wer trägt es (Älteste? der Häuptling - siehe [C-061](#c-061-navigationswissen-des-häuptlings-)?)
-- Bekommt Bellbrim Zugang dazu, und was gibt sie dafür? Sie ist selbst eine Zugewanderte ([C-026](#c-026-bellbrim---historische-plausibilität--herkunft-)).
-- Oder entfällt der Hook: Sie bringt eigenes Wissen mit und braucht ihres nicht.
+**Entschieden (Autor, 10.09.2026): Der Hook entfällt.** [Bellbrim](../Menschen/Andere/Bellbrim.md) profitiert **nicht** vom Wissen der Kel Aman - weder Sternkarten noch verborgene Wasserstellen. **Was sie kann, bringt sie selbst mit.**
+
+**Was das ordnet:** Sie steht dem Clan nicht als Schuldnerin gegenüber. Ihr Verhältnis zu den Kel Aman läuft allein über [Sekkan](../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md) und über den einen Ältesten, der ihren Höhlenabschnitt kennt ([Abarkan u-Nahar](../Kulturen/Kel-Aman/README.md#ältestenrat)) - nicht über eine Wissensschuld. Das passt zu [C-061 ✗](#c-061-navigationswissen-des-häuptlings-), wo das zurückgehaltene Navigationswissen des Häuptlings bereits gestrichen wurde.
+
+**Nicht mit entschieden:** Ob die Kel Aman solches Wissen **haben**, ist damit nicht beantwortet - die Zeile *„Älteste als Wissensbewahrer: alte Sternkarten, verborgene Routen"* steht weiter im ungeprüften Altmaterial der [Kulturbeschreibung](../Kulturen/Kel-Aman/README.md). Entschieden ist nur, dass Bellbrim es nicht bekommt.
+
+Eingetragen in [Bellbrim](../Menschen/Andere/Bellbrim.md).
 
 ---
 
