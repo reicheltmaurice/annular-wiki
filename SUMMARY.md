@@ -29,6 +29,8 @@
     * [Frida](Menschen/Nordvolk/Nebenfiguren/Frida.md)
     * [Herik](Menschen/Nordvolk/Nebenfiguren/Herik.md)
     * [Lanke](Menschen/Nordvolk/Nebenfiguren/Lanke.md)
+    * [Audmar](Menschen/Nordvolk/Nebenfiguren/Audmar.md)
+    * [Siga](Menschen/Nordvolk/Nebenfiguren/Siga.md)
 * [Figuren der Kel Aman](Menschen/Kel-Aman/README.md)
   * [Azzim u-Tawan](Menschen/Kel-Aman/Azzim-u-Tawan.md)
   * [Nebenfiguren](Menschen/Kel-Aman/Nebenfiguren/README.md)

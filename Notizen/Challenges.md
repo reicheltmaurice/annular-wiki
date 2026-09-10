@@ -56,7 +56,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-085: Titel für Plot 1 ○](#c-085-titel-für-plot-1-)
 - [C-087: Zeitrechnung im Erzähltext ○](#c-087-zeitrechnung-im-erzähltext-)
 - [C-089: Azzim - Verhältnis zum Ring (harte Regel) ○](#c-089-azzim---verhältnis-zum-ring-harte-regel-)
-- [C-092: Namenssystem des Nordvolks ○](#c-092-namenssystem-des-nordvolks-)
 - [C-093: Prolog - Namen nach C-092 nachziehen ○](#c-093-prolog---namen-nach-c-092-nachziehen-)
 - [C-099: Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus ○](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-)
 - [C-102: Was bei Zündung 1 aus dem Norden verschwindet ○](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-)
@@ -126,6 +125,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-088: Verortung der Wüste ✓](#c-088-verortung-der-wüste-)
 - [C-090: Kel Aman - Eigenname und Namenssystem ✓](#c-090-kel-aman---eigenname-und-namenssystem-)
 - [C-091: Krummsäbel und Bewaffnung der Kel Aman ✓](#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)
+- [C-092: Namenssystem des Nordvolks ✓](#c-092-namenssystem-des-nordvolks-)
 - [C-094: Der Sand an der Skir ✓](#c-094-der-sand-an-der-skir---was-das-dorf-sieht-und-wie-es-deutet-)
 - [C-095: Verschwundene für tot erklärt - Wiederheirat und Erbe ✓](#c-095-wann-gilt-eine-verschwundene-als-tot---und-wann-darf-semund-neu-heiraten-)
 - [C-096: Korrektur - Girlins Alter ✓](#c-096-korrektur---girlins-alter-)
@@ -938,7 +938,8 @@ Die Fassung der Skizze (Wasserrad) ist damit die kanonkonforme. Denkbar bliebe e
 **Der Gegenentwurf zu Semund steht damit:** Ein Mann, der mit ihm arbeitet, ihm etwas beibringt und ihn behält - gegen den Vater, der schweigt und weitermacht.
 
 - Eingetragen in [Kaupvik](../Orte/Kaupvik.md), [Vegamot](../Orte/Vegamot.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szene 15](../Plots/Plot-1/Szenen.md).
-- **Weiter offen · ???** **Die Namen beider Figuren** - und damit ihre eigenen Wiki-Dateien. Grund: Das [Namenssystem des Nordvolks](#c-092-namenssystem-des-nordvolks-) ist selbst noch offen; Namen erst danach. Ebenso offen: das Gewerbe der Frau.
+- **Namen entschieden (Autor, 10.09.2026):** **[Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** (*Audmar* - Glück + berühmt; Vollform wie bei Hadurik und Herik, ausdrücklich **nicht** auf `-un`, damit er nicht nach Tibun und Semund klingt) und **[Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md)** (Kurzform von *Sighild* - Sieg + Kampf). Beide Dateien sind angelegt und in [SUMMARY.md](../SUMMARY.md) eingetragen.
+- **Weiter offen · ???** Sigas Gewerbe, das Alter beider, ob Audmar zum Händlerzug gehört.
 
 ---
 
@@ -1495,7 +1496,7 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 
 ---
 
-### C-092: Namenssystem des Nordvolks ○
+### C-092: Namenssystem des Nordvolks ✓
 
 [Tibun](../Menschen/Nordvolk/Tibun.md), [Girlin](../Menschen/Nordvolk/Girlin.md), Tara, Semban, Mellia, Hadurik, Jolyl, Herik, Lanke folgten bisher keinem erkennbaren Bildungsmuster. Germanische Namen der Vendelzeit sind überwiegend **zweigliedrig** (Ruhm-Wolf, Speer-Kühn) oder deren Kurzformen.
 
@@ -1541,6 +1542,8 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 | **Mellia** → [**Millia**](../Menschen/Nordvolk/Nebenfiguren/Millia.md) | *Mildhild* | mild + Kampf | **umbenannt** |
 | **Tara** → [**Truda**](../Menschen/Nordvolk/Nebenfiguren/Truda.md) | *Thrudhild* | Kraft + Kampf | **umbenannt** - „Tara" ist irisch, kein germanisches Element passt |
 | **Jolyl** → [**Frida**](../Menschen/Nordvolk/Nebenfiguren/Frida.md) | *Fridgund* | Frieden + Kampf | **umbenannt** - „Jolyl" war nicht deutbar |
+| **[Audmar](../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** | *Audmar* | Glück, Besitz + berühmt | **neu 10.09.2026** - Vollform, bewusst nicht auf `-un` ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)) |
+| **[Siga](../Menschen/Nordvolk/Nebenfiguren/Siga.md)** | *Sighild* | Sieg + Kampf | **neu 10.09.2026** - Kurzform ([C-059 ✓](#c-059-tibuns-zieheltern-in-kaupvik-)) |
 | **Vilund** | *Welund* | der Schmied der Sage | **Fund:** Der Name ist bereits der des germanischen Sagenschmieds (Wieland, altnord. *Volundr*). Hat Vilund mit Handwerk zu tun, ist das ein Geschenk - wenn nicht, eine irreführende Anspielung. Zu prüfen ([C-016 ✓](#c-016-schicksal-von-vilund-)) |
 
 **Alle Umbenennungen sind im Wiki durchgeführt** - Dateien, Links und [SUMMARY.md](../SUMMARY.md).
@@ -1548,6 +1551,8 @@ Nachgezogen im gesamten Wiki: Dateien `Menschen/Wuestenvolk/Kel-Aman.md`, `Mensc
 **Nicht umbenannt und auch nicht nötig:** Girlin, Tibun, Hadurik, Herik, Lanke passen bereits ins Muster. Einzige Dehnung ist Tibun (`th` → `t`); strenger wäre *Theubun* oder *Tebun*, der Preis bei der Hauptfigur ist dem Autor zu hoch.
 
 **Ausstehend:** Der *Prolog* trägt noch die alten Namen (Jolyl). Er wird bei der nächsten Überarbeitung nachgezogen → [C-093](#c-093-prolog---namen-nach-c-092-nachziehen-).
+
+**Geschlossen am 10.09.2026.** Das System selbst ist seit dem 31.08.2026 vollständig entschieden; die einzige Restarbeit hat mit [C-093](#c-093-prolog---namen-nach-c-092-nachziehen-) eine eigene Challenge. Der Marker stand nur aus Buchführungsgründen noch offen - **neue Figuren des Nordvolks können ab sofort nach diesem Muster benannt werden**, ohne auf etwas zu warten.
 
 ---
 

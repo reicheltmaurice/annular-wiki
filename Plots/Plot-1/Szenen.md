@@ -228,7 +228,7 @@ Er schließt sich in [Vegamot](../../Orte/Vegamot.md) einem **Händlerzug** an, 
 
 > **Idee des Autors (10.09.2026), nicht beschlossen:** Er kommt an, **als die Fähre gerade ablegen will**. Er muss rennen und bekommt sie nur, weil er **vom Steg aus den letzten Meter springt**.
 
-> **Auf der Fähre ist der Schiffszimmerer** (Autor, 10.09.2026), bei dem er die nächsten acht Jahre in [Kaupvik](../../Orte/Kaupvik.md) wohnen wird - Teil derselben Reisegemeinschaft. Beiläufig einführen: Der Leser soll erst später merken, was hier begonnen hat.
+> **Auf der Fähre ist [Audmar](../../Menschen/Nordvolk/Nebenfiguren/Audmar.md)** (Autor, 10.09.2026), der Schiffszimmerer, bei dem er die nächsten acht Jahre in [Kaupvik](../../Orte/Kaupvik.md) wohnen wird - Teil derselben Reisegemeinschaft. Beiläufig einführen: Der Leser soll erst später merken, was hier begonnen hat.
 
 
 ### 16 · Ankunft in Kaupvik
@@ -244,17 +244,17 @@ Hafenarbeit an der Schlei - er kommt mit einer Adresse an, nicht als völlig Fre
 
 ### 17 · Die Zieheltern
 
-> **POV:** Tibun · **Jahr +1** · **Offen:** Namenssystem des Nordvolks
+> **POV:** Tibun · **Jahr +1** · **Offen:** -
 
-Er kommt bei dem Schiffszimmerer unter, den er auf der Fähre kennengelernt hat.
+Er kommt bei Audmar und Siga unter - den Schiffszimmerer hat er auf der Fähre kennengelernt.
 
 - **Will:** ???
 - **Hindernis:** ???
-- **Ausgang:** Kost gegen Arbeit - nüchtern begonnen. Der Mann wird über die Jahre seine neue Bezugsperson.
+- **Ausgang:** Kost gegen Arbeit - nüchtern begonnen. Audmar wird über die Jahre seine neue Bezugsperson.
 
 > **Warum sie ihn nehmen** (Autor, 10.09.2026): Sie **haben keine Kinder**. Das wird nicht ausgesprochen - hier ist es ein Handel, sonst nichts. Erst über die Jahre wird mehr daraus.
 
-> **Namen fehlen noch**, weil das Namenssystem des Nordvolks nicht steht. Das Gewerbe der Frau ebenfalls.
+> **Sigas Gewerbe ist offen** · ???
 
 
 ### 18 · Sammeln ohne zu wissen wie

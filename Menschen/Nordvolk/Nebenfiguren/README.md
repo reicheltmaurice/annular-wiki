@@ -11,3 +11,5 @@ Figuren mit Nebenrolle. Jede hat eine **eigene Datei** (nach [Charakter-Template
 - [Frida](Frida.md) - Tibuns Jugendliebe aus [Skirraa](../../../Orte/Skirraa.md), verlobt mit Herik
 - [Herik](Herik.md) - Hofsohn von auswärts, Fridas Verlobter
 - [Lanke](Lanke.md) - Heriks Vater, arrangiert die Verlobung
+- [Audmar](Audmar.md) - Schiffszimmerer in [Kaupvik](../../../Orte/Kaupvik.md), Tibuns Ziehvater
+- [Siga](Siga.md) - Audmars Frau, Tibuns Ziehmutter

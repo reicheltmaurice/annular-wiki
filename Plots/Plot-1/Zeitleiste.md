@@ -83,10 +83,9 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 **Umgebaut am 02.09.2026**. Die frühere Fassung ließ ihn *acht Jahre über den Ochsenweg wandern* - das war nie stimmig: Skirraa↔Kaupvik sind **~14 Tagesmärsche**, also zwei bis drei Wochen. Die acht Jahre sind **Kaupvik-Jahre**, keine Wanderjahre.
 
 - **Konflikt/Antrieb:** Suche nach der Mutter, Bernstein, Wissen über den Ring, Mechanik - dazu Schuld und Ausschluss nach dem Unfall
-- **Die Zieheltern** (Autor, 10.09.2026): Tibun wohnt **von Anfang an** bei einem Paar aus [Kaupvik](../../Orte/Kaupvik.md). **Der Mann ist Schiffszimmerer**; kennengelernt haben sie sich **auf der Fähre bei [Vegamot](../../Orte/Vegamot.md)**, als Teil derselben Reisegemeinschaft
+- **Die Zieheltern** (Autor, 10.09.2026): Tibun wohnt **von Anfang an** bei [**Audmar**](../../Menschen/Nordvolk/Nebenfiguren/Audmar.md) und [**Siga**](../../Menschen/Nordvolk/Nebenfiguren/Siga.md) aus [Kaupvik](../../Orte/Kaupvik.md). **Audmar ist Schiffszimmerer**; kennengelernt haben sie sich **auf der Fähre bei [Vegamot](../../Orte/Vegamot.md)**, als Teil derselben Reisegemeinschaft
   - **Warum sie ihn nehmen:** Sie **haben keine Kinder**, und begonnen hat es **als Kost gegen Arbeit**. Die Nähe wächst über die Jahre, unabsichtlich
-  - **Der Mann wird die neue Bezugsperson** - der Gegenentwurf zu [Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md). Beide bleiben am Ende **lebend zurück** (Autor, 02.09.2026), im Guten
-  - **Namen beider Figuren: ???** - solange das Namenssystem des Nordvolks nicht steht
+  - **Audmar wird die neue Bezugsperson** - der Gegenentwurf zu [Semund](../../Menschen/Nordvolk/Nebenfiguren/Semund.md). Beide bleiben am Ende **lebend zurück** (Autor, 02.09.2026), im Guten
 - Rund ein Jahr nach Girlins Verschwinden verlässt Tibun Skirraa
 - **Die Reise: Wochen, nicht Jahre.** Genau **eine Zwischenstation**, an der er sich einer Gruppe anschließt, um weiterzureisen. Sie verändert **zweierlei**:
   - Er lernt, **ohne Sippe zu überleben** - Anschluss, Arbeit gegen Schutz. Damit ist die Frage nach seiner Lebensgrundlage im Kern beantwortet
