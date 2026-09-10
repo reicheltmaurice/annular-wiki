@@ -38,6 +38,10 @@ Der Name ist altnordisch *vegamot*, „Wegbegegnung" - er sagt, wie [Kaupvik](Ka
 
 > **Idee des Autors (10.09.2026), noch nicht als Szene beschlossen:** [Tibun](../Menschen/Nordvolk/Tibun.md) kommt an, **als die Fähre gerade ablegen will**. Er muss rennen und erwischt sie nur, weil er **vom Steg aus den letzten Meter springt**.
 
+**Auf dieser Fähre sitzt der Mann, bei dem er die nächsten acht Jahre wohnen wird** (Autor, 10.09.2026): ein **Schiffszimmerer aus [Kaupvik](Kaupvik.md)**, Teil derselben Reisegemeinschaft. Vegamot ist damit nicht nur eine Wegmarke - **hier entsteht die Bindung, die die Kaupvik-Jahre trägt**. Ob er zum selben Händlerzug gehört oder nur mitfährt: **???**
+
+> Zusammen mit der Sprung-Idee ergibt das eine Pointe: Was aus diesem einen verpassten oder gerade noch erwischten Übergang folgt, sind acht Jahre eines Lebens.
+
 ---
 
 ## Noch offen · ???

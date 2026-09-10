@@ -228,12 +228,14 @@ Er schließt sich in [Vegamot](../../Orte/Vegamot.md) einem **Händlerzug** an, 
 
 > **Idee des Autors (10.09.2026), nicht beschlossen:** Er kommt an, **als die Fähre gerade ablegen will**. Er muss rennen und bekommt sie nur, weil er **vom Steg aus den letzten Meter springt**.
 
+> **Auf der Fähre ist der Schiffszimmerer** (Autor, 10.09.2026), bei dem er die nächsten acht Jahre in [Kaupvik](../../Orte/Kaupvik.md) wohnen wird - Teil derselben Reisegemeinschaft. Beiläufig einführen: Der Leser soll erst später merken, was hier begonnen hat.
+
 
 ### 16 · Ankunft in Kaupvik
 
 > **POV:** Tibun · **Jahr +1** · **Offen:** -
 
-Hafenarbeit an der Schlei.
+Hafenarbeit an der Schlei - er kommt mit einer Adresse an, nicht als völlig Fremder.
 
 - **Will:** Wissen über Mechanik, und Bernstein
 - **Hindernis:** ???
@@ -242,13 +244,17 @@ Hafenarbeit an der Schlei.
 
 ### 17 · Die Zieheltern
 
-> **POV:** Tibun · **Jahr +1** · **Offen:** Tibuns Zieheltern in Kaupvik
+> **POV:** Tibun · **Jahr +1** · **Offen:** Namenssystem des Nordvolks
 
-Er kommt bei einem Paar unter.
+Er kommt bei dem Schiffszimmerer unter, den er auf der Fähre kennengelernt hat.
 
 - **Will:** ???
 - **Hindernis:** ???
-- **Ausgang:** Der Mann wird seine neue Bezugsperson. Namen und Gewerbe fehlen.
+- **Ausgang:** Kost gegen Arbeit - nüchtern begonnen. Der Mann wird über die Jahre seine neue Bezugsperson.
+
+> **Warum sie ihn nehmen** (Autor, 10.09.2026): Sie **haben keine Kinder**. Das wird nicht ausgesprochen - hier ist es ein Handel, sonst nichts. Erst über die Jahre wird mehr daraus.
+
+> **Namen fehlen noch**, weil das Namenssystem des Nordvolks nicht steht. Das Gewerbe der Frau ebenfalls.
 
 
 ### 18 · Sammeln ohne zu wissen wie

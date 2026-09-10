@@ -42,7 +42,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-054: Tingsal - Halle & Thinggeschehen ○](#c-054-tingsal---halle--thinggeschehen-)
 - [C-056: Prolog - Folgen des Bebens im Dorf ○](#c-056-prolog---folgen-des-bebens-im-dorf-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
-- [C-059: Tibuns Zieheltern in Kaupvik ○](#c-059-tibuns-zieheltern-in-kaupvik-)
 - [C-063: Prolog - Szene auf Autorenfassung zurückgerollt ○](#c-063-prolog---szene-auf-autorenfassung-zurückgerollt-)
 - [C-064: Prolog - Dorfplatz und Verlobungsschauplatz nachziehen ○](#c-064-prolog---dorfplatz-und-verlobungsschauplatz-nachziehen-)
 - [C-065: Prolog - Fischerdorf-Milieu nachziehen ○](#c-065-prolog---fischerdorf-milieu-nachziehen-)
@@ -109,6 +108,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
 - [C-055: Der Skir - Gewässer, See und Fundort des Rings ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-)
 - [C-057: Prolog - warum sind Tibun und Girlin allein draußen? ✓](#c-057-prolog---warum-sind-tibun-und-girlin-allein-draußen-)
+- [C-059: Tibuns Zieheltern in Kaupvik ✓](#c-059-tibuns-zieheltern-in-kaupvik-)
 - [C-060: Girlin und der Neffe ✓](#c-060-girlin-und-der-neffe-)
 - [C-061: Navigationswissen - Schweigen gestrichen ✗](#c-061-navigationswissen-des-häuptlings-)
 - [C-062: Azzims Ankunft vor Tibuns Zündung ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)
@@ -916,12 +916,29 @@ Die Fassung der Skizze (Wasserrad) ist damit die kanonkonforme. Denkbar bliebe e
 
 ---
 
-### C-059: Tibuns Zieheltern in Kaupvik ○
+### C-059: Tibuns Zieheltern in Kaupvik ✓
 
-[Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil---zwei-parallele-stränge) (Tibun 8-9): Tibun kommt in [Kaupvik](../Orte/Kaupvik.md) bei einem **Paar** unter, arbeitet mit dem Mann am Hafen, die beiden werden Freunde, der Mann wird Tibuns **neue Bezugsperson**. Beide Figuren existieren im Wiki noch nicht - keine Namen, kein Gewerbe, keine Herkunft. Dramaturgisch wichtig: Das ist der Gegenentwurf zu [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) und damit die emotionale Achse der Wanderjahre. Berührt [C-034](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft-) (Lebensgrundlage).
+[Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#hauptteil---zwei-parallele-stränge) (Tibun 8-9): Tibun kommt in [Kaupvik](../Orte/Kaupvik.md) bei einem **Paar** unter, arbeitet mit dem Mann am Hafen, die beiden werden Freunde, der Mann wird Tibuns **neue Bezugsperson**. Dramaturgisch wichtig: Das ist der Gegenentwurf zu [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) und damit die emotionale Achse der Wanderjahre. Berührt [C-034](#c-034-tibuns-lebensgrundlage-während-der-wanderschaft-) (Lebensgrundlage).
 
 **Teilentschieden (Autor, 02.09.2026):** Die Zieheltern **bleiben am Ende zurück** - lebend, im Guten. Ein Abschied, kein Verlust, kein Bruch. Sie sind damit das, was Tibun aufgibt, nicht das, was ihm genommen wird.
-**Offen weiter:** Namen, Gewerbe, Herkunft, und ab welchem Jahr er bei ihnen wohnt (Rahmen: Jahr +1 bis +9, [C-115](#c-115-tibuns-wanderjahre---die-stationen-fehlen-)) · **???**
+
+---
+
+**Entschieden (Autor, 10.09.2026).**
+
+| Frage | Antwort |
+|---|---|
+| **Gewerbe des Mannes** | **Schiffszimmerer.** Boote bauen und ausbessern - Holz, Hebel, Zug. Dasselbe Feld, in dem später die **Bootsziehwinde** Tibuns Erkenntnis auslöst. |
+| **Herkunft** | **Aus [Kaupvik](../Orte/Kaupvik.md)** - alteingesessen, verwurzelt, mit Platz in der Stadt. Sie geben ihm den Halt, den er nicht mitbringt. |
+| **Ab wann** | **Von Anfang an.** Und zwar, weil er den Mann **schon auf der Reise kennenlernt**: *„Er ist Teil der Reisegemeinschaft auf der Fähre."* |
+| **Warum sie ihn aufnehmen** | **Zwei Gründe zugleich:** Sie **haben keine Kinder** - eine Lücke, in die er passt, ohne dass es jemand ausspricht. Und begonnen hat es **nüchtern, als Kost gegen Arbeit**; die Nähe wächst über die Jahre, unabsichtlich. |
+
+**Das verkettet zwei Challenges.** Der Mann steht auf derselben Fähre wie Tibun - der [Limfjord-Querung bei Aggersund](../Orte/Vegamot.md), die aus [C-124 ✓](#c-124-die-zwischenstation---ort-und-gruppe-) stammt. Damit ist die Zwischenstation nicht mehr nur eine Wegmarke: **Dort entsteht die Bindung, die die acht Jahre trägt.** Ob der Mann zum selben **Händlerzug** gehört, dem Tibun sich anschließt, oder nur mitfährt: **???**
+
+**Der Gegenentwurf zu Semund steht damit:** Ein Mann, der mit ihm arbeitet, ihm etwas beibringt und ihn behält - gegen den Vater, der schweigt und weitermacht.
+
+- Eingetragen in [Kaupvik](../Orte/Kaupvik.md), [Vegamot](../Orte/Vegamot.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md) und [Szene 15](../Plots/Plot-1/Szenen.md).
+- **Weiter offen · ???** **Die Namen beider Figuren** - und damit ihre eigenen Wiki-Dateien. Grund: Das [Namenssystem des Nordvolks](#c-092-namenssystem-des-nordvolks-) ist selbst noch offen; Namen erst danach. Ebenso offen: das Gewerbe der Frau.
 
 ---
 

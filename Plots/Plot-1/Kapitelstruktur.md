@@ -238,7 +238,7 @@ Darstellung: [Szenenliste](../../Notizen/Schaubilder/README.md) im Schaubilder-O
 | Prolog, Erdbeben, Girlins Verschwinden | deckungsgleich mit [Zeitleiste](Zeitleiste.md) |
 | Suchtrupp, Semund + Millia, Aufbruch, Hafenstadt, Unfall → Generator-Idee | deckungsgleich |
 | Wasserrad-Unfall mit Verletztem | **teilentschieden 02.09.2026** - er passiert, Opfer ist eine Nebenfigur; Bauart offen |
-| Paar in Kaupvik / neue Bezugsperson | **teilentschieden 02.09.2026** - sie bleiben lebend zurück; Figuren fehlen weiter |
+| Paar in Kaupvik / neue Bezugsperson | **entschieden 10.09.2026** - Schiffszimmerer aus Kaupvik, kinderlos, kennengelernt auf der Fähre bei Vegamot; sie bleiben lebend zurück. Namen offen |
 | Nomaden bergen den Ring und bringen ihn zu Bellbrim | **entschieden** - Transport in die Schlucht, Jahr +5 bis +8. Verfahren offen |
 | Girlin und Neffe | **entschieden** - der **Neffe**, dessen Frau zuvor durchbrennt |
 | Häuptling offenbart Navigationswissen | **gestrichen 02.09.2026** - kein Geheimnis; drei Phasen statt Schweigen |

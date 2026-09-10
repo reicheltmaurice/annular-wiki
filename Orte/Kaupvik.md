@@ -11,12 +11,25 @@ Handelssiedlung und Hafen an der Schlei. Der Name bedeutet „Handelsbucht".
 
 ## Lage und Anreise
 - An der Schlei, weit im Süden - Vorbild und Lage des späteren Haithabu
-- Von [Skirraa](Skirraa.md) trennen es **rund 14 Tagesmärsche** (gut zwei Wochen) auf dem **direkten Weg** über den Heerweg (Ochsenweg) - die Strecke, die Tibun beim **Rückweg** nimmt. Auf dem **Hinweg** liegt eine Station: [Vegamot](Vegamot.md), wo er sich einem Händlerzug anschließt (Autor, 10.09.2026). Er kommt als völliger Fremder an; niemand kennt Skirraa.
+- Von [Skirraa](Skirraa.md) trennen es **rund 14 Tagesmärsche** (gut zwei Wochen) auf dem **direkten Weg** über den Heerweg (Ochsenweg) - die Strecke, die Tibun beim **Rückweg** nimmt. Auf dem **Hinweg** liegt eine Station: [Vegamot](Vegamot.md), wo er sich einem Händlerzug anschließt (Autor, 10.09.2026). Niemand dort kennt Skirraa - aber fremd kommt er nicht an: Auf der Fähre bei Vegamot lernt er den Schiffszimmerer kennen, bei dem er die acht Jahre wohnen wird (siehe unten).
 
 ## Bedeutung für die Geschichte
 - **Endpunkt und Wendepunkt** von Tibuns Reise: der weiteste Punkt - von hier kehrt er **direkt nach Skirraa zurück**, um den Generator zu bauen. Der genaue Reiseverlauf bis hierher: **???**
 - Was er auf der Reise sucht: Bernstein, bessere Mechanik **und** Wissen über den Portalring - getrieben von der Suche nach seiner verschwundenen Mutter (siehe [Zeitleiste](../Plots/Plot-1/Zeitleiste.md))
 - Schauplatz seines Erkenntnismoments am Hafen (Bootsziehwinde) - der Auslöser für den Generatorbau
+
+## Die Zieheltern (Autor, 10.09.2026)
+
+**Tibun wohnt die ganzen acht Jahre bei einem Paar aus Kaupvik** - alteingesessen, verwurzelt, mit Platz in der Stadt. **Namen: ???** - solange das Namenssystem des Nordvolks nicht steht, bekommen die beiden keine.
+
+- **Der Mann ist Schiffszimmerer** - er baut und bessert Boote aus. Tibun arbeitet mit ihm; Holz, Hebel und Zug sind dasselbe Feld, in dem später die **Bootsziehwinde** am Hafen seine Erkenntnis auslöst.
+- **Kennengelernt haben sie sich unterwegs**, nicht in der Stadt: Der Mann ist **Teil der Reisegemeinschaft auf der Fähre** bei [Vegamot](Vegamot.md). Tibun kommt deshalb nicht als völlig Fremder in Kaupvik an, sondern mit einer Adresse.
+- **Warum sie ihn aufnehmen:** Sie **haben keine Kinder** - eine Lücke, in die er passt, ohne dass es jemand ausspricht. Begonnen hat es trotzdem nüchtern, als **Kost gegen Arbeit**; die Nähe wächst über die Jahre, unabsichtlich.
+- **Der Mann wird Tibuns neue Bezugsperson** - der Gegenentwurf zu [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md): einer, der mit ihm arbeitet, ihm etwas beibringt und ihn behält.
+- **Am Ende bleiben beide lebend zurück** (Autor, 02.09.2026), im Guten. Ein Abschied, kein Verlust. Sie sind das, was Tibun aufgibt, nicht das, was ihm genommen wird.
+- Ob der Mann zum selben **Händlerzug** gehört, dem Tibun sich in Vegamot anschließt, oder nur mitfährt: **???** Das Gewerbe der Frau: **???**
+
+---
 
 ## Authentizität
 - Boote kommen um 550 **ohne Segel** an - reine Ruderfahrt entlang der Küste. Das begrenzt Reichweite und Frachtmenge des Fernhandels.
