@@ -46,5 +46,23 @@ Noch nicht ausgearbeitet.
 
 **Offen · ???** Wie das Nordvolk allgemein mit toten Kindern umgeht, ob ältere Kinder ins Gräberfeld kommen und wie die Familien trauern.
 
+## Zeitrechnung (Autor, 10.09.2026)
+
+**Gezählt wird in Wintern.** „Sieben Winter" statt „sieben Jahre" - der Winter ist die Zählmarke, weil er der Abschnitt ist, den man **übersteht**, nicht der, den man verbringt.
+
+Innerhalb des Jahres gilt dreierlei nebeneinander:
+
+| Ebene | Wofür |
+|---|---|
+| **Arbeitsmarken** | Der Alltag. Lammung, Schafschur, Heuernte, Schlachtzeit - auf einem Wollhof gibt die Arbeit den Takt |
+| **Mondwechsel** | Größere Abstände. „Drei Monde nach der Schur" |
+| **Mittwinter und Mittsommer** | Die zwei Fixpunkte, an denen man sich ausrichtet |
+
+**Kein Datum, keine Jahreszahl, keine Monatsnamen.** Niemand in 550 zählt Jahreszahlen; im Weiler braucht auch niemand ein Datum, sondern die Anzeichen.
+
+> **Historisch:** Das germanische Jahr hatte zwei Hälften, Sommer und Winter, keine vier Jahreszeiten. Darunter lagen Mondmonate - für den angelsächsischen Raum bei Beda belegt (zwölf Monde, ein Schaltmond, Namen nach Arbeit und Opfer). Das Julfest zu Mittwinter ist bereits im 4. Jahrhundert bezeugt.
+
+---
+
 ## Sprache und Redewendungen
 Noch nicht ausgearbeitet.

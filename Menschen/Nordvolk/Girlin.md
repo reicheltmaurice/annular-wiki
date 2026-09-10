@@ -72,6 +72,16 @@ Sie richtet es an die **Familie**, nicht an eine einzelne Person, und **weiß ni
 
 ---
 
+## Wie sie die Jahre zählt (Autor, 10.09.2026)
+
+Im Norden zählt man **Winter** - der Abschnitt, den man übersteht. In der Wüste zählen die [Kel Aman](../../Kulturen/Kel-Aman/README.md) **Sommer**, aus demselben Grund.
+
+**Girlins Maß kippt allmählich und unmerklich.** Kein Moment, ein Abgleiten; sie merkt es selbst erst, wenn es passiert ist. Sie hört nicht auf zu zählen - sie zählt dasselbe an einem anderen Ding.
+
+Damit ist die Zählung ein **Gradmesser ihrer Entfremdung**: Sagt der Text irgendwann „im sechsten Sommer" statt „im sechsten Winter", ist etwas geschehen, das niemand ausgesprochen hat.
+
+---
+
 ## Verbindungen zu anderen Charakteren
 
 - Sohn: [Tibun](Tibun.md)

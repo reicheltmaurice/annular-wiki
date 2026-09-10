@@ -119,6 +119,16 @@ Offen · **???**: Worin der Ausgleich bei einer geregelten Trennung besteht. Ob 
 
 Es gibt also **keine gemeinsame Deutung**, sondern viele Meinungen. Ob eine davon im Erzähltext eine Stimme bekommt, ist offen · **???**
 
+## Zeitrechnung (Autor, 10.09.2026)
+
+**Gezählt wird in Sommern.** Die heiße Jahreszeit ist das, was man übersteht - und damit das genaue Gegenstück zum Winter des [Nordvolks](../Nordvolk/README.md). Man reist nicht im Sommer; Handel und Weidezug liegen im kühlen Halbjahr.
+
+**Regenzeiten scheiden aus.** Der [Fezzan](../../Orte/README.md) ist hyperarid - unter 20 mm Niederschlag im Jahr, und der fällt unregelmäßig. Als Jahresmaß taugt Regen dort nicht.
+
+Ob daneben die **Dattelernte** (archäologisch belegter Fixpunkt der Fezzan-Wirtschaft) oder **Sternaufgänge** als feinere Marken dienen: **???**
+
+---
+
 ## Noch nicht ausgearbeitet
 
 - Kultur, Werte, Tabus · Religion und Rituale · soziale Struktur · Redewendungen · Verhältnis zu Sesshaften · **???**

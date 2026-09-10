@@ -119,6 +119,8 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 
 ## Girlins Strang (Jahr 0 → +10, Girlin 34 → 44 - **10 Jahre in der Wüste**)
 
+> **Zeitrechnung im Erzähltext** (Autor, 10.09.2026): Der Norden zählt **Winter**, die [Kel Aman](../../Kulturen/Kel-Aman/README.md) zählen **Sommer** - beide zählen den Abschnitt, den man übersteht. **[Girlins](../../Menschen/Nordvolk/Girlin.md) Maß kippt allmählich und unmerklich** vom einen ins andere. Die Jahreszahlen `+0` bis `+10` sind reine Autorenebene und erscheinen nie im Text.
+
 ### Ankunft und erste Jahre (Jahr 0 → +3)
 - Sie wacht in einer Wüste auf (Jahr 0); die [Kel Aman](../../Kulturen/Kel-Aman/README.md) sammeln sie auf
 - **Wie sie auf die Stelle aufmerksam werden** (Autor, 09.09.2026): Es ist **Nacht**, und das **grüne Runenleuchten** ist weithin über die Wüste sichtbar - es klingt über drei Sekunden ab ([Portalringe](../../Technik/Portalringe.md)). **Aufbrechen tut nachts aber niemand.** Sie kommen erst bei Tageslicht; Girlin liegt bis dahin **stundenlang bewusstlos** mit ihrer Kopfwunde in der Mulde. Wie viele Stunden und in welchem Zustand sie gefunden wird: **???**

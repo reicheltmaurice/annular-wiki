@@ -54,7 +54,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-083: Zitate als Kapitel-Motti ○](#c-083-zitate-als-kapitel-motti-)
 - [C-084: Mulde, Standfläche und die rohen Ringe ○](#c-084-mulde-standfläche-und-die-rohen-ringe-)
 - [C-085: Titel für Plot 1 ○](#c-085-titel-für-plot-1-)
-- [C-087: Zeitrechnung im Erzähltext ○](#c-087-zeitrechnung-im-erzähltext-)
 - [C-089: Azzim - Verhältnis zum Ring (harte Regel) ○](#c-089-azzim---verhältnis-zum-ring-harte-regel-)
 - [C-093: Prolog - Namen nach C-092 nachziehen ○](#c-093-prolog---namen-nach-c-092-nachziehen-)
 - [C-099: Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus ○](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-)
@@ -122,6 +121,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-080: Girlins Entführung und Rettung ✗](#c-080-girlins-entführung-und-rettung-)
 - [C-082: Girlins Entscheidung zur Rückreise ✓](#c-082-girlins-entscheidung-zur-rückreise-)
 - [C-086: Ton in einem Satz ✓](#c-086-ton-in-einem-satz-)
+- [C-087: Zeitrechnung im Erzähltext ✓](#c-087-zeitrechnung-im-erzähltext-)
 - [C-088: Verortung der Wüste ✓](#c-088-verortung-der-wüste-)
 - [C-090: Kel Aman - Eigenname und Namenssystem ✓](#c-090-kel-aman---eigenname-und-namenssystem-)
 - [C-091: Krummsäbel und Bewaffnung der Kel Aman ✓](#c-091-krummsäbel-und-bewaffnung-der-kel-aman-)
@@ -1400,15 +1400,34 @@ Der Satz steht in [Plots/Plot-1/README.md](../Plots/Plot-1/README.md) und ist de
 
 ---
 
-### C-087: Zeitrechnung im Erzähltext ○
+### C-087: Zeitrechnung im Erzähltext ✓
 
 Zwischen [Girlins](../Menschen/Nordvolk/Girlin.md) Verschwinden und dem Finale liegen **zehn Jahre** ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)). Niemand in 550 zählt Jahreszahlen - ohne feste Regel wird jede Zeitangabe im Text zum Anachronismus.
 
 **Entschieden (Autor): Gezählt wird in Wintern.** „Sieben Winter" statt „sieben Jahre". Das ist für den Norden historisch korrekt und zugleich inhaltlich richtig: Der Winter ist die Zählmarke, weil er der Abschnitt ist, den man **überlebt** - nicht der, den man verbringt.
 
-**Offen - die Wüstenseite.** Girlin verbringt die zehn Jahre in einer Wüste, in der es keinen Winter gibt. Sie kann anfangs weiterzählen, was sie kennt, aber ihr Maß löst sich mit der Zeit auf. Zu entscheiden: Woran misst sie die Jahre - an Karawanenzügen, Regenzeiten, Dattelernten, den Geburtstagen ihrer Kinder? Und **wann kippt ihr Maß** vom nordischen ins fremde? Das ist kein Detail, sondern ein Gradmesser ihrer Entfremdung: Sobald Girlin nicht mehr in Wintern zählt, ist sie nicht mehr dieselbe. Hängt an [C-003](#c-003-kel-aman---kulturelle-tiefe-) (wo die Wüste liegt) und [C-025](#c-025-girlin---charakter--fähigkeiten-).
+---
 
-**Offen - die Zählmarke im Norden.** Jahresmaß ist der Winter; das *Datum* innerhalb des Jahres braucht aber ebenfalls eine Regel (Thing-Versammlungen, Aussaat, Schafschur, Sonnwendfeste). Berührt den Punkt „Jahreszeiten als Taktgeber" im [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md).
+**Vervollständigt (Autor, 10.09.2026).**
+
+| Ebene | Regel |
+|---|---|
+| **Jahre im Norden** | **Winter.** Unverändert. |
+| **Im Jahr, Norden** | **Arbeitsmarken** (Lammung, Schur, Heu, Schlachtzeit) für den Alltag, **Mondwechsel** für größere Abstände, dazu **Mittwinter und Mittsommer** als Fixpunkte. Keine Monatsnamen, kein Datum. |
+| **Jahre bei den [Kel Aman](../Kulturen/Kel-Aman/README.md)** | **Sommer.** Die heiße Jahreszeit ist das, was man übersteht - das genaue Gegenstück zum Winter. Man reist nicht im Sommer; Handel und Weidezug liegen im kühlen Halbjahr. |
+| **[Girlins](../Menschen/Nordvolk/Girlin.md) Kipppunkt** | **Allmählich und unmerklich.** Kein Moment, ein Abgleiten - sie merkt es selbst erst, wenn es passiert ist. |
+
+**Das ist der Gradmesser ihrer Entfremdung, und er funktioniert als Spiegel statt als Verlust:** Sie hört nicht auf zu zählen, sie zählt dasselbe an einem anderen Ding. Winter und Sommer sind beide der Abschnitt, den man übersteht. Wenn der Erzähltext irgendwann „im sechsten Sommer" sagt statt „im sechsten Winter", ist etwas passiert, das niemand ausgesprochen hat.
+
+**Korrektur (10.09.2026):** Die frühere Fassung dieser Challenge bot **Regenzeiten** als mögliches Wüstenmaß an. Das ist historisch falsch - der [Fezzan](../Kulturen/Kel-Aman/README.md) ist hyperarid (unter 20 mm im Jahr, unregelmäßig). Als Jahresmaß taugt Regen dort nicht.
+
+**Belegqualität, offen ausgewiesen:**
+
+- **Norden - gut belegt.** Germanisches Jahr in zwei Hälften (Sommer/Winter); Mondmonate für den angelsächsischen Raum bei Beda bezeugt (zwölf Monde, ein Schaltmond, Namen nach Arbeit und Opfer); das Julfest zu Mittwinter bereits im 4. Jahrhundert.
+- **Fezzan - teils belegt, teils Analogie.** Dattelwirtschaft und Foggara-Bewässerung der Garamanten sind archäologisch belegt; die Sommerpause des Fernhandels folgt aus dem Klima. **Sternaufgänge als Jahreszeichen** (Plejaden) sind Analogieschluss aus Tuareg- und arabischer Praxis, für die Garamanten **nicht** direkt belegt.
+
+- Eingetragen in [Kultur des Nordvolks](../Kulturen/Nordvolk/README.md) und [Kultur der Kel Aman](../Kulturen/Kel-Aman/README.md).
+- **Offen · ???** Ob neben den Sommern auch **Dattelernte** oder **Sternaufgänge** als feinere Marken dienen.
 
 ---
 
