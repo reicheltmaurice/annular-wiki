@@ -84,7 +84,8 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Die Reise: Wochen, nicht Jahre.** Genau **eine Zwischenstation**, an der er sich einer Gruppe anschließt, um weiterzureisen. Sie verändert **zweierlei**:
   - Er lernt, **ohne Sippe zu überleben** - Anschluss, Arbeit gegen Schutz. Damit ist die Frage nach seiner Lebensgrundlage im Kern beantwortet
   - **Erste Absage:** Er fragt zum ersten Mal Fremde nach dem Ring und wird abgewiesen. **Er lernt zu schweigen** - deshalb erzählt er in Kaupvik acht Jahre lang nichts
-  - **Offen:** wo diese Station liegt und was für eine Gruppe es ist · **???**
+  - **Die Station heißt [Vegamot](../../Orte/Vegamot.md)** (Autor, 10.09.2026) - **ein Rastplatz an einer Wegkreuzung, kein Dorf**. Von Skirraa aus **rund drei Tage**, zwei Nächte draußen. Er liegt an der **Querung des Limfjords** (Autor, 10.09.2026) - dem Zwangspunkt für jeden, der Vendsyssel nach Süden verlässt; dort wird ohnehin gewartet, deshalb trifft er dort auf den Zug
+  - **Die Gruppe ist ein Händlerzug** (Autor, 10.09.2026). Er gibt dafür **alles, was er hat**: Arbeit unterwegs, Wolle und Stoff vom Hof der Familie, und seine Hände für Reparaturen an Karren und Gerät
 - **[Kaupvik](../../Orte/Kaupvik.md), Jahr +1 bis +9 - rund acht Jahre an einem Ort.** Er bleibt aus zwei Gründen: Er **braucht das Wissen**, und er **sammelt Bernstein und Ressourcen** - durch Handel *und* durch eigenes Sammeln. Bernstein in der nötigen Menge ist nicht zu kaufen wie Brot; das Sammeln selbst kostet die Jahre
   - **+1 bis +4:** Hafenarbeit, die Zieheltern, Sammeln und Handeln - noch ohne zu wissen, wie es geht
   - **+4/+5: Arbeitsunfall an einer Bootsziehwinde** → **Erkenntnismoment**: schnelle, kontinuierliche Reibung = viel Ladung

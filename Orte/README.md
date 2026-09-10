@@ -9,3 +9,4 @@ Wichtige Orte in der Welt von **Annular**.
 - [Sonstige Orte](sonstiges.md)
 - [Bellbrims Werkstatt](Bellbrims-Werkstatt.md)
 - [Der Basar](Basar.md)
+- [Vegamot](Vegamot.md)

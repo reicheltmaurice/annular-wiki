@@ -71,7 +71,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-118: Der Nordstrang verliert zwischen +1 und +9 nichts ○](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)
 - [C-119: Wiki-Altlast - vom Autor nicht gedeckte Festlegungen ○](#c-119-wiki-altlast---vom-autor-nicht-gedeckte-festlegungen-)
 - [C-120: Azzims zweite Seite - der dritte Konflikt fehlt wieder ○](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-)
-- [C-124: Die Zwischenstation - Ort und Gruppe ○](#c-124-die-zwischenstation---ort-und-gruppe-)
 - [C-125: Das Transportverfahren ist offen ○](#c-125-das-transportverfahren-ist-offen-)
 - [C-126: Der Postring - was passt hinein? ○](#c-126-der-postring---was-passt-hinein-)
 - [C-129: Die Schutzlücke verschiebt sich von +8 auf +5 ○](#c-129-die-schutzlücke-verschiebt-sich-von-8-auf-5-)
@@ -148,6 +147,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-117: Ringgeometrie neu vermessen ✓](#c-117-ringgeometrie-neu-vermessen-)
 - [C-121: Zwei Generatoren, ungleiche Bauzeiten ✗](#c-121-zwei-generatoren-ungleiche-bauzeiten-)
 - [C-122: Der Wüstenstrang zwischen +8 und +10 ✓](#c-122-der-wüstenstrang-zwischen-8-und-10-)
+- [C-124: Die Zwischenstation - Ort und Gruppe ✓](#c-124-die-zwischenstation---ort-und-gruppe-)
 - [C-123: Azzims frühe Auftritte - vier, entschieden ✓](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-)
 - [C-127: Referenzdichte 7,8 g/cm³ ✓](#c-127-referenzdichte-)
 - [C-132: Womit die Schluchtgemeinschaft auf dem Basar bezahlt ✓](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt-)
@@ -2230,15 +2230,28 @@ Der Rahmen steht: Solange der Clan sie schützt (bis +8), scheitert jeder Zugrif
 
 ---
 
-### C-124: Die Zwischenstation - Ort und Gruppe ○
+### C-124: Die Zwischenstation - Ort und Gruppe ✓
 
 Aus [C-115](#c-115-tibuns-wanderjahre---die-stationen-fehlen-) (02.09.2026): Auf dem Weg nach [Kaupvik](../Orte/Kaupvik.md) gibt es **genau eine Station**, an der Tibun sich einer **Gruppe anschließt**. Dort lernt er zweierlei: ohne Sippe zu überleben, und über den Ring zu schweigen.
 
-**Zu klären · ???**
-- **Wo** auf dem Ochsenweg? Ein realer Ankerpunkt wie bei den übrigen Orten ([C-021 ✓](#c-021-reale-verortung-der-orte-)) wäre konsequent.
-- **Was für eine Gruppe** - Händlerzug, Viehtrieb, Pilger, Gefolgschaft?
-- **Was gibt er dafür?** Arbeit, Anteil, Dienst auf Zeit?
-- Bekommt die Station eine eigene Datei unter [Orte/](../Orte/), oder bleibt sie namenlos?
+**Entschieden (Autor, 10.09.2026):**
+
+- **Die Station heißt [Vegamot](../Orte/Vegamot.md)** - altnordisch *vegamot*, „Wegbegegnung", nach dem Muster von [Kaupvik](../Orte/Kaupvik.md) benannt.
+- **Es ist ein Rastplatz, kein Dorf** (Autor, 10.09.2026) - ein Punkt an einer Wegkreuzung, an dem Züge halten.
+- **Von [Skirraa](../Orte/Skirraa.md) aus rund drei Tage**, zwei Nächte draußen (Autor, 10.09.2026). Bei 14 Tagesmärschen bis [Kaupvik](../Orte/Kaupvik.md) liegt Vegamot damit **früh auf der Strecke**, nicht auf halbem Weg.
+- **Die Gruppe ist ein Händlerzug** - Fernhändler mit Karren und Waren.
+- **Er gibt alles, was er hat:** Arbeit unterwegs, **Wolle und Stoff vom Hof der Familie**, und seine **Hände für Reparaturen** an Karren, Riemen und Gerät - eine frühe Spur dessen, was er später kann.
+- **Sie bekommt eine eigene Ortsdatei** → [Vegamot.md](../Orte/Vegamot.md), eingehängt in [SUMMARY](../SUMMARY.md) und [Orte](../Orte/README.md).
+
+- **Verortet an der Querung des Limfjords** (Autor, 10.09.2026) - rund 90 bis 100 km ab Bindslev, also etwa drei Tage. Der Limfjord trennt Vendsyssel vom übrigen Jütland; wer nach Süden will, muss übersetzen und wartet dort ohnehin. Genau das macht die Stelle zum Rastplatz und zum Treffpunkt mit dem Händlerzug.
+
+> **Verworfen (10.09.2026):** die zuerst angesetzte Gegend des späteren **Viborg** an der jütischen Wasserscheide - rund 150 km und damit vier bis fünf Tagesmärsche, unvereinbar mit den drei Tagen.
+
+- **Die Fährstelle ist Aggersund** (Autor, 10.09.2026), wo der Heerweg den Limfjord real quert - vom Autor ausdrücklich als nebensächlich bezeichnet.
+
+**Idee des Autors, notiert und nicht beschlossen (10.09.2026):** Tibun kommt an, **als die Fähre gerade ablegen will** - er rennt und erwischt sie nur, weil er **vom Steg aus den letzten Meter springt**. Steht in [Vegamot](../Orte/Vegamot.md#die-fähre) und bei [Szene 15](../Plots/Plot-1/Szenen.md).
+
+Nachgezogen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Tibun](../Menschen/Nordvolk/Tibun.md) und [Kaupvik](../Orte/Kaupvik.md) (dort war der Hinweg als **???** offen).
 
 ---
 

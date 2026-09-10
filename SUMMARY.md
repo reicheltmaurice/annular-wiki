@@ -56,6 +56,7 @@
 * [Sonstige Orte](Orte/sonstiges.md)
 * [Bellbrims Werkstatt](Orte/Bellbrims-Werkstatt.md)
 * [Der Basar](Orte/Basar.md)
+* [Vegamot](Orte/Vegamot.md)
 
 ## Technik
 

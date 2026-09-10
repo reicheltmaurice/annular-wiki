@@ -12,6 +12,8 @@
 
 Der Szenenkopf nennt hinter **Offen** die Punkte, die in dieser Szene noch zu klären sind - im Klartext, ein `-` heißt: nichts offen. Bis zum 05.09.2026 standen dort C-Nummern; die Datei hängt seitdem nicht mehr an `Challenges.md`.
 
+**Format der Szenenblöcke (verbindlich, sonst bricht der Generator):** Überschrift, Leerzeile, Kopfzeile mit POV/Jahr/Offen, Leerzeile, **genau ein** Satz, Leerzeile, dann die drei Felder. **Zwischen Satz und Feldern darf nichts stehen** - Zusatznotizen und Ideen gehören **hinter** die Ausgang-Zeile.
+
 ## Die Felder
 
 Jede Szene trägt drei Felder. Wie sie belegt werden, ist festgelegt (05.09.2026):
@@ -212,13 +214,15 @@ Begegnung mit der Vandalin, die mehrere Sprachen spricht.
 
 ### 15 · Die Zwischenstation
 
-> **POV:** Tibun · **Jahr +1** · **Offen:** Die Zwischenstation - Ort und Gruppe
+> **POV:** Tibun · **Jahr +1** · **Offen:** -
 
-Er schließt sich einer Gruppe an, um weiterzukommen.
+Er schließt sich in [Vegamot](../../Orte/Vegamot.md) einem **Händlerzug** an, um weiterzukommen - am Rastplatz an der Limfjord-Querung, drei Tagesmärsche von zu Hause.
 
 - **Will:** Weiterreisen - und erfahren, was der Ring ist
 - **Hindernis:** Er fragt Fremde zum ersten Mal nach dem Ring und wird abgewiesen
 - **Ausgang:** Er lernt zu überleben, ohne Sippe. Und er lernt zu schweigen.
+
+> **Idee des Autors (10.09.2026), nicht beschlossen:** Er kommt an, **als die Fähre gerade ablegen will**. Er muss rennen und bekommt sie nur, weil er **vom Steg aus den letzten Meter springt**.
 
 
 ### 16 · Ankunft in Kaupvik

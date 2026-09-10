@@ -11,7 +11,7 @@ Handelssiedlung und Hafen an der Schlei. Der Name bedeutet „Handelsbucht".
 
 ## Lage und Anreise
 - An der Schlei, weit im Süden - Vorbild und Lage des späteren Haithabu
-- Von [Skirraa](Skirraa.md) trennen es **rund 14 Tagesmärsche** (gut zwei Wochen) auf dem **direkten Weg** über den Heerweg (Ochsenweg) - die Strecke, die Tibun beim **Rückweg** nimmt. Hin- und Reiseverlauf: **???** Er kommt als völliger Fremder an; niemand kennt Skirraa.
+- Von [Skirraa](Skirraa.md) trennen es **rund 14 Tagesmärsche** (gut zwei Wochen) auf dem **direkten Weg** über den Heerweg (Ochsenweg) - die Strecke, die Tibun beim **Rückweg** nimmt. Auf dem **Hinweg** liegt eine Station: [Vegamot](Vegamot.md), wo er sich einem Händlerzug anschließt (Autor, 10.09.2026). Er kommt als völliger Fremder an; niemand kennt Skirraa.
 
 ## Bedeutung für die Geschichte
 - **Endpunkt und Wendepunkt** von Tibuns Reise: der weiteste Punkt - von hier kehrt er **direkt nach Skirraa zurück**, um den Generator zu bauen. Der genaue Reiseverlauf bis hierher: **???**
