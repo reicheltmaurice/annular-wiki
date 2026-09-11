@@ -51,6 +51,7 @@ Nach einer Änderung an `Szenen.md` beide laufen lassen. `--nummerieren` ist rei
 |---|---|
 | `tools/wiki.py` | Liest Szenen.md und das Altersgerüst und schreibt die fertige Seite (`rahme()` setzt das HTML-Gerüst, `schreibe()` wertet `--pruefen` und `--artifact` aus). Beide Generatoren benutzen es, damit sie dieselbe Lesart und dieselbe Ausgabe haben |
 | `tools/pruefe_challenges.py` | Prüft `Challenges.md` gegen sich selbst (Statusmarker, Übersicht) - getrennt von den Schaubildern |
+| `tools/pruefe_offen.py` | Prüft die **Offen**-Zeilen in `Szenen.md` gegen `Challenges.md`: meldet Einträge, deren Challenge entschieden ist, die zu keiner passen oder zu mehreren. Liest beide, ändert keine - die Schaubilder hängen weiterhin nicht an `Challenges.md` |
 | `tools/szenenliste.py` + `szenenliste.template.html` | Szenenliste |
 | `tools/zeitgeruest.py` + `zeitgeruest.template.html` | Zeitgerüst |
 
