@@ -46,14 +46,14 @@ Wo zwei Szenen **gleichzeitig** liegen - Nr. 3 und 4 zeigen denselben Moment aus
 | Prolog | Szene 1 (Das Beben) | entschieden 04.09.2026 |
 | Anfang | ab Szene 2 bis **???** | wo der Anfang endet, ist offen |
 | Hauptteil | dazwischen | ergibt sich aus den beiden Grenzen |
-| Schluss | ab Szene 42 (Der Angriff - Zündung 1) | gemeinsamer Block ab Zündung 1 |
+| Schluss | ab Szene 43 (Der Angriff - Zündung 1) | gemeinsamer Block ab Zündung 1 |
 | Epilog | nicht vorgesehen | Das Buch endet mit der Entscheidung ([Zeitleiste](Zeitleiste.md)) |
 
 Die Erzählreihenfolge - verschränkt oder blockweise - ist offen. Die Liste unten steht chronologisch.
 
 ## Kennzahlen
 
-Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **45 Szenen** (23 Tibun · 22 Girlin) · **19 vollständig** (Will, Hindernis und Ausgang gesetzt) · **15 mit offenem Hindernis** (`???`), davon **9 reine Zustände** (weder Will noch Hindernis) · **1 ohne Widerstand** (Hindernis `keins`).
+Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenliste.py --nummerieren` zieht diese Zeile nach): **46 Szenen** (24 Tibun · 22 Girlin) · **19 vollständig** (Will, Hindernis und Ausgang gesetzt) · **16 mit offenem Hindernis** (`???`), davon **10 reine Zustände** (weder Will noch Hindernis) · **1 ohne Widerstand** (Hindernis `keins`).
 
 ---
 
@@ -204,7 +204,7 @@ Er baut etwas, und dabei wird jemand verletzt. Der Weiler rückt von ihm ab. Run
 - **Hindernis:** Meidung durch die Dorfbewohner
 - **Ausgang:** Eine Nebenfigur wird verletzt, schwere Gewissensbisse. Schuld, Gewissenslast und Ausschluss - zusammen der Antrieb zum Aufbruch. Er geht - fort von der Schuld und hin zum Wissen.
 
-> **Kein Abschied von Truda** (Autor, 10.09.2026): Er geht **ohne ein Wort** zu ihr. Sie ist zehn und erfährt es nicht vorher. Beiläufig zeigen, nicht kommentieren - die Rechnung dafür kommt in Szene 40.
+> **Kein Abschied von Truda** (Autor, 10.09.2026): Er geht **ohne ein Wort** zu ihr. Sie ist zehn und erfährt es nicht vorher. Beiläufig zeigen, nicht kommentieren - die Rechnung dafür kommt bei seiner Rückkehr, in der Szene *Truda empfängt ihn*.
 
 
 ### 14 · Bellbrim
@@ -474,7 +474,20 @@ Rückkehr zum Ring; Bau der großen Wasseranlage.
 - **Ausgang:** Er baut überdacht über der Tabustelle weiter.
 
 
-### 37 · Die Nachricht liegt bereit
+### 37 · Truda empfängt ihn
+
+> **POV:** Tibun · **Jahr +9** · **Offen:** -
+
+Nach acht Jahren steht ihm Truda gegenüber, und die Verletztheit darüber, dass er sie verlassen hat, bricht in einem Wutanfall aus ihr heraus.
+
+- **Will:** ???
+- **Hindernis:** ???
+- **Ausgang:** Ein einziger Ausbruch - danach ist sie wieder still.
+
+> **Einmal, dann still** (Autor, 11.09.2026): Der Ausbruch gilt nur ihm. Hier wird aufgerufen, dass er sie ohne Abschied zurückgelassen hat; *Truda hält ihn für verloren* bleibt das spätere Gespräch.
+
+
+### 38 · Die Nachricht liegt bereit
 
 > **POV:** Girlin · **Jahr +9** · **Offen:** -
 
@@ -485,7 +498,7 @@ Fertig und wetterfest verpackt: ein Bündel aus einer **Strähne ihres eigenen H
 - **Ausgang:** Das Bündel liegt bereit.
 
 
-### 38 · Der Weiler warnt und meidet
+### 39 · Der Weiler warnt und meidet
 
 > **POV:** Tibun · **Jahr +9** · **Offen:** -
 
@@ -496,7 +509,7 @@ Angst und Ärger im Dorf - aber keine Vertreibung.
 - **Ausgang:** Niemand vertreibt ihn. Wer sich dorthin begibt, ist selber schuld.
 
 
-### 39 · Die Wala lässt ihn gewähren
+### 40 · Die Wala lässt ihn gewähren
 
 > **POV:** Tibun · **Jahr +9** · **Offen:** Wandernde Wala - offene Felder
 
@@ -507,9 +520,9 @@ Sie wird gerufen und sieht es sich an.
 - **Ausgang:** Sie deutet es wie zuvor, schärft allen den Zorn der Götter ein - und lässt ihn gewähren.
 
 
-### 40 · Truda hält ihn für verloren
+### 41 · Truda hält ihn für verloren
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** Truda - offene Felder
+> **POV:** Tibun · **Jahr +9** · **Offen:** -
 
 Er sagt ihr, was er tut.
 
@@ -517,12 +530,12 @@ Er sagt ihr, was er tut.
 - **Hindernis:** ???
 - **Ausgang:** ???
 
-> **Was zwischen ihnen steht** (Autor, 10.09.2026): Er hat sich nach dem Verschwinden der Mutter nicht um sie gekümmert und ist **ohne Abschied** gegangen. Sie hat sich verlassen gefühlt. Hier - und nur hier - wird das aufgerufen. **Dass er ihr jetzt von sich aus sagt, was er tut, ist der Gegensatz dazu.**
+> **Was zwischen ihnen steht** (Autor, 10.09.2026): Er hat sich nach dem Verschwinden der Mutter nicht um sie gekümmert und ist **ohne Abschied** gegangen. Sie hat sich verlassen gefühlt. Aufgerufen wird das beim Empfang (*Truda empfängt ihn*, Autor, 11.09.2026) - einmal, danach ist sie wieder still. **Dass er ihr jetzt von sich aus sagt, was er tut, ist der Gegensatz dazu.**
 
 > **Streichvermerk (05.09.2026):** Hier stand „Truda will ihn zur Vernunft bringen" - das Wollen des **Gegenspielers**. *Will* benennt immer die POV-Figur; Tibuns Wollen in dieser Szene ist offen.
 
 
-### 41 · Zweifel und Bestätigung
+### 42 · Zweifel und Bestätigung
 
 > **POV:** Girlin · **Jahr +10** · **Offen:** -
 
@@ -533,7 +546,7 @@ Der Generator ist fertig - und der Zweifel kehrt zurück.
 - **Ausgang:** Sie bestätigt ihren Entschluss. Der Preis ist bezahlt, bevor der Sohn ankommt.
 
 
-### 42 · Der Angriff - Zündung 1
+### 43 · Der Angriff - Zündung 1
 
 > **POV:** Girlin · **Jahr +10** · **Offen:** -
 
@@ -548,7 +561,7 @@ Azzim fällt mit seinen Leuten über die Schlucht her.
 > **Seine Leute** (Autor, 10.09.2026): **drei bis vier eigene Männer**. Als der Generator ihn wegreißt, **brechen sie ab und fliehen** - sie kämpfen nicht weiter und plündern nicht. Bellbrim und das Kind sehen alles aus der Nachbarkammer, durch Fels getrennt.
 
 
-### 43 · Azzim vor den Füßen
+### 44 · Azzim vor den Füßen
 
 > **POV:** Tibun · **Jahr +10** · **Offen:** -
 
@@ -561,7 +574,7 @@ Ein fremder Mann fällt aus dem Nichts neben den Ring.
 > **Reihenfolge des Begreifens** (Autor, 10.09.2026): Im Moment der fremden Zündung sieht Tibun nur, **dass** etwas geschehen ist - eine Halbkugel Boden ist fort, sonst nichts. **Was es bedeutet, liefert erst der Mann im Sand.** Zehn Jahre lang hat er aus Spuren gelesen; beim einzigen Mal, das zählt, steht jemand vor ihm.
 
 
-### 44 · Der Kampf - Zündung 2
+### 45 · Der Kampf - Zündung 2
 
 > **POV:** Tibun · **Jahr +10** · **Offen:** Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus
 
@@ -572,7 +585,7 @@ Azzim wirft ihn in den Ring und würgt ihn am Boden.
 - **Ausgang:** Die Kette fällt aus dem Dachstuhl. Azzim wird von der Kugelgrenze zerteilt, Tibun reist. Notwehr, kein Plan.
 
 
-### 45 · Wiedersehen und Schluss
+### 46 · Wiedersehen und Schluss
 
 > **POV:** Girlin · **Jahr +10** · **Offen:** Der Kampf in der Schlucht während Tibuns Ankunft · Der Schlusssatz - wissen die Figuren, was er kostet?
 

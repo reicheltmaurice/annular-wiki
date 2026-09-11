@@ -15,7 +15,7 @@ Regionales Zentrum des Nordvolks. Name aus *ting* (Thing/Versammlung) + *sal* (H
 
 ## Verhältnis zu Skirraa
 - Skirraa ist ein abseitiger Weiler ohne eigene Seherin; für Recht, Thing und Orakel reist man nach Tingsal
-- Die wandernde Wala (Zwillingsschwester) zieht durchs Hinterland und kommt gelegentlich nach Skirraa
+- Die wandernde Wala (Zwillingsschwester) zieht durchs Hinterland und kommt gelegentlich nach Skirraa - **erreichbar nur über ihre Schwester hier**, die entscheidet, ob ein Anliegen es rechtfertigt, sie zu schicken (Autor, 11.09.2026)
 
 ## Offen
 - **???** - Ausarbeitung der Halle und des Thinggeschehens

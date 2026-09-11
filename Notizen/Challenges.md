@@ -794,7 +794,22 @@ Charakter: **Sie webt besser als [Millia](../Menschen/Nordvolk/Nebenfiguren/Mill
 
 **Das ist die schärfste Pointe des Nordstrangs:** Tibun wirft dem Vater vor, dass er nichts sagt und weitermacht - und findet bei der Rückkehr genau das in seiner Schwester wieder. Aus dem verspielten, neugierigen Kind ist die stille Erwachsene geworden, während er weg war.
 
-**Weiter offen:** was sie ihm bei der Rückkehr sagt (oder nicht sagt), frühes Leben, Inspiration, ob sie vom fehlenden Webkamm weiß.
+**Entschieden (Autor, 11.09.2026):**
+
+| | |
+|---|---|
+| **Der Empfang** | Sie ist **wütend**; die Verletztheit darüber, dass er sie verlassen hat, bricht in einem **Wutanfall** heraus |
+| **Ruhe und Wut** | **Einmal, dann still** - der Ausbruch gilt nur ihm, danach ist sie wieder die Stille |
+| **Wo** | **Eigene Szene bei seiner Ankunft** (*Truda empfängt ihn*); *Truda hält ihn für verloren* bleibt das spätere Gespräch |
+| **Der Webkamm** | Sie weiß es **von Anfang an** und hat **nie etwas gesagt** |
+
+Damit bekommt das Verlassen in +9 **doch eine eigene Szene** - [C-077 ✓](#c-077-tibun-und-truda-nach-girlins-verschwinden-) hatte keine vorgesehen. Die Pointe (er findet bei ihr das Schweigen des Vaters) bleibt: Nach dem einen Ausbruch ist sie still.
+
+**Anmerkung (Claude):** Den Diebstahl, den sie ihm vorhalten könnte, erwähnt sie nie. Heraus bricht, was sich nicht vorhalten lässt wie ein Gegenstand - dass er ohne ein Wort ging.
+
+Nachgezogen: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md), [Tibun](../Menschen/Nordvolk/Tibun.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md).
+
+**Weiter offen:** frühes Leben, Inspiration.
 ---
 
 ### C-048: Hadurik - offene Felder ○
@@ -819,7 +834,11 @@ Charakter: **Sie webt besser als [Millia](../Menschen/Nordvolk/Nebenfiguren/Mill
 
 **Zwei Seherinnen werden gebraucht:** Die eine spricht das Urteil und zieht weiter, die andere ist die Adresse, an der man eine Wala sicher findet. Ohne die zweite gäbe es niemanden, der Semunds Neubindung erlaubt.
 
-**Weiter offen:** wann genau sie zurückkommt und ob Tibun ihr begegnet, Fähigkeiten, Inspiration.
+**Nachtrag (Autor, 11.09.2026):** Nach Tibuns Rückkehr wird **die Wala** gerufen, nicht das Thing. **Ihr Motiv gilt:** Sie möchte selbst mehr über den Ring wissen, verlöre dabei aber ihr Gesicht - deshalb lässt sie ihn gewähren. Tibun begegnet ihr damit in Jahr 0 und nach seiner Rückkehr.
+
+**Wie man sie ruft - entschieden (Autor, 11.09.2026):** **Nur über ihre Schwester in [Tingsal](../Orte/Tingsal.md).** Man geht zur [Wala von Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md) und sagt ihr, warum und wo man Rat benötigt. Sie entscheidet, ob das Anliegen wichtig genug oder gerechtfertigt genug ist, um ihre Schwester dorthin zu schicken. **Wie sie die Schwester erreicht** und ihr Ort und Grund mitteilt, **weiß niemand** - ein Geheimnis zwischen den Zwillingen. Eingetragen in [Wala-Wandernd](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md), [Wala-Tingsal](../Menschen/Nordvolk/Nebenfiguren/Wala-Tingsal.md), [Tingsal](../Orte/Tingsal.md) und die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md).
+
+**Weiter offen:** wann sie sonst zurückkommt, Fähigkeiten, Inspiration.
 ---
 
 ### C-051: Frida - offene Felder ○
@@ -1179,7 +1198,7 @@ Die Zahlen tragen den Beat: [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) 
 | **Kümmert er sich?** | **Nein. Er zieht sich zurück.** Er sucht die Mutter, statt sich um die Schwester zu kümmern; Truda bleibt allein. |
 | **Abschied beim Aufbruch** | **Keiner.** Er geht ohne ein Wort - sie ist zehn. |
 | **Was sie denkt** | **Sie fühlt sich verlassen.** Zweiter Verlust in zwei Jahren. |
-| **Wie es erzählt wird** | **Beiläufig in den bestehenden Szenen von Jahr 0 und +1** und **noch einmal aufgerufen bei der Rückkehr** in +9. **Keine eigene Szene.** |
+| **Wie es erzählt wird** | **Beiläufig in den bestehenden Szenen von Jahr 0 und +1** und **noch einmal aufgerufen bei der Rückkehr** in +9. **Keine eigene Szene.** *(11.09.2026: Der Empfang in +9 bekommt doch eine → [C-047](#c-047-truda---offene-felder-).)* |
 
 **Der Skizzen-Beat ist damit überholt.** *„Er muss sich um seine kleine Schwester kümmern"* gilt nicht mehr - er müsste, und er tut es nicht. Vermerkt in der [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md).
 
@@ -1769,8 +1788,8 @@ Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor---ladu
 - **[Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) und neugierige Kinder meiden ihn nicht ganz** - die einzige verbliebene Verbindung zum Weiler.
 - **Niemand versucht, ihn zu vertreiben.** Wer sich an diesen Ort begibt, ist **selber schuld**; die anderen wollen lediglich nicht mit hineingezogen werden - **anheftendes Pech**, keine Strafe. Die Frage *„Was rettet ihn vor der Vertreibung?"* ist damit gegenstandslos und gestrichen.
 - **[Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) duldet ihn**, neutral bis familiär - aber **nur fern vom Ring** und **unter Vermeidung des Themas**.
-- **Die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) wird gerufen** (oder das Thing). Sie **sieht es sich an**, **deutet es wie zuvor** - er ist selber schuld - und **schärft jedem erneut ein, dass dieser Ort den Zorn der Götter auf einen lädt**. Sie **lässt ihn gewähren**.
-  - Als Motiv im Raum, vom Autor mit *vielleicht* formuliert und deshalb nicht beschlossen: dass sie **selbst mehr über den Ring wissen möchte**, dabei aber ihr **Gesicht verlöre** · **???** → [C-050](#c-050-wandernde-wala---offene-felder-)
+- **Die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md) wird gerufen** (oder das Thing) *(11.09.2026: die Wala, nicht das Thing)*. Sie **sieht es sich an**, **deutet es wie zuvor** - er ist selber schuld - und **schärft jedem erneut ein, dass dieser Ort den Zorn der Götter auf einen lädt**. Sie **lässt ihn gewähren**.
+  - Als Motiv im Raum, vom Autor mit *vielleicht* formuliert und deshalb nicht beschlossen: dass sie **selbst mehr über den Ring wissen möchte**, dabei aber ihr **Gesicht verlöre** · **???** → [C-050](#c-050-wandernde-wala---offene-felder-) *(11.09.2026: gilt, Autor)*
 - **Truda weiß, was er tut** - er sagt es ihr. Sie **hält ihn für verloren** und will ihn **zur Vernunft bringen** → [C-077](#c-077-tibun-und-truda-nach-girlins-verschwinden-).
 
 **Weiterhin offen · ???** Womit er baut - Bauholz, Werkzeug und Arbeitskraft; da ihm niemand hilft, muss er alles allein bewältigen oder kaufen → [C-163](#c-163-womit-tibun-die-werkstatt-bezahlt-).
@@ -2481,7 +2500,7 @@ Aus [C-123](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-) (03.09.2026):
 - Eingetragen in [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md).
 - **Beantwortet zugleich die erste Teilfrage von [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-)** („Wie geht der Kampf ohne Azzim weiter?").
 - **Für [C-120](#c-120-azzims-zweite-seite---der-dritte-konflikt-fehlt-wieder-) liefert das nichts.** Die Hoffnung, aus bezahlten Männern entstehe wirtschaftlicher Druck, ist damit hinfällig - der Zug kostet ihn nichts. Seine zweite Seite muss anderswoher kommen.
-- **Nachgetragen (Autor, 10.09.2026):** [Tibun](../Menschen/Nordvolk/Tibun.md) **trifft keinen von ihnen mehr an**. Wenn er Minuten später in der Schlucht steht, ist der Kampf vorbei - nachgezogen in [Szene 45](../Plots/Plot-1/Szenen.md).
+- **Nachgetragen (Autor, 10.09.2026):** [Tibun](../Menschen/Nordvolk/Tibun.md) **trifft keinen von ihnen mehr an**. Wenn er Minuten später in der Schlucht steht, ist der Kampf vorbei - nachgezogen in [Szene 46](../Plots/Plot-1/Szenen.md).
 
 ---
 
@@ -2505,7 +2524,7 @@ Denkbar ist, dass Girlin das gar nicht bedenkt - dass sie etwas schickt, ohne zu
 - **Sie wählt bewusst.** Kein Verzweiflungsgriff - sie überlegt, was ihre Leute deuten können, und stellt das Bündel danach zusammen. **Ihr ist bewusst, dass im Norden niemand lesen kann** (Autor, 09.09.2026); dass nichts Beschriebenes im Bündel liegt, ist deshalb kein Versäumnis, sondern Entscheidung.
 - **Empfänger ist die Familie**, keine einzelne Person. **Sie weiß nicht, dass [Tibun](../Menschen/Nordvolk/Tibun.md) fort ist** (Autor): Für sie sind alle noch zu Hause - sie schickt an einen Zustand, den es nicht mehr gibt.
 
-Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Szenen](../Plots/Plot-1/Szenen.md) (Szene 37).
+Eingetragen in [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) und [Szenen](../Plots/Plot-1/Szenen.md) (Szene 38).
 
 Berührt [C-025](#c-025-girlin---charakter--fähigkeiten-) (Weben ist ihr Handwerk) und [C-013](#c-013-runen---anordnung-anzahl-aussehen-).
 
@@ -2993,7 +3012,7 @@ Entschieden war die **Grundhaltung**: Das Dorf warnt, meidet und hilft nicht; ni
 
 - Eingetragen in [Skirraa](../Orte/Skirraa.md) und die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md).
 - **Randnutzen für [C-118](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-):** Die Warngeschichte hält den Ort in den acht Jahren ohne Tibun am Leben. Sie füllt die Lücke nicht, aber sie zeigt, dass in Skirraa etwas weiterläuft.
-- **Nicht berührt · ???** Das Motiv der Wala (dass sie selbst mehr wissen möchte, dabei aber ihr Gesicht verlöre) steht weiter offen.
+- **Nicht berührt · ???** Das Motiv der Wala (dass sie selbst mehr wissen möchte, dabei aber ihr Gesicht verlöre) steht weiter offen. *(Entschieden 11.09.2026: gilt → [C-050](#c-050-wandernde-wala---offene-felder-).)*
 
 ---
 

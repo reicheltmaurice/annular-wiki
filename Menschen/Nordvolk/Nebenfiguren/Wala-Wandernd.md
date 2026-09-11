@@ -64,6 +64,10 @@ Weiß **nichts** vom vergrabenen Ring am Skir.
 
 Das ist härter als Abwesenheit. [Tibun](../Tibun.md) kann sie stellen - und es nützt ihm nichts. Sie ist erreichbar, ansprechbar und trotzdem unverrückbar; es gibt keine Instanz dahinter, die man anrufen könnte ([Wala von Tingsal](Wala-Tingsal.md) spricht mit derselben Stimme).
 
+**Warum sie ihn nach seiner Rückkehr gewähren lässt** (Autor, 11.09.2026): Sie möchte selbst mehr über den Ring wissen - und verlöre dabei ihr Gesicht. Als man sie ruft, deutet sie wie zuvor und lässt ihn gewähren.
+
+**Wie man sie ruft** (Autor, 11.09.2026): **nur über ihre Schwester in [Tingsal](../../../Orte/Tingsal.md).** Die [Wala von Tingsal](Wala-Tingsal.md) entscheidet, ob ein Anliegen wichtig genug oder gerechtfertigt genug ist, um sie an den Ort zu schicken. Wie die Nachricht sie erreicht, weiß niemand - ein Geheimnis zwischen den Zwillingen.
+
 **Offen:** wann genau sie zurückkommt und ob Tibun ihr begegnet · **???**
 
 ---

@@ -41,7 +41,7 @@ Tibun wächst in Skirraa auf, einem abgelegenen Weiler im hohen Norden. Die Fami
 
 ## Der Webkamm
 
-Nach [Girlins](Girlin.md) Toterklärung erbt [Truda](Nebenfiguren/Truda.md) das Frauengut, [Millia](Nebenfiguren/Millia.md) übernimmt Webstuhl und Herd - **Tibun bekommt nichts**. Er nimmt sich ihren **Webkamm**, der rechtlich der Schwester zusteht, und trägt ihn zehn Winter mit sich. Ein Werkzeug, kein Schmuck; unscheinbar genug, dass niemand ihn vermisst.
+Nach [Girlins](Girlin.md) Toterklärung erbt [Truda](Nebenfiguren/Truda.md) das Frauengut, [Millia](Nebenfiguren/Millia.md) übernimmt Webstuhl und Herd - **Tibun bekommt nichts**. Er nimmt sich ihren **Webkamm**, der rechtlich der Schwester zusteht, und trägt ihn zehn Winter mit sich. Ein Werkzeug, kein Schmuck; unscheinbar genug, dass niemand ihn vermisst. Bemerkt hat es trotzdem eine: [Truda](Nebenfiguren/Truda.md) weiß es von Anfang an - und sagt nie etwas (Autor, 11.09.2026).
 
 > **Regel:** Der Kamm bleibt ein Kamm. Er wird **nie** Teil von Tibuns Erfindung - der Bernstein trägt diese Rolle bereits, und beides in einem Gegenstand wäre zu glatt.
 
@@ -49,7 +49,7 @@ Nach [Girlins](Girlin.md) Toterklärung erbt [Truda](Nebenfiguren/Truda.md) das 
 
 ## Die Schwester
 
-**Um [Truda](Nebenfiguren/Truda.md) kümmert er sich nicht** (Autor, 10.09.2026). Sie ist neun, sie hängt an ihm, und er **zieht sich zurück** - die Suche nach der Mutter nimmt ihn ganz. **Beim Aufbruch ein Jahr später verabschiedet er sich nicht von ihr.** Er wirft dem Vater vor, Girlin fallenzulassen, und lässt dabei selbst jemanden zurück, ohne es zu bemerken. Das ist die Rechnung, die bei seiner Rückkehr auf ihn wartet.
+**Um [Truda](Nebenfiguren/Truda.md) kümmert er sich nicht** (Autor, 10.09.2026). Sie ist neun, sie hängt an ihm, und er **zieht sich zurück** - die Suche nach der Mutter nimmt ihn ganz. **Beim Aufbruch ein Jahr später verabschiedet er sich nicht von ihr.** Er wirft dem Vater vor, Girlin fallenzulassen, und lässt dabei selbst jemanden zurück, ohne es zu bemerken. Das ist die Rechnung, die bei seiner Rückkehr auf ihn wartet. Sie kommt bei seiner Ankunft, als Wutanfall - einmal, danach ist Truda wieder still (Autor, 11.09.2026).
 
 ---
 
