@@ -55,7 +55,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-085: Titel für Plot 1 ○](#c-085-titel-für-plot-1-)
 - [C-089: Azzim - Verhältnis zum Ring (harte Regel) ○](#c-089-azzim---verhältnis-zum-ring-harte-regel-)
 - [C-093: Prolog - Namen nach C-092 nachziehen ○](#c-093-prolog---namen-nach-c-092-nachziehen-)
-- [C-099: Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus ○](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-)
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
 - [C-108: Der Kampf in der Schlucht während Tibuns Ankunft ○](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-)
 - [C-113: Bellbrims Sprache - Verhältnis zu C-026 ○](#c-113-bellbrims-sprache---verhältnis-zu-c-026-)
@@ -132,6 +131,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-096: Korrektur - Girlins Alter ✓](#c-096-korrektur---girlins-alter-)
 - [C-097: Girlins Kinderfolge ✓](#c-097-girlins-kinderfolge---die-neun-jahre-lücke-)
 - [C-098: Woher Tibun die Schnittwirkung der Kugelgrenze kennt ✓](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-)
+- [C-099: Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus ✓](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-)
 - [C-100: Die Werkstatt an der Tabustelle ✓](#c-100-die-werkstatt-an-der-tabustelle-)
 - [C-101: Girlins Nachricht - Vorhaben ohne Ausführung ✓](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-)
 - [C-102: Was bei Zündung 1 aus dem Norden verschwindet ✓](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-)
@@ -1765,7 +1765,7 @@ Direkt nach Girlins Verschwinden untersucht der Sechzehnjährige die Stelle: **h
 
 ---
 
-### C-099: Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus ○
+### C-099: Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus ✓
 
 **Entschieden (Autor, 31.08.2026):** Das **Bernsteinrad** lädt auf, gezündet wird über eine **Kette**, die aus dem Dachstuhl der Werkstatt herabfällt und Speicher und Ring verbindet. Punktuell, gezielt, augenblicklich.
 
@@ -1781,11 +1781,24 @@ Betrifft [C-002](#c-002-tibuns-elektrizitätsquelle-) und [C-020](#c-020-vorwarn
 
 **Entschieden (Autor, 11.09.2026): Es gibt keinen Konduktor, und der Ring ist kein Ladungsspeicher.** Die Ladung sammelt sich **auf dem Rad selbst**. Der *Speicher* aus der Entscheidung vom 31.08.2026 ist damit das Rad: Die Kette verbindet **Rad und Ring**. Überholt sind der Punkt *„Ein isolierter Konduktor ... hält sie"* und die Frage nach Material und Größe des Konduktors. Gestrichen ist auch der *Ring als natürlicher Speicher* (~200 pF → ~1 J) in [Tibuns Generator](../Technik/Tibuns-Generator.md) und [Elektrizität](../Technik/Elektrizitaet.md).
 
-**Anmerkung (Claude) - Physik prüfen:** Bernstein ist ein Isolator. Die Ladung sitzt, wo gerieben wurde, und wandert nicht - eine Kette, die das Rad berührt, nimmt nur die Ladung an der Berührstelle ab, nicht die des ganzen Rades auf einen Schlag. Historisch kam der gesonderte Konduktor erst um 1740 auf (Bose); er sammelt, was der Isolator abgibt. Für das Finale kann es trotzdem reichen: Die Ladung ist nur **Auslöser** ([Zünder-Prinzip](../Technik/Tibuns-Generator.md#zünder-prinzip)), und das Rad dreht unter der Kette weiter. **Ob ein einzelner Funke an der Berührstelle zündet oder erst eine rasche Folge · ???**
+**Anmerkung (Claude) - Physik prüfen:** Bernstein ist ein Isolator. Die Ladung sitzt, wo gerieben wurde, und wandert nicht - eine Kette, die das Rad berührt, nimmt nur die Ladung an der Berührstelle ab, nicht die des ganzen Rades auf einen Schlag. Historisch kam der gesonderte Konduktor erst um 1740 auf (Bose); er sammelt, was der Isolator abgibt. Für das Finale kann es trotzdem reichen: Die Ladung ist nur **Auslöser** ([Zünder-Prinzip](../Technik/Tibuns-Generator.md#zünder-prinzip)), und das Rad dreht unter der Kette weiter. **Ob ein einzelner Funke an der Berührstelle zündet oder erst eine rasche Folge · ???** *(entschieden 11.09.2026: wird im Text nicht erklärt, s. u.)*
 
 Nachgezogen: [Tibuns Generator](../Technik/Tibuns-Generator.md), [Elektrizität](../Technik/Elektrizitaet.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md).
 
-**Weiter offen:** Isolierung gegen jütische Feuchtigkeit, Auslösemechanismus im Dachstuhl, die Physik-Frage oben · **???**
+**Entschieden (Autor, 11.09.2026) - der Rest:**
+
+| | |
+|---|---|
+| **Ein Funke oder eine Folge** | **Wird im Text nicht erklärt.** Der Leser sieht nur den Schlag |
+| **Feuchtigkeit** | **Die Werkstatt genügt** - Dach und Wände halten den Regen ab |
+| **Der Auslöser** | Eine **Zugschnur**: Sie hängt knapp außerhalb der Kugel bis zum Boden, ein Ruck löst die Kette |
+| **Seine Hand** | Die Schnur liegt außerhalb der Kugel, Tibun darin. Er greift hinaus und hat Hand und Fuß **knapp** wieder in der Kugel, bevor die Kette unten ist |
+
+**Fallzeit (Rechnung, Annahme ausgewiesen):** t = √(2h/g), g = 9,81 m/s². Bei h = 2 m sind es **0,64 s** (1,5 m: 0,55 s · 2,5 m: 0,71 s). Die **2 m** stammen aus der Liste oben und sind vom Autor nicht bestätigt.
+
+**Anmerkung (Claude):** *„Ein halber Herzschlag"* ([Zeitleiste](../Plots/Plot-1/Zeitleiste.md)) passt zu 0,64 s nur bei einem Puls von rund 47 Schlägen pro Minute. Im Würgegriff schlägt das Herz eher 120 bis 150 Mal - dann sind 0,64 s eher 1,3 bis 1,6 Schläge. Nur relevant, wenn im Text eine Zeitangabe fällt.
+
+Nachgezogen: [Tibuns Generator](../Technik/Tibuns-Generator.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Der Kampf - Zündung 2*).
 
 ---
 

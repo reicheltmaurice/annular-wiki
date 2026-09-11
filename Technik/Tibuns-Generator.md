@@ -88,8 +88,12 @@ Handgekurbeltes **Tisch-Modell** (Prototyp, beweist den Funken) → große **was
 
 ---
 
-## Offen
+## Übertragung und Auslöser
 
 **Übertragung - entschieden:** über die **Kette**, die aus dem Dachstuhl fällt und Rad und Ring verbindet (Autor, 31.08.2026); die Ladung sitzt auf dem Rad selbst (Autor, 11.09.2026).
 
-**Offen · ???** Der Auslösemechanismus im Dachstuhl und die Feuchtigkeit - Nordjütland ist nass. Und: Bernstein ist ein Isolator, die Kette nimmt nur die Ladung an der Berührstelle ab. Ob ein einzelner Funke zündet oder erst eine rasche Folge, während das Rad weiterdreht: ???
+**Der Auslöser** (Autor, 11.09.2026): eine **Zugschnur**. Sie hängt knapp außerhalb der Kugel vom Dachstuhl bis zum Boden; ein Ruck löst die Kette.
+
+**Feuchtigkeit** (Autor, 11.09.2026): **Die Werkstatt genügt** - Dach und Wände halten den Regen ab.
+
+**Ein Funke oder eine Folge** (Autor, 11.09.2026): **wird im Text nicht erklärt.** Bernstein ist ein Isolator, die Kette nimmt nur die Ladung an der Berührstelle ab - der Leser sieht nur den Schlag.

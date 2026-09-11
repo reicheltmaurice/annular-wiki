@@ -364,7 +364,7 @@ Die drei lösen sich und ziehen zu Bellbrim.
 
 ### 27 · Das Tischmodell
 
-> **POV:** Tibun · **Jahr +5** · **Offen:** Der Nordstrang verliert zwischen +1 und +9 nichts · Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus
+> **POV:** Tibun · **Jahr +5** · **Offen:** Der Nordstrang verliert zwischen +1 und +9 nichts
 
 Vier Jahre Bau und Bernsteinsammeln in Kaupvik.
 
@@ -578,13 +578,15 @@ Ein fremder Mann fällt aus dem Nichts neben den Ring.
 
 ### 45 · Der Kampf - Zündung 2
 
-> **POV:** Tibun · **Jahr +10** · **Offen:** Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus
+> **POV:** Tibun · **Jahr +10** · **Offen:** -
 
 Azzim wirft ihn in den Ring und würgt ihn am Boden.
 
 - **Will:** Überleben und den Auslöser erreichen
 - **Hindernis:** Azzim ist der Stärkere
 - **Ausgang:** Die Kette fällt aus dem Dachstuhl. Azzim wird von der Kugelgrenze zerteilt, Tibun reist. Notwehr, kein Plan.
+
+> **Der Griff nach draußen** (Autor, 11.09.2026): Die Zugschnur hängt knapp außerhalb der Kugel. Tibun muss hinausgreifen, während Azzim ihn würgt, und hat Hand und Fuß knapp wieder drin, bevor die Kette unten ist. Ob ein Funke genügt oder eine Folge, erklärt der Text nicht - der Leser sieht nur den Schlag.
 
 
 ### 46 · Wiedersehen und Schluss

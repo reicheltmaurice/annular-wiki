@@ -243,6 +243,7 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 ### Zündung 2 - Tibuns Auslösung
 - Die Ladung sammelt sich **auf dem Bernsteinrad selbst** - es gibt keinen Konduktor, und der Ring ist kein Ladungsspeicher (Autor, 11.09.2026). Gezündet wird über eine **Kette**, die aus dem Dachstuhl der Werkstatt herabfällt und Rad und Ring verbindet - **punktuell, gezielt, augenblicklich**
 - Tibun erreicht mit letzter Kraft den Mechanismus, lässt die Kette fallen und **tritt Azzim im selben Griff von sich weg**
+  - **Der Mechanismus ist eine Zugschnur** (Autor, 11.09.2026). Sie hängt knapp außerhalb der Kugel; Tibun muss hinausgreifen und hat Hand und Fuß **knapp** wieder in der Kugel, bevor die Kette unten ist
 - Azzim taumelt zum Rand. Die **Fallzeit der Kette ist genau seine Taumelzeit** - ein Schritt rückwärts, ein halber Herzschlag
 - **Azzim wird von der Kugelgrenze zerteilt.** Tibun steht mittig und **reist**
 - Es ist **Notwehr**, kein Plan: Tibun nutzt Wissen, das er hat, im Griff eines Erwürgenden
