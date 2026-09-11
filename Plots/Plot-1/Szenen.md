@@ -62,13 +62,15 @@ Abgeleitet aus den Feldern unten, nicht separat gepflegt (`python3 tools/szenenl
 
 ### 1 · Das Beben
 
-> **POV:** Tibun · **Jahr 0** · **Offen:** Folgen des Bebens im Dorf · Fundort und Freilegung des Rings
+> **POV:** Tibun · **Jahr 0** · **Offen:** -
 
 Ein Beben, wie es niemand kennt. Das Ringsystem erwacht.
 
 - **Will:** ???
 - **Hindernis:** ???
-- **Ausgang:** Die Menschen haben Angst. Wie der Ring dadurch zugänglich wird, ist offen.
+- **Ausgang:** Die Menschen haben Angst: Schäden an den Häusern, nichts stürzt ganz ein; der Weiler deutet das Beben als Zorn der Götter.
+
+> **Freilegung** (Autor, 09.09.2026): Das Beben löst am Waldrand von Vilund einen Erdrutsch aus und legt den Ring frei ([Skirraa](../../Orte/Skirraa.md#der-ring-im-wald-vilund)).
 
 
 ### 2 · Der Bernstein-Effekt

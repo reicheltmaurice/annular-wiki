@@ -44,6 +44,8 @@ Alles hier vom Autor entschieden am 09.09.2026.
 
 **Wie er zutage kommt.** Der Ring ist **jahrelang vergraben**. Erst das **Erdbeben** und ein dadurch ausgelöster **Erdrutsch** legen ihn frei. Er rutscht dabei **nicht in den Skir**, sondern bleibt an der Böschung liegen - der Fluss zieht ein paar Meter weiter unten vorbei.
 
+**Im Weiler** richtet das Beben **Schäden an den Häusern** an, nichts stürzt ganz ein. Man deutet es als **Zorn der Götter** (Autor, 11.09.2026).
+
 **Wie er aussieht.** **Dreckig** (Autor, 09.09.2026) - nicht bedeckt, nicht bemoost: Erde, Lehm und Pflanzenreste hängen und liegen nach dem Erdrutsch an ihm. Wo etwas abfällt, kommt makelloses Material zum Vorschein ([Portalringe](../Technik/Portalringe.md)).
 
 **Wie er daliegt.** **Liegend**, nicht stehend, und **leicht schräg** - vom Erdrutsch und dem Gefälle der Böschung verschoben. Aber er liegt, und [Girlin](../Menschen/Nordvolk/Girlin.md) **stolpert über den Rand**.

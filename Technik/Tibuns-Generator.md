@@ -34,7 +34,9 @@ Verworfen: Metall-/Kugelvarianten (Konduktor-Weg = Van-de-Graaff, gestrichen).
 Die erzeugte Ladung ist nur der **Auslöser**, nicht die Energiequelle. Reibungselektrizität liefert hohe Spannung, aber winzige Energie - real niemals genug für einen Teleport. Die eigentliche Energie kommt aus dem Ring bzw. dem Ringsystem selbst (mystisch). Die reale Physik bleibt damit exakt auf *Reibung → Funke* beschränkt.
 
 - **Kein gebauter Speicher.** Eine Leidener Flasche (Kondensator) wäre ein Anachronismus (Prinzip erst 1745) und ist verworfen. Die Ladung wird erzeugt und sofort genutzt, sonst verfliegt sie binnen Minuten.
-- **Der Ring ist der natürliche Speicher.** Der große Ringkörper besitzt genug Eigenkapazität (~200 pF → ~1 J, etwa das Hundertfache eines Türklinken-Schlags) für einen sichtbaren, knallenden Zünd-Überschlag von einigen Zentimetern. Kein Gewitterblitz, aber deutlich mehr als ein gewöhnlicher statischer Funke. (Merksatz: Kapazität hängt von der *Größe* des Leiters ab, nicht von Masse oder Drahtlänge.)
+- **Die Ladung sammelt sich auf dem Rad selbst** (Autor, 11.09.2026). Es gibt **keinen** eigenen Konduktor, und der **Ring ist kein Ladungsspeicher**.
+
+> **Gestrichen (11.09.2026):** Hier stand *„Der Ring ist der natürliche Speicher"* mit einer Eigenkapazität von ~200 pF → ~1 J. Vom Autor verworfen.
 
 ---
 
@@ -50,10 +52,11 @@ Die Wartezeit ist damit keine Eigenschaft der Portalringe, sondern eine **Grenze
 
 ## Zündablauf
 
-1. Das Rad dreht schnell bis zur **Sättigung** - ein blaues Glimmen (Korona) zeigt an, dass es bereit ist.
-2. Das Rad wird nah an den Ring gebracht.
-3. Kontinuierliches **Funkensprühen** lädt den Ring auf.
-4. Im Zündmoment ein kräftiger **Überschlag** → der Ring aktiviert (Tauschvorgang siehe [Portalringe](Portalringe.md)).
+1. Das Rad dreht schnell bis zur **Sättigung** - ein blaues Glimmen (Korona) zeigt an, dass es bereit ist. Die Ladung sitzt **auf dem Rad selbst** (Autor, 11.09.2026).
+2. Die **Kette** fällt aus dem Dachstuhl und verbindet Rad und Ring (Autor, 31.08. und 11.09.2026).
+3. Im Zündmoment ein kräftiger **Überschlag** → der Ring aktiviert (Tauschvorgang siehe [Portalringe](Portalringe.md)).
+
+> **Gestrichen (11.09.2026):** Hier stand *„Das Rad wird nah an den Ring gebracht"* und *„Kontinuierliches Funkensprühen lädt den Ring auf"*. Der Ring ist **kein Ladungsspeicher** (Autor), und gezündet wird über die Kette.
 
 ---
 
@@ -64,6 +67,12 @@ Die Wartezeit ist damit keine Eigenschaft der Portalringe, sondern eine **Grenze
 **Bezugsebene:** Das Kugelzentrum liegt in der **Ringebene**, der Radius beträgt **1,50 m** ([Portalringe](Portalringe.md)). Alles, was innerhalb dieser 1,50 m liegt, reist mit oder wird an der Grenze zerteilt.
 
 **Warum das das Finale trägt:** Bei **Zündung 1** löst der Ring aus, ohne dass Tibun etwas tut. Stünde die Anlage im Kugelvolumen, wäre sie in diesem Moment weg und er könnte nie zünden. Auch die **Kette hängt zu diesem Zeitpunkt noch oben im Dachstuhl** und damit außerhalb; sie fällt erst im Kampf herab und schließt dabei den Kreis.
+
+---
+
+## Nach Zündung 2 - kein Aufladen
+
+**Die gefallene Kette hält festen Kontakt** (Autor, 11.09.2026). Die Ladung, die das weiterlaufende Rad erzeugt, fließt laufend ab - nichts lädt sich wieder auf, und der Ring zündet **nicht** von selbst erneut. Nach dem Finale gibt es an der Tabustelle keine weiteren Tausche.
 
 ---
 
@@ -81,4 +90,6 @@ Handgekurbeltes **Tisch-Modell** (Prototyp, beweist den Funken) → große **was
 
 ## Offen
 
-**Übertragung (finaler Aufbau): ???** Wie kommt die Ladung vom Rad zum Ring? Direkte Annäherung des Rades, ein Metallstab oder eine an der Decke isoliert aufgehängte **Metallkette**. Die Kette ist als dramaturgisches Element zugelassen, auch wenn technisch ineffizient - Tibun darf als Erfinder Umwege machen..
+**Übertragung - entschieden:** über die **Kette**, die aus dem Dachstuhl fällt und Rad und Ring verbindet (Autor, 31.08.2026); die Ladung sitzt auf dem Rad selbst (Autor, 11.09.2026).
+
+**Offen · ???** Der Auslösemechanismus im Dachstuhl und die Feuchtigkeit - Nordjütland ist nass. Und: Bernstein ist ein Isolator, die Kette nimmt nur die Ladung an der Berührstelle ab. Ob ein einzelner Funke zündet oder erst eine rasche Folge, während das Rad weiterdreht: ???

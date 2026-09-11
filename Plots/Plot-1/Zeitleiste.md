@@ -45,7 +45,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - Weltweites Beben (Erwachen des Ringsystems)
 - **Das Beben löst am Skir einen Erdrutsch aus und legt den vergrabenen Portalring frei** (Autor, 09.09.2026). Die Stelle liegt am **Waldrand von [Vilund](../../Orte/sonstiges.md)**, auf einer hohen Uferböschung: Der Ring bleibt oben auf der Böschung liegen, der Skir läuft ein paar Meter tiefer vorbei. Einzelheiten: [Skirraa](../../Orte/Skirraa.md#der-ring-im-wald-vilund)
   > Am 02.09.2026 war eine gleichlautende Fassung gestrichen worden, weil sie nicht vom Autor stammte. Sie ist am 09.09.2026 **vom Autor selbst gesetzt** worden.
-- Die Menschen haben Angst; Folgen im Weiler offen
+- Die Menschen haben Angst. **Folgen im Weiler** (Autor, 11.09.2026): Schäden an den Häusern, nichts stürzt ganz ein. Der Weiler deutet das Beben als **Zorn der Götter**
 - **Der Prolog besteht aus diesem Ereignis** ([Kapitelstruktur](Kapitelstruktur.md#was-am-04092026-entschieden-wurde---prolog-und-anfang))
 
 ### 2. Der Bernstein-Effekt
@@ -229,7 +229,7 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 - **Tibuns Anlage steht vollständig außerhalb der Kugel** (Autor, 10.09.2026) - weil er die Schnittwirkung der Grenze kennt, hat er bewusst außerhalb gebaut. Auch die **Kette hängt in diesem Moment noch oben im Dachstuhl**. Nichts von der Anlage geht mit über, und er kann anschließend zünden
 - **Tibun begreift im Moment der fremden Zündung noch nichts** (Autor, 10.09.2026). Er sieht nur, **dass** etwas geschehen ist. **Die Erklärung liefert Azzim** - der Beweis kommt als Person, nicht als Schlussfolgerung
 - **Seine Leute brechen ab und fliehen** (Autor, 10.09.2026), sobald er vor ihren Augen verschwindet. Zu unheimlich, was sie sehen, und ohne den, der sie führt, bleibt keiner. Sie kämpfen nicht weiter und plündern nicht. **Tibun trifft bei seiner Ankunft Minuten später keinen von ihnen mehr an** - wenn er in der Schlucht steht, ist der Kampf vorbei
-- Der **Skir-Ring** flippt mit. **Tibuns geladener Konduktor ist davon nicht betroffen** - die Kette liegt im Dachstuhl, der Stromkreis ist offen. Er kann **jederzeit** zünden; die Frage ist nur, ob er die Hand frei bekommt
+- Der **Skir-Ring** flippt mit. **Tibuns geladenes Rad ist davon nicht betroffen** - die Kette liegt im Dachstuhl, der Stromkreis ist offen. Er kann **jederzeit** zünden; die Frage ist nur, ob er die Hand frei bekommt
 
 ### Der Kampf im Norden (Minuten, kein Tag)
 - Tibun führt an diesem Tag nur einen **Testlauf** durch. Er will nicht reisen: keine Vorräte, keine Waffe, kein Abschied von [Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md)
@@ -241,17 +241,18 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 - **Tibun weiß, dass die Kugelgrenze schneidet.** Er hat zehn Winter die Sandmulde vor Augen gehabt: glatt durchtrennte Wurzeln, halbierte Steine
 
 ### Zündung 2 - Tibuns Auslösung
-- Das **Bernsteinrad** lädt einen **isolierten Konduktor**. Gezündet wird über eine **Kette**, die aus dem Dachstuhl der Werkstatt herabfällt und Konduktor und Ring verbindet - **punktuell, gezielt, augenblicklich**
+- Die Ladung sammelt sich **auf dem Bernsteinrad selbst** - es gibt keinen Konduktor, und der Ring ist kein Ladungsspeicher (Autor, 11.09.2026). Gezündet wird über eine **Kette**, die aus dem Dachstuhl der Werkstatt herabfällt und Rad und Ring verbindet - **punktuell, gezielt, augenblicklich**
 - Tibun erreicht mit letzter Kraft den Mechanismus, lässt die Kette fallen und **tritt Azzim im selben Griff von sich weg**
 - Azzim taumelt zum Rand. Die **Fallzeit der Kette ist genau seine Taumelzeit** - ein Schritt rückwärts, ein halber Herzschlag
 - **Azzim wird von der Kugelgrenze zerteilt.** Tibun steht mittig und **reist**
 - Es ist **Notwehr**, kein Plan: Tibun nutzt Wissen, das er hat, im Griff eines Erwürgenden
 
-**Erzähltechnisch:** Tibuns Zündung ist damit **derselbe Vorgang wie Girlins Blitz vor zehn Jahren** - schlagartige Entladung ohne Vorlauf, nur gewollt. Das Problem der zehn Jahre war nie „genug Ladung erzeugen", sondern **sammeln und schlagartig freigeben**. Eine pulsende Vorwarnung am Ring gibt es bei dieser Bauweise nicht - die Rampe sitzt am Konduktor.
+**Erzähltechnisch:** Tibuns Zündung ist damit **derselbe Vorgang wie Girlins Blitz vor zehn Jahren** - schlagartige Entladung ohne Vorlauf, nur gewollt. Das Problem der zehn Jahre war nie „genug Ladung erzeugen", sondern **sammeln und schlagartig freigeben**. Eine pulsende Vorwarnung am Ring gibt es bei dieser Bauweise nicht - die Rampe sitzt am Rad.
 
 ### Was zurückbleibt und was übergeht
-- Im **Norden**: Azzims zweite Hälfte an der Tabustelle, die weiterlaufende Anlage am Fluss, ein Ring, der sich von allein wieder auflädt - und **niemand, der davon weiß**
-- In die **Wüste** geht bei jeder Zündung das Kugelvolumen der Nordseite über - **was genau, ist offen** · **???**
+- Im **Norden**: Azzims zweite Hälfte an der Tabustelle, die weiterlaufende Anlage am Fluss - und **niemand, der davon weiß**. **Kein Aufladen** (Autor, 11.09.2026): Die gefallene Kette hält festen Kontakt zwischen Rad und Ring, die Ladung fließt laufend ab, und der Ring zündet nicht von selbst erneut
+  > **Korrigiert (11.09.2026):** Hier stand *„ein Ring, der sich von allein wieder auflädt"*. Nach Zündung 2 lädt sich nichts wieder auf (Autor, 11.09.2026; [Tibuns Generator](../../Technik/Tibuns-Generator.md#nach-zündung-2---kein-aufladen)).
+- In die **Wüste** geht bei jeder Zündung das Kugelvolumen der Nordseite über. Bei **Zündung 1** sind das **nur Erde und Sand** (Autor, 10.09.2026, s. o.); was bei **Zündung 2** außer Tibun übergeht, ist offen · **???**
   > **Frühere Fassung gestrichen (03.09.2026):** *„rund 14 m³ jütisches Bachwasser und Erdreich"* und *„Tibun landet in einer Pfütze aus seiner Heimat"* stammten nicht vom Autor. **Der Ring im Norden liegt auf trockenem Grund** - es geht kein Flusswasser über
 - **Girlins Nachricht geht nicht über.** Sie **liegt fertig und wetterfest verpackt bereit** (03.09.2026) - ein Bündel aus einer Strähne ihres eigenen Haars, einem gewebten Stück und ihrer Mantelfibel (Autor, 09.09.2026) - sie kommt nur nicht mehr dazu, es in den Ring zu legen. Der Angriff und die beiden Zündungen überholen ihr Vorhaben. Der Leser sieht das Ding und sieht es liegen bleiben
 

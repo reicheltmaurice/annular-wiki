@@ -40,7 +40,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-052: Herik - offene Felder ○](#c-052-herik---offene-felder-)
 - [C-053: Lanke - offene Felder ○](#c-053-lanke---offene-felder-)
 - [C-054: Tingsal - Halle & Thinggeschehen ○](#c-054-tingsal---halle--thinggeschehen-)
-- [C-056: Prolog - Folgen des Bebens im Dorf ○](#c-056-prolog---folgen-des-bebens-im-dorf-)
 - [C-058: Wasserrad-Unfall und Tibuns Schuld ○](#c-058-wasserrad-unfall-und-tibuns-schuld-)
 - [C-063: Prolog - Szene auf Autorenfassung zurückgerollt ○](#c-063-prolog---szene-auf-autorenfassung-zurückgerollt-)
 - [C-064: Prolog - Dorfplatz und Verlobungsschauplatz nachziehen ○](#c-064-prolog---dorfplatz-und-verlobungsschauplatz-nachziehen-)
@@ -59,7 +58,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-099: Der isolierte Konduktor - Ladungsspeicher ohne Anachronismus ○](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-)
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
 - [C-108: Der Kampf in der Schlucht während Tibuns Ankunft ○](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-)
-- [C-110: Der Schlusssatz - wissen die Figuren, was er kostet? ○](#c-110-der-schlusssatz---wissen-die-figuren-was-er-kostet-)
 - [C-113: Bellbrims Sprache - Verhältnis zu C-026 ○](#c-113-bellbrims-sprache---verhältnis-zu-c-026-)
 - [C-116: Azzim tritt zu spät auf ○](#c-116-azzim-tritt-zu-spät-auf-)
 - [C-118: Der Nordstrang verliert zwischen +1 und +9 nichts ○](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)
@@ -88,8 +86,11 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-008: Anzahl und Bekanntheit der Ringe ✓](#c-008-anzahl-und-bekanntheit-der-ringe-)
 - [C-010: Ringsystem - Kopplungsmechanik ✓](#c-010-ringsystem---kopplungsmechanik-)
 - [C-012: Aktivierungsverhalten des Rings ✓](#c-012-aktivierungsverhalten-des-rings-)
+- [C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft ✓](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft-)
+- [C-015: Verhältnis Drehung ↔ Tausch ✓](#c-015-verhältnis-drehung--tausch-)
 - [C-016: Schicksal von Vilund ✓](#c-016-schicksal-von-vilund-)
 - [C-018: Transport des Wüstenrings ✓](#c-018-widerspruch---transport-des-wüstenrings-)
+- [C-020: Vorwarnung vor dem Flip? ✓](#c-020-vorwarnung-vor-dem-flip-)
 - [C-021: Reale Verortung der Orte ✓](#c-021-reale-verortung-der-orte-)
 - [C-022: Tibuns Reise - Dauer, Motiv, Hof ✓](#c-022-tibuns-reise---dauer-motiv-hof-)
 - [C-023: Zeitleiste & Altersgerüst ✓](#c-023-zeitleiste--altersgerüst-)
@@ -103,6 +104,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-040: Prolog - Fischerdorf vs. Heide-Weiler ✓](#c-040-prolog---fischerdorf-vs-heide-weiler-)
 - [C-046: Millia - offene Felder ✓](#c-046-millia---offene-felder-)
 - [C-055: Der Skir - Gewässer, See und Fundort des Rings ✓](#c-055-der-skir---gewässer-see-und-fundort-des-rings-)
+- [C-056: Prolog - Folgen des Bebens im Dorf ✓](#c-056-prolog---folgen-des-bebens-im-dorf-)
 - [C-057: Prolog - warum sind Tibun und Girlin allein draußen? ✓](#c-057-prolog---warum-sind-tibun-und-girlin-allein-draußen-)
 - [C-059: Tibuns Zieheltern in Kaupvik ✓](#c-059-tibuns-zieheltern-in-kaupvik-)
 - [C-060: Girlin und der Neffe ✓](#c-060-girlin-und-der-neffe-)
@@ -117,6 +119,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-077: Tibun und Truda nach Girlins Verschwinden ✓](#c-077-tibun-und-truda-nach-girlins-verschwinden-)
 - [C-078: Tibuns Verhältnis zu Millia ✓](#c-078-tibuns-verhältnis-zu-millia-)
 - [C-080: Girlins Entführung und Rettung ✗](#c-080-girlins-entführung-und-rettung-)
+- [C-081: Girlins drittes Kind in der Wüste ✓](#c-081-girlins-drittes-kind-in-der-wüste-)
 - [C-082: Girlins Entscheidung zur Rückreise ✓](#c-082-girlins-entscheidung-zur-rückreise-)
 - [C-086: Ton in einem Satz ✓](#c-086-ton-in-einem-satz-)
 - [C-087: Zeitrechnung im Erzähltext ✓](#c-087-zeitrechnung-im-erzähltext-)
@@ -130,12 +133,14 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-097: Girlins Kinderfolge ✓](#c-097-girlins-kinderfolge---die-neun-jahre-lücke-)
 - [C-098: Woher Tibun die Schnittwirkung der Kugelgrenze kennt ✓](#c-098-woher-tibun-die-schnittwirkung-der-kugelgrenze-kennt-)
 - [C-100: Die Werkstatt an der Tabustelle ✓](#c-100-die-werkstatt-an-der-tabustelle-)
+- [C-101: Girlins Nachricht - Vorhaben ohne Ausführung ✓](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-)
 - [C-102: Was bei Zündung 1 aus dem Norden verschwindet ✓](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-)
 - [C-104: Wasser als Motiv des Transports ✗](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-)
-- [C-101: Girlins Nachricht - Vorhaben ohne Ausführung ✓](#c-101-girlins-nachricht---vorhaben-ohne-ausführung-)
 - [C-105: Der Neffe heißt Sekkan ✓](#c-105-der-neffe---name-eigenschaften-schweigebitte-)
+- [C-106: Durchgebrannte Ehefrau bei den Kel Aman ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)
 - [C-107: Azzims Motiv Wasser ✗](#c-107-azzims-motiv---wasser-statt-sklaverei-)
 - [C-109: Ladezeit des Konduktors ✓](#c-109-ladezeit-des-konduktors-)
+- [C-110: Der Schlusssatz - wissen die Figuren, was er kostet? ✓](#c-110-der-schlusssatz---wissen-die-figuren-was-er-kostet-)
 - [C-111: Kopplung ist nicht ortsgebunden ✓](#c-111-wiederaufstellung-des-rings-nach-dem-transport-kernfrage-)
 - [C-112: Das Wüstenkind während des Finales ✓](#c-112-das-wüstenkind-während-des-finales-)
 - [C-114: Girlin weiß von Anfang an vom Rückweg ✓](#c-114-girlin-weiß-von-anfang-an-dass-der-ring-ihr-rückweg-ist-)
@@ -143,9 +148,10 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-117: Ringgeometrie neu vermessen ✓](#c-117-ringgeometrie-neu-vermessen-)
 - [C-121: Zwei Generatoren, ungleiche Bauzeiten ✗](#c-121-zwei-generatoren-ungleiche-bauzeiten-)
 - [C-122: Der Wüstenstrang zwischen +8 und +10 ✓](#c-122-der-wüstenstrang-zwischen-8-und-10-)
-- [C-124: Die Zwischenstation - Ort und Gruppe ✓](#c-124-die-zwischenstation---ort-und-gruppe-)
 - [C-123: Azzims frühe Auftritte - vier, entschieden ✓](#c-123-azzims-frühe-auftritte---zahl-und-zeitpunkte-)
+- [C-124: Die Zwischenstation - Ort und Gruppe ✓](#c-124-die-zwischenstation---ort-und-gruppe-)
 - [C-127: Referenzdichte 7,8 g/cm³ ✓](#c-127-referenzdichte-)
+- [C-128: Fundort und Freilegung des Skir-Rings ✓](#c-128-fundort-und-freilegung-des-skir-rings-)
 - [C-132: Womit die Schluchtgemeinschaft auf dem Basar bezahlt ✓](#c-132-womit-die-schluchtgemeinschaft-auf-dem-basar-bezahlt-)
 - [C-133: Azzims Leute für den Angriff ✓](#c-133-azzims-leute-für-den-angriff-)
 - [C-134: Die Nachricht - Art und Lesbarkeit im Norden ✓](#c-134-die-nachricht---art-und-lesbarkeit-im-norden-)
@@ -159,12 +165,16 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-149: Wie die Kel Aman den Ring religiös einordnen ✓](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-)
 - [C-150: Was Bellbrim vom Wissen der Kel Aman hat ✓](#c-150-was-bellbrim-vom-wissen-der-kel-aman-hat-)
 - [C-151: Was die Verteidigung der Schlucht Sekkan kostet ✓](#c-151-was-die-verteidigung-der-schlucht-sekkan-kostet-)
+- [C-152: Ishman - Häuptling der Kel Aman ✓](#c-152-ishman---häuptling-der-kel-aman-)
 - [C-153: Haduriks Nachfolge in Tingsal ✓](#c-153-haduriks-nachfolge-in-tingsal-)
 - [C-154: Woher die Autorität der Walas kommt ✓](#c-154-woher-die-autorität-der-walas-kommt-)
 - [C-155: Breite und Tiefe des Skir ✓](#c-155-breite-und-tiefe-des-skir-)
+- [C-156: Der Wald am Skir - Größe, Abstand, stehendes Gewässer ✓](#c-156-der-wald-am-skir---größe-abstand-stehendes-gewässer-)
 - [C-157: Wann Girlin als eine der Ihren gilt - und wie die Bitte an den Clan ergeht ✓](#c-157-wann-girlin-als-eine-der-ihren-gilt---und-wie-die-bitte-an-den-clan-ergeht-)
 - [C-158: Klang und Gewicht des Rings ✓](#c-158-klang-und-gewicht-des-rings-)
 - [C-159: Filiation im Erzähltext der Kel Aman ✓](#c-159-filiation-im-erzähltext-der-kel-aman-)
+- [C-160: Bröckelt die Angst des Dorfes über die Zeit? ✓](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
+- [C-161: Erhebt Girlins Herkunftssippe Anspruch? ✓](#c-161-erhebt-girlins-herkunftssippe-anspruch-)
 - [C-162: Das letzte tote Kind - Jahr und Sichtbarkeit ✓](#c-162-das-letzte-tote-kind---jahr-und-sichtbarkeit-)
 - [C-163: Womit Tibun die Werkstatt bezahlt ✓](#c-163-womit-tibun-die-werkstatt-bezahlt-)
 - [C-164: Gilt die halbe Stunde Ladezeit auch im Normalbetrieb? ✓](#c-164-gilt-die-halbe-stunde-ladezeit-auch-im-normalbetrieb-)
@@ -172,17 +182,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-166: Bleibt Sekkans Wunde? ✓](#c-166-bleibt-sekkans-wunde-)
 - [C-167: Wer folgt Hadurik in Tingsal? ✓](#c-167-wer-folgt-hadurik-in-tingsal-)
 - [C-168: Was außer dem Skarabäus im Sand steckt ✓](#c-168-was-außer-dem-skarabäus-im-sand-steckt-)
-- [C-014: Karawanen-Aufmerksamkeit bei Girlins Ankunft ✓](#c-014-karawanen-aufmerksamkeit-bei-girlins-ankunft-)
-- [C-015: Verhältnis Drehung ↔ Tausch ✓](#c-015-verhältnis-drehung--tausch-)
-- [C-020: Vorwarnung vor dem Flip? ✓](#c-020-vorwarnung-vor-dem-flip-)
-- [C-081: Girlins drittes Kind in der Wüste ✓](#c-081-girlins-drittes-kind-in-der-wüste-)
-- [C-106: Durchgebrannte Ehefrau bei den Kel Aman ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)
-- [C-128: Fundort und Freilegung des Skir-Rings ✓](#c-128-fundort-und-freilegung-des-skir-rings-)
-- [C-152: Ishman - Häuptling der Kel Aman ✓](#c-152-ishman---häuptling-der-kel-aman-)
-- [C-156: Der Wald am Skir - Größe, Abstand, stehendes Gewässer ✓](#c-156-der-wald-am-skir---größe-abstand-stehendes-gewässer-)
-- [C-177: Bewuchs auf einem frisch freigelegten Ring ✓](#c-177-bewuchs-auf-einem-frisch-freigelegten-ring-)
-- [C-160: Bröckelt die Angst des Dorfes über die Zeit? ✓](#c-160-bröckelt-die-angst-des-dorfes-über-die-zeit-)
-- [C-161: Erhebt Girlins Herkunftssippe Anspruch? ✓](#c-161-erhebt-girlins-herkunftssippe-anspruch-)
 - [C-170: Vatersnamen für Sekkan und Ishman ✓](#c-170-vatersnamen-für-sekkan-und-ishman-)
 - [C-171: Sekkans Eltern - Namen und Verbleib ✓](#c-171-sekkans-eltern---namen-und-verbleib-)
 - [C-172: Wo Girlins Umbenennung zu Gilint erzählt wird ✓](#c-172-wo-girlins-umbenennung-zu-gilint-erzählt-wird-)
@@ -190,6 +189,8 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-174: Wer bei Tamants Geburt hilft ✓](#c-174-wer-bei-tamants-geburt-hilft-)
 - [C-175: Behält Girlin den Sippenschutz nach dem Wegzug? ✓](#c-175-behält-girlin-den-sippenschutz-nach-dem-wegzug-)
 - [C-176: Sekkans Preis ist entfallen ✗](#c-176-sekkans-preis-ist-entfallen-)
+- [C-177: Bewuchs auf einem frisch freigelegten Ring ✓](#c-177-bewuchs-auf-einem-frisch-freigelegten-ring-)
+- [C-178: Was die Anlage im Norden nach Zündung 2 tut ✓](#c-178-was-die-anlage-im-norden-nach-zündung-2-tut-)
 
 ---
 
@@ -209,8 +210,8 @@ Was baut Tibun als Erwachsener (~25+), um den Portalring zu zünden? (Ersatz fü
 - **Erkenntnismoment:** Arbeitsunfall an einer Bootsziehwinde - ein Seil rutscht unter Last, wird heiß, raucht. Tibun kennt den Bernstein-Effekt seit der Jugend (**15**, Prolog), versteht aber erst nach diesem Unfall in Kaupvik (gegen Ende der Wanderschaft, ~24): schnelle, kontinuierliche Reibung = viel Ladung. Abstand ~9 Jahre. (Siehe [Zeitleiste](../Plots/Plot-1/Zeitleiste.md)/C-023.)
 - **Generator = rotierendes Bernsteinrad** (Reibekörper, kein Konduktor - Bernstein ist Isolator; Prinzip Guericke 1663). Holzfelge + aufgesetzter **Bernsteinkranz** (Segmente, Birkenpech-verfugt, poliert; ~20 kg). Reibkissen (Fell/Wolle/Leder) am Umfang lädt den Kranz. Antrieb: Wasserrad (große Anlage) bzw. Handkurbel (Prototyp). **Kein Eisen in der Reibzone.** Rein empirisch, ohne Theorie. (Eisen-/Kugel-/VdG-Variante verworfen.)
 - **Zünder-Prinzip:** Tibuns Funke ist nur der *Auslöser*; die Teleport-Energie kommt aus dem Ring/System (mystisch). Reale Physik bleibt auf Reibung → Funke beschränkt. **Kein gebauter Speicher** (Leidener Flasche = Anachronismus, verworfen; bliebe Rückfall-Option als Bronzeblech-Wasserfass, falls je ein Apparat-Blitz nötig wird).
-- **Ring als natürlicher Speicher:** Der große Ringkörper hat genug Eigenkapazität (~200 pF → ~1 J, ~100× Türklinken-Funke) für einen sichtbaren, knallenden Zünd-Überschlag - „deutlich größer als Türklinke", kein Gewitterblitz, kein Anachronismus. (Merksatz: Kapazität ∝ *Größe* des Leiters, nicht Masse/Drahtlänge.)
-- **Zündablauf:** Rad dreht bis zur Sättigung (blaues Glimmen = bereit) → nah an den Ring → Funkensprühen lädt den Ring → Zünd-Überschlag.
+- **Ring als natürlicher Speicher:** Der große Ringkörper hat genug Eigenkapazität (~200 pF → ~1 J, ~100× Türklinken-Funke) für einen sichtbaren, knallenden Zünd-Überschlag - „deutlich größer als Türklinke", kein Gewitterblitz, kein Anachronismus. (Merksatz: Kapazität ∝ *Größe* des Leiters, nicht Masse/Drahtlänge.) *(Gestrichen 11.09.2026: Der Ring ist kein Ladungsspeicher, die Ladung sitzt auf dem Rad - Autor, [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-).)*
+- **Zündablauf:** Rad dreht bis zur Sättigung (blaues Glimmen = bereit) → nah an den Ring → Funkensprühen lädt den Ring → Zünd-Überschlag. *(Überholt 11.09.2026: Gezündet wird über die Kette, der Ring lädt sich nicht auf - [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-).)*
 - **Energiegrenze (Authentizität):** statische Entladung = schmerzhafter, im Dunkeln sichtbarer Funke, aber **keine Brandwunden**. Gefahr am Generator kommt aus dem *mechanischen* Teil (heißes Seil, schnelle Rollen).
 - **Bau-Chronologie:** Tisch-Modell (Prototyp) in **Kaupvik** während der Reise → große Wasseranlage nach der Rückkehr in Skirraa (~25 → 26). (Festgelegt via C-023.)
 - **Konsistenz:** Girlins Verschwinden durch Blitzschlag (C-008) ist dasselbe Prinzip, nur zufällig.
@@ -898,9 +899,24 @@ Nachgezogen in [Skirraa.md](../Orte/Skirraa.md), [sonstiges.md](../Orte/sonstige
 **Nebenbefund, sofort behoben:** Der [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) führte noch „Der Ring liegt an einem Bach → Wasserbrücke nach Süden" als offenen Punkt. Das widerspricht dem entschiedenen Stand (Ring auf trockenem Grund, kein Wasser geht über; Wasser als Motiv verworfen in [C-104 ✗](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-) und [C-107 ✗](#c-107-azzims-motiv---wasser-statt-sklaverei-)). Als überholt markiert.
 ---
 
-### C-056: Prolog - Folgen des Bebens im Dorf ○
+### C-056: Prolog - Folgen des Bebens im Dorf ✓
 
 Die [Kapitelskizze](../Plots/Plot-1/Kapitelstruktur.md#prolog) notiert zum Beben: „die Menschen haben Angst / vielleicht ist jemand vermisst oder Tiere brechen aus". Die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) führt das Beben bisher ohne sichtbare Folgen im Dorf. Offen: Welche **sichtbaren Folgen** hat das Beben in [Skirraa](../Orte/Skirraa.md) - Schäden, ausgebrochenes Vieh, weitere Vermisste? Erzählwert: Girlins Verschwinden geht im allgemeinen Chaos unter, das erklärt, warum niemand Tibun glaubt. Risiko: zu viele Vermisste entwerten Girlins Fall.
+
+**Entschieden (Autor, 11.09.2026):**
+
+| | |
+|---|---|
+| **Sichtbare Folgen** | **Schäden an den Häusern** - nichts stürzt ganz ein |
+| **Deutung** | Der Weiler deutet das Beben als **Zorn der Götter** |
+
+Nicht gewählt: ausgebrochenes Vieh (hätte die Schafflucht im Gewitter wenige Tage später vorweggenommen) und Vermisste (hätten Girlins Fall entwertet).
+
+**Der Erzählwert oben ist überholt:** Seit dem 04.09.2026 liegen Beben und Blitz **wenige Tage auseinander** - Girlins Verschwinden geht nicht im Chaos des Bebens unter. Warum niemand Tibun glaubt, liefert inzwischen die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wandernd.md).
+
+**Anmerkung (Claude):** Die Deutung bereitet ihr den Boden. Der Weiler hat den Zorn der Götter schon vor Augen, als die Wala Tage später den Sand zum Zeichen der Götter erklärt.
+
+Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Das Beben*), [Skirraa](../Orte/Skirraa.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md).
 
 ---
 
@@ -1042,7 +1058,7 @@ Der Widerspruch war ein Scheinwiderspruch. Es zündet **nicht entweder** die Wü
 | | |
 |---|---|
 | **Zündung 1** | Azzims Angriff löst in der Schlucht den Wüstengenerator aus. Azzim steht vollständig in der Kugel und wird nach Jütland geworfen. |
-| **Dazwischen** | Der Skir-Ring flippt mit - **Tibuns geladener Konduktor bleibt unberührt** ([C-109 ✓](#c-109-ladezeit-des-konduktors-)). Er kann **jederzeit** zünden. Die Spannung ist damit nicht *wie lange noch*, sondern *ob er die Hand frei bekommt*. |
+| **Dazwischen** | Der Skir-Ring flippt mit - **Tibuns geladener Konduktor bleibt unberührt** *(11.09.2026: kein Konduktor - die Ladung sitzt auf dem Rad, [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-))* ([C-109 ✓](#c-109-ladezeit-des-konduktors-)). Er kann **jederzeit** zünden. Die Spannung ist damit nicht *wie lange noch*, sondern *ob er die Hand frei bekommt*. |
 | **Zündung 2** | Tibun löst selbst aus, mit seiner eigenen Anlage, im Würgegriff. Er reist. |
 
 **Damit sind beide Probleme weg:** Die Gleichzeitigkeit aus [C-012 ✓](#c-012-aktivierungsverhalten-des-rings-) bleibt für jede einzelne Zündung gültig, und Tibuns zehn Jahre Arbeit werden ausgezahlt - er ist nicht der Mann, zu dem das Finale kommt, sondern der, der es auslöst.
@@ -1760,8 +1776,16 @@ Direkt nach Girlins Verschwinden untersucht der Sechzehnjährige die Stelle: **h
 
 **Der eigentliche Gewinn:** Damit ist erklärbar, warum Tibun **zehn Jahre** braucht. Das Problem war nie „genug Ladung erzeugen", sondern **sammeln und schlagartig freigeben**. Und seine Zündung wird technisch **derselbe Vorgang wie Girlins Blitz**, nur gewollt.
 
-**Offen:** Material und Größe des Konduktors, Isolierung gegen jütische Feuchtigkeit (das härteste praktische Problem - Nordjütland ist nass, Reibungselektrizität mag das nicht), Auslösemechanismus im Dachstuhl · **???**
+**Offen:** Material und Größe des Konduktors, Isolierung gegen jütische Feuchtigkeit (das härteste praktische Problem - Nordjütland ist nass, Reibungselektrizität mag das nicht), Auslösemechanismus im Dachstuhl · **???** *(überholt 11.09.2026, s. u.)*
 Betrifft [C-002](#c-002-tibuns-elektrizitätsquelle-) und [C-020](#c-020-vorwarnung-vor-dem-flip-).
+
+**Entschieden (Autor, 11.09.2026): Es gibt keinen Konduktor, und der Ring ist kein Ladungsspeicher.** Die Ladung sammelt sich **auf dem Rad selbst**. Der *Speicher* aus der Entscheidung vom 31.08.2026 ist damit das Rad: Die Kette verbindet **Rad und Ring**. Überholt sind der Punkt *„Ein isolierter Konduktor ... hält sie"* und die Frage nach Material und Größe des Konduktors. Gestrichen ist auch der *Ring als natürlicher Speicher* (~200 pF → ~1 J) in [Tibuns Generator](../Technik/Tibuns-Generator.md) und [Elektrizität](../Technik/Elektrizitaet.md).
+
+**Anmerkung (Claude) - Physik prüfen:** Bernstein ist ein Isolator. Die Ladung sitzt, wo gerieben wurde, und wandert nicht - eine Kette, die das Rad berührt, nimmt nur die Ladung an der Berührstelle ab, nicht die des ganzen Rades auf einen Schlag. Historisch kam der gesonderte Konduktor erst um 1740 auf (Bose); er sammelt, was der Isolator abgibt. Für das Finale kann es trotzdem reichen: Die Ladung ist nur **Auslöser** ([Zünder-Prinzip](../Technik/Tibuns-Generator.md#zünder-prinzip)), und das Rad dreht unter der Kette weiter. **Ob ein einzelner Funke an der Berührstelle zündet oder erst eine rasche Folge · ???**
+
+Nachgezogen: [Tibuns Generator](../Technik/Tibuns-Generator.md), [Elektrizität](../Technik/Elektrizitaet.md), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Kapitelstruktur](../Plots/Plot-1/Kapitelstruktur.md).
+
+**Weiter offen:** Isolierung gegen jütische Feuchtigkeit, Auslösemechanismus im Dachstuhl, die Physik-Frage oben · **???**
 
 ---
 
@@ -1778,7 +1802,7 @@ Ein Dach an der Stelle, die die [Wala](../Menschen/Nordvolk/Nebenfiguren/Wala-Wa
 - **Wie steht [Semund](../Menschen/Nordvolk/Nebenfiguren/Semund.md) dazu**, und wie [Truda](../Menschen/Nordvolk/Nebenfiguren/Truda.md) → [C-077](#c-077-tibun-und-truda-nach-girlins-verschwinden-)?
 - **Was rettet ihn davor, vertrieben zu werden?** Ohne Antwort steht die Werkstatt nicht zehn Monate, geschweige denn bis zum Finale.
 
-Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-) und hält den Konduktor trocken - was in Nordjütland das größte praktische Problem der ganzen Anlage ist. Der Bau löst also ein technisches Problem und schafft ein gesellschaftliches.
+Die Werkstatt trägt die Kette aus [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-) und hält den Konduktor trocken *(11.09.2026: kein Konduktor - die Ladung sitzt auf dem Rad, [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-))* - was in Nordjütland das größte praktische Problem der ganzen Anlage ist. Der Bau löst also ein technisches Problem und schafft ein gesellschaftliches.
 
 ---
 
@@ -1984,9 +2008,11 @@ Das fällt sauber aus der Kettenlösung selbst und braucht keine Sonderregel.
 
 **Nachgeschärft (Autor, 08.09.2026, [C-164 ✓](#c-164-gilt-die-halbe-stunde-ladezeit-auch-im-normalbetrieb-)):** Die 30 Minuten gehören **dem Rad, nicht dem Ring**. Der Ring ist immer startklar; die Wartezeit ist die Ladezeit von Tibuns Bernsteinrad. Eine „halbstündige Taktung" des Rings gibt es nicht.
 
+
+*(11.09.2026: Einen Konduktor gibt es nicht - die Ladung sitzt auf dem Rad selbst → [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-).)*
 ---
 
-### C-110: Der Schlusssatz - wissen die Figuren, was er kostet? ○
+### C-110: Der Schlusssatz - wissen die Figuren, was er kostet? ✓
 
 Das Buch endet mit: *„Was machen wir jetzt?" - „Jetzt holen wir deine Schwester…"* ([C-082 ✓](#c-082-girlins-entscheidung-zur-rückreise-)).
 
@@ -1996,7 +2022,13 @@ Das Buch endet mit: *„Was machen wir jetzt?" - „Jetzt holen wir deine Schwes
 - **leichthin gesagt** → er liest sich naiv, und die Mechanik straft ihn ab;
 - **im vollen Bewusstsein gesagt** → er ist Trotz gegen ein Unmögliches und der beste Satz des Buchs.
 
-Der Unterschied steckt in **einer halben Zeile davor**, nicht in der Handlung · **???**
+Der Unterschied steckt in **einer halben Zeile davor**, nicht in der Handlung · **???** *(erledigt 11.09.2026, s. u.)*
+
+**Prämisse prüfen (Claude, 11.09.2026):** Der Satz *„es gibt keinen Boten"* übersieht einen Weg, den das Wiki inzwischen hergibt. Der Ring hat **keine Ladezeit** ([C-164 ✓](#c-164-gilt-die-halbe-stunde-ladezeit-auch-im-normalbetrieb-)) - dort ist ausdrücklich von Tibuns **geplanten späteren Reisen** die Rede. Nach dem Finale steht auf **beiden** Seiten eine Zündanlage: der Wüstengenerator in der Ringkammer und Tibuns Anlage am Skir. Denkbar wäre also: **Tibun selbst ist der Bote.** Er reist über den Wüstengenerator zurück und kommt mit Truda über seine eigene Anlage wieder.
+
+Ob das trägt, hängt an [C-178](#c-178-was-die-anlage-im-norden-nach-zündung-2-tut-) - was die Anlage im Norden nach Zündung 2 tut. Trägt es, kippt die Frage: Der Satz ist dann weder naiv noch Trotz gegen ein Unmögliches, sondern ein Plan mit Preis - Tibun müsste zurück in den Weiler, der ihn meidet, und noch zweimal durch den Ring.
+
+**Entschieden (Autor, 11.09.2026): Der Schlusssatz passt.** Die Prämisse *„es gibt keinen Boten"* ist damit erledigt, und mit ihr das Entweder-oder *naiv oder Trotz* - es beruhte auf der Annahme, dass es keinen Weg gibt. Die Anlage im Norden zündet nach dem Finale nicht von selbst ([C-178 ✓](#c-178-was-die-anlage-im-norden-nach-zündung-2-tut-)).
 
 ---
 
@@ -2228,6 +2260,7 @@ Damit steht: **Tibuns einziger Preis liegt in Jahr 0/+1** - die Mutter, der Unfa
 | Ein allgemeiner **Bestattungsbrauch des Nordvolks für alle toten Kinder** (Säuglinge aufs Hofgelände, ältere ins Gräberfeld), im Indikativ formuliert | **zurückgenommen** - der Autor hat nur den **Einzelfall** von Girlins letztem Kind entschieden. Der archäologische Befund steht jetzt als *Grundlage*, nicht als Setzung; der allgemeine Brauch ist `???` | [Nordvolk](../Kulturen/Nordvolk/README.md#umgang-mit-toten-kindern), [C-162 ✓](#c-162-das-letzte-tote-kind---jahr-und-sichtbarkeit-) |
 | „Ein besserer Antrieb oder eine größere Reibfläche **verkürzt** die 30 Minuten" | **gestrichen** - folgt zwar logisch aus der Autorenaussage (die Ladezeit gehört dem Rad), ist aber selbst nicht entschieden. Jetzt `???` | [Tibuns Generator](../Technik/Tibuns-Generator.md#ladezeit---sie-gehört-dem-rad-nicht-dem-ring), [C-164 ✓](#c-164-gilt-die-halbe-stunde-ladezeit-auch-im-normalbetrieb-) |
 | Grüne Steine wie die Ringrunen seien den Kel Aman „Augen des Geistes", heilig | **gestrichen** - nie entschieden; Autor: *„das habe ich nie entschieden. das kann weg."* Der Ring ist ihnen kein Heiligtum | [Kel Aman](../Kulturen/Kel-Aman/README.md#was-der-ring-ihnen-bedeutet), [C-149 ✓](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-) |
+| Der Ring sei der **natürliche Ladungsspeicher** (~200 pF → ~1 J); Funkensprühen lade den Ring auf | **gestrichen** - der Ring ist kein Ladungsspeicher, die Ladung sammelt sich auf dem Rad selbst (Autor, 11.09.2026). Stand in der Liste *Festgelegt* von [C-002](#c-002-tibuns-elektrizitätsquelle-), ohne Autorenvermerk | [Tibuns Generator](../Technik/Tibuns-Generator.md), [Elektrizität](../Technik/Elektrizitaet.md), [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-) |
 
 **Zu tun · ???** Das **übrige Wiki ist auf denselben Fehler zu prüfen** - insbesondere alles, was in Sitzungen ohne ausdrückliche Autorenentscheidung entstanden ist. Verdachtsstellen: [C-089](#c-089-azzim---verhältnis-zum-ring-harte-regel-), [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) (Abschnitt *Schicht 6*), [Kel-Aman](../Kulturen/Kel-Aman/README.md).
 
@@ -3307,5 +3340,25 @@ Aufgefallen bei [C-128 ✓](#c-128-fundort-und-freilegung-des-skir-rings-) (09.0
 Grünlicher Algenfilm, mitgerissene Moospolster, Wurzelfilz - was davon im Bild steht, entscheidet sich beim Schreiben der Szene, nicht hier (Autor, 09.09.2026).
 
 **[P-001](Bild-Prompts.md)** zeigt den Ring sauber bemoost im Wald liegend und passt nicht zum Fundhergang · **???**. Für **andere Ringe** ([C-017](#c-017-weitere-ringgrößen-)) ändert sich nichts.
+
+---
+
+
+### C-178: Was die Anlage im Norden nach Zündung 2 tut ✓
+
+Aufgefallen bei [C-110](#c-110-der-schlusssatz---wissen-die-figuren-was-er-kostet-) (11.09.2026).
+
+Die [Zeitleiste](../Plots/Plot-1/Zeitleiste.md) führt als Zustand nach dem Finale: *„die weiterlaufende Anlage am Fluss, ein Ring, der sich von allein wieder auflädt - und niemand, der davon weiß"*.
+
+**Das reibt sich mit [C-164 ✓](#c-164-gilt-die-halbe-stunde-ladezeit-auch-im-normalbetrieb-):** Der Ring hat **keine Ladezeit** und lädt sich nicht auf - geladen wird der **Konduktor**, vom Bernsteinrad *(korrigiert 11.09.2026: kein Konduktor - die Ladung sitzt auf dem Rad selbst, [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-))*. Gemeint ist vermutlich: Das Rad läuft weiter und lädt den Konduktor neu. *(Präzisiert 11.09.2026: [C-164 ✓](#c-164-gilt-die-halbe-stunde-ladezeit-auch-im-normalbetrieb-) sagt nur, dass der Ring keine **Ladezeit** hat - nicht, dass er keine Ladung aufnimmt. Seit 11.09.2026 entschieden: Der Ring ist **kein** Ladungsspeicher ([C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-)).)*
+
+**Dann ist offen · ???**
+- **Wo liegt die Kette nach Zündung 2?** Sie ist aus dem Dachstuhl gefallen und hat Rad und Ring verbunden.
+- **Zündet der Ring von selbst erneut?** Hält die Kette fest Kontakt, fließt die Ladung laufend ab - nach der Regel *sammeln und schlagartig freigeben* geschieht dann nichts. Liegt sie lose mit einem Spalt, könnte es in Abständen überschlagen - dann tauscht die Tabustelle in Skirraa immer wieder ihren Inhalt mit der Ringkammer, und der Weiler daneben weiß nichts davon.
+- **Steht die Anlage für eine Rückreise bereit?** Das berührt den Schlusssatz ([C-110](#c-110-der-schlusssatz---wissen-die-figuren-was-er-kostet-)).
+
+**Entschieden (Autor, 11.09.2026): kein Aufladen - fester Kontakt.** Die gefallene Kette hält festen Kontakt zwischen Rad und Ring. Die Ladung fließt laufend ab, und der Ring zündet **nicht** von selbst erneut - es gibt nach dem Finale keine weiteren Tausche an der Tabustelle. Die Formulierung *„ein Ring, der sich von allein wieder auflädt"* ist aus der Zeitleiste gestrichen. Die Frage nach einer Rückreise beantwortet [C-110 ✓](#c-110-der-schlusssatz---wissen-die-figuren-was-er-kostet-): Der Schlusssatz passt.
+
+Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Tibuns Generator](../Technik/Tibuns-Generator.md).
 
 ---

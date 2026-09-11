@@ -77,9 +77,9 @@ Die Skizze notierte hier nur *„Azzim teleportiert sich nach einem Kampf aus Ve
 
 **Zwei Zündungen, Minuten auseinander, ein durchgehender Zug.**
 
-1. **Zündung 1 (Wüste):** Azzims Angriff auf die Schlucht löst den Wüstengenerator aus. Azzim wird nach Jütland geworfen. Gegenrichtung: kein Mensch. Der Skir-Ring flippt mit; **Tibuns geladener Konduktor bleibt unberührt**, weil die Kette oben liegt und der Stromkreis offen ist. Er kann jederzeit zünden - wenn er die Hand frei bekommt.
+1. **Zündung 1 (Wüste):** Azzims Angriff auf die Schlucht löst den Wüstengenerator aus. Azzim wird nach Jütland geworfen. Gegenrichtung: kein Mensch. Der Skir-Ring flippt mit; **Tibuns geladenes Rad bleibt unberührt**, weil die Kette oben liegt und der Stromkreis offen ist. Er kann jederzeit zünden - wenn er die Hand frei bekommt.
 2. **Der Kampf:** Tibun führte an dem Tag nur einen **Testlauf** durch - er wollte nicht reisen. Azzim ist der Stärkere, **wirft Tibun in den Ring** und würgt ihn am Boden.
-3. **Zündung 2 (Norden):** Tibun erreicht mit letzter Kraft den Auslöser - eine **Kette**, die aus dem Dachstuhl seiner Werkstatt fällt und den geladenen **Konduktor** mit dem Ring verbindet: punktuell, augenblicklich. Im selben Griff tritt er Azzim von sich weg. Die **Fallzeit der Kette ist Azzims Taumelzeit**. Azzim wird von der Kugelgrenze **zerteilt**, Tibun steht mittig und **reist**. Notwehr, kein Plan.
+3. **Zündung 2 (Norden):** Tibun erreicht mit letzter Kraft den Auslöser - eine **Kette**, die aus dem Dachstuhl seiner Werkstatt fällt und das geladene **Rad** mit dem Ring verbindet: punktuell, augenblicklich. Im selben Griff tritt er Azzim von sich weg. Die **Fallzeit der Kette ist Azzims Taumelzeit**. Azzim wird von der Kugelgrenze **zerteilt**, Tibun steht mittig und **reist**. Notwehr, kein Plan.
 4. **Wiedersehen** in der Schlucht, kurz nachdem die Angreifer geflohen sind (Autor, 10.09.2026). Sie erkennen einander; Girlin spricht weiterhin seine Sprache. Girlin hat sich zuvor entschieden **zu bleiben** - der Preis ist bezahlt, bevor der Sohn ankommt.
 5. **Schluss:** Beide bleiben in der Wüste. Der Ring ist ab jetzt Werkzeug statt Unglück. Letzter Wortwechsel: *„Was machen wir jetzt?" - „Jetzt holen wir deine Schwester…"*
 
@@ -213,7 +213,7 @@ Aufgeteilt in **„Das Beben"** und **„Der Blitz"**. Die [Zeitleiste](Zeitleis
 
 | Szene | Jahr | Inhalt |
 |---|---|---|
-| **Das Beben** | 0 | Weltweites Beben, das Ringsystem erwacht. Folgen im Dorf: **???** |
+| **Das Beben** | 0 | Weltweites Beben, das Ringsystem erwacht. Folgen im Dorf: Schäden an den Häusern, gedeutet als Zorn der Götter (Autor, 11.09.2026) |
 | **Der Blitz** | 0 | Gewitter, Blitzschlag-Aktivierung, Girlin verschwindet. Tibun ist einziger Zeuge |
 
 ### Der Auftakt rückt zusammen - Jahr −1 entfällt
