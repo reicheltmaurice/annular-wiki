@@ -26,6 +26,8 @@ Das System ist größer als das, was sie nutzt - der bewohnte Teil ist ein Absch
 
 **In der Kammer steht kein Wasser.** Kein See, kein Fluss, kein Becken - das Wasser ist immer nur im Fall. Damit hat die Kammer beides zugleich: den Ring und die Kraftquelle für den Generator, ohne dass irgendetwas geflutet wäre.
 
+**Der Wasserfall fällt außerhalb der Tauschkugel** (Autor, 11.09.2026). Bei einer Zündung geht kein Wasser mit.
+
 ## Die Nachbarkammer
 
 **Daneben liegt eine zweite Kammer** - **sicher und durch eine Tür geschützt**, aber mit einem **Fenster oder einem Loch im Höhlenfels**, durch das man die Ringkammer überschaut. Dort sind im Finale Bellbrim und das Kind: nah genug, um alles zu sehen, durch den Fels getrennt von dem, was der Ring mitnimmt.

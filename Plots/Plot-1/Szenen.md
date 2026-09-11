@@ -75,7 +75,7 @@ Ein Beben, wie es niemand kennt. Das Ringsystem erwacht.
 
 ### 2 · Der Bernstein-Effekt
 
-> **POV:** Tibun · **Jahr 0** · **Offen:** Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk · Tibuns Alter und Heiratsantrag · Funke entzündet Wolle
+> **POV:** Tibun · **Jahr 0** · **Offen:** Prolog - Herzschmerz-Rahmen, Nutzen fürs Gesamtwerk · Prolog - Tibuns Alter und Heiratsantrag
 
 Verlobungstag, wenige Tage nach dem Beben. Frida nimmt die Kette nicht an; kurz darauf springt der Funke an der Schafschere über.
 
@@ -117,7 +117,7 @@ Tibun holt Hilfe. Das Dorf sucht und gibt wetterbedingt auf. Die Wala wird geruf
 
 ### 6 · Girlin wacht in der Wüste auf
 
-> **POV:** Girlin · **Jahr 0** · **Offen:** Karawanen-Aufmerksamkeit bei Girlins Ankunft
+> **POV:** Girlin · **Jahr 0** · **Offen:** -
 
 Orientierung, glatt durchtrennte Steine aus Skirraa, halber Käfer (Skarabäus), Verzweiflung, Angst, wird von den Kel Aman aufgesammelt.
 
@@ -211,7 +211,7 @@ Er baut etwas, und dabei wird jemand verletzt. Der Weiler rückt von ihm ab. Run
 
 ### 14 · Bellbrim
 
-> **POV:** Girlin · **Jahr +1** · **Offen:** Bellbrim - Herkunft und historische Plausibilität · Bellbrims Sprache
+> **POV:** Girlin · **Jahr +1** · **Offen:** Bellbrim - historische Plausibilität & Herkunft · Bellbrims Sprache
 
 Begegnung mit der Vandalin, die mehrere Sprachen spricht.
 
@@ -274,7 +274,7 @@ Bernstein durch Handel und eigenes Sammeln.
 
 ### 19 · Sekkan
 
-> **POV:** Girlin · **Jahr +3** · **Offen:** Ishman - Eigenschaften und Haltung
+> **POV:** Girlin · **Jahr +3** · **Offen:** -
 
 Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem Neffen des Häuptlings [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md).
 
@@ -285,7 +285,7 @@ Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem Neffe
 
 ### 20 · Azzim, Auftritt 1
 
-> **POV:** Girlin · **Jahr +3** · **Offen:** Azzim - Herkunft und Hintergrund
+> **POV:** Girlin · **Jahr +3** · **Offen:** Azzim u-Tawan - Herkunft & Hintergrund
 
 Auf dem Basar greift ein Sklavenhändler nach ihr.
 
@@ -353,7 +353,7 @@ Sie bittet den Clan, den Ring zu holen - **vor [Ishman](../../Menschen/Kel-Aman/
 
 ### 26 · Die Trennung vom Clan
 
-> **POV:** Girlin · **Jahr +5** · **Offen:** Die Schutzlücke verschiebt sich von +8 auf +5 · Ishmans Reaktion auf den Bruch
+> **POV:** Girlin · **Jahr +5** · **Offen:** Die Schutzlücke verschiebt sich von +8 auf +5
 
 Die drei lösen sich und ziehen zu Bellbrim.
 
@@ -443,7 +443,7 @@ Bellbrim und Girlin bauen weiter.
 
 ### 34 · Aufbruch aus Kaupvik
 
-> **POV:** Tibun · **Jahr +9** · **Offen:** Tibuns Zieheltern in Kaupvik · Der Nordstrang verliert zwischen +1 und +9 nichts
+> **POV:** Tibun · **Jahr +9** · **Offen:** Der Nordstrang verliert zwischen +1 und +9 nichts
 
 Das Modell läuft, Wissen und Bernstein reichen.
 
@@ -591,12 +591,14 @@ Azzim wirft ihn in den Ring und würgt ihn am Boden.
 
 ### 46 · Wiedersehen und Schluss
 
-> **POV:** Girlin · **Jahr +10** · **Offen:** Der Kampf in der Schlucht während Tibuns Ankunft · Der Schlusssatz - wissen die Figuren, was er kostet?
+> **POV:** Girlin · **Jahr +10** · **Offen:** -
 
 Er steht in der Schlucht, und die Angreifer sind fort.
 
 - **Will:** ???
 - **Hindernis:** ???
 - **Ausgang:** Sie erkennen einander. Beide bleiben. „Jetzt holen wir deine Schwester…“
+
+> **Azzims Teil** (Autor, 11.09.2026): Der Teil Azzims, der in der Kugel lag, kommt mit Tibun an. Die Szene zeigt ihn **nur als Wirkung** - an den Reaktionen, nicht am Körper.
 
 > **Streichvermerk (10.09.2026):** Hier stand „mitten im laufenden Kampf" und als Hindernis „Der Kampf ist noch nicht vorbei". **Azzims Leute fliehen, sobald er verschwindet, und Tibun trifft keinen von ihnen mehr an** (Autor, 10.09.2026) - der Kampf ist vorbei, wenn er ankommt. Welches Hindernis stattdessen trägt, ist offen.

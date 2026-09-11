@@ -234,7 +234,8 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 ### Der Kampf im Norden (Minuten, kein Tag)
 - Tibun führt an diesem Tag nur einen **Testlauf** durch. Er will nicht reisen: keine Vorräte, keine Waffe, kein Abschied von [Truda](../../Menschen/Nordvolk/Nebenfiguren/Truda.md)
 - Azzim fällt ihm praktisch vor die Füße. Für Tibun ist das nach zehn Jahren der **erste Beweis**, dass am anderen Ende Menschen leben - und Azzim kennt Girlin
-- **Azzim begreift erst hier, was ihn geworfen hat** (entschieden 02.09.2026): Er steht vor demselben Ding wie in der Schlucht, in Wasser, das aus dem Nichts kam. Er schließt es **selbst** - nachdem er es zehn Jahre lang nicht wusste
+- **Azzim begreift erst hier, was ihn geworfen hat** (entschieden 02.09.2026): Er steht vor demselben Ding wie in der Schlucht. Er schließt es **selbst** - nachdem er es zehn Jahre lang nicht wusste
+  > **Gestrichen (Autor, 11.09.2026):** Hier stand *„in Wasser, das aus dem Nichts kam"* - ein Rest der Bachwasser-Fassung. Es geht kein Wasser mit: Der Wasserfall in der Ringkammer fällt außerhalb der Kugel
   > **Korrigiert:** Die frühere Formulierung *„Azzim will zurück"* setzte voraus, dass er den Ring kennt. Das war nicht gedeckt
 - Beide wollen den Ring: Tibun will Auskunft, Azzim will zurück
 - Azzim ist der Stärkere. Er **wirft Tibun in den Ring** und würgt ihn am Boden - damit steht Tibun in der Kugel, ohne es gewählt zu haben
@@ -253,7 +254,7 @@ Entschieden 31.08.2026. Nicht *entweder* Wüste *oder* Norden zündet - **beide,
 ### Was zurückbleibt und was übergeht
 - Im **Norden**: Azzims zweite Hälfte an der Tabustelle, die weiterlaufende Anlage am Fluss - und **niemand, der davon weiß**. **Kein Aufladen** (Autor, 11.09.2026): Die gefallene Kette hält festen Kontakt zwischen Rad und Ring, die Ladung fließt laufend ab, und der Ring zündet nicht von selbst erneut
   > **Korrigiert (11.09.2026):** Hier stand *„ein Ring, der sich von allein wieder auflädt"*. Nach Zündung 2 lädt sich nichts wieder auf (Autor, 11.09.2026; [Tibuns Generator](../../Technik/Tibuns-Generator.md#nach-zündung-2---kein-aufladen)).
-- In die **Wüste** geht bei jeder Zündung das Kugelvolumen der Nordseite über. Bei **Zündung 1** sind das **nur Erde und Sand** (Autor, 10.09.2026, s. o.); was bei **Zündung 2** außer Tibun übergeht, ist offen · **???**
+- In die **Wüste** geht bei jeder Zündung das Kugelvolumen der Nordseite über. Bei **Zündung 1** sind das **nur Erde und Sand** (Autor, 10.09.2026, s. o.); bei **Zündung 2** gehen außer Tibun **der Teil Azzims, der in der Kugel lag,** mit (Autor, 11.09.2026) und **kein Wasser**; was sonst, ist offen · **???**
   > **Frühere Fassung gestrichen (03.09.2026):** *„rund 14 m³ jütisches Bachwasser und Erdreich"* und *„Tibun landet in einer Pfütze aus seiner Heimat"* stammten nicht vom Autor. **Der Ring im Norden liegt auf trockenem Grund** - es geht kein Flusswasser über
 - **Girlins Nachricht geht nicht über.** Sie **liegt fertig und wetterfest verpackt bereit** (03.09.2026) - ein Bündel aus einer Strähne ihres eigenen Haars, einem gewebten Stück und ihrer Mantelfibel (Autor, 09.09.2026) - sie kommt nur nicht mehr dazu, es in den Ring zu legen. Der Angriff und die beiden Zündungen überholen ihr Vorhaben. Der Leser sieht das Ding und sieht es liegen bleiben
 

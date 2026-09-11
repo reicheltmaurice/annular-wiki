@@ -56,7 +56,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-089: Azzim - Verhältnis zum Ring (harte Regel) ○](#c-089-azzim---verhältnis-zum-ring-harte-regel-)
 - [C-093: Prolog - Namen nach C-092 nachziehen ○](#c-093-prolog---namen-nach-c-092-nachziehen-)
 - [C-103: Transportlogistik des Wüstenrings ○](#c-103-transportlogistik-des-wüstenrings-)
-- [C-108: Der Kampf in der Schlucht während Tibuns Ankunft ○](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-)
 - [C-113: Bellbrims Sprache - Verhältnis zu C-026 ○](#c-113-bellbrims-sprache---verhältnis-zu-c-026-)
 - [C-116: Azzim tritt zu spät auf ○](#c-116-azzim-tritt-zu-spät-auf-)
 - [C-118: Der Nordstrang verliert zwischen +1 und +9 nichts ○](#c-118-der-nordstrang-verliert-zwischen-1-und-9-nichts-)
@@ -139,6 +138,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-105: Der Neffe heißt Sekkan ✓](#c-105-der-neffe---name-eigenschaften-schweigebitte-)
 - [C-106: Durchgebrannte Ehefrau bei den Kel Aman ✓](#c-106-durchgebrannte-ehefrau-bei-den-kel-aman-)
 - [C-107: Azzims Motiv Wasser ✗](#c-107-azzims-motiv---wasser-statt-sklaverei-)
+- [C-108: Der Kampf in der Schlucht während Tibuns Ankunft ✓](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-)
 - [C-109: Ladezeit des Konduktors ✓](#c-109-ladezeit-des-konduktors-)
 - [C-110: Der Schlusssatz - wissen die Figuren, was er kostet? ✓](#c-110-der-schlusssatz---wissen-die-figuren-was-er-kostet-)
 - [C-111: Kopplung ist nicht ortsgebunden ✓](#c-111-wiederaufstellung-des-rings-nach-dem-transport-kernfrage-)
@@ -1988,11 +1988,11 @@ Berührt [C-089](#c-089-azzim---verhältnis-zum-ring-harte-regel-) und [C-028](#
 
 ---
 
-### C-108: Der Kampf in der Schlucht während Tibuns Ankunft ○
+### C-108: Der Kampf in der Schlucht während Tibuns Ankunft ✓
 
 Zwischen Zündung 1 und Zündung 2 liegen **Minuten** ([C-062 ✓](#c-062-azzims-ankunft-vor-tibuns-zündung-)). Die Ausgangsannahme war, dass der Kampf in der Wüste deshalb **noch läuft**, wenn Tibun aus dem Nichts in der Schlucht landet - ohne Waffe, ohne Vorräte, im Hemd. **Das gilt nicht mehr** (siehe unten): Azzims Leute sind bis dahin fort. *(Die frühere Fassung „in einer Pfütze jütischen Bachwassers" ist gestrichen - der Ring im Norden liegt auf trockenem Grund, 03.09.2026.)*
 
-**Zu klären · ???**
+**Zu klären** *(alle beantwortet, Stand 11.09.2026)*
 - ~~**Wie geht der Kampf ohne Azzim weiter?**~~ **Beantwortet über [C-133 ✓](#c-133-azzims-leute-für-den-angriff-)** (Autor, 10.09.2026): Es sind **drei bis vier eigene Leute**, und sie **brechen ab und fliehen**. Sie kämpfen nicht weiter und plündern nicht. **Tibun trifft keinen von ihnen mehr an** (Autor, 10.09.2026) - wenn er in der Schlucht steht, ist der Kampf vorbei. Die frühere Fassung *„mitten im laufenden Kampf"* ist damit überholt.
 - ~~**Woran erkennt eine Mutter ihren Sohn nach zehn Jahren?**~~ **Beantwortet (Autor, 31.08.2026).** Sie erkennt ihn an **seinen Augen und seinem Gesicht** - so stark verändert er sich nicht. Dazu der Gedanke, der die Erkennung ohnehin trägt: **„Wer soll sonst durchkommen."** Der Ort und der Ring lassen keine zweite Möglichkeit zu; das Gesicht bestätigt nur, was schon feststeht. Tibun sagt etwas, sie erkennt ihn. **Wird in der Geschichte ausformuliert**, nicht hier festgelegt.
 
@@ -2000,9 +2000,13 @@ Zwischen Zündung 1 und Zündung 2 liegen **Minuten** ([C-062 ✓](#c-062-azzims
 
 - **Keine Sprachbarriere zwischen Mutter und Sohn.** [Girlin](../Menschen/Nordvolk/Girlin.md) spricht weiterhin die Sprache des Nordens. Ebenso [Bellbrim](../Menschen/Andere/Bellbrim.md): **beide verständigen sich darin von Anfang an**, und Bellbrim bringt Girlin im Gegenzug die **Sprache der Wüste** bei (Autor, 31.08.2026). Verhältnis zur bisherigen Fassung → [C-113](#c-113-bellbrims-sprache---verhältnis-zu-c-026-).
 
-- **Was macht das Wasser** mit den Anwesenden → [C-104](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-).
-- Kommt Azzims **abgetrennte Hälfte** mit über? Sie stand innerhalb der Grenze. Der Ton verlangt Wirkung statt Ausmalen ([C-086 ✓](#c-086-ton-in-einem-satz-)).
+- ~~**Was macht das Wasser** mit den Anwesenden → [C-104](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-).~~ **Gegenstandslos (Autor, 11.09.2026):** Es geht kein Wasser mit - kein Bachwasser (gestrichen 03.09.2026) und keins vom Wasserfall: **Er fällt außerhalb der Kugel.**
+- ~~Kommt Azzims **abgetrennte Hälfte** mit über?~~ **Beantwortet (Autor, 11.09.2026):** Der Teil, der in der Kugel lag, kommt mit Tibun in der Ringkammer an. Die Szene zeigt ihn **nur als Wirkung** - an den Reaktionen, nicht am Körper ([C-086 ✓](#c-086-ton-in-einem-satz-)).
 
+
+**Anmerkung (Claude):** Zündung 2 kehrt den Boden von Zündung 1 um. Was Minuten vorher aus der Ringkammer nach Norden ging, liegt jetzt in Tibuns Kugel und geht mit ihm zurück; Erde und Sand aus dem Norden gehen im selben Augenblick wieder heim. Getauscht bleiben nur die Menschen - Tibun ist in der Wüste, Azzim auf beide Seiten verteilt. Folge der Mechanik, nicht entschieden.
+
+Nachgezogen: [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [Szenen.md](../Plots/Plot-1/Szenen.md) (*Wiedersehen und Schluss*), [Bellbrims Werkstatt](../Orte/Bellbrims-Werkstatt.md#die-ringkammer).
 ---
 
 ### C-109: Ladezeit des Konduktors ✓
@@ -2274,6 +2278,7 @@ Damit steht: **Tibuns einziger Preis liegt in Jahr 0/+1** - die Mutter, der Unfa
 | „Ein besserer Antrieb oder eine größere Reibfläche **verkürzt** die 30 Minuten" | **gestrichen** - folgt zwar logisch aus der Autorenaussage (die Ladezeit gehört dem Rad), ist aber selbst nicht entschieden. Jetzt `???` | [Tibuns Generator](../Technik/Tibuns-Generator.md#ladezeit---sie-gehört-dem-rad-nicht-dem-ring), [C-164 ✓](#c-164-gilt-die-halbe-stunde-ladezeit-auch-im-normalbetrieb-) |
 | Grüne Steine wie die Ringrunen seien den Kel Aman „Augen des Geistes", heilig | **gestrichen** - nie entschieden; Autor: *„das habe ich nie entschieden. das kann weg."* Der Ring ist ihnen kein Heiligtum | [Kel Aman](../Kulturen/Kel-Aman/README.md#was-der-ring-ihnen-bedeutet), [C-149 ✓](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-) |
 | Der Ring sei der **natürliche Ladungsspeicher** (~200 pF → ~1 J); Funkensprühen lade den Ring auf | **gestrichen** - der Ring ist kein Ladungsspeicher, die Ladung sammelt sich auf dem Rad selbst (Autor, 11.09.2026). Stand in der Liste *Festgelegt* von [C-002](#c-002-tibuns-elektrizitätsquelle-), ohne Autorenvermerk | [Tibuns Generator](../Technik/Tibuns-Generator.md), [Elektrizität](../Technik/Elektrizitaet.md), [C-099](#c-099-der-isolierte-konduktor---ladungsspeicher-ohne-anachronismus-) |
+| Azzim stehe im Norden *„in Wasser, das aus dem Nichts kam"* | **gestrichen** - Rest der Bachwasser-Fassung; es geht kein Wasser mit, der Wasserfall fällt außerhalb der Kugel (Autor, 11.09.2026) | [Zeitleiste](../Plots/Plot-1/Zeitleiste.md), [C-108](#c-108-der-kampf-in-der-schlucht-während-tibuns-ankunft-) |
 
 **Zu tun · ???** Das **übrige Wiki ist auf denselben Fehler zu prüfen** - insbesondere alles, was in Sitzungen ohne ausdrückliche Autorenentscheidung entstanden ist. Verdachtsstellen: [C-089](#c-089-azzim---verhältnis-zum-ring-harte-regel-), [C-102](#c-102-was-bei-zündung-1-aus-dem-norden-verschwindet-), [Weltenbau-Leitfaden](Weltenbau-Leitfaden.md) (Abschnitt *Schicht 6*), [Kel-Aman](../Kulturen/Kel-Aman/README.md).
 
