@@ -84,13 +84,13 @@ Verlobungstag, wenige Tage nach dem Beben. Frida nimmt die Kette nicht an; kurz 
 
 ### 3 · Der Blitz - Girlin
 
-> **POV:** Girlin · **Jahr 0** · **Offen:** Vorwarnung vor dem Flip?
+> **POV:** Girlin · **Jahr 0** · **Offen:** -
 
 Starkes Gewitter, Sorge um oder Flucht der Schafe, Girlin endet im Wald, stürzt über den Ring, Kopfwunde, bewusstlos.
 
 - **Will:** ???
 - **Hindernis:** ???
-- **Ausgang:** Sie ist fort. Sie stand vollständig innerhalb der Ringöffnung und reist unverletzt. Was sie davon wahrnimmt - ob sie den Ring überhaupt bemerkt, ob es eine Vorwarnung gibt -, ist offen.
+- **Ausgang:** Sie ist fort. Sie stand vollständig innerhalb der Ringöffnung und reist unverletzt. Vom Flip nimmt sie nichts wahr; **das letzte Bild vor der Ohnmacht ist der Ring**, über den sie fällt.
 
 
 ### 4 · Der Blitz - Tibun
@@ -122,6 +122,8 @@ Orientierung, glatt durchtrennte Steine aus Skirraa, halber Käfer (Skarabäus),
 - **Will:** Zurück - der Ring ist der einzige Rückweg
 - **Hindernis:** Ein Fußmarsch nach Norden ist keine Möglichkeit, sondern eine Todesart
 - **Ausgang:** Die Kel Aman nehmen sie mit.
+
+> **Woher sie es weiß** (Autor, 11.09.2026): Das letzte Bild vor der Ohnmacht war der Ring. Jetzt liegt sie wieder in einem - um sie Erde, Steine und die Birke aus Vilund. Dass die Kel Aman in der Nacht das Leuchten gesehen haben, kommt später dazu; wann und wie · ???
 
 
 ### 7 · Tibun untersucht den Ring

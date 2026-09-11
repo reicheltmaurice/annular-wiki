@@ -77,7 +77,6 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-141: Der Auftakt ist jetzt sehr dicht ○](#c-141-der-auftakt-ist-jetzt-sehr-dicht-)
 - [C-142: Wie die geschriebenen Szenen gegliedert werden ○](#c-142-wie-die-geschriebenen-szenen-gegliedert-werden-)
 - [C-143: Szenen.md - der Zuschnitt stammt nicht vom Autor ○](#c-143-szenenmd---der-zuschnitt-stammt-nicht-vom-autor-)
-- [C-146: Was Girlin vom Flip wahrnimmt ○](#c-146-was-girlin-vom-flip-wahrnimmt-)
 - [C-169: Reicht der Durchfluss des Skir für das Wasserrad? ○](#c-169-reicht-der-durchfluss-des-skir-für-das-wasserrad-)
 
 **Gelöst / Entschieden**
@@ -154,6 +153,7 @@ Wird laufend ergänzt. Gelöste Einträge bleiben als Dokumentation.
 - [C-138: Abstand zwischen Beben und Blitz ✓](#c-138-abstand-zwischen-beben-und-blitz-)
 - [C-144: Das Feld „Will" ist uneinheitlich belegt ✓](#c-144-das-feld-will-ist-uneinheitlich-belegt-)
 - [C-145: „Ohne Hindernis" wird zu niedrig gezählt ✓](#c-145-ohne-hindernis-wird-zu-niedrig-gezählt-)
+- [C-146: Was Girlin vom Flip wahrnimmt ✓](#c-146-was-girlin-vom-flip-wahrnimmt-)
 - [C-147: Die Nummer ist die Erzählreihenfolge ✓](#c-147-die-nummer-ist-die-erzählreihenfolge-)
 - [C-148: Der Statusmarker im Titel bricht die Anker ✓](#c-148-der-statusmarker-im-titel-bricht-die-anker-)
 - [C-149: Wie die Kel Aman den Ring religiös einordnen ✓](#c-149-wie-die-kel-aman-den-ring-religiös-einordnen-)
@@ -2096,7 +2096,7 @@ Bisher erscheint [Azzim u-Tawan](../Menschen/Kel-Aman/Azzim-u-Tawan.md) erst auf
 
 **Entschieden (Autor, 02.09.2026): Es kommen frühere Auftritte hinein.**
 
-**Der Anlass liegt bereit:** Mit dem Wassermotiv ([C-104](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-), [C-107](#c-107-azzims-motiv---wasser-statt-sklaverei-)) hat Azzim allen Grund, sich lange vor dem Finale für den Ring zu interessieren - spätestens, wenn ein ganzes Volk acht Tonnen Metall vier Jahre lang sichtbar durch die Wüste schleppt ([C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-)). **Ein Transport dieser Größe ist nicht geheim zu halten.** Das ist die natürliche Stelle für seinen ersten Auftritt.
+**Der Anlass liegt bereit:** Mit dem Wassermotiv ([C-104](#c-104-wasser-als-gegenleistung---das-motiv-des-transports-), [C-107](#c-107-azzims-motiv---wasser-statt-sklaverei-)) hat Azzim allen Grund, sich lange vor dem Finale für den Ring zu interessieren - spätestens, wenn ein ganzes Volk rund 5,7 t Metall sichtbar durch die Wüste schleppt ([C-018 ✓](#c-018-widerspruch---transport-des-wüstenrings-)). *(Korrigiert 11.09.2026: hier stand „acht Tonnen" und „vier Jahre lang"; der Ring wiegt rund 5,7 t ([C-117 ✓](#c-117-ringgeometrie-neu-vermessen-)), der Zug liegt in +7/+8 und dauert ein paar Wochen.)* **Ein Transport dieser Größe ist nicht geheim zu halten.** Das ist die natürliche Stelle für seinen ersten Auftritt.
 
 **Zu klären · ???**
 - **Wie viele Auftritte, und wann?** Vorschlag zur Prüfung: einer vor dem Transport, einer währenddessen, dann das Finale.
@@ -2695,7 +2695,7 @@ Aufgefallen am 04.09.2026 in [Szenen.md](../Plots/Plot-1/Szenen.md). Die Kennzah
 
 ---
 
-### C-146: Was Girlin vom Flip wahrnimmt ○
+### C-146: Was Girlin vom Flip wahrnimmt ✓
 
 **Für die Szene gibt das Wiki fast nichts her.** Gedeckt ist nur:
 
@@ -2705,9 +2705,19 @@ Aufgefallen am 04.09.2026 in [Szenen.md](../Plots/Plot-1/Szenen.md). Die Kennzah
 
 **Entschieden (Autor, 07.09.2026): Sie nimmt vom Flip nichts wahr.** Auf der Flucht im Gewitter **stürzt sie über den Ring**, schlägt sich eine **Kopfwunde** und ist **bewusstlos**, bevor der Blitz einschlägt. Ihre Wahrnehmung endet also vor dem Vorgang, nicht in ihm. Steht in der Szene *Der Blitz - Girlin* ([Szenen.md](../Plots/Plot-1/Szenen.md)).
 
-Damit sind die Fragen **Sieht sie den Ring?** und **Wie endet ihre Wahrnehmung?** beantwortet: Sie stolpert über ihn, ohne dass gesagt ist, dass sie ihn als Ring erkennt - und die Wahrnehmung endet am Sturz. Auch [C-020](#c-020-vorwarnung-vor-dem-flip-) (Vorwarnung durch aufleuchtende Runen) trägt für diese Szene nichts mehr: Selbst eine Vorwarnung erreichte sie nicht.
+Damit sind die Fragen **Sieht sie den Ring?** und **Wie endet ihre Wahrnehmung?** beantwortet: Sie stolpert über ihn **und sieht ihn noch** (Autor, 11.09.2026) - die Wahrnehmung endet am Sturz. Auch [C-020](#c-020-vorwarnung-vor-dem-flip-) (Vorwarnung durch aufleuchtende Runen) trägt für diese Szene nichts mehr: Selbst eine Vorwarnung erreichte sie nicht.
 
-**Offen bleibt · ???** Woher ihr Wissen kommt. [C-114 ✓](#c-114-girlin-weiß-von-anfang-an-dass-der-ring-ihr-rückweg-ist-) setzt voraus, dass sie **weiß**, dass ein Ring sie hergebracht hat. War sie beim Flip bewusstlos, muss dieses Wissen anderswo herkommen - aus dem, was sie beim Sturz noch sah, aus dem, was sie am Ankunftsort vorfindet, oder von den Kel Aman, die das Ereignis von Weitem beobachten. Nicht festgelegt.
+**Entschieden (Autor, 11.09.2026): Ihr Wissen kommt aus drei Quellen.**
+
+| | |
+|---|---|
+| **Der Sturz** | Sie sieht den Ring noch, über den sie fällt - das letzte Bild vor der Ohnmacht |
+| **Der Ankunftsort** | Sie liegt in einem Ring gleicher Form, um sie Erde, Steine und die Birke aus Vilund |
+| **Die Kel Aman** | Sie haben in der Nacht das Leuchten gesehen |
+
+Die erste Stunde tragen **Sturz und Ankunftsort**: Das letzte Bild im Norden und das erste in der Wüste zeigen dasselbe Ding. Damit hält [C-114 ✓](#c-114-girlin-weiß-von-anfang-an-dass-der-ring-ihr-rückweg-ist-). Die Kel Aman kommen **später** dazu - ohne gemeinsame Sprache nicht in der ersten Stunde. Wann und wie · ???
+
+Nachgezogen: [Szenen.md](../Plots/Plot-1/Szenen.md) (*Der Blitz - Girlin*, *Girlin wacht in der Wüste auf*), [Zeitleiste](../Plots/Plot-1/Zeitleiste.md).
 
 Verwandt: [C-057](#c-057-prolog---warum-sind-tibun-und-girlin-allein-draußen-) - warum Mutter und Sohn bei aufziehendem Gewitter draußen sind, trägt jetzt **zwei** Szenen statt einer.
 

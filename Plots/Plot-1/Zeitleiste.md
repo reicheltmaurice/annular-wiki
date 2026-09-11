@@ -126,6 +126,7 @@ Ankerfigur ist Tibun (Alter = 16 + Jahr). Endalter = Stand im Finale (Jahr +10).
 - **Wie sie auf die Stelle aufmerksam werden** (Autor, 09.09.2026): Es ist **Nacht**, und das **grüne Runenleuchten** ist weithin über die Wüste sichtbar - es klingt über drei Sekunden ab ([Portalringe](../../Technik/Portalringe.md)). **Aufbrechen tut nachts aber niemand.** Sie kommen erst bei Tageslicht; Girlin liegt bis dahin **stundenlang bewusstlos** mit ihrer Kopfwunde in der Mulde. Wie viele Stunden und in welchem Zustand sie gefunden wird: **???**
 - **Konflikt:** Sprache und Kulturbarriere
 - **Ihr Ziel steht von der ersten Stunde an fest:** Der Ring hat sie hergebracht, der Ring ist der einzige Rückweg - ein Fußmarsch in den Norden ist für sie keine Möglichkeit, sondern eine Todesart. Sie beginnt nicht bei der Frage *ob*, sondern bei *wie*
+  - **Woher sie es weiß** (Autor, 11.09.2026): Beim Sturz sieht sie den Ring noch - das letzte Bild vor der Ohnmacht. In der Wüste liegt sie wieder in einem Ring gleicher Form, um sie Erde, Steine und die Birke aus Vilund. Die Kel Aman haben in der Nacht das Leuchten gesehen; das erfährt sie erst, wenn man sich verständigen kann · **???**
 - Begegnet [Bellbrim](../../Menschen/Andere/Bellbrim.md), die übersetzen kann und als Erste versteht, was der Ring ist
 - **Jahr +3 (spätestens):** Beziehung zu [Sekkan](../../Menschen/Kel-Aman/Nebenfiguren/Sekkan.md), dem **Neffen des Häuptlings [Ishman](../../Menschen/Kel-Aman/Nebenfiguren/Ishman.md)**, beginnt - dessen Frau ist zuvor mit einem anderen Mann durchgebrannt
 
